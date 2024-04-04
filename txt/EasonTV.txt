@@ -654,17 +654,7 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
-游戏风云,http://58.32.42.66:4022/udp/239.45.3.131:5140
 游戏风云,http://nas.jdshipin.com:8801/bst.php?id=yxfy8m/8000000
-乐游,http://58.32.42.66:4022/udp/239.45.3.135:5140
-浦东频道,http://58.32.42.66:4022/udp/239.45.3.248:5140
-崇明频道,http://58.32.42.66:4022/udp/239.45.1.54:5140
-嘉定频道,http://58.32.42.66:4022/udp/239.45.3.185:5140
-金色频道,http://58.32.42.66:4022/udp/239.45.1.118:5140
-健康人生,http://58.32.42.66:4022/udp/239.45.3.214:5140
-百事通超级体育,http://58.32.42.66:4022/udp/239.45.3.139:5140
-百事通4K,http://58.32.42.66:4022/udp/239.45.1.42:5140
-百事通4K,http://58.32.42.66:4022/udp/239.45.3.107:5140
 上海崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 上海崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 上海崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
