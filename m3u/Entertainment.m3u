@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,气人主播QQQ
+http://pull-hs-f5.flive.douyincdn.com/third/stream-114911495142245035_or4.flv?expire=1712922235&sign=df0de5d5ee7597449536481052bf01c5&volcSecret=df0de5d5ee7597449536481052bf01c5&volcTime=1712922235
+#EXTINF:-1,气人主播QQQ
+http://pull-hs-f5.flive.douyincdn.com/third/stream-114911495142245035_hd/index.m3u8?expire=1712922235&sign=0cd28ad677ec6f1c703015ef1691a6d4&volcSecret=0cd28ad677ec6f1c703015ef1691a6d4&volcTime=1712922235
 #EXTINF:-1,常州新闻综合
 http://114.228.70.81:5555/rtp/239.49.1.134:6000
 #EXTINF:-1,常州新闻综合
