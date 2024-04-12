@@ -224,6 +224,12 @@ https://epg.pw/stream/e8d0ee833e202f47d4da442c98774d932f50c109ea7682b029baa1387c
 #EXTINF:-1,山东教育卫视
 https://epg.pw/stream/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.m3u8
 #EXTINF:-1,山东教育卫视
+http://182.46.8.161:8018/hls/16/index.m3u8
+#EXTINF:-1,山东教育卫视
+http://183.11.239.36:808/hls/72/index.m3u8
+#EXTINF:-1,山东教育卫视
+http://117.66.171.115:4022/rtp/238.1.78.254:7904
+#EXTINF:-1,山东教育卫视
 https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
 #EXTINF:-1,山东卫视
 http://58.32.42.66:4022/udp/239.45.3.238:5140
