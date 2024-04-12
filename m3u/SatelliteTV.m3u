@@ -220,6 +220,10 @@ https://live.goodiptv.club/api/cqyx.php?id=sanshaSD
 #EXTINF:-1,厦门卫视
 http://nas.jdshipin.com:8801/bst.php?id=xmws/1300000
 #EXTINF:-1,山东教育卫视
+https://epg.pw/stream/e8d0ee833e202f47d4da442c98774d932f50c109ea7682b029baa1387c787d8e.m3u8
+#EXTINF:-1,山东教育卫视
+https://epg.pw/stream/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.m3u8
+#EXTINF:-1,山东教育卫视
 https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
 #EXTINF:-1,山东卫视
 http://58.32.42.66:4022/udp/239.45.3.238:5140
