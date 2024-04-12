@@ -539,6 +539,10 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 都市剧场,http://nas.jdshipin.com:8801/bst.php?id=dsjc8m/8000000
 法治天地,http://58.32.42.66:4022/udp/239.45.1.46:5140
 法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
+东方财经,https://epg.pw/stream/c43fa000db9ac14b27b6b87db4e7fbbef1b9dbc8460ad7ae8c51e1e56351b931.ctv
+东方财经,https://epg.pw/stream/76079aa6a26f481e2218b469cd5c6f2236223a0b4244bdad4a6d36cf985e637e.ctv
+东方财经,https://epg.pw/stream/48ab4fd132022b4a2a80f0bb96954a47062575c99c6888a136e6c456eba64387.ctv
+东方财经,https://epg.pw/stream/9ff8c9fe12bb3068aa4929ee1e999ee563ccda7476b82278421248409b86efd6.ctv
 东方财经,http://58.32.42.66:4022/udp/239.45.1.119:5140
 东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914106-0-0-0291cc19c9f9b04e9456c44aeedcf271&ycfrom=yicaiwww
 东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914494-0-0-cc2425cf57b4c0e555e29e6595ffd8a0
@@ -608,6 +612,7 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 欢笑剧场4K,http://nas.jdshipin.com:8801/bst.php?id=hxjc4k/15000000
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 魅力足球,http://nas.jdshipin.com:8801/bst.php?id=mlyyhd8m/8000000
+七彩戏剧,https://epg.pw/stream/42ae392ff11511e9b6a0a6cb5cb0c8938b87754791520229e91beb54f4eef5d2.ctv
 七彩戏剧,http://58.32.42.66:4022/udp/239.45.3.61:5140
 七彩戏剧,http://nas.jdshipin.com:8801/bst.php?id=qcxjhd8m/8000000
 七彩戏剧,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=qcxj_2000
@@ -642,6 +647,11 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 上海教育台,https://epg.pw/stream/aba4338b7683e3dc9a700bffe0b50efcc9720ba03b2108cc3137ed4885336a00.m3u8
 生活时尚,http://58.32.42.66:4022/udp/239.45.3.132:5140
 生活时尚,http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
+五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
+五星体育,https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
+五星体育,https://epg.pw/stream/7946aa8327ec1e6a236ea77fd45346c05e73c7a76290582f47a2e29412ee393b.ctv
+五星体育,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
+五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
 五星体育,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
@@ -649,6 +659,7 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 五星体育,http://api2.52tb.xyz/info?id=376&token=20230326xflvzc
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
 五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+劲爆体育,https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
@@ -673,6 +684,11 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 上海金山,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 
 体育频道,#genre#
+五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
+五星体育,https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
+五星体育,https://epg.pw/stream/7946aa8327ec1e6a236ea77fd45346c05e73c7a76290582f47a2e29412ee393b.ctv
+五星体育,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
+五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
 五星体育,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
@@ -680,6 +696,7 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 五星体育,http://api2.52tb.xyz/info?id=376&token=20230326xflvzc
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
 五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+劲爆体育,https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
@@ -782,6 +799,11 @@ Eleven Sports,https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.s
 Sky 1 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
+广东体育,https://epg.pw/stream/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8
+广东体育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
+广东体育,https://epg.pw/stream/400d513c00980f7c4ababbd199234dc049cfdab4531b0da0f0fa0de0d63602d3.ctv
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,https://epg.pw/stream/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8
 广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
@@ -820,6 +842,8 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 广州南国都市,http://125.92.176.26:5555/udp/239.253.43.99:5146
 广州南国都市,http://121.13.164.171:8000/udp/239.253.43.99:5146
 广州南国都市,http://125.92.103.46:8899/udp/239.253.43.99:5146
+山西公共,https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
+山西公共,https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
 山西公共,http://60.223.255.143:8800/hls/76/index.m3u8
 山西公共,http://61.134.255.188:9999/tsfile/live/1004_1.m3u8
 深圳体育健康,http://61.140.235.7:4000/udp/239.77.1.140:5146
@@ -941,6 +965,8 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 三沙卫视,http://nas.jdshipin.com:8801/bst.php?id=sswshd8m/8000000
 三沙卫视,https://live.goodiptv.club/api/cqyx.php?id=sanshaSD
 厦门卫视,http://nas.jdshipin.com:8801/bst.php?id=xmws/1300000
+山东教育卫视,https://epg.pw/stream/e8d0ee833e202f47d4da442c98774d932f50c109ea7682b029baa1387c787d8e.m3u8
+山东教育卫视,https://epg.pw/stream/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.m3u8
 山东教育卫视,https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
 山东卫视,http://58.32.42.66:4022/udp/239.45.3.238:5140
 山东卫视,http://nas.jdshipin.com:8801/bst.php?id=sdws8m/8000000
@@ -3806,6 +3832,8 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 全国党员干部现代远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 全国党员干部现代远程教育,https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8?BR=single
 全国党员干部现代远程教育,https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
+山东教育卫视,https://epg.pw/stream/e8d0ee833e202f47d4da442c98774d932f50c109ea7682b029baa1387c787d8e.m3u8
+山东教育卫视,https://epg.pw/stream/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.m3u8
 山东教育卫视,http://182.46.8.161:8018/hls/16/index.m3u8
 山东教育卫视,http://183.11.239.36:808/hls/72/index.m3u8
 山东教育卫视,http://117.66.171.115:4022/rtp/238.1.78.254:7904
