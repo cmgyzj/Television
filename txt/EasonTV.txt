@@ -703,13 +703,10 @@ CCTV-5+,https://epg.pw/stream/ff762c2b0ea13890656fe78ad3688dcebded3aeea60b0eaaf2
 广东体育,http://113.100.72.95:8899/udp/239.77.0.168:5146
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 澳门体育,http://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
-纬来体育,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
-纬来体育,https://epg.pw/stream/5753687756dad72b53714341c6696534a35cb33206338128e402000d88162079.m3u8
-纬来体育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
+纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 爱尔达体育1台,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 beIN SPORTS 2,https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/a0_index.m3u8
 Eleven Sports,https://rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8
