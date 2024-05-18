@@ -616,8 +616,6 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 上海浦东,https://cntv.lat/tv/live.php?auth=231110&id=pdtv
 
 体育频道,#genre#
-Sky Sports F1,https://n5.dramaticreadings.com:999/hls/skysfor1.m3u8
-Sky Sports F1,https://n5.dramaticreadings.com:999/hls/skysfor1.m3u8?md5=JMAKxTSgTVVouppjRClGOg&expires=1716034797
 五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
 五星体育,https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
 五星体育,https://epg.pw/stream/7946aa8327ec1e6a236ea77fd45346c05e73c7a76290582f47a2e29412ee393b.ctv
