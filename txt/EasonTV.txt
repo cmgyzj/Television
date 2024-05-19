@@ -703,7 +703,10 @@ CCTV-5+,https://epg.pw/stream/ff762c2b0ea13890656fe78ad3688dcebded3aeea60b0eaaf2
 广东体育,http://113.100.72.95:8899/udp/239.77.0.168:5146
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 澳门体育,http://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-纬来体育,https://cdn.ggapk.net/live/tv?id=f7f5_ktsGo7_eZGOpzSo2o5JuC1hIlY11t0gg6-g5CnVFYS1zgxUpM6EJcej30WpQgKsANUqsleZipdJ4DJP9qhwMnJEn5_yUXtPzW2IwjUnoxmUrR0cTuRBy_RAhOoVqutruFdNgn4Qm4LdX85Ui4DzWiL1TVT7VZNdxbe5NmeJiHxFQ0Tlm273LqhuGroPTl3Gq4V-jWsYN1BAeyWCnKzLzjImP01iXajROKuDU-Ie0Q_hFfVeZl0QxYmxibKyqFBPnM9c2K7a7qkraNHmHb-pUHpZpYcGj-XtkB1DpQFGlfanDhuvsJ62-BOWXy2iX4vhHXEjwL1CJxjh6SeAWbaLygKgG6_QBssMm0GWsFSo7pP-v6GWtoJIVw9DwjbzG237XKCazo_78Hs-1YLDjobr1VHvXdEvht914P9IgMd-MZ10-sIePMlYfsvSmui-s-z0qQOwYE8Fr82ZWIua59tbL6Q9PFU1IblYfIV7JWM5Hk9qUifvsgOv5EiB0Z9E2VVfH4FyKanV-qyBigTe9Oh1D4q4COseFRSm7191lqBqebe5BbcCmJ-lHrWMh8AiLoMOHcgO13SbcX2pnUqzAWGm_UNAApTtMbymVcrqfgG8sYtePdAiwYT_2g&idp=b6ddoFjtI_xw9mNxsCb03xE01wCBmJCSRIucfxXRyIYcz_8hd8waEiqifPU
+纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
+纬来体育,https://epg.pw/stream/5753687756dad72b53714341c6696534a35cb33206338128e402000d88162079.m3u8
+纬来体育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
