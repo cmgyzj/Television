@@ -514,6 +514,8 @@ CGTN,https://epg.pw/stream/f9e8788ff2ad199de59777caff6a74f045211276f86f4bc93defb
 CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825de4405c63e4eef621.m3u8
 
 上海频道,#genre#
+东方财经,http://116.162.6.191/bst.v.smtcdns.net/lnnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1716779189-0-0-0df1d6c49d3fe07917c99e7afed07d09&ycfrom=yicaiwww
 东方财经,https://epg.pw/stream/c43fa000db9ac14b27b6b87db4e7fbbef1b9dbc8460ad7ae8c51e1e56351b931.ctv
 东方财经,https://epg.pw/stream/76079aa6a26f481e2218b469cd5c6f2236223a0b4244bdad4a6d36cf985e637e.ctv
 东方财经,https://epg.pw/stream/48ab4fd132022b4a2a80f0bb96954a47062575c99c6888a136e6c456eba64387.ctv
@@ -570,7 +572,8 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 欢笑剧场,https://epg.pw/stream/658ca7166f908d2b2460919ae4fdeff8bda61c2c33722af951dcc63a1889f8b7.m3u8
 欢笑剧场,https://epg.pw/stream/8c09f04576aaa42921a0406324b1ebdd07eb7a5340bf3ff6245c279705c38932.m3u8
 欢笑剧场,https://epg.pw/stream/f03ccebadf691b9b295ddc0a7c6065e57ea704af181a72499caa2500828446b2.m3u8
-欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
+欢笑剧场,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
+七彩戏剧,http://116.162.6.191/bst.v.smtcdns.net/lnnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 七彩戏剧,https://epg.pw/stream/42ae392ff11511e9b6a0a6cb5cb0c8938b87754791520229e91beb54f4eef5d2.ctv
 七彩戏剧,https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e596a1b7.m3u8
 七彩戏剧,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
