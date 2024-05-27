@@ -703,6 +703,7 @@ CCTV-5+,https://epg.pw/stream/ff762c2b0ea13890656fe78ad3688dcebded3aeea60b0eaaf2
 广东体育,http://113.100.72.95:8899/udp/239.77.0.168:5146
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 澳门体育,http://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
 纬来体育,https://epg.pw/stream/5753687756dad72b53714341c6696534a35cb33206338128e402000d88162079.m3u8
