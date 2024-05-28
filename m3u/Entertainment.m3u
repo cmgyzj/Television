@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,常州新闻
-https://livekcz.cztv.tv/kcz/cztv1.m3u8?auth_key=1716791581-0-0-d3c8bc7f132e77b72cb63aea59d8f7ee
-#EXTINF:-1,常州都市
-https://livekcz.cztv.tv/kcz/cztv2.m3u8?auth_key=1716791720-0-0-dd8e4aabb31eec83a69274cbd9c47a7d
-#EXTINF:-1,常州公共
-https://livekcz.cztv.tv/kcz/cztv4.m3u8?auth_key=1716791805-0-0-649445898f033d212788966060ef2b6d
-#EXTINF:-1 ,常州公共
-https://epg.pw/stream/151efb2c916f889ce7332d865d03b62e2a95e896f2adcb137d039e75cea0bcf9.m3u8
 #EXTINF:-1 ,武进新闻
 http://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 ,武进新闻
