@@ -603,10 +603,6 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 上海崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 上海崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-上海金山,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-上海金山,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上海金山,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-上海浦东,https://cntv.lat/tv/live.php?auth=231110&id=pdtv
 
 体育频道,#genre#
 五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
