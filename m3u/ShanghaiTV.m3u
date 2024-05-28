@@ -175,11 +175,3 @@ http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 #EXTINF:-1 ,上海崇明
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-#EXTINF:-1 ,上海金山
-http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-#EXTINF:-1 ,上海金山
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 ,上海金山
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 ,上海浦东
-https://cntv.lat/tv/live.php?auth=231110&id=pdtv
