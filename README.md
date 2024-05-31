@@ -20,9 +20,6 @@ iOS：<a href="https://apps.apple.com/cn/app/ntplayer/id1613758141?platform=ipho
 
 Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , <a href="https://www.videolan.org/vlc/index.zh_CN.html" target="_blank">VLC Player</a>
 
-咪咕体育：
-<p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/Migu_Sports.m3u</code></p>
-
 中央频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/CCTV.m3u</code></p>
 
