@@ -1,18 +1,10 @@
 #EXTM3U
 #EXTINF:-1 ,凤凰中文
-https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/a0_index.m3u8
-#EXTINF:-1 ,凤凰中文
-https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
-#EXTINF:-1 ,凤凰资讯
-https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/v1_index.m3u8
-#EXTINF:-1 ,凤凰资讯
-https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/a0_index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://php.17186.eu.org/phtv/fhzx.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://udnhls.skilldns.com/fhzx.m3u8
+http://113.64.145.195:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰香港
-http://udnhls.skilldns.com/fhxg.m3u8
+http://113.64.145.195:8081/hls/38/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://113.64.145.195:8081/hls/36/index.m3u8
 #EXTINF:-1 ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,RTHK31
