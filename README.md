@@ -23,23 +23,14 @@ Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , 
 中央频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/CCTV.m3u</code></p>
 
-中央频道-IPV6源：
-<p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/CCTV-IPV6.m3u</code></p>
-
 上海频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/ShanghaiTV.m3u</code></p>
-
-上海频道-IPV6源：
-<p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/ShanghaiTV-IPV6.m3u</code></p>
 
 体育频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/SportsTV.m3u</code></p>
 
 卫视频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/SatelliteTV.m3u</code></p>
-
-卫视频道-IPV6源：
-<p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/SatelliteTV-IPV6.m3u</code></p>
 
 港澳台频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/HMT_Channel.m3u</code></p>
