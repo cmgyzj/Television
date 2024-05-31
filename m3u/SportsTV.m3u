@@ -125,6 +125,10 @@ https://epg.pw/stream/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a
 http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 ,广东体育
 http://gmxw.7766.org:808/hls/2/index.m3u8
+#EXTINF:-1 ,广东体育
+https://epg.pw/stream/400d513c00980f7c4ababbd199234dc049cfdab4531b0da0f0fa0de0d63602d3.m3u8
+#EXTINF:-1 ,广东体育
+https://epg.pw/stream/95a6abc7ca6fc3d22dd501e34fc3da363cc13733c7ec54fa82ee4b2d66992cc5.m3u8
 #EXTINF:-1 ,纬来体育
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 ,Eleven Sports
