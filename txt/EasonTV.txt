@@ -112,7 +112,6 @@ CETV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-
 央视频道,#genre#
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
@@ -671,7 +670,6 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 游戏风云,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226187/1.m3u8
 
-
 上海频道,#genre#
 东方财经,http://116.162.6.191/bst.v.smtcdns.net/lnnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1716779189-0-0-0df1d6c49d3fe07917c99e7afed07d09&ycfrom=yicaiwww
@@ -764,6 +762,8 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 上海崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 
 体育频道,#genre#
+五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
 五星体育,https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
 五星体育,https://epg.pw/stream/7946aa8327ec1e6a236ea77fd45346c05e73c7a76290582f47a2e29412ee393b.ctv
@@ -877,12 +877,6 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 山西公共,https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
 
 卫视IPV6,#genre#
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?IAS
@@ -968,50 +962,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 
-卫视IPV6-2,#genre#
-安徽卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226205/1.m3u8
-北京卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226739/1.m3u8
-北京卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226161/1.m3u8
-东方卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226155/1.m3u8
-东方卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226735/1.m3u8
-东南卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226182/1.m3u8
-甘肃卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226240/1.m3u8
-广东卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226180/1.m3u8
-贵州卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226547/1.m3u8
-海南卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226450/1.m3u8
-河北卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226442/1.m3u8
-河南卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226614/1.m3u8
-湖北卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226159/1.m3u8
-湖南卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226656/1.m3u8
-湖南卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226193/1.m3u8
-江苏卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226737/1.m3u8
-江苏卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226157/1.m3u8
-江西卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226207/1.m3u8
-辽宁卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226209/1.m3u8
-山东卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226162/1.m3u8
-深圳卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226199/1.m3u8
-四川卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226454/1.m3u8
-天津卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226191/1.m3u8
-浙江卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226144/1.m3u8
-重庆卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226551/1.m3u8
-黑龙江卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226142/1.m3u8
-广西卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226452/1.m3u8
-陕西卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226444/1.m3u8
-山西卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226543/1.m3u8
-吉林卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226440/1.m3u8
-三沙卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226701/1.m3u8
-云南卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226549/1.m3u8
-宁夏卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226446/1.m3u8
-青海卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226545/1.m3u8
-安多卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226405/1.m3u8
-新疆卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226448/1.m3u8
-兵团卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226699/1.m3u8
-西藏卫视藏语,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226350/1.m3u8
-
 卫视频道,#genre#
-凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
-凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
-凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安徽卫视,https://live.goodiptv.club/api/cqyx.php?id=anhuiSD
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -1093,13 +1044,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
 
 港澳台频道,#genre#
-凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/a0_index.m3u8
-凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
-凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/v1_index.m3u8
-凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/a0_index.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰资讯,http://udnhls.skilldns.com/fhzx.m3u8
-凤凰香港,http://udnhls.skilldns.com/fhxg.m3u8
+凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
+凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
+凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
