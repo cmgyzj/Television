@@ -5,6 +5,20 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 ,东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,东方购物一台
+https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 ,东方购物二台
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1 ,东方购物二台
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 ,东方卫视
+https://epg.pw/stream/f005f3500011e5c9ef71ec1fe131e13f28a8c5796500fdf4f8a88c629cadebff.m3u8
 #EXTINF:-1 ,动漫秀场
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 ,都市剧场
@@ -39,3 +53,17 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 ,五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 ,五星体育
+https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
+#EXTINF:-1 ,五星体育
+https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
+#EXTINF:-1 ,五星体育
+https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
+#EXTINF:-1 ,五星体育
+https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+#EXTINF:-1 ,劲爆体育
+https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
+#EXTINF:-1 ,上海崇明
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+#EXTINF:-1 ,上海崇明
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
