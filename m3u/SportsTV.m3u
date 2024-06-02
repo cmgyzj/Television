@@ -131,6 +131,10 @@ https://epg.pw/stream/400d513c00980f7c4ababbd199234dc049cfdab4531b0da0f0fa0de0d6
 https://epg.pw/stream/95a6abc7ca6fc3d22dd501e34fc3da363cc13733c7ec54fa82ee4b2d66992cc5.m3u8
 #EXTINF:-1 ,纬来体育
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 ,纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 ,纬来体育
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 ,Eleven Sports
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
 #EXTINF:-1 ,Sky 1 Racing
@@ -141,5 +145,11 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 http://live.cooltv.top/tv/tide.php?id=dlwt
 #EXTINF:-1 ,大连文体
 http://live.cooltv.top/tv/cutv.php?id=dlwt
-#EXTINF:-1 ,山西公共
+#EXTINF:-1 ,山西文体生活
 https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
+#EXTINF:-1 ,黑龙江文体
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
+#EXTINF:-1 ,精品体育
+http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 ,台球
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
