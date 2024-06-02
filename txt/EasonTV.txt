@@ -265,6 +265,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000208/index.m3u8?IAS
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
+山东教育,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225558/index.m3u8
 山东教育卫视,http://182.46.8.161:8018/hls/16/index.m3u8
 山东教育卫视,http://183.11.239.36:808/hls/72/index.m3u8
 山东教育卫视,https://epg.pw/stream/e8d0ee833e202f47d4da442c98774d932f50c109ea7682b029baa1387c787d8e.m3u8
