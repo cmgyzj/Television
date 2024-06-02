@@ -43,3 +43,29 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptvm3uplaylists.m3u8
 #EXTINF:-1 ,Sky Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptvm3uplaylists.m3u8&checkedby:iptvcat.com
+#EXTINF:-1 ,超级电视剧
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 ,超级电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 ,超级体育
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,超级体育
+http://[2409:8087:1a0b:df::4017]/wh7f454c46tw995728574_821219981/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1712597730&from=12&hms_devid=1104&online=1712597730&vqe=3
+#EXTINF:-1 ,东北热剧
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 ,黑龙江都市
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 ,黑龙江农业科教
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 ,黑龙江少儿
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
+#EXTINF:-1 ,黑龙江新闻
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225992/index.m3u8
+#EXTINF:-1 ,黑龙江影视
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
+#EXTINF:-1 ,欢乐剧场
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 ,西安新闻
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
+#EXTINF:-1 ,长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
