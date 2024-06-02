@@ -11,7 +11,7 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 ,韩国Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,韩国EBS1
+#EXTINF:-1 ,韩国EBS-1
 http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,韩国EBS-1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
@@ -19,7 +19,7 @@ http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 ,韩国EBS-1
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 ,韩国EBS2
+#EXTINF:-1 ,韩国EBS-2
 http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,韩国EBS-2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
