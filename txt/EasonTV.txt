@@ -342,6 +342,28 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
 Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptvm3uplaylists.m3u8
 Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptvm3uplaylists.m3u8&checkedby:iptvcat.com
+农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+农林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+凤凰中文台,http://111.43.182.202/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文台,http://116.178.78.175/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文台,http://111.51.129.123/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯台,http://111.43.182.202/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯台,http://116.178.78.175/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯台,http://111.51.129.123/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港台,http://111.43.182.202/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港台,http://116.178.78.175/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港台,http://111.51.129.123/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://mtw.so/5xS2Mh
+常州3,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228208/index.m3u8
+HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+TVB翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
 YY轮播,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
