@@ -8,7 +8,6 @@
 
 iOS：<a href="https://apps.apple.com/cn/app/ntplayer/id1613758141?platform=iphone" target="_blank">ntPlayer</a>, <a href="https://apps.apple.com/cn/app/aptv/id1630403500?platform=iphone" target="_blank" title="该APP只能订阅一组订阅链接,订阅多个链接需要付费解锁高级版,其他APP不存在该问题">APTV</a>
 
-
 所有频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/txt/EasonTV.txt</code></p>
 
@@ -48,3 +47,5 @@ YY轮播：
 
 虎牙斗鱼：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/Huya_Doyu.m3u</code></p>
+
+# 注意：使用DIYP观看需要开启"玩转原力"模式,才能正常播放台湾频道！
