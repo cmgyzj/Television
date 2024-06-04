@@ -249,8 +249,6 @@ https://live3.fjtv.net/typd/playlist.m3u8?_upt=dee8919e1717504189
 https://live3.fjtv.net/typd/hd/live.m3u8?_upt=85d104211717504366
 #EXTINF:-1 ,深圳体育健康
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
-#EXTINF:-1 ,成都公共
-https://review.cditv.cn/cdtv5/CDTV5/playlist.m3u8?wsSecret=4d31a90feb4fa8af91b00a1a3c8fc515&wsTime=665ee5f5&wsStreamTimeABS=20240604180000&wsStreamTimeABSEnd=20240604193000
 #EXTINF:-1 ,大连文体
 http://live.cooltv.top/tv/tide.php?id=dlwt
 #EXTINF:-1 ,大连文体
