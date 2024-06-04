@@ -263,7 +263,7 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 福建文体,https://live3.fjtv.net/typd/playlist.m3u8?_upt=dee8919e1717504189
 福建文体,https://live3.fjtv.net/typd/hd/live.m3u8?_upt=85d104211717504366
 深圳体育健康,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
-成都公共,https://review.cditv.cn/cdtv5/CDTV5/playlist.m3u8?wsSecret=4d31a90feb4fa8af91b00a1a3c8fc515&wsTime=665ee5f5&wsStreamTimeABS=20240604180000&wsStreamTimeABSEnd=20240604193000
+成都公共,https://review.cditv.cn/cdtv5/CDTV5/playlist.m3u8?wsSecret=4d31a90feb4fa8af91b00a1a3c8fc515&wsTime=665ee5f5&wsStreamTimeABS=20240604180000&wsStreamTimeABSEnd=20991231193000
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
