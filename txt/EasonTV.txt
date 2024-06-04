@@ -3710,3 +3710,60 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 埃塞俄比亚 Addis TV,https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000.m3u8
 巴西 TV Pai Eterno,https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 巴西 TV Santa Cruz,https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
+
+Test,#genre#
+beIN Sports 3,mitv://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
+beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
+beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
+beIN Sports 3,mitv://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
+beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
+beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
+Beinsport FR1,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
+Beinsport FR2,p3p://fccsen.dyndns.tv:29706/5a98ef450005f615a10e26f24e4370bc
+Beinsport FR3,p3p://fccsen.dyndns.tv:29706/5a98ef60000d6566a10e9251042026f2
+Bein Sports USA,p3p://fccsen.dyndns.tv:29706/5c4a5e2a000ddac2fbea9d2420355926
+Bein Sport CA,p3p://fccsen.dyndns.tv:29706/5bd63729000b758e786c5e885c6634e3
+Bein Sport 1,p3p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
+Bein Sport 2,p3p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
+Bein Sport 3,p3p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
+Bein Sport 4,p3p://fccsen.dyndns.tv:29706/5a1f69110000604ec65ac1bb33b85661
+Bein Sport 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
+Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
+Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
+Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
+Bein Sport Prem 2,p3p://fccsen.dyndns.tv:29706/5a1f698100081e53c65c
+NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
+Sky Sport NBA,p3p://fccsen.dyndns.tv:29706/632927fa0008e670c9944ee718793acf
+NBA TV US,p3p://fccsen.dyndns.tv:29706/5d45b702000419e9d1bd300979f803ab
+NBA Canada,p3p://fccsen.dyndns.tv:29706/5d45b6b600003de3d1bc062c6ca215ee
+Sky Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
+Sky Sport 2,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
+Sky Sport 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
+Sky Sport 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
+Sky Sport 5,p3p://fccsen.dyndns.tv:29706/59bbf3a100017e4d563c7ed4483777f8
+Sky Sport F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
+Sky Sp Football,p3p://fccsen.dyndns.tv:29706/5da52b34000c1b45469ab71b318b6093
+Sky Sp Mix,p3p://fccsen.dyndns.tv:29706/5da52b4b0009e11d469b106164071071
+Sky Sp News,p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
+Sky Sport F1,p3p://fccsen.dyndns.tv:29706/632925030006df29c988b98b40e91993
+Sky Sport MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
+Sky Sport Football,p3p://fccsen.dyndns.tv:29706/6329271b000e5130c990e9333b502971
+Sky Sport NBA,p3p://fccsen.dyndns.tv:29706/632927fa0008e670c9944ee718793acf
+Sky Sports Golf,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
+Sky Sports Racing,p3p://fccsen.dyndns.tv:29706/5da51e77000af0554668f4872a89003b
+ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
+ESPN 1,p3p://fccsen.dyndns.tv:29706/59d24815000bb22cad7630914a1924b3
+ESPN 2,p3p://fccsen.dyndns.tv:29706/59bbf1fd000b428d563618b379a53086
+ESPN US,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
+ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
+Sky Atlantic,p3p://fccsen.dyndns.tv:29706/5e937e9b000d211ee99027b522051eb7
+Sky Cinema Premiere,p3p://fccsen.dyndns.tv:29706/5da5265d000124534687cc6e64863e16
+Sky Cinema Hits,p3p://fccsen.dyndns.tv:29706/5da5267800053e83468836f3527a317f
+Sky Cinema Greats,p3p://fccsen.dyndns.tv:29706/5da5268e0007cd5a46888d8b4a030f75
+Sky Cinema Disney,p3p://fccsen.dyndns.tv:29706/5da52a23000cd03546968ce03d10436d
+Sky Cinema Family,p3p://fccsen.dyndns.tv:29706/5da52a3a0009a24d4696e5e831760737
+Sky Cinema Action,p3p://fccsen.dyndns.tv:29706/5da52a4e0009dc414697341634494bf0
+Sky Cinema Comedy,p3p://fccsen.dyndns.tv:29706/5da52a63000a4ce64697863b55733b22
+Sky Cinema Thriller,p3p://fccsen.dyndns.tv:29706/5da52a7b000755af4697e3392145116d
+Sky Cinema Sci-Fi,p3p://fccsen.dyndns.tv:29706/5da52aa1000cd5c3469879127d5c27a1
+Sky Cinema Select,p3p://fccsen.dyndns.tv:29706/5da52ab80001ccea4698d01746601c1e
