@@ -7,6 +7,8 @@ https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
 https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 #EXTINF:-1 ,武进生活
 https://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1 ,中国天气
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 ,CHC家庭影院
