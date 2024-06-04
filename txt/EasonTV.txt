@@ -630,27 +630,6 @@ TVBS新闻台(B),mitv://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65
 非凡新闻台(B),mitv://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 
 娱乐频道,#genre#
-常州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3810615020_450111224/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
-常州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1559612784_138862185/ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8?icpid=3&RTS=1674385970&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-常州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1559789208_-1075978615/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8?icpid=3&RTS=1674385970&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-常州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
-常州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227899/index.m3u8
-常州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3810615020_450111224/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8?icpid=3&RTS=1663019442&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-常州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1559789208_-1075978615/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
-常州都市,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4002153568_939060722/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
-常州都市,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1560155170_1450198929/ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8?icpid=3&RTS=1674385970&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-常州都市,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw473474874_842774696/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8?icpid=3&RTS=1674380588&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-常州都市,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227955/index.m3u8
-常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3951544714_750576923/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
-常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw1757544738_-1215856532/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
-常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227816/index.m3u8
-常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3951544714_750576923/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8?icpid=3&RTS=1663019583&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
-常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw472361036_308025274/ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8?icpid=3&RTS=1674380587&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw1757410141_1682221988/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
-常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8?icpid=3&RTS=1663019844&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
