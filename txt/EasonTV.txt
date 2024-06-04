@@ -258,6 +258,16 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
 山西文体生活,https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
 黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+先锋乒羽,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWM0ZGFlYWNhODhjOTkxYTU3NzgxMDMyMzQyYjU0OWEzJmVzPTE3MTc1MjI3ODImdXVpZD05ZDdlMzYyYTUwZGZjYWNjZTI4NjkxNTM1NDUzZmE3Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/XFPYMPP360.m3u8
+快乐垂钓,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI3YTdkNjM2NmIyMjU3OGM1Mjk4NGVhMzFmYWVlNjFmJmVzPTE3MTc0OTQ1OTUmdXVpZD05MTg1MTIyYWFhYmQ1MWVmNGVlNWJkNzBjODE4MDRmNC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/KLCDMPP360.m3u8
+江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=968e0a921717494233
+江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?
+江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8
+福建文体,https://live3.fjtv.net/typd/playlist.m3u8?_upt=dee8919e1717504189
+福建文体,https://live3.fjtv.net/typd/hd/live.m3u8?_upt=85d104211717504366
+深圳体育健康,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
+成都公共,https://review.cditv.cn/cdtv5/CDTV5/playlist.m3u8?wsSecret=4d31a90feb4fa8af91b00a1a3c8fc515&wsTime=665ee5f5&wsStreamTimeABS=20240604180000&wsStreamTimeABSEnd=20240604193000
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -387,6 +397,8 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+海峡卫视,https://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=f9e269381717504388
+海峡卫视,https://live6.fjtv.net/haixiapd/hd/live.m3u8?_upt=79d87aae1717504387
 
 港澳台频道,#genre#
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
@@ -630,6 +642,10 @@ TVBS新闻台(B),mitv://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65
 非凡新闻台(B),mitv://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 
 娱乐频道,#genre#
+常州新闻综合,https://livekcz.cztv.tv/kcz/cztv1.m3u8?auth_key=1717501899-0-0-1f5e957eaa35e28dfc31f35323d0498e
+常州都市,https://livekcz.cztv.tv/kcz/cztv2.m3u8?auth_key=1717501930-0-0-c1f426c9a26436e638f886735037897c
+常州生活,https://livekcz.cztv.tv/kcz/cztv3.m3u8?auth_key=1717501938-0-0-1053593c13e3f693ddde25e62c54578f
+常州公共,https://livekcz.cztv.tv/kcz/cztv4.m3u8?auth_key=1717501952-0-0-b5cb64f94f68b1de4c1b3d56e5637634
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
