@@ -239,6 +239,18 @@ mitv://generationnexxxt.com:19806/65791ef800079cd23163fe0f44d92213
 p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
 #EXTINF:-1 ,Sky Sports Premier League
 mitv://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
+#EXTINF:-1,山东体育
+http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+#EXTINF:-1,先锋乒羽
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWM0ZGFlYWNhODhjOTkxYTU3NzgxMDMyMzQyYjU0OWEzJmVzPTE3MTc1MjI3ODImdXVpZD05ZDdlMzYyYTUwZGZjYWNjZTI4NjkxNTM1NDUzZmE3Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/XFPYMPP360.m3u8
+#EXTINF:-1,福建文体
+https://live3.fjtv.net/typd/playlist.m3u8?_upt=dee8919e1717504189
+#EXTINF:-1,福建文体
+https://live3.fjtv.net/typd/hd/live.m3u8?_upt=85d104211717504366
+#EXTINF:-1,深圳体育健康
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
+#EXTINF:-1,成都公共
+https://review.cditv.cn/cdtv5/CDTV5/playlist.m3u8?wsSecret=4d31a90feb4fa8af91b00a1a3c8fc515&wsTime=665ee5f5&wsStreamTimeABS=20240604180000&wsStreamTimeABSEnd=20240604193000
 #EXTINF:-1 ,大连文体
 http://live.cooltv.top/tv/tide.php?id=dlwt
 #EXTINF:-1 ,大连文体
