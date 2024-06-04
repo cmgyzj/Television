@@ -115,6 +115,9 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 东方购物一台,http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
 东方购物二台,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 东方购物二台,http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+上海教育台,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+上海教育台,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?
+上海教育台,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 乐游频道,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -260,10 +263,6 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 先锋乒羽,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWM0ZGFlYWNhODhjOTkxYTU3NzgxMDMyMzQyYjU0OWEzJmVzPTE3MTc1MjI3ODImdXVpZD05ZDdlMzYyYTUwZGZjYWNjZTI4NjkxNTM1NDUzZmE3Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/XFPYMPP360.m3u8
-快乐垂钓,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI3YTdkNjM2NmIyMjU3OGM1Mjk4NGVhMzFmYWVlNjFmJmVzPTE3MTc0OTQ1OTUmdXVpZD05MTg1MTIyYWFhYmQ1MWVmNGVlNWJkNzBjODE4MDRmNC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/KLCDMPP360.m3u8
-江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=968e0a921717494233
-江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?
-江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8
 福建文体,https://live3.fjtv.net/typd/playlist.m3u8?_upt=dee8919e1717504189
 福建文体,https://live3.fjtv.net/typd/hd/live.m3u8?_upt=85d104211717504366
 深圳体育健康,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
