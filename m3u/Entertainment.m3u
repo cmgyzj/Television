@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 ,武进新闻
+https://live.wjyanghu.com:443/live/CH1.m3u8
+#EXTINF:-1 ,武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 ,武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
+#EXTINF:-1 ,武进生活
+https://live.wjyanghu.com:443/live/CH2.m3u8
 #EXTINF:-1 ,武进生活
 https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 #EXTINF:-1 ,武进生活
