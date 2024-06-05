@@ -245,7 +245,3 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 ,重庆卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 ,海峡卫视
-https://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=f9e269381717504388
-#EXTINF:-1 ,海峡卫视
-https://live6.fjtv.net/haixiapd/hd/live.m3u8?_upt=79d87aae1717504387
