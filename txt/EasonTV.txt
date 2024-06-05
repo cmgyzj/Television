@@ -633,8 +633,10 @@ TVBS新闻台(B),mitv://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65
 非凡新闻台(B),mitv://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 
 娱乐频道,#genre#
+武进新闻,https://live.wjyanghu.com:443/live/CH1.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
+武进生活,https://live.wjyanghu.com:443/live/CH2.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
