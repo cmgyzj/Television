@@ -263,7 +263,7 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 深圳体育健康,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
 武汉文体,http://stream.appwuhan.com:80/5tzb/sd/live.m3u8
 辽宁体育休闲,http://lu1.cc:80/itv/php/bfgd.php?id=lnty&mm.m3u8
-辽宁教育青少,http://lu1.cc:80/itv/php/bfgd.php?id=lnjyqs&mm.m3u8
+青岛体育休闲,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -675,6 +675,12 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
+辽宁教育青少,http://lu1.cc:80/itv/php/bfgd.php?id=lnjyqs&mm.m3u8
+青岛新闻综合,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+青岛经济生活,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+青岛影视,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+青岛文化娱乐,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+青岛教育,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 
 YY轮播,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
