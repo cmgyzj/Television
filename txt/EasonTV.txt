@@ -3745,3 +3745,34 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 埃塞俄比亚 Addis TV,https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000.m3u8
 巴西 TV Pai Eterno,https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 巴西 TV Santa Cruz,https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
+
+测试,#genre#
+上海教育,http://lu1.cc:80/itv/shtv/shjy.php
+上海教育,http://lu1.cc:80/itv/shtv/shjy.php?ts=https://live2018.setv.sh.cn/setv/live2018.setv.sh.cn_programme10_ud-1717648580847.ts?auth_key=4794048378-0-0-4f6adc9ec87196c5ab3c32b3966e7955
+上海教育,http://lu1.cc:80/itv/shtv/shjy.php?ts=https://live2018.setv.sh.cn/setv/live2018.setv.sh.cn_programme10_ud-1717648590889.ts
+上海教育,http://123.184.27.117:80/mmst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
+上海教育,http://1.180.234.222:80/mmst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
+新疆体育,https://www.xjtvs.com.cn:443/bvradio_app/service/cms?functionName=getChannel&channelID=131
+新疆体育,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8?auth_key=1717659647-0-0-e9613f36b67bd9c28ea86e88511d1b5d
+新疆体育,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8?
+新疆体育,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8
+佛山顺德,http://lu1.cc:80/itv/gdtv/fstv.php?id=fssd
+佛山顺德,http://lu1.cc:80/itv/p/video.html?id=https://xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8?txSecret=316a43f3ed01379754132a740a9befcc&txTime=66613E57
+佛山顺德,http://lu1.cc:80/itv/p/video.html?id=https://xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
+佛山顺德,http://lu1.cc:80/itv/p/video.html?id=https://xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8?
+佛山顺德,https://xmplay.fstv.com.cn:443/live/xingmu20211111163633BJEU.m3u8
+佛山顺德,https://xmplay.fstv.com.cn:443/live/xingmu20211111163633BJEU.m3u8?
+佛山顺德,https://xmplay.fstv.com.cn:443/live/xingmu20211111163633BJEU.m3u8?txSecret=316a43f3ed01379754132a740a9befcc&txTime=66613E57
+广州竞赛,https://gzbn.gztv.com:7443/plus-cloud-manage-app/liveChannel/queryLiveChannelList?type=1
+广州竞赛,https://tencentplay.gztv.com:443/live/jingsai.m3u8?txSecret=0f75374fd90f5e7d4192f0c55ef5c9d6&txTime=18febdd2667
+广州竞赛,http://tencentplaygzrb.gztv.com:80/live/jingsai.m3u8
+广州竞赛,http://tencentplaygzrb.gztv.com:80/live/jingsai.m3u8?
+广州竞赛,https://tencentplay.gztv.com:443/live/jingsai.m3u8?txSecret=f0cddd4415ca0c58015ae789033520bb&txTime=18febdda92d
+广州竞赛,https://tencentplay.gztv.com:443/live/jingsai.m3u8?
+广州竞赛,https://tencentplay.gztv.com:443/live/jingsai.m3u8
+广州南国都市,https://gzbn.gztv.com:7443/plus-cloud-manage-app/liveChannel/queryLiveChannelList?type=1
+广州南国都市,https://tencentplay.gztv.com:443/live/nanguodushi.m3u8?txSecret=b221cf03c5064bbf21ae37d5f5fc74e4&txTime=18febdf37bc
+广州南国都市,https://tencentplay.gztv.com:443/live/nanguodushi.m3u8?
+广州南国都市,https://tencentplay.gztv.com:443/live/nanguodushi.m3u8
+广州南国都市,http://tencentplaygzrb.gztv.com:80/live/nanguodushi.m3u8
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
