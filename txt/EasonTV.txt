@@ -3764,11 +3764,11 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 上海教育,http://lu1.cc:80/itv/shtv/shjy.php?ts=https://live2018.setv.sh.cn/setv/live2018.setv.sh.cn_programme10_ud-1717648590889.ts
 上海教育,http://123.184.27.117:80/mmst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
 上海教育,http://1.180.234.222:80/mmst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
-新疆体育,http://106.124.90.253:8888/udp/238.125.3.183:5140
-新疆体育,https://www.xjtvs.com.cn:443/bvradio_app/service/cms?functionName=getChannel&channelID=131
-新疆体育,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8?auth_key=1717659647-0-0-e9613f36b67bd9c28ea86e88511d1b5d
-新疆体育,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8?
-新疆体育,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8
+新疆体育健康,https://liveplay.xjbs.cn/liveback/xjtvs-10.m3u8?auth_key=1717692967-0-0-01d3ea37f4de3bbdcdc2939b0c739a10
+新疆体育健康,https://www.xjtvs.com.cn:443/bvradio_app/service/cms?functionName=getChannel&channelID=131
+新疆体育健康,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8?auth_key=1717659647-0-0-e9613f36b67bd9c28ea86e88511d1b5d
+新疆体育健康,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8?
+新疆体育健康,https://liveplay.xjbs.cn:443/liveback/xjtvs-10.m3u8
 佛山顺德,http://lu1.cc:80/itv/gdtv/fstv.php
 佛山顺德,http://lu1.cc:80/itv/gdtv/fstv.php?id=fssd
 佛山顺德,http://lu1.cc:80/itv/p/video.html?id=https://xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8?txSecret=316a43f3ed01379754132a740a9befcc&txTime=66613E57
