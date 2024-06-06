@@ -243,6 +243,12 @@ mitv://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
 http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 #EXTINF:-1 ,深圳体育健康
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
+#EXTINF:-1 ,武汉文体
+http://stream.appwuhan.com:80/5tzb/sd/live.m3u8
+#EXTINF:-1 ,辽宁体育休闲
+http://lu1.cc:80/itv/php/bfgd.php?id=lnty&mm.m3u8
+#EXTINF:-1 ,辽宁教育青少
+http://lu1.cc:80/itv/php/bfgd.php?id=lnjyqs&mm.m3u8
 #EXTINF:-1 ,大连文体
 http://live.cooltv.top/tv/tide.php?id=dlwt
 #EXTINF:-1 ,大连文体
