@@ -3766,8 +3766,11 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 佛山顺德,https://xmplay.fstv.com.cn:443/live/xingmu20211111163633BJEU.m3u8?
 佛山顺德,https://xmplay.fstv.com.cn:443/live/xingmu20211111163633BJEU.m3u8?txSecret=316a43f3ed01379754132a740a9befcc&txTime=66613E57
 广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
+广州综合,http://tencentplaygzrb.gztv.com:80/live/zonghes.m3u8
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
+广州新闻,http://tencentplaygzrb.gztv.com:80/live/xinwen.m3u8
 广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
+广州竞赛,http://tencentplaygzrb.gztv.com:80/live/jingsai.m3u8
 广州竞赛,https://gzbn.gztv.com:7443/plus-cloud-manage-app/liveChannel/queryLiveChannelList?type=1
 广州竞赛,https://tencentplay.gztv.com:443/live/jingsai.m3u8?txSecret=0f75374fd90f5e7d4192f0c55ef5c9d6&txTime=18febdd2667
 广州竞赛,http://tencentplaygzrb.gztv.com:80/live/jingsai.m3u8
@@ -3776,7 +3779,9 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 广州竞赛,https://tencentplay.gztv.com:443/live/jingsai.m3u8?
 广州竞赛,https://tencentplay.gztv.com:443/live/jingsai.m3u8
 广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
+广州影视,http://tencentplaygzrb.gztv.com:80/live/yingshi.m3u8
 广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
+广州法治,http://tencentplaygzrb.gztv.com:80/live/fazhi.m3u8
 广州南国都市,http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 广州南国都市,https://gzbn.gztv.com:7443/plus-cloud-manage-app/liveChannel/queryLiveChannelList?type=1
 广州南国都市,https://tencentplay.gztv.com:443/live/nanguodushi.m3u8?txSecret=b221cf03c5064bbf21ae37d5f5fc74e4&txTime=18febdf37bc
