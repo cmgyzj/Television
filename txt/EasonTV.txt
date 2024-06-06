@@ -261,6 +261,9 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 深圳体育健康,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
+武汉文体,http://stream.appwuhan.com:80/5tzb/sd/live.m3u8
+辽宁体育休闲,http://lu1.cc:80/itv/php/bfgd.php?id=lnty&mm.m3u8
+辽宁教育青少,http://lu1.cc:80/itv/php/bfgd.php?id=lnjyqs&mm.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
