@@ -257,6 +257,10 @@ http://live.cooltv.top/tv/cutv.php?id=dlwt
 https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
 #EXTINF:-1 ,黑龙江文体
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
+#EXTINF:-1, 广州竞赛
+http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1, 广州竞赛
+http://tencentplaygzrb.gztv.com:80/live/jingsai.m3u8
 #EXTINF:-1 ,精品体育
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 ,台球
