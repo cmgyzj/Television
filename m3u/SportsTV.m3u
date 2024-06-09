@@ -271,3 +271,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4017]/wh7f454c46tw995728574_821219981/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1712597730&from=12&hms_devid=1104&online=1712597730&vqe=3
 #EXTINF:-1 ,足球频道
 rtmp://nmglive.imfc.cn/5n1r1c/182396
+#EXTINF:-1 ,足球频道
+http://nmglive.imfc.cn/5n1r1c/182396.flv
+#EXTINF:-1 ,足球频道
+http://nmglive.imfc.cn/5n1r1c/182396.m3u8
