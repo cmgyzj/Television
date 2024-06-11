@@ -53,8 +53,6 @@ http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-16278186
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 #EXTINF:-1 ,东方购物二台
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 ,上海教育
-http://lu1.cc:80/itv/shtv/shjy.php
 #EXTINF:-1 ,重温经典
 http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
 #EXTINF:-1 ,重温经典
