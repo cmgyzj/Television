@@ -400,6 +400,7 @@ RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+澳门卫视,http://histar.zapi.us.kg:80/?id=mstv
 星空卫视,http://histar.zapi.us.kg:80/?id=star-xing-kong
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 风凰资讯,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
