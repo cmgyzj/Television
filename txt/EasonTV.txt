@@ -686,7 +686,7 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 YY轮播,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
 豪哥带我们发财,https://live.metshop.top/yy/23402146
-纪晓岚,https://live.metshop.top/yy/1354143978
+纪晓岚,http://11.xmyxc.cn/api/php/yy.php?id=1354143978
 【鹿鼎记】金庸经典,https://live.metshop.top/yy/28265277
 弹幕天团 下饭神剧,https://live.metshop.top/yy/23512910
 【盜暮笔记】24h,https://live.metshop.top/yy/1382702247
@@ -698,7 +698,7 @@ YY轮播,#genre#
 超级吓人鬼片 恐怖片,https://live.metshop.top/yy/1355641195
 隋唐英雄传 蓝光,https://live.metshop.top/yy/1352475619
 幸福满院,https://live.metshop.top/yy/1382737886
-超喜剧地下交通站男神贾贵,https://live.metshop.top/yy/1353428972
+超喜剧地下交通站男神贾贵,http://11.xmyxc.cn/api/php/yy.php?id=1353428972
 【新三国】蓝光版,https://live.metshop.top/yy/1382705738
 知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
 绝版电影 600部,https://live.metshop.top/yy/1382764593
