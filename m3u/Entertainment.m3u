@@ -99,3 +99,35 @@ http://tencentplaygzrb.gztv.com:80/live/fazhi.m3u8
 http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 #EXTINF:-1 ,广州南国都市
 http://tencentplaygzrb.gztv.com:80/live/nanguodushi.m3u8
+#EXTINF:-1 ,武汉新闻综合
+http://www.tico2.eu.org:4022/rtp/239.69.1.145:10506
+#EXTINF:-1 ,武汉新闻综合
+http://www.hiliu.myds.me:8088/rtp/239.69.1.145:10506
+#EXTINF:-1 ,武汉电视剧
+http://www.tico2.eu.org:4022/rtp/239.69.1.146:10512
+#EXTINF:-1 ,武汉电视剧
+http://www.hiliu.myds.me:8088/rtp/239.69.1.146:10512
+#EXTINF:-1 ,武汉科技生活
+http://www.tico2.eu.org:4022/rtp/239.69.1.251:11148
+#EXTINF:-1 ,武汉科技生活
+http://www.hiliu.myds.me:8088/rtp/239.69.1.251:11148
+#EXTINF:-1 ,武汉经济
+http://www.hiliu.myds.me:8088/rtp/239.69.1.35:9850
+#EXTINF:-1 ,武汉经济
+http://www.tico2.eu.org:4022/rtp/239.69.1.35:9850
+#EXTINF:-1 ,武汉外语
+http://www.tico2.eu.org:4022/rtp/239.69.1.36:9856
+#EXTINF:-1 ,武汉外语
+http://www.hiliu.myds.me:8088/rtp/239.69.1.36:9856
+#EXTINF:-1 ,武汉教育
+http://www.tico2.eu.org:4022/rtp/239.69.1.60:9994
+#EXTINF:-1 ,武汉教育
+http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
+#EXTINF:-1 ,快乐垂钓
+http://www.tico2.eu.org:4022/rtp/239.69.1.142:10488
+#EXTINF:-1 ,快乐垂钓
+http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
+#EXTINF:-1 ,茶频道
+http://www.hiliu.myds.me:8088/rtp/239.69.1.144:10500
+#EXTINF:-1 ,茶频道
+http://www.tico2.eu.org:4022/rtp/239.69.1.144:10500
