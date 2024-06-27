@@ -256,7 +256,6 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 成都公共,http://ljiang108.top:8123/udp/239.93.1.231:5140
 成都公共,http://ayolee.com:5253/udp/239.93.1.231:5140
-天津体育,http://60.29.124.66:6080/hls/6/index.m3u8
 先锋乒羽,http://ljiang108.top:8123/udp/239.93.42.56:5140
 先锋乒羽,http://ayolee.com:5253/udp/239.93.42.56:5140
 天元围棋,http://ljiang108.top:8123/udp/239.93.42.55:5140
@@ -729,9 +728,6 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 成都少儿,http://ljiang108.top:8123/udp/239.93.0.21:1251
 成都每日电视购物,http://ljiang108.top:8123/udp/239.93.0.22:1252
 成都每日电视购物,http://ayolee.com:5253/udp/239.93.0.22:1252
-天津科教,http://60.29.124.66:6080/hls/7/index.m3u8
-天津影视,http://60.29.124.66:6080/hls/4/index.m3u8
-天津文艺,http://60.29.124.66:6080/hls/3/index.m3u8
 
 YY轮播,#genre#
 好久不见-武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355914397
