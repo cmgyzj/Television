@@ -52,6 +52,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?
 #EXTINF:-1 ,风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 #EXTINF:-1 ,广东体育
+http://120.76.248.139/live/otvgd/34.m3u8?bt=2300
+#EXTINF:-1 ,广东体育
 mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
 #EXTINF:-1 ,广东体育
 https://epg.pw/stream/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8
@@ -179,6 +181,8 @@ mitv://generationnexxxt.com:19806/65791ef800079cd23163fe0f44d92213
 p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
 #EXTINF:-1 ,Sky Sports Premier League
 mitv://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
+#EXTINF:-1 ,深圳体育健康
+http://120.76.248.139/live/otvgd/50.m3u8?bt=1300
 #EXTINF:-1 ,深圳体育健康
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
 #EXTINF:-1 ,武汉文体
