@@ -252,6 +252,14 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 足球频道,rtmp://nmglive.imfc.cn/5n1r1c/182396
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.flv
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+成都公共,http://ljiang108.top:8123/udp/239.93.1.231:5140
+成都公共,http://ayolee.com:5253/udp/239.93.1.231:5140
+中国体育1,http://ljiang108.top:8123/udp/239.93.42.25:5140
+中国体育1,http://ayolee.com:5253/udp/239.93.42.25:5140
+中国体育2,http://ljiang108.top:8123/udp/239.93.42.26:5140
+中国体育2,http://ayolee.com:5253/udp/239.93.42.26:5140
+中国体育3,http://ljiang108.top:8123/udp/239.93.42.27:5
+中国体育3,http://ayolee.com:5253/udp/239.93.42.27:5140
 
 卫视频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
@@ -352,6 +360,8 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 山东卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000364/index.m3u8?IAS
 山西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
 山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
+陕西农林卫视,http://ljiang108.top:8123/udp/239.93.0.100:5140
+陕西农林卫视,http://ayolee.com:5253/udp/239.93.0.100:5140
 陕西农林卫视,http://php.jdshipin.com:8880/qly.php?id=6335
 陕西农林卫视,https://epg.pw/stream/b6580d571ce867004e2f439aa34969e7b2dc9e820c9fcf85be54a9729e2de629.m3u8
 陕西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
@@ -700,6 +710,18 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 快乐垂钓,http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
 茶频道,http://www.hiliu.myds.me:8088/rtp/239.69.1.144:10500
 茶频道,http://www.tico2.eu.org:4022/rtp/239.69.1.144:10500
+成都新闻综合,http://ljiang108.top:8123/udp/239.93.0.16:5140
+成都新闻综合,http://ayolee.com:5253/udp/239.93.0.16:5140
+成都经济资讯服务,http://ljiang108.top:8123/udp/239.93.0.17:1239
+成都经济资讯服务,http://ayolee.com:5253/udp/239.93.0.17:1239
+成都都市生活,http://ljiang108.top:8123/udp/239.93.0.18:1238
+成都都市生活,http://ayolee.com:5253/udp/239.93.0.18:1238
+成都影视文艺,http://ljiang108.top:8123/udp/239.93.0.19:1250
+成都影视文艺,http://ayolee.com:5253/udp/239.93.0.19:1250
+成都少儿,http://ayolee.com:5253/udp/239.93.0.21:1251
+成都少儿,http://ljiang108.top:8123/udp/239.93.0.21:1251
+成都每日电视购物,http://ljiang108.top:8123/udp/239.93.0.22:1252
+成都每日电视购物,http://ayolee.com:5253/udp/239.93.0.22:1252
 
 YY轮播,#genre#
 好久不见-武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355914397
