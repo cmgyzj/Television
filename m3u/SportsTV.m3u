@@ -182,6 +182,10 @@ mitv://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
 #EXTINF:-1 ,深圳体育健康
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
 #EXTINF:-1 ,武汉文体
+http://www.tico2.eu.org:4022/rtp/239.69.1.147:10518
+#EXTINF:-1 ,武汉文体
+http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
+#EXTINF:-1 ,武汉文体
 http://stream.appwuhan.com:80/5tzb/sd/live.m3u8
 #EXTINF:-1 ,辽宁体育休闲
 http://lu1.cc:80/itv/php/bfgd.php?id=lnty&mm.m3u8
