@@ -91,7 +91,7 @@ http://tencentplaygzrb.gztv.com:80/live/xinwen.m3u8
 http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 ,广州影视
 http://tencentplaygzrb.gztv.com:80/live/yingshi.m3u8
-#EXTINF:-1,广州法治
+#EXTINF:-1, 广州法治
 http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
 #EXTINF:-1 ,广州法治
 http://tencentplaygzrb.gztv.com:80/live/fazhi.m3u8
@@ -163,3 +163,15 @@ http://ljiang108.top:8123/udp/239.93.0.21:1251
 http://ljiang108.top:8123/udp/239.93.0.22:1252
 #EXTINF:-1 ,成都每日电视购物
 http://ayolee.com:5253/udp/239.93.0.22:1252
+#EXTINF:-1 ,深圳都市
+http://120.76.248.139/live/otvgd/46.m3u8?bt=1300
+#EXTINF:-1 ,深圳电视剧
+http://120.76.248.139/live/otvgd/47.m3u8?bt=1300
+#EXTINF:-1 ,深圳财经生活
+http://120.76.248.139/live/otvgd/48.m3u8?bt=1300
+#EXTINF:-1 ,深圳娱乐
+http://120.76.248.139/live/otvgd/49.m3u8?bt=1300
+#EXTINF:-1 ,深圳少儿
+http://120.76.248.139/live/otvgd/51.m3u8?bt=1300
+#EXTINF:-1 ,深圳公共
+http://120.76.248.139/live/otvgd/52.m3u8?bt=1300
