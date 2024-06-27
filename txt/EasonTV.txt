@@ -254,24 +254,14 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 足球频道,rtmp://nmglive.imfc.cn/5n1r1c/182396
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.flv
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-足球频道,http://ljiang108.top:8123/udp/239.93.0.197:9040
-足球频道,http://ayolee.com:5253/udp/239.93.0.197:9040
 成都公共,http://ljiang108.top:8123/udp/239.93.1.231:5140
 成都公共,http://ayolee.com:5253/udp/239.93.1.231:5140
-成都公共,http://ljiang108.top:8123/udp/239.93.0.224:1281
-成都公共,http://ayolee.com:5253/udp/239.93.0.224:1281
 先锋乒羽,http://ljiang108.top:8123/udp/239.93.42.56:5140
 先锋乒羽,http://ayolee.com:5253/udp/239.93.42.56:5140
 天元围棋,http://ljiang108.top:8123/udp/239.93.42.55:5140
 天元围棋,http://ayolee.com:5253/udp/239.93.42.55:5140
 麻辣体育,http://ljiang108.top:8123/udp/239.93.42.2:5140
 麻辣体育,http://ayolee.com:5253/udp/239.93.42.2:5140
-中国体育1,http://ljiang108.top:8123/udp/239.93.42.25:5140
-中国体育1,http://ayolee.com:5253/udp/239.93.42.25:5140
-中国体育2,http://ljiang108.top:8123/udp/239.93.42.26:5140
-中国体育2,http://ayolee.com:5253/udp/239.93.42.26:5140
-中国体育3,http://ljiang108.top:8123/udp/239.93.42.27:5
-中国体育3,http://ayolee.com:5253/udp/239.93.42.27:5140
 
 卫视频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
