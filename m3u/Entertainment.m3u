@@ -127,6 +127,14 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
 http://www.tico2.eu.org:4022/rtp/239.69.1.142:10488
 #EXTINF:-1 ,快乐垂钓
 http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
+#EXTINF:-1 ,快乐垂钓
+http://ayolee.com:5253/udp/239.93.1.151:5140
+#EXTINF:-1 ,快乐垂钓
+http://ljiang108.top:8123/udp/239.93.1.151:5140
+#EXTINF:-1 ,茶频道
+http://ljiang108.top:8123/udp/239.93.0.114:5140
+#EXTINF:-1 ,茶频道
+http://ayolee.com:5253/udp/239.93.0.114:5140
 #EXTINF:-1 ,茶频道
 http://www.hiliu.myds.me:8088/rtp/239.69.1.144:10500
 #EXTINF:-1 ,茶频道
