@@ -172,6 +172,7 @@ CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+广东体育,http://120.76.248.139/live/otvgd/34.m3u8?bt=2300
 广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
 广东体育,https://epg.pw/stream/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8
 广东体育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
@@ -240,6 +241,7 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
 山西文体生活,https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
 黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
+深圳体育健康,http://120.76.248.139/live/otvgd/50.m3u8?bt=1300
 深圳体育健康,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
 武汉文体,http://www.tico2.eu.org:4022/rtp/239.69.1.147:10518
 武汉文体,http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
@@ -728,6 +730,12 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 成都少儿,http://ljiang108.top:8123/udp/239.93.0.21:1251
 成都每日电视购物,http://ljiang108.top:8123/udp/239.93.0.22:1252
 成都每日电视购物,http://ayolee.com:5253/udp/239.93.0.22:1252
+深圳都市,http://120.76.248.139/live/otvgd/46.m3u8?bt=1300
+深圳电视剧,http://120.76.248.139/live/otvgd/47.m3u8?bt=1300
+深圳财经生活,http://120.76.248.139/live/otvgd/48.m3u8?bt=1300
+深圳娱乐,http://120.76.248.139/live/otvgd/49.m3u8?bt=1300
+深圳少儿,http://120.76.248.139/live/otvgd/51.m3u8?bt=1300
+深圳公共,http://120.76.248.139/live/otvgd/52.m3u8?bt=1300
 
 YY轮播,#genre#
 好久不见-武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355914397
