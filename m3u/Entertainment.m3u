@@ -163,15 +163,77 @@ http://ljiang108.top:8123/udp/239.93.0.21:1251
 http://ljiang108.top:8123/udp/239.93.0.22:1252
 #EXTINF:-1 ,成都每日电视购物
 http://ayolee.com:5253/udp/239.93.0.22:1252
-#EXTINF:-1 ,深圳都市
-http://120.76.248.139/live/otvgd/46.m3u8?bt=1300
-#EXTINF:-1 ,深圳电视剧
-http://120.76.248.139/live/otvgd/47.m3u8?bt=1300
+#EXTINF:-1 ,深圳宝安第一课
+http://a.ifsift.cn:8888/udp/239.77.1.225:5146
+#EXTINF:-1 ,深圳宝安
+http://a.ifsift.cn:8888/udp/239.77.1.67:5146
+#EXTINF:-1 ,深圳宝安
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.67:5146
 #EXTINF:-1 ,深圳财经生活
 http://120.76.248.139/live/otvgd/48.m3u8?bt=1300
-#EXTINF:-1 ,深圳娱乐
-http://120.76.248.139/live/otvgd/49.m3u8?bt=1300
-#EXTINF:-1 ,深圳少儿
-http://120.76.248.139/live/otvgd/51.m3u8?bt=1300
+#EXTINF:-1 ,深圳财经生活
+http://a.ifsift.cn:8888/udp/239.77.1.242:5146
+#EXTINF:-1 ,深圳电视剧
+http://120.76.248.139/live/otvgd/47.m3u8?bt=1300
+#EXTINF:-1 ,深圳电视剧
+http://a.ifsift.cn:8888/udp/239.77.1.125:5146
+#EXTINF:-1 ,深圳电视剧
+http://a.ifsift.cn:8888/udp/239.77.1.177:5146
+#EXTINF:-1 ,深圳电视剧
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.125:5146
+#EXTINF:-1 ,深圳电视剧
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.177:5146
+#EXTINF:-1 ,深圳都市
+http://120.76.248.139/live/otvgd/46.m3u8?bt=1300
+#EXTINF:-1 ,深圳都市
+http://a.ifsift.cn:8888/udp/239.77.1.124:5146
+#EXTINF:-1 ,深圳都市
+http://a.ifsift.cn:8888/udp/239.77.1.176:5146
+#EXTINF:-1 ,深圳都市
+http://a.ifsift.cn:8888/udp/239.77.1.34:5146
+#EXTINF:-1 ,深圳都市
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.124:5146
+#EXTINF:-1 ,深圳都市
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.176:5146
 #EXTINF:-1 ,深圳公共
 http://120.76.248.139/live/otvgd/52.m3u8?bt=1300
+#EXTINF:-1 ,深圳公共
+http://a.ifsift.cn:8888/udp/239.77.1.126:5146
+#EXTINF:-1 ,深圳公共
+http://a.ifsift.cn:8888/udp/239.77.1.178:5146
+#EXTINF:-1 ,深圳公共
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.126:5146
+#EXTINF:-1 ,深圳公共
+http://l2tp.yeedah.xyz:8000/udp/239.77.1.178:5146
+#EXTINF:-1 ,深圳龙岗
+http://a.ifsift.cn:8888/udp/239.77.1.223:5146
+#EXTINF:-1 ,深圳少儿
+http://120.76.248.139/live/otvgd/51.m3u8?bt=1300
+#EXTINF:-1 ,深圳少儿
+http://a.ifsift.cn:8888/udp/239.77.1.244:5146
+#EXTINF:-1 ,深圳宜和购物
+http://a.ifsift.cn:8888/udp/239.77.1.87:5146
+#EXTINF:-1 ,深圳移动电视
+http://a.ifsift.cn:8888/udp/239.77.1.175:5146
+#EXTINF:-1 ,深圳娱乐
+http://120.76.248.139/live/otvgd/49.m3u8?bt=1300
+#EXTINF:-1 ,深圳娱乐
+http://a.ifsift.cn:8888/udp/239.77.1.243:5146
+#EXTINF:-1 ,深圳众创TV
+http://a.ifsift.cn:8888/udp/239.77.1.247:5146
+#EXTINF:-1 ,肇庆生活服务
+http://a.ifsift.cn:8888/udp/239.253.43.2:5146
+#EXTINF:-1 ,肇庆综合
+http://a.ifsift.cn:8888/udp/239.253.43.1:5146
+#EXTINF:-1 ,佛山公共
+http://a.ifsift.cn:8888/udp/239.253.43.53:5146
+#EXTINF:-1 ,佛山南海
+http://a.ifsift.cn:8888/udp/239.253.43.54:5146
+#EXTINF:-1 ,佛山南海
+http://a.ifsift.cn:8888/udp/239.77.0.236:5146
+#EXTINF:-1 ,佛山顺德
+http://a.ifsift.cn:8888/udp/239.253.43.55:5146
+#EXTINF:-1 ,佛山影视
+http://a.ifsift.cn:8888/udp/239.253.43.56:5146
+#EXTINF:-1 ,佛山综合
+http://a.ifsift.cn:8888/udp/239.253.43.57:5146
