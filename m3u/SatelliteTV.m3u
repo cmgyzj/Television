@@ -16,11 +16,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,安徽卫视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?IAS
 #EXTINF:-1 ,澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 ,澳亚卫视
 http://110.185.171.226:96/xsj.php?id=mastv
 #EXTINF:-1 ,澳亚卫视
 http://histar.zapi.us.kg:80/?id=mastv
+#EXTINF:-1 ,澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 ,澳门卫视
 http://histar.zapi.us.kg:80/?id=mstv
 #EXTINF:-1 ,北京卫视
@@ -57,6 +57,60 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 ,东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://server.qingyuga.me:8888/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://origin.lean.org.cn:4000/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://n.lualu.io:18888/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://www.pptt.one:5002/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://vpn.rogerxlj.top:9998/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://wein66.ddnsfree.com:4022/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://www.wein66.eu.org:4022/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://home.nuaa.us.to:4000/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://28901.noip.us.to:4000/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://www.pptongtong.top:5002/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://yuancw.eu.org:8088/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://sh1.enjoymoe.com:8001/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://gongjin.x3322.net:8686/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://minecraft.qc0727.top:22222/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://server.qingyuga.me:8888/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://origin.lean.org.cn:4000/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://n.lualu.io:18888/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://www.pptt.one:5002/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://vpn.rogerxlj.top:9998/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://wein66.ddnsfree.com:4022/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://www.wein66.eu.org:4022/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://home.nuaa.us.to:4000/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://28901.noip.us.to:4000/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://www.pptongtong.top:5002/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://yuancw.eu.org:8088/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://sh1.enjoymoe.com:8001/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://gongjin.x3322.net:8686/udp/239.45.3.61:5140
 #EXTINF:-1 ,东南卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8
 #EXTINF:-1 ,东南卫视
@@ -231,10 +285,10 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/ind
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 #EXTINF:-1 ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,新疆卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?IAS
 #EXTINF:-1 ,星空卫视
 http://histar.zapi.us.kg:80/?id=star-xing-kong
+#EXTINF:-1 ,新疆卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?IAS
 #EXTINF:-1 ,延边卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 ,延边卫视
