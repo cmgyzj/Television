@@ -13,10 +13,22 @@ https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+#EXTINF:-1 ,CHC动作电影
+http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
+#EXTINF:-1 ,CHC动作电影
+http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094
 #EXTINF:-1 ,CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+#EXTINF:-1 ,CHC家庭影院
+http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
+#EXTINF:-1 ,CHC家庭影院
+http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 #EXTINF:-1 ,CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+#EXTINF:-1 ,CHC影迷电影
+http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
+#EXTINF:-1 ,CHC影迷电影
+http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088
 #EXTINF:-1 ,美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 ,全国党员干部现代远程教育
@@ -79,6 +91,34 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 ,中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 ,中国天气
+http://minecraft.qc0727.top:22222/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://server.qingyuga.me:8888/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://origin.lean.org.cn:4000/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://n.lualu.io:18888/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://www.pptt.one:5002/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://vpn.rogerxlj.top:9998/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://wein66.ddnsfree.com:4022/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://www.wein66.eu.org:4022/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://home.nuaa.us.to:4000/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://28901.noip.us.to:4000/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://www.pptongtong.top:5002/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://yuancw.eu.org:8088/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://sh1.enjoymoe.com:8001/udp/239.45.1.47:5140
+#EXTINF:-1 ,中国天气
+http://gongjin.x3322.net:8686/udp/239.45.1.47:5140
 #EXTINF:-1 ,广州综合
 http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
 #EXTINF:-1 ,广州综合
@@ -91,7 +131,7 @@ http://tencentplaygzrb.gztv.com:80/live/xinwen.m3u8
 http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 ,广州影视
 http://tencentplaygzrb.gztv.com:80/live/yingshi.m3u8
-#EXTINF:-1, 广州法治
+#EXTINF:-1 ,广州法治
 http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
 #EXTINF:-1 ,广州法治
 http://tencentplaygzrb.gztv.com:80/live/fazhi.m3u8
@@ -237,3 +277,59 @@ http://a.ifsift.cn:8888/udp/239.253.43.55:5146
 http://a.ifsift.cn:8888/udp/239.253.43.56:5146
 #EXTINF:-1 ,佛山综合
 http://a.ifsift.cn:8888/udp/239.253.43.57:5146
+#EXTINF:-1 ,百事通4K
+http://minecraft.qc0727.top:22222/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://server.qingyuga.me:8888/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://origin.lean.org.cn:4000/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://n.lualu.io:18888/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://www.pptt.one:5002/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://vpn.rogerxlj.top:9998/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://wein66.ddnsfree.com:4022/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://www.wein66.eu.org:4022/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://home.nuaa.us.to:4000/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://28901.noip.us.to:4000/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://www.pptongtong.top:5002/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://yuancw.eu.org:8088/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://sh1.enjoymoe.com:8001/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://gongjin.x3322.net:8686/udp/239.45.1.42:5140
+#EXTINF:-1 ,百事通4K
+http://minecraft.qc0727.top:22222/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://server.qingyuga.me:8888/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://origin.lean.org.cn:4000/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://n.lualu.io:18888/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://www.pptt.one:5002/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://vpn.rogerxlj.top:9998/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://wein66.ddnsfree.com:4022/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://www.wein66.eu.org:4022/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://home.nuaa.us.to:4000/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://28901.noip.us.to:4000/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://www.pptongtong.top:5002/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://yuancw.eu.org:8088/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://sh1.enjoymoe.com:8001/udp/239.45.3.107:5140
+#EXTINF:-1 ,百事通4K
+http://gongjin.x3322.net:8686/udp/239.45.3.107:5140
