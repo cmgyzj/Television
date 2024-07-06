@@ -1092,8 +1092,14 @@ TVBS新闻台(B),mitv://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+CHC动作电影,http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
+CHC动作电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+CHC家庭影院,http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
+CHC家庭影院,http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+CHC影迷电影,http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
+CHC影迷电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 全国党员干部现代远程教育,https://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
 全国党员干部现代远程教育,http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
@@ -1246,20 +1252,6 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 百事通4K,http://yuancw.eu.org:8088/udp/239.45.3.107:5140
 百事通4K,http://sh1.enjoymoe.com:8001/udp/239.45.3.107:5140
 百事通4K,http://gongjin.x3322.net:8686/udp/239.45.3.107:5140
-陶瓷,http://minecraft.qc0727.top:22222/udp/239.45.3.50:5140
-陶瓷,http://server.qingyuga.me:8888/udp/239.45.3.50:5140
-陶瓷,http://origin.lean.org.cn:4000/udp/239.45.3.50:5140
-陶瓷,http://n.lualu.io:18888/udp/239.45.3.50:5140
-陶瓷,http://www.pptt.one:5002/udp/239.45.3.50:5140
-陶瓷,http://vpn.rogerxlj.top:9998/udp/239.45.3.50:5140
-陶瓷,http://wein66.ddnsfree.com:4022/udp/239.45.3.50:5140
-陶瓷,http://www.wein66.eu.org:4022/udp/239.45.3.50:5140
-陶瓷,http://home.nuaa.us.to:4000/udp/239.45.3.50:5140
-陶瓷,http://28901.noip.us.to:4000/udp/239.45.3.50:5140
-陶瓷,http://www.pptongtong.top:5002/udp/239.45.3.50:5140
-陶瓷,http://yuancw.eu.org:8088/udp/239.45.3.50:5140
-陶瓷,http://sh1.enjoymoe.com:8001/udp/239.45.3.50:5140
-陶瓷,http://gongjin.x3322.net:8686/udp/239.45.3.50:5140
 
 YY轮播,#genre#
 好久不见-武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355914397
