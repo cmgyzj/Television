@@ -535,9 +535,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 
 体育频道,#genre#
 咪咕体育4K,http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000005180
-咪咕体育4K,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕体育4K-2,http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000015686
-咪咕体育4K-2,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225651/index.m3u8
 咪咕体育1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕体育1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕体育2,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -549,6 +547,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 咪咕体育5,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕体育5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕体育6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+五星体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
 五星体育,https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
@@ -568,6 +567,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 五星体育,http://yuancw.eu.org:8088/udp/239.45.3.210:5140
 五星体育,http://sh1.enjoymoe.com:8001/udp/239.45.3.210:5140
 五星体育,http://gongjin.x3322.net:8686/udp/239.45.3.210:5140
+劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 劲爆体育,http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 劲爆体育,http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -625,12 +625,15 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 博斯运动,mitv://generationnexxxt.com:19806/1fded122b4b74670b6012a8068e44766
 智林体育台,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 博斯运动二台,mitv://generationnexxxt.com:19806/65e1b65400075c3dc9f3762355b36cc1
+魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
 魅力足球,http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 魅力足球,http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 魅力足球,http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 魅力足球,http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 魅力足球,http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+新视觉,http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000
+新视觉,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 新视觉,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
 Sky 1 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
@@ -670,6 +673,8 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 武汉文体,http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
 武汉文体,http://stream.appwuhan.com:80/5tzb/sd/live.m3u8
 辽宁体育休闲,http://lu1.cc:80/itv/php/bfgd.php?id=lnty&mm.m3u8
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州竞赛,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gzjs
 广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
 广州竞赛,http://tencentplaygzrb.gztv.com:80/live/jingsai.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
@@ -729,15 +734,13 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 兵团卫视,https://epg.pw/stream/27542fbfebea09ad0d5b9d3859f26fa826ff4e1c0830920adc5486cb1a0691b4.m3u8
 兵团卫视,https://epg.pw/stream/9da2ed3678586fb5fdd656ac8d626e807a78dc56c0effa2788e84f609f1c71f3.m3u8
 兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
-大湾区卫视,http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1004_1.m3u8
-大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
-大湾区卫视,http://php.jdshipin.com:8880/TVOD/chudian.php?id=nfws
-大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 大湾区卫视,https://epg.pw/stream/c079dca70700c8feb4f52998795bbdb5dc4b21508edc7b98e99429c0492694f3.m3u8
 大湾区卫视,https://epg.pw/stream/e1fa4100dc5602bd3a35c54450d8a946eb726a0f637b365ce2082ccaf28bdaa8.m3u8
 大湾区卫视,https://epg.pw/stream/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8
 大湾区卫视,https://epg.pw/stream/fc7d2aa746d5b2c01f6c94e13479e0d40c23ad204d66f58c2f578f77ee7d4e57.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000182
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -788,6 +791,8 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 海南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
+海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+海峡卫视,http://php.jdshipin.com:8880/bestv.php?id=hxwshd4m/4000000
 河北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?IAS
@@ -824,6 +829,8 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 内蒙古卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
 内蒙古蒙古语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 宁夏卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 青海卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?IAS
@@ -833,9 +840,7 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 厦门卫视,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000193
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?1
-厦门卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
-山东教育卫视,http://zhuji.sdrnwl.cn:9901/tsfile/live/1015_1.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山东教育卫视,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225558/index.m3u8
 山东教育卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/1.m3u8
@@ -848,7 +853,6 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 山东卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000364/index.m3u8?IAS
 山西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
 山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
-陕西农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 陕西农林卫视,http://ljiang108.top:8123/udp/239.93.0.100:5140
 陕西农林卫视,http://ayolee.com:5253/udp/239.93.0.100:5140
 陕西农林卫视,http://php.jdshipin.com:8880/qly.php?id=6335
@@ -865,10 +869,14 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 天津卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?IAS
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://histar.zapi.us.kg:80/?id=star-xing-kong
+新疆卫视,http://php.jdshipin.com:8880/xjtv.php?id=xjws
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 新疆卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?IAS
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
@@ -882,9 +890,7 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
-海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
-海峡卫视,http://php.jdshipin.com:8880/bestv.php?id=hxwshd4m/4000000
+
 
 港澳台频道,#genre#
 凤凰中文,http://110.185.171.226:96/fhzb.php?type=1&id=0701pcc72
@@ -1208,12 +1214,16 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 广州综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gzzh
 广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
 广州综合,http://tencentplaygzrb.gztv.com:80/live/zonghes.m3u8
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gzxw
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
 广州新闻,http://tencentplaygzrb.gztv.com:80/live/xinwen.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州影视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gzys
 广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
 广州影视,http://tencentplaygzrb.gztv.com:80/live/yingshi.m3u8
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+广州法治,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gzfz
 广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
 广州法治,http://tencentplaygzrb.gztv.com:80/live/fazhi.m3u8
 广州南国都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gzngds
@@ -1319,9 +1329,6 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 百事通4K,http://yuancw.eu.org:8088/udp/239.45.3.107:5140
 百事通4K,http://sh1.enjoymoe.com:8001/udp/239.45.3.107:5140
 百事通4K,http://gongjin.x3322.net:8686/udp/239.45.3.107:5140
-优优宝贝,http://php.jdshipin.com:8880/cqyx.php?id=youxi
-汽摩,http://php.jdshipin.com:8880/cqyx.php?id=cqcarSD
-中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 
 YY轮播,#genre#
 好久不见-武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355914397
