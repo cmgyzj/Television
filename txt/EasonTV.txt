@@ -54,6 +54,8 @@ CCTV17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
+CETV-1,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000481
+CETV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://minecraft.qc0727.top:22222/udp/239.45.1.125:5140
@@ -70,6 +72,7 @@ CETV-1,http://www.pptongtong.top:5002/udp/239.45.1.125:5140
 CETV-1,http://yuancw.eu.org:8088/udp/239.45.1.125:5140
 CETV-1,http://sh1.enjoymoe.com:8001/udp/239.45.1.125:5140
 CETV-1,http://gongjin.x3322.net:8686/udp/239.45.1.125:5140
+CETV-2,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000221
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://minecraft.qc0727.top:22222/udp/239.45.1.52:5140
 CETV-2,http://server.qingyuga.me:8888/udp/239.45.1.52:5140
@@ -85,11 +88,15 @@ CETV-2,http://www.pptongtong.top:5002/udp/239.45.1.52:5140
 CETV-2,http://yuancw.eu.org:8088/udp/239.45.1.52:5140
 CETV-2,http://sh1.enjoymoe.com:8001/udp/239.45.1.52:5140
 CETV-2,http://gongjin.x3322.net:8686/udp/239.45.1.52:5140
+CETV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+CETV-3,https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/2f665915b0-0-0-08b800b5bdd1f6d3f61a673c5eb1afec/index.m3u8
 CETV-3,http://110.185.171.226:96/dl.php?id=cetv3
 CETV-3,http://110.185.171.226:96/gitv.php?id=G_CETV-3
 CETV-3,http://221.4.143.70:8114/GD_CUCC/G_CETV-3.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
 CETV-3,http://120.87.97.245:8114/GD_CUCC/G_CETV-3.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdCgYq44OS2lGGP%2F2VZkWJKdWicrKJxf2lL%2Fth7XAZsl&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144818786&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb34558dff2a8&FvSeid=88fe5578af1a8bf0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3172&Fsv_chan_hls_se_idx=34&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-3&Fsv_CMSID=GD_CUCC
-CETV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-4,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031126
+CETV-4,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000219
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://minecraft.qc0727.top:22222/udp/239.45.1.50:5140
@@ -106,6 +113,7 @@ CETV-4,http://www.pptongtong.top:5002/udp/239.45.1.50:5140
 CETV-4,http://yuancw.eu.org:8088/udp/239.45.1.50:5140
 CETV-4,http://sh1.enjoymoe.com:8001/udp/239.45.1.50:5140
 CETV-4,http://gongjin.x3322.net:8686/udp/239.45.1.50:5140
+CETV早期教育,http://php.jdshipin.com:8880/cqyx.php?id=zaojiaoHD
 CETV早期教育,http://110.185.171.226:96/dl.php?id=zqjy
 CETV早期教育,http://110.185.171.226:96/gitv.php?id=G_CETV-ZQJY-CQ
 CETV早期教育,http://221.4.143.70:8114/GD_CUCC/G_CETV-ZQJY-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
