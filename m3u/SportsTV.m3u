@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,咪咕体育4K
+http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000005180
+#EXTINF:-1 ,咪咕体育4K-2
+http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000015686
 #EXTINF:-1 ,咪咕体育1
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 ,咪咕体育1
@@ -21,6 +25,8 @@ http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 ,咪咕体育6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 ,五星体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 #EXTINF:-1 ,五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 ,五星体育
@@ -60,6 +66,8 @@ http://sh1.enjoymoe.com:8001/udp/239.45.3.210:5140
 #EXTINF:-1 ,五星体育
 http://gongjin.x3322.net:8686/udp/239.45.3.210:5140
 #EXTINF:-1 ,劲爆体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
+#EXTINF:-1 ,劲爆体育
 https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 #EXTINF:-1 ,劲爆体育
 http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -89,6 +97,10 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 #EXTINF:-1 ,风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+#EXTINF:-1 ,广东体育
+https://php.17186.eu.org/gdtv/gdty.m3u8
+#EXTINF:-1 ,广东体育
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
 #EXTINF:-1 ,广东体育
 http://120.76.248.139/live/otvgd/34.m3u8?bt=2300
 #EXTINF:-1 ,广东体育
@@ -170,6 +182,8 @@ mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 #EXTINF:-1 ,博斯运动二台
 mitv://generationnexxxt.com:19806/65e1b65400075c3dc9f3762355b36cc1
 #EXTINF:-1 ,魅力足球
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
+#EXTINF:-1 ,魅力足球
 mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
 #EXTINF:-1 ,魅力足球
 http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -181,6 +195,10 @@ http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/0
 http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,魅力足球
 http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,新视觉
+http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000
+#EXTINF:-1 ,新视觉
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 #EXTINF:-1 ,新视觉
 mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
 #EXTINF:-1 ,Sky 1 Racing
@@ -259,6 +277,8 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
 http://stream.appwuhan.com:80/5tzb/sd/live.m3u8
 #EXTINF:-1 ,辽宁体育休闲
 http://lu1.cc:80/itv/php/bfgd.php?id=lnty&mm.m3u8
+#EXTINF:-1 ,广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
 #EXTINF:-1 ,广州竞赛
 http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 ,广州竞赛
