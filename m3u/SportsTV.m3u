@@ -205,9 +205,9 @@ mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 ,Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 ,beIN Sports
+#EXTINF:-1 ,beIN Sports (Singapore and Malaysia)
 mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-#EXTINF:-1 ,beIN Sports 2
+#EXTINF:-1 ,beIN Sports (Singapore and Malaysia) 2
 mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
 #EXTINF:-1 ,ESPN News
 p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
