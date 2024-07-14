@@ -301,6 +301,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 五星体育,http://yuancw.eu.org:8088/udp/239.45.3.210:5140
 五星体育,http://sh1.enjoymoe.com:8001/udp/239.45.3.210:5140
 五星体育,http://gongjin.x3322.net:8686/udp/239.45.3.210:5140
+哈哈炫动,http://www.jeremyoto.com:82/rtp/233.50.201.74:5140
 哈哈炫动,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
 哈哈炫动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225657/index.m3u8
 哈哈炫动,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225534/index.m3u8
@@ -348,6 +349,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 东方购物二台,http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
 重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+乐游频道,http://www.jeremyoto.com:82/rtp/233.50.201.185:5140
 乐游频道,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
 乐游频道,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 乐游频道,http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -355,6 +357,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 乐游频道,http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 乐游频道,http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 乐游频道,http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+金色学堂,http://www.jeremyoto.com:82/rtp/233.50.201.186:5140
 金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
 金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 金色学堂,http://minecraft.qc0727.top:22222/udp/239.45.1.118:5140
@@ -378,6 +381,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 七彩戏剧,http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 七彩戏剧,http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 七彩戏剧,http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+法治天地,http://www.jeremyoto.com:82/rtp/233.50.201.191:5140
 法治天地,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 法治天地,http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/fztdhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 法治天地,http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/fztdhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -400,6 +404,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 法治天地,http://gongjin.x3322.net:8686/udp/239.45.1.46:5140
 东方财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
 东方财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+欢笑剧场,http://www.jeremyoto.com:82/rtp/233.50.201.189:5140
 欢笑剧场,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001
 欢笑剧场,http://php.jdshipin.com:8880/bestv.php?id=hxjc4k/15000000
 欢笑剧场,http://php.jdshipin.com:8880/bst2.php?id=hxjc4k/15000000
@@ -452,6 +457,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 劲爆体育,http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 劲爆体育,http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 劲爆体育,http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+都市剧场,http://www.jeremyoto.com:82/rtp/233.50.201.190:5140
 都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 都市剧场,http://minecraft.qc0727.top:22222/udp/239.45.3.136:5140
@@ -468,6 +474,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 都市剧场,http://yuancw.eu.org:8088/udp/239.45.3.136:5140
 都市剧场,http://sh1.enjoymoe.com:8001/udp/239.45.3.136:5140
 都市剧场,http://gongjin.x3322.net:8686/udp/239.45.3.136:5140
+动漫秀场,http://www.jeremyoto.com:82/rtp/233.50.201.184:5140
 动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 动漫秀场,http://minecraft.qc0727.top:22222/udp/239.45.3.134:5140
@@ -484,6 +491,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 动漫秀场,http://yuancw.eu.org:8088/udp/239.45.3.134:5140
 动漫秀场,http://sh1.enjoymoe.com:8001/udp/239.45.3.134:5140
 动漫秀场,http://gongjin.x3322.net:8686/udp/239.45.3.134:5140
+生活时尚,http://www.jeremyoto.com:82/rtp/233.50.201.187:5140
 生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
 生活时尚,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 生活时尚,http://minecraft.qc0727.top:22222/udp/239.45.3.132:5140
@@ -500,6 +508,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 生活时尚,http://yuancw.eu.org:8088/udp/239.45.3.132:5140
 生活时尚,http://sh1.enjoymoe.com:8001/udp/239.45.3.132:5140
 生活时尚,http://gongjin.x3322.net:8686/udp/239.45.3.132:5140
+游戏风云,http://www.jeremyoto.com:82/rtp/233.50.201.183:5140
 游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
 游戏风云,http://ayolee.com:5253/udp/239.93.0.136:5140
 游戏风云,http://ljiang108.top:8123/udp/239.93.0.136:5140
@@ -517,6 +526,7 @@ CGNTV Japan,https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcd
 游戏风云,http://yuancw.eu.org:8088/udp/239.45.3.131:5140
 游戏风云,http://sh1.enjoymoe.com:8001/udp/239.45.3.131:5140
 游戏风云,http://gongjin.x3322.net:8686/udp/239.45.3.131:5140
+新视觉,http://www.jeremyoto.com:82/rtp/233.50.201.244:5140
 新视觉,http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000
 新视觉,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 新视觉,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
@@ -1249,11 +1259,13 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 武汉外语,http://www.hiliu.myds.me:8088/rtp/239.69.1.36:9856
 武汉教育,http://www.tico2.eu.org:4022/rtp/239.69.1.60:9994
 武汉教育,http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
+快乐垂钓,http://www.jeremyoto.com:82/rtp/233.50.201.109:5140
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 快乐垂钓,http://www.tico2.eu.org:4022/rtp/239.69.1.142:10488
 快乐垂钓,http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
 快乐垂钓,http://ayolee.com:5253/udp/239.93.1.151:5140
 快乐垂钓,http://ljiang108.top:8123/udp/239.93.1.151:5140
+茶频道,http://www.jeremyoto.com:82/rtp/233.50.201.188:5140
 茶频道,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
 茶频道,http://ljiang108.top:8123/udp/239.93.0.114:5140
 茶频道,http://ayolee.com:5253/udp/239.93.0.114:5140
@@ -1308,6 +1320,7 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 佛山顺德,http://a.ifsift.cn:8888/udp/239.253.43.55:5146
 佛山影视,http://a.ifsift.cn:8888/udp/239.253.43.56:5146
 佛山综合,http://a.ifsift.cn:8888/udp/239.253.43.57:5146
+BesTV,http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
 百事通4K,http://minecraft.qc0727.top:22222/udp/239.45.1.42:5140
 百事通4K,http://server.qingyuga.me:8888/udp/239.45.1.42:5140
 百事通4K,http://origin.lean.org.cn:4000/udp/239.45.1.42:5140
@@ -1336,6 +1349,37 @@ Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playli
 百事通4K,http://yuancw.eu.org:8088/udp/239.45.3.107:5140
 百事通4K,http://sh1.enjoymoe.com:8001/udp/239.45.3.107:5140
 百事通4K,http://gongjin.x3322.net:8686/udp/239.45.3.107:5140
+浙江经济生活,http://www.jeremyoto.com:82/rtp/233.50.201.133:5140
+浙江教育,http://www.jeremyoto.com:82/rtp/233.50.201.134:5140
+浙江民生,http://www.jeremyoto.com:82/rtp/233.50.201.136:5140
+浙江新闻,http://www.jeremyoto.com:82/rtp/233.50.201.137:5140
+浙江少儿,http://www.jeremyoto.com:82/rtp/233.50.201.138:5140
+钱江频道,http://www.jeremyoto.com:82/rtp/233.50.201.132:5140
+杭州1综合,http://www.jeremyoto.com:82/rtp/233.50.201.173:5140
+杭州2明珠,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
+杭州3生活,http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
+杭州4影视,http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
+杭州5青少,http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
+杭州导视,http://www.jeremyoto.com:82//rtp/233.50.201.182:5140
+极速汽车,http://www.jeremyoto.com:82/rtp/233.50.201.208:5140
+宁波TV1,http://www.jeremyoto.com:82/rtp/233.50.201.168:5140
+宁波TV2,http://www.jeremyoto.com:82/rtp/233.50.201.178:5140
+宁波TV3,http://www.jeremyoto.com:82/rtp/233.50.201.179:5140
+宁波TV4,http://www.jeremyoto.com:82/rtp/233.50.201.180:5140
+宁波TV5,http://www.jeremyoto.com:82/rtp/233.50.201.181:5140
+温州新闻,http://www.jeremyoto.com:82/rtp/233.50.201.87:5140
+衢州新闻,http://www.jeremyoto.com:82/rtp/233.50.201.155:5140
+绍兴新闻,http://www.jeremyoto.com:82/rtp/233.50.201.156:5140
+台州-1,http://www.jeremyoto.com:82/rtp/233.50.201.157:5140
+湖州公共,http://www.jeremyoto.com:82/rtp/233.50.201.158:5140
+金华新闻,http://www.jeremyoto.com:82/rtp/233.50.201.161:5140
+丽水新闻,http://www.jeremyoto.com:82/rtp/233.50.201.162:5140
+嘉兴新闻,http://www.jeremyoto.com:82/rtp/233.50.201.163:5140
+桐乡新闻,http://www.jeremyoto.com:82/rtp/233.50.201.169:5140
+杭州导视,http://www.jeremyoto.com:82/rtp/233.50.201.182:5140
+之江记录,http://www.jeremyoto.com:82/rtp/233.50.202.25:5140
+优优宝贝,http://www.jeremyoto.com:82/rtp/233.50.202.24:5140
+YMG新闻,http://www.jeremyoto.com:82//rtp/233.50.201.159:5140
 
 YY轮播,#genre#
 好久不见-武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355914397
