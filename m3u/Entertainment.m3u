@@ -192,6 +192,8 @@ http://www.tico2.eu.org:4022/rtp/239.69.1.60:9994
 #EXTINF:-1 ,武汉教育
 http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
 #EXTINF:-1 ,快乐垂钓
+http://www.jeremyoto.com:82/rtp/233.50.201.109:5140
+#EXTINF:-1 ,快乐垂钓
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 #EXTINF:-1 ,快乐垂钓
 http://www.tico2.eu.org:4022/rtp/239.69.1.142:10488
@@ -201,6 +203,8 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
 http://ayolee.com:5253/udp/239.93.1.151:5140
 #EXTINF:-1 ,快乐垂钓
 http://ljiang108.top:8123/udp/239.93.1.151:5140
+#EXTINF:-1 ,茶频道
+http://www.jeremyoto.com:82/rtp/233.50.201.188:5140
 #EXTINF:-1 ,茶频道
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
 #EXTINF:-1 ,茶频道
@@ -309,6 +313,8 @@ http://a.ifsift.cn:8888/udp/239.253.43.55:5146
 http://a.ifsift.cn:8888/udp/239.253.43.56:5146
 #EXTINF:-1 ,佛山综合
 http://a.ifsift.cn:8888/udp/239.253.43.57:5146
+#EXTINF:-1 ,BesTV
+http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
 #EXTINF:-1 ,百事通4K
 http://minecraft.qc0727.top:22222/udp/239.45.1.42:5140
 #EXTINF:-1 ,百事通4K
@@ -365,3 +371,55 @@ http://yuancw.eu.org:8088/udp/239.45.3.107:5140
 http://sh1.enjoymoe.com:8001/udp/239.45.3.107:5140
 #EXTINF:-1 ,百事通4K
 http://gongjin.x3322.net:8686/udp/239.45.3.107:5140
+#EXTINF:-1 ,浙江经济生活
+http://www.jeremyoto.com:82/rtp/233.50.201.133:5140
+#EXTINF:-1 ,浙江教育
+http://www.jeremyoto.com:82/rtp/233.50.201.134:5140
+#EXTINF:-1 ,浙江民生
+http://www.jeremyoto.com:82/rtp/233.50.201.136:5140
+#EXTINF:-1 ,浙江新闻
+http://www.jeremyoto.com:82/rtp/233.50.201.137:5140
+#EXTINF:-1 ,浙江少儿
+http://www.jeremyoto.com:82/rtp/233.50.201.138:5140
+#EXTINF:-1 ,钱江频道
+http://www.jeremyoto.com:82/rtp/233.50.201.132:5140
+#EXTINF:-1 ,杭州1综合
+http://www.jeremyoto.com:82/rtp/233.50.201.173:5140
+#EXTINF:-1 ,杭州2明珠
+http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
+#EXTINF:-1 ,杭州3生活
+http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
+#EXTINF:-1 ,杭州4影视
+http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
+#EXTINF:-1 ,杭州5青少
+http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
+#EXTINF:-1 ,杭州导视
+http://www.jeremyoto.com:82//rtp/233.50.201.182:5140
+#EXTINF:-1 ,杭州导视
+http://www.jeremyoto.com:82/rtp/233.50.201.182:5140
+#EXTINF:-1 ,宁波TV1
+http://www.jeremyoto.com:82/rtp/233.50.201.168:5140
+#EXTINF:-1 ,宁波TV2
+http://www.jeremyoto.com:82/rtp/233.50.201.178:5140
+#EXTINF:-1 ,宁波TV3
+http://www.jeremyoto.com:82/rtp/233.50.201.179:5140
+#EXTINF:-1 ,宁波TV4
+http://www.jeremyoto.com:82/rtp/233.50.201.180:5140
+#EXTINF:-1 ,温州新闻
+http://www.jeremyoto.com:82/rtp/233.50.201.87:5140
+#EXTINF:-1 ,绍兴新闻
+http://www.jeremyoto.com:82/rtp/233.50.201.156:5140
+#EXTINF:-1 ,湖州公共
+http://www.jeremyoto.com:82/rtp/233.50.201.158:5140
+#EXTINF:-1 ,金华新闻
+http://www.jeremyoto.com:82/rtp/233.50.201.161:5140
+#EXTINF:-1 ,丽水新闻
+http://www.jeremyoto.com:82/rtp/233.50.201.162:5140
+#EXTINF:-1 ,嘉兴新闻
+http://www.jeremyoto.com:82/rtp/233.50.201.163:5140
+#EXTINF:-1 ,桐乡新闻
+http://www.jeremyoto.com:82/rtp/233.50.201.169:5140
+#EXTINF:-1 ,之江记录
+http://www.jeremyoto.com:82/rtp/233.50.202.25:5140
+#EXTINF:-1 ,YMG新闻
+http://www.jeremyoto.com:82//rtp/233.50.201.159:5140
