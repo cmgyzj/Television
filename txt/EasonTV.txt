@@ -727,8 +727,10 @@ Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164
 百事通超级体育,http://yuancw.eu.org:8088/udp/239.45.3.139:5140
 百事通超级体育,http://sh1.enjoymoe.com:8001/udp/239.45.3.139:5140
 百事通超级体育,http://gongjin.x3322.net:8686/udp/239.45.3.139:5140
-北京体育休闲,http://124.205.11.242:91/live/BTVTYhd-8M/live.m3u8
-北京体育休闲,http://124.205.11.242:91/live/BTVTY-1500k/live.m3u8
+北京体育休闲,http://124.205.11.197:91/live/BTVTYhd-8M/live.m3u8
+北京体育休闲,http://124.205.11.197:91/live/BTVTY-1500k/live.m3u8
+北京体育休闲,http://124.193.37.38:91/live/BTVTYhd-8M/live.m3u8
+北京体育休闲,http://124.193.37.38:91/live/BTVTY-1500k/live.m3u8
 
 卫视频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
