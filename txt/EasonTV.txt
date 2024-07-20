@@ -1405,11 +1405,6 @@ YMG新闻,http://www.jeremyoto.com:82//rtp/233.50.201.159:5140
 北京纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 北京国际频道,http://114.246.183.121:4022/rtp/239.3.1.235:8000
-江苏新闻,http://20240504.shunyue1809.com:6321/udp/239.49.8.120:8000
-江苏城市,http://20240504.shunyue1809.com:6321/udp/239.49.8.107:8000
-江苏综艺,http://20240504.shunyue1809.com:6321/udp/239.49.8.108:8000
-江苏影视,http://20240504.shunyue1809.com:6321/udp/239.49.8.118:8000
-江苏教育,http://20240504.shunyue1809.com:6321/udp/239.49.8.122:8000
 
 YY轮播,#genre#
 好久不见-武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355914397
