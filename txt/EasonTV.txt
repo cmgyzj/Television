@@ -762,7 +762,6 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.flv
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 足球频道,rtmp://nmglive.imfc.cn/5n1r1c/182396
-新疆体育休闲,http://vip.ott-iptv.top/xue/xinjiang.php?id=XJTV-10
 
 卫视频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
