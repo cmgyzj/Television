@@ -11,11 +11,13 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
 #EXTINF:-1 ,CCTV4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 ,CCTV4
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 ,CCTV4K
+#EXTINF:-1 ,CCTV4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 ,CCTV5
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -25,6 +27,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 ,CCTV5+
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
 #EXTINF:-1 ,CCTV6
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 ,CCTV6
@@ -49,6 +53,8 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000373/ind
 http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 ,CCTV10
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5OuXozn3alq9%2BUx7ZLG1w9aOfkLjZvYj56D3xkOAtSOIoLsdw8c1%2BCwLDg1aS4esN4
 #EXTINF:-1 ,CCTV10
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
 #EXTINF:-1 ,CCTV11
@@ -101,132 +107,140 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000494/ind
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 #EXTINF:-1 ,第一剧场
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
-#EXTINF:-1 ,央视高网
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
-#EXTINF:-1 ,央视台球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 #EXTINF:-1 ,风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 #EXTINF:-1 ,世界地理
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
-#EXTINF:-1 ,CETV-1
-http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000481
-#EXTINF:-1 ,CETV-1
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
-#EXTINF:-1 ,CETV-1
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 ,央视高网
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+#EXTINF:-1 ,央视台球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 #EXTINF:-1 ,CETV-1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 ,CETV-1
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 ,CETV-1
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
+#EXTINF:-1 ,CETV-1
+http://28901.noip.us.to:4000/udp/239.45.1.125:5140
+#EXTINF:-1 ,CETV-1
+http://gongjin.x3322.net:8686/udp/239.45.1.125:5140
+#EXTINF:-1 ,CETV-1
+http://home.nuaa.us.to:4000/udp/239.45.1.125:5140
+#EXTINF:-1 ,CETV-1
+http://hwylivehd.centv.cn/cetv1/ypd.m3u8
+#EXTINF:-1 ,CETV-1
 http://minecraft.qc0727.top:22222/udp/239.45.1.125:5140
-#EXTINF:-1 ,CETV-1
-http://server.qingyuga.me:8888/udp/239.45.1.125:5140
-#EXTINF:-1 ,CETV-1
-http://origin.lean.org.cn:4000/udp/239.45.1.125:5140
 #EXTINF:-1 ,CETV-1
 http://n.lualu.io:18888/udp/239.45.1.125:5140
 #EXTINF:-1 ,CETV-1
-http://www.pptt.one:5002/udp/239.45.1.125:5140
+http://origin.lean.org.cn:4000/udp/239.45.1.125:5140
+#EXTINF:-1 ,CETV-1
+http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000481
+#EXTINF:-1 ,CETV-1
+http://server.qingyuga.me:8888/udp/239.45.1.125:5140
+#EXTINF:-1 ,CETV-1
+http://sh1.enjoymoe.com:8001/udp/239.45.1.125:5140
 #EXTINF:-1 ,CETV-1
 http://vpn.rogerxlj.top:9998/udp/239.45.1.125:5140
 #EXTINF:-1 ,CETV-1
 http://wein66.ddnsfree.com:4022/udp/239.45.1.125:5140
 #EXTINF:-1 ,CETV-1
-http://www.wein66.eu.org:4022/udp/239.45.1.125:5140
-#EXTINF:-1 ,CETV-1
-http://home.nuaa.us.to:4000/udp/239.45.1.125:5140
-#EXTINF:-1 ,CETV-1
-http://28901.noip.us.to:4000/udp/239.45.1.125:5140
-#EXTINF:-1 ,CETV-1
 http://www.pptongtong.top:5002/udp/239.45.1.125:5140
 #EXTINF:-1 ,CETV-1
+http://www.pptt.one:5002/udp/239.45.1.125:5140
+#EXTINF:-1 ,CETV-1
+http://www.wein66.eu.org:4022/udp/239.45.1.125:5140
+#EXTINF:-1 ,CETV-1
 http://yuancw.eu.org:8088/udp/239.45.1.125:5140
-#EXTINF:-1 ,CETV-1
-http://sh1.enjoymoe.com:8001/udp/239.45.1.125:5140
-#EXTINF:-1 ,CETV-1
-http://gongjin.x3322.net:8686/udp/239.45.1.125:5140
 #EXTINF:-1 ,CETV-2
-http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000221
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 ,CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 ,CETV-2
+http://28901.noip.us.to:4000/udp/239.45.1.52:5140
+#EXTINF:-1 ,CETV-2
+http://gongjin.x3322.net:8686/udp/239.45.1.52:5140
+#EXTINF:-1 ,CETV-2
+http://home.nuaa.us.to:4000/udp/239.45.1.52:5140
+#EXTINF:-1 ,CETV-2
+http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
+#EXTINF:-1 ,CETV-2
 http://minecraft.qc0727.top:22222/udp/239.45.1.52:5140
-#EXTINF:-1 ,CETV-2
-http://server.qingyuga.me:8888/udp/239.45.1.52:5140
-#EXTINF:-1 ,CETV-2
-http://origin.lean.org.cn:4000/udp/239.45.1.52:5140
 #EXTINF:-1 ,CETV-2
 http://n.lualu.io:18888/udp/239.45.1.52:5140
 #EXTINF:-1 ,CETV-2
-http://www.pptt.one:5002/udp/239.45.1.52:5140
+http://origin.lean.org.cn:4000/udp/239.45.1.52:5140
+#EXTINF:-1 ,CETV-2
+http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000221
+#EXTINF:-1 ,CETV-2
+http://server.qingyuga.me:8888/udp/239.45.1.52:5140
+#EXTINF:-1 ,CETV-2
+http://sh1.enjoymoe.com:8001/udp/239.45.1.52:5140
 #EXTINF:-1 ,CETV-2
 http://vpn.rogerxlj.top:9998/udp/239.45.1.52:5140
 #EXTINF:-1 ,CETV-2
 http://wein66.ddnsfree.com:4022/udp/239.45.1.52:5140
 #EXTINF:-1 ,CETV-2
-http://www.wein66.eu.org:4022/udp/239.45.1.52:5140
-#EXTINF:-1 ,CETV-2
-http://home.nuaa.us.to:4000/udp/239.45.1.52:5140
-#EXTINF:-1 ,CETV-2
-http://28901.noip.us.to:4000/udp/239.45.1.52:5140
-#EXTINF:-1 ,CETV-2
 http://www.pptongtong.top:5002/udp/239.45.1.52:5140
 #EXTINF:-1 ,CETV-2
+http://www.pptt.one:5002/udp/239.45.1.52:5140
+#EXTINF:-1 ,CETV-2
+http://www.wein66.eu.org:4022/udp/239.45.1.52:5140
+#EXTINF:-1 ,CETV-2
 http://yuancw.eu.org:8088/udp/239.45.1.52:5140
-#EXTINF:-1 ,CETV-2
-http://sh1.enjoymoe.com:8001/udp/239.45.1.52:5140
-#EXTINF:-1 ,CETV-2
-http://gongjin.x3322.net:8686/udp/239.45.1.52:5140
-#EXTINF:-1 ,CETV-2
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 ,CETV-3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-#EXTINF:-1 ,CETV-3
-https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/2f665915b0-0-0-08b800b5bdd1f6d3f61a673c5eb1afec/index.m3u8
 #EXTINF:-1 ,CETV-3
 http://110.185.171.226:96/dl.php?id=cetv3
 #EXTINF:-1 ,CETV-3
 http://110.185.171.226:96/gitv.php?id=G_CETV-3
 #EXTINF:-1 ,CETV-3
+http://120.87.97.245:8114/GD_CUCC/G_CETV-3.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdCgYq44OS2lGGP%2F2VZkWJKdWicrKJxf2lL%2Fth7XAZsl&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144818786&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb34558dff2a8&FvSeid=88fe5578af1a8bf0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3172&Fsv_chan_hls_se_idx=34&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-3&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 ,CETV-3
 http://221.4.143.70:8114/GD_CUCC/G_CETV-3.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
 #EXTINF:-1 ,CETV-3
-http://120.87.97.245:8114/GD_CUCC/G_CETV-3.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdCgYq44OS2lGGP%2F2VZkWJKdWicrKJxf2lL%2Fth7XAZsl&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144818786&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb34558dff2a8&FvSeid=88fe5578af1a8bf0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3172&Fsv_chan_hls_se_idx=34&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-3&Fsv_CMSID=GD_CUCC
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+#EXTINF:-1 ,CETV-3
+http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
+#EXTINF:-1 ,CETV-3
+https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/2f665915b0-0-0-08b800b5bdd1f6d3f61a673c5eb1afec/index.m3u8
+#EXTINF:-1 ,CETV-4
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 ,CETV-4
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 ,CETV-4
+http://28901.noip.us.to:4000/udp/239.45.1.50:5140
+#EXTINF:-1 ,CETV-4
+http://gongjin.x3322.net:8686/udp/239.45.1.50:5140
+#EXTINF:-1 ,CETV-4
+http://home.nuaa.us.to:4000/udp/239.45.1.50:5140
+#EXTINF:-1 ,CETV-4
+http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
+#EXTINF:-1 ,CETV-4
+http://minecraft.qc0727.top:22222/udp/239.45.1.50:5140
+#EXTINF:-1 ,CETV-4
+http://n.lualu.io:18888/udp/239.45.1.50:5140
+#EXTINF:-1 ,CETV-4
+http://origin.lean.org.cn:4000/udp/239.45.1.50:5140
 #EXTINF:-1 ,CETV-4
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031126
 #EXTINF:-1 ,CETV-4
 http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000219
 #EXTINF:-1 ,CETV-4
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 ,CETV-4
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 ,CETV-4
-http://minecraft.qc0727.top:22222/udp/239.45.1.50:5140
-#EXTINF:-1 ,CETV-4
 http://server.qingyuga.me:8888/udp/239.45.1.50:5140
 #EXTINF:-1 ,CETV-4
-http://origin.lean.org.cn:4000/udp/239.45.1.50:5140
-#EXTINF:-1 ,CETV-4
-http://n.lualu.io:18888/udp/239.45.1.50:5140
-#EXTINF:-1 ,CETV-4
-http://www.pptt.one:5002/udp/239.45.1.50:5140
+http://sh1.enjoymoe.com:8001/udp/239.45.1.50:5140
 #EXTINF:-1 ,CETV-4
 http://vpn.rogerxlj.top:9998/udp/239.45.1.50:5140
 #EXTINF:-1 ,CETV-4
 http://wein66.ddnsfree.com:4022/udp/239.45.1.50:5140
 #EXTINF:-1 ,CETV-4
-http://www.wein66.eu.org:4022/udp/239.45.1.50:5140
-#EXTINF:-1 ,CETV-4
-http://home.nuaa.us.to:4000/udp/239.45.1.50:5140
-#EXTINF:-1 ,CETV-4
-http://28901.noip.us.to:4000/udp/239.45.1.50:5140
-#EXTINF:-1 ,CETV-4
 http://www.pptongtong.top:5002/udp/239.45.1.50:5140
 #EXTINF:-1 ,CETV-4
+http://www.pptt.one:5002/udp/239.45.1.50:5140
+#EXTINF:-1 ,CETV-4
+http://www.wein66.eu.org:4022/udp/239.45.1.50:5140
+#EXTINF:-1 ,CETV-4
 http://yuancw.eu.org:8088/udp/239.45.1.50:5140
-#EXTINF:-1 ,CETV-4
-http://sh1.enjoymoe.com:8001/udp/239.45.1.50:5140
-#EXTINF:-1 ,CETV-4
-http://gongjin.x3322.net:8686/udp/239.45.1.50:5140
 #EXTINF:-1 ,CETV早期教育
 http://110.185.171.226:96/dl.php?id=zqjy
 #EXTINF:-1 ,CETV早期教育
@@ -235,55 +249,63 @@ http://110.185.171.226:96/gitv.php?id=G_CETV-ZQJY-CQ
 http://221.4.143.70:8114/GD_CUCC/G_CETV-ZQJY-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
 #EXTINF:-1 ,CETV早期教育
 http://27.40.16.69:8114/GD_CUCC/G_CETV-ZQJY-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZgEcPJzku%2FK%2BhOejG8m3LLDzTKwBfpzpjpJgpyYO6Z%2F&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714145054552&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb51ce8e2b668&FvSeid=88fe5578af1e3b0b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4280&Fsv_chan_hls_se_idx=62&Fsv_TBt=8000472&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-ZQJY-CQ&Fsv_CMSID=GD_CUCC
-#EXTINF:-1 ,CGTN英语
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 ,CGTN英语
-https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1ebad00c0e0d9d51c16.m3u8
-#EXTINF:-1 ,CGTN英语
-https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
-#EXTINF:-1 ,CGTN英语
-https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8
-#EXTINF:-1 ,CGTN英语
-https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.m3u8
-#EXTINF:-1 ,CGTN英语
-https://epg.pw/stream/78b5f95a56e6da209d5526a6a296ced51b24d5cb721150f27946987584e919e9.m3u8
-#EXTINF:-1 ,CGTN英语
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 ,CGTN西语
-https://epg.pw/stream/8b596954e62a0aa4dcf41f14c542dc887f189abc7ce6ce217e03593fb27f1177.m3u8
-#EXTINF:-1 ,CGTN西语
-https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8
-#EXTINF:-1 ,CGTN西语
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,CGTN纪录
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-#EXTINF:-1 ,CGTN纪录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 ,CGTN纪录
-https://epg.pw/stream/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
-#EXTINF:-1 ,CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 ,CGTN法语
-https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb383609ebcc6.m3u8
-#EXTINF:-1 ,CGTN法语
-https://epg.pw/stream/a702c44b06116aca1f55bf5a48a9f1127c049e1caabd50d8fe9e768e2b36d89c.m3u8
-#EXTINF:-1 ,CGTN法语
-https://epg.pw/stream/6723248de2e481ba139fb6b36925ec8f4409526bb9c328e669fa45c2e1ef97f0.m3u8
-#EXTINF:-1 ,CGTN法语
-https://epg.pw/stream/188fe37ecb52722c555201897d62a9baeee0b2ee0e1c2ddd988a660181bb0a6a.m3u8
-#EXTINF:-1 ,CGTN俄语
-https://epg.pw/stream/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8
-#EXTINF:-1 ,CGTN俄语
-http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 ,CGTN测试
-https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825de4405c63e4eef621.m3u8
 #EXTINF:-1 ,CGTN阿语
-https://epg.pw/stream/f9e8788ff2ad199de59777caff6a74f045211276f86f4bc93defb00cb6b7e650.m3u8
-#EXTINF:-1 ,CGTN阿语
-https://epg.pw/stream/7dd6a67cf3bce31b29bcf0f1f2b6531955749f7df4234b1a7ec9b7dfa704ca36.m3u8
+http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 ,CGTN阿语
 https://epg.pw/stream/06c5a5053c524b666355da3903574c3f4f9d3c26808c38ef3f0478870ef8f8b4.m3u8
 #EXTINF:-1 ,CGTN阿语
-http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 ,CGNTV Japan
-https://epg.pw/stream/f3561ebd73ca546b46addbac3d34839fd6183430400dcddf2a10a9d18a777b48.m3u8
+https://epg.pw/stream/7dd6a67cf3bce31b29bcf0f1f2b6531955749f7df4234b1a7ec9b7dfa704ca36.m3u8
+#EXTINF:-1 ,CGTN阿语
+https://epg.pw/stream/f9e8788ff2ad199de59777caff6a74f045211276f86f4bc93defb00cb6b7e650.m3u8
+#EXTINF:-1 ,CGTN测试
+https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825de4405c63e4eef621.m3u8
+#EXTINF:-1 ,CGTN俄语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,CGTN俄语
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 ,CGTN俄语
+https://epg.pw/stream/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8
+#EXTINF:-1 ,CGTN法语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,CGTN法语
+https://epg.pw/stream/188fe37ecb52722c555201897d62a9baeee0b2ee0e1c2ddd988a660181bb0a6a.m3u8
+#EXTINF:-1 ,CGTN法语
+https://epg.pw/stream/6723248de2e481ba139fb6b36925ec8f4409526bb9c328e669fa45c2e1ef97f0.m3u8
+#EXTINF:-1 ,CGTN法语
+https://epg.pw/stream/a702c44b06116aca1f55bf5a48a9f1127c049e1caabd50d8fe9e768e2b36d89c.m3u8
+#EXTINF:-1 ,CGTN法语
+https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb383609ebcc6.m3u8
+#EXTINF:-1 ,CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,CGTN记录
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,CGTN纪录
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+#EXTINF:-1 ,CGTN纪录
+https://epg.pw/stream/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
+#EXTINF:-1 ,CGTN纪录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 ,CGTN西语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,CGTN西语
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,CGTN西语
+https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8
+#EXTINF:-1 ,CGTN西语
+https://epg.pw/stream/8b596954e62a0aa4dcf41f14c542dc887f189abc7ce6ce217e03593fb27f1177.m3u8
+#EXTINF:-1 ,CGTN英语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,CGTN英语
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,CGTN英语
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 ,CGTN英语
+https://epg.pw/stream/78b5f95a56e6da209d5526a6a296ced51b24d5cb721150f27946987584e919e9.m3u8
+#EXTINF:-1 ,CGTN英语
+https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.m3u8
+#EXTINF:-1 ,CGTN英语
+https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8
+#EXTINF:-1 ,CGTN英语
+https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
+#EXTINF:-1 ,CGTN英语
+https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1ebad00c0e0d9d51c16.m3u8
