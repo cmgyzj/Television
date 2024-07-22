@@ -373,12 +373,6 @@ http://nmglive.imfc.cn/5n1r1c/182396.flv
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 ,足球频道
 rtmp://nmglive.imfc.cn/5n1r1c/182396
-#EXTINF:-1 ,NOW财经台
-p3p://108.181.32.169:18943/641020d00004bf91985a212731011c3c
-#EXTINF:-1 ,NOW直播台
-p3p://108.181.32.169:18943/6417e77b0007feb1b6b9f4ca25bc6e04
-#EXTINF:-1 ,NOW新闻台
-p3p://108.181.32.169:18943/6410254c0006df63986ba60f292a7500
 #EXTINF:-1 ,Now体育英超
 p3p://108.181.32.169:18943/64b8f92b000089e02be334b114c32320
 #EXTINF:-1 ,Nowplus
