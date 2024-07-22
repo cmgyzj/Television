@@ -48,4 +48,4 @@ YY轮播：
 虎牙斗鱼：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/Huya_Doyu.m3u</code></p>
 
-# 注意：因直播源格式协议支持问题，iOS系统目前未找到支持mitv协议的播放器，故无法播放所有台湾频道和部分体育频道。如需收看这些频道，请转移到安卓设备，安装DIYP影音并开启"玩转原力"模式，才能正常播放这些频道！
+# 注意：因直播源格式协议支持问题，iOS系统目前未找到支持mitv,p2p-p6p等协议的播放器，故无法播放所有台湾频道和部分体育频道。如需收看这些频道，请转移到安卓设备，安装DIYP影音并开启"玩转原力"模式，才能正常播放这些频道！
