@@ -198,17 +198,17 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 ,佛山公共
-http://a.ifsift.cn:8888/udp/239.253.43.53:5146
+http://113.100.72.213:8899/udp/239.253.43.53:5146
 #EXTINF:-1 ,佛山南海
-http://a.ifsift.cn:8888/udp/239.253.43.54:5146
+http://113.100.72.213:8899/udp/239.253.43.54:5146
 #EXTINF:-1 ,佛山南海
-http://a.ifsift.cn:8888/udp/239.77.0.236:5146
+http://113.100.72.213:8899/udp/239.77.0.236:5146
 #EXTINF:-1 ,佛山顺德
-http://a.ifsift.cn:8888/udp/239.253.43.55:5146
+http://113.100.72.213:8899/udp/239.253.43.55:5146
 #EXTINF:-1 ,佛山影视
-http://a.ifsift.cn:8888/udp/239.253.43.56:5146
+http://113.100.72.213:8899/udp/239.253.43.56:5146
 #EXTINF:-1 ,佛山综合
-http://a.ifsift.cn:8888/udp/239.253.43.57:5146
+http://113.100.72.213:8899/udp/239.253.43.57:5146
 #EXTINF:-1 ,甘肃都市
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
 #EXTINF:-1 ,甘肃公共应急
@@ -456,21 +456,21 @@ http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 ,绍兴新闻
 http://www.jeremyoto.com:82/rtp/233.50.201.156:5140
 #EXTINF:-1 ,深圳宝安
-http://a.ifsift.cn:8888/udp/239.77.1.67:5146
+http://113.100.72.213:8899/udp/239.77.1.67:5146
 #EXTINF:-1 ,深圳宝安
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.67:5146
 #EXTINF:-1 ,深圳宝安第一课
-http://a.ifsift.cn:8888/udp/239.77.1.225:5146
+http://113.100.72.213:8899/udp/239.77.1.225:5146
 #EXTINF:-1 ,深圳财经生活
 http://120.76.248.139/live/otvgd/48.m3u8?bt=1300
 #EXTINF:-1 ,深圳财经生活
-http://a.ifsift.cn:8888/udp/239.77.1.242:5146
+http://113.100.72.213:8899/udp/239.77.1.242:5146
 #EXTINF:-1 ,深圳电视剧
 http://120.76.248.139/live/otvgd/47.m3u8?bt=1300
 #EXTINF:-1 ,深圳电视剧
-http://a.ifsift.cn:8888/udp/239.77.1.125:5146
+http://113.100.72.213:8899/udp/239.77.1.125:5146
 #EXTINF:-1 ,深圳电视剧
-http://a.ifsift.cn:8888/udp/239.77.1.177:5146
+http://113.100.72.213:8899/udp/239.77.1.177:5146
 #EXTINF:-1 ,深圳电视剧
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.125:5146
 #EXTINF:-1 ,深圳电视剧
@@ -478,11 +478,11 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.1.177:5146
 #EXTINF:-1 ,深圳都市
 http://120.76.248.139/live/otvgd/46.m3u8?bt=1300
 #EXTINF:-1 ,深圳都市
-http://a.ifsift.cn:8888/udp/239.77.1.124:5146
+http://113.100.72.213:8899/udp/239.77.1.124:5146
 #EXTINF:-1 ,深圳都市
-http://a.ifsift.cn:8888/udp/239.77.1.176:5146
+http://113.100.72.213:8899/udp/239.77.1.176:5146
 #EXTINF:-1 ,深圳都市
-http://a.ifsift.cn:8888/udp/239.77.1.34:5146
+http://113.100.72.213:8899/udp/239.77.1.34:5146
 #EXTINF:-1 ,深圳都市
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.124:5146
 #EXTINF:-1 ,深圳都市
@@ -490,29 +490,29 @@ http://l2tp.yeedah.xyz:8000/udp/239.77.1.176:5146
 #EXTINF:-1 ,深圳公共
 http://120.76.248.139/live/otvgd/52.m3u8?bt=1300
 #EXTINF:-1 ,深圳公共
-http://a.ifsift.cn:8888/udp/239.77.1.126:5146
+http://113.100.72.213:8899/udp/239.77.1.126:5146
 #EXTINF:-1 ,深圳公共
-http://a.ifsift.cn:8888/udp/239.77.1.178:5146
+http://113.100.72.213:8899/udp/239.77.1.178:5146
 #EXTINF:-1 ,深圳公共
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.126:5146
 #EXTINF:-1 ,深圳公共
 http://l2tp.yeedah.xyz:8000/udp/239.77.1.178:5146
 #EXTINF:-1 ,深圳龙岗
-http://a.ifsift.cn:8888/udp/239.77.1.223:5146
+http://113.100.72.213:8899/udp/239.77.1.223:5146
 #EXTINF:-1 ,深圳少儿
 http://120.76.248.139/live/otvgd/51.m3u8?bt=1300
 #EXTINF:-1 ,深圳少儿
-http://a.ifsift.cn:8888/udp/239.77.1.244:5146
+http://113.100.72.213:8899/udp/239.77.1.244:5146
 #EXTINF:-1 ,深圳宜和购物
-http://a.ifsift.cn:8888/udp/239.77.1.87:5146
+http://113.100.72.213:8899/udp/239.77.1.87:5146
 #EXTINF:-1 ,深圳移动电视
-http://a.ifsift.cn:8888/udp/239.77.1.175:5146
+http://113.100.72.213:8899/udp/239.77.1.175:5146
 #EXTINF:-1 ,深圳娱乐
 http://120.76.248.139/live/otvgd/49.m3u8?bt=1300
 #EXTINF:-1 ,深圳娱乐
-http://a.ifsift.cn:8888/udp/239.77.1.243:5146
+http://113.100.72.213:8899/udp/239.77.1.243:5146
 #EXTINF:-1 ,深圳众创TV
-http://a.ifsift.cn:8888/udp/239.77.1.247:5146
+http://113.100.72.213:8899/udp/239.77.1.247:5146
 #EXTINF:-1 ,桐乡新闻
 http://www.jeremyoto.com:82/rtp/233.50.201.169:5140
 #EXTINF:-1 ,温州新闻
@@ -564,9 +564,9 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1 ,肇庆生活服务
-http://a.ifsift.cn:8888/udp/239.253.43.2:5146
+http://113.100.72.213:8899/udp/239.253.43.2:5146
 #EXTINF:-1 ,肇庆综合
-http://a.ifsift.cn:8888/udp/239.253.43.1:5146
+http://113.100.72.213:8899/udp/239.253.43.1:5146
 #EXTINF:-1 ,浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 ,浙江教科
