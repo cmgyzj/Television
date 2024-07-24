@@ -352,6 +352,8 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
 #EXTINF:-1 ,武汉文体
 http://www.tico2.eu.org:4022/rtp/239.69.1.147:10518
 #EXTINF:-1 ,先锋乒羽
+http://113.100.72.213:8899/udp/239.77.1.208:5146
+#EXTINF:-1 ,先锋乒羽
 http://ayolee.com:5253/udp/239.93.42.56:5140
 #EXTINF:-1 ,先锋乒羽
 http://ljiang108.top:8123/udp/239.93.42.56:5140
