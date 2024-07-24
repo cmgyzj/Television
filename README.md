@@ -4,7 +4,7 @@
 
 # 订阅地址(txt格式)
 # 可支持订阅该格式软件：
-安卓：<a href="https://www.123pan.com/s/PMXuVv-fU74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">DIYP影音</a> , <a href="https://www.123pan.com/s/PMXuVv-9U74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">百川影音</a>
+安卓：<a href="https://www.123pan.com/s/PMXuVv-fU74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">DIYP影音</a> , <a href="https://www.123pan.com/s/PMXuVv-9U74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">百川影音</a>，<a href="https://down.fongmi.eu.org/#download" base target="_blank" title="该APP有手机版和TV版">FongMi影视 </a>
 
 iOS：<a href="https://apps.apple.com/cn/app/ntplayer/id1613758141?platform=iphone" target="_blank">ntPlayer</a>, <a href="https://apps.apple.com/cn/app/aptv/id1630403500?platform=iphone" target="_blank" title="该APP只能订阅一组订阅链接,订阅多个链接需要付费解锁高级版,其他APP不存在该问题">APTV</a>
 
