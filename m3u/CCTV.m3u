@@ -277,7 +277,7 @@ https://epg.pw/stream/a702c44b06116aca1f55bf5a48a9f1127c049e1caabd50d8fe9e768e2b
 https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb383609ebcc6.m3u8
 #EXTINF:-1 ,CGTN法语
 https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 ,CGTN记录
+#EXTINF:-1 ,CGTN纪录
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 #EXTINF:-1 ,CGTN纪录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
