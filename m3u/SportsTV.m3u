@@ -321,3 +321,7 @@ http://nmglive.imfc.cn/5n1r1c/182396.flv
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 ,足球频道
 rtmp://nmglive.imfc.cn/5n1r1c/182396
+#EXTINF:-1,北京体育休闲
+http://118.144.105.50:91/live/BTVTYhd-8M/live.m3u8
+#EXTINF:-1,北京体育休闲
+http://124.205.11.197:91/live/BTVTYhd-8M/live.m3u8
