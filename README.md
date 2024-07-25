@@ -14,6 +14,9 @@ iOS：<a href="https://apps.apple.com/cn/app/ntplayer/id1613758141?platform=ipho
 焦点169（由他人维护的直播源，包含港澳台频道等）：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/123linyao123/TV123/main/%E7%84%A6%E7%82%B9169.txt</code></p>
 
+159欧华（由他人维护的直播源，包含港澳台频道等）：
+<p dir="auto"><code>https://mirror.ghproxy.com/raw.githubusercontent.com/123linyao123/TV123/main/159%E6%AC%A7%E5%8D%8E.txt</code></p>
+
 # 订阅地址(m3u格式)
 # 可支持订阅该格式软件：
 安卓：<a href="https://www.videolan.org/vlc/download-android.html" target="_blank">VLC for Android</a> , <a href="https://www.123pan.com/s/PMXuVv-fG74H.html" target="_blank" title="可安装在基于安卓系统的智能电视TV端">TiviMate</a>
