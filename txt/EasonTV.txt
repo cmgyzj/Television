@@ -1045,7 +1045,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-台湾频道,#genre#
 BBC Lifestyle,p2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
 民视,p2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
 台视,p2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
