@@ -152,7 +152,7 @@ http://124.205.11.197:91/live/BTVGJ-1500k/live.m3u8
 #EXTINF:-1 ,茶频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
 #EXTINF:-1 ,茶频道
-http://ayolee.com:5253/udp/239.93.0.114:5140
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.114:5140
 #EXTINF:-1 ,茶频道
 http://ljiang108.top:8123/udp/239.93.0.114:5140
 #EXTINF:-1 ,茶频道
@@ -172,27 +172,27 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,潮妈辣婆
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 ,成都都市生活
-http://ayolee.com:5253/udp/239.93.0.18:1238
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.18:1238
 #EXTINF:-1 ,成都都市生活
 http://ljiang108.top:8123/udp/239.93.0.18:1238
 #EXTINF:-1 ,成都经济资讯服务
-http://ayolee.com:5253/udp/239.93.0.17:1239
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.17:1239
 #EXTINF:-1 ,成都经济资讯服务
 http://ljiang108.top:8123/udp/239.93.0.17:1239
 #EXTINF:-1 ,成都每日电视购物
-http://ayolee.com:5253/udp/239.93.0.22:1252
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.22:1252
 #EXTINF:-1 ,成都每日电视购物
 http://ljiang108.top:8123/udp/239.93.0.22:1252
 #EXTINF:-1 ,成都少儿
-http://ayolee.com:5253/udp/239.93.0.21:1251
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.21:1251
 #EXTINF:-1 ,成都少儿
 http://ljiang108.top:8123/udp/239.93.0.21:1251
 #EXTINF:-1 ,成都新闻综合
-http://ayolee.com:5253/udp/239.93.0.16:5140
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.16:5140
 #EXTINF:-1 ,成都新闻综合
 http://ljiang108.top:8123/udp/239.93.0.16:5140
 #EXTINF:-1 ,成都影视文艺
-http://ayolee.com:5253/udp/239.93.0.19:1250
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.19:1250
 #EXTINF:-1 ,成都影视文艺
 http://ljiang108.top:8123/udp/239.93.0.19:1250
 #EXTINF:-1 ,哒啵电竞
@@ -382,7 +382,7 @@ p2p://generationnexxxt.com:19806/eaa3539d812f45878c95f848a77cfaea
 #EXTINF:-1 ,快乐垂钓
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
 #EXTINF:-1 ,快乐垂钓
-http://ayolee.com:5253/udp/239.93.1.151:5140
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.151:5140
 #EXTINF:-1 ,快乐垂钓
 http://ljiang108.top:8123/udp/239.93.1.151:5140
 #EXTINF:-1 ,快乐垂钓
