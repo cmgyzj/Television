@@ -294,7 +294,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
 #EXTINF:-1 ,山西卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 #EXTINF:-1 ,陕西农林卫视
-http://ayolee.com:5253/udp/239.93.0.100:5140
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.100:5140
 #EXTINF:-1 ,陕西农林卫视
 http://ljiang108.top:8123/udp/239.93.0.100:5140
 #EXTINF:-1 ,陕西农林卫视
