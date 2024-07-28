@@ -1,56 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,安多卫视
-http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 ,安多卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 ,安多卫视
-https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.m3u8
-#EXTINF:-1 ,安多卫视
-https://epg.pw/stream/95b7acadfe243421563fd853379c74b582b0886e903120e0a93b532f0b82f791.m3u8
-#EXTINF:-1 ,安徽卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?IAS
-#EXTINF:-1 ,澳门卫视
-http://histar.zapi.us.kg:80/?id=mstv
-#EXTINF:-1 ,澳亚卫视
-http://110.185.171.226:96/xsj.php?id=mastv
-#EXTINF:-1 ,澳亚卫视
-http://histar.zapi.us.kg:80/?id=mastv
-#EXTINF:-1 ,澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 ,北京卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 ,兵团卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-#EXTINF:-1 ,兵团卫视
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 ,兵团卫视
-https://epg.pw/stream/10dc9c304b7bb98b01b4b71c611b2652e2926e22a6698164ea0b488963e8b81d.m3u8
-#EXTINF:-1 ,兵团卫视
-https://epg.pw/stream/27542fbfebea09ad0d5b9d3859f26fa826ff4e1c0830920adc5486cb1a0691b4.m3u8
-#EXTINF:-1 ,兵团卫视
-https://epg.pw/stream/9da2ed3678586fb5fdd656ac8d626e807a78dc56c0effa2788e84f609f1c71f3.m3u8
-#EXTINF:-1 ,兵团卫视
-https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
-#EXTINF:-1 ,大湾区卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:-1 ,大湾区卫视
-https://epg.pw/stream/c079dca70700c8feb4f52998795bbdb5dc4b21508edc7b98e99429c0492694f3.m3u8
-#EXTINF:-1 ,大湾区卫视
-https://epg.pw/stream/e1fa4100dc5602bd3a35c54450d8a946eb726a0f637b365ce2082ccaf28bdaa8.m3u8
-#EXTINF:-1 ,大湾区卫视
-https://epg.pw/stream/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8
-#EXTINF:-1 ,大湾区卫视
-https://epg.pw/stream/fc7d2aa746d5b2c01f6c94e13479e0d40c23ad204d66f58c2f578f77ee7d4e57.m3u8
+#EXTINF:-1 ,东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000182
 #EXTINF:-1 ,东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 ,东方卫视
@@ -60,308 +12,832 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
 #EXTINF:-1 ,东方卫视
-http://28901.noip.us.to:4000/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://28901.noip.us.to:4000/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://gongjin.x3322.net:8686/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://gongjin.x3322.net:8686/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://home.nuaa.us.to:4000/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://home.nuaa.us.to:4000/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://minecraft.qc0727.top:22222/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://n.lualu.io:18888/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://n.lualu.io:18888/udp/239.45.3.61:5140
+http://server.qingyuga.me:8888/udp/239.45.3.146:5140
 #EXTINF:-1 ,东方卫视
 http://origin.lean.org.cn:4000/udp/239.45.3.146:5140
 #EXTINF:-1 ,东方卫视
-http://origin.lean.org.cn:4000/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000182
-#EXTINF:-1 ,东方卫视
-http://server.qingyuga.me:8888/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://server.qingyuga.me:8888/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://sh1.enjoymoe.com:8001/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://sh1.enjoymoe.com:8001/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://vpn.rogerxlj.top:9998/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://vpn.rogerxlj.top:9998/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://wein66.ddnsfree.com:4022/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://wein66.ddnsfree.com:4022/udp/239.45.3.61:5140
-#EXTINF:-1 ,东方卫视
-http://www.pptongtong.top:5002/udp/239.45.3.146:5140
-#EXTINF:-1 ,东方卫视
-http://www.pptongtong.top:5002/udp/239.45.3.61:5140
+http://n.lualu.io:18888/udp/239.45.3.146:5140
 #EXTINF:-1 ,东方卫视
 http://www.pptt.one:5002/udp/239.45.3.146:5140
 #EXTINF:-1 ,东方卫视
-http://www.pptt.one:5002/udp/239.45.3.61:5140
+http://vpn.rogerxlj.top:9998/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://wein66.ddnsfree.com:4022/udp/239.45.3.146:5140
 #EXTINF:-1 ,东方卫视
 http://www.wein66.eu.org:4022/udp/239.45.3.146:5140
 #EXTINF:-1 ,东方卫视
-http://www.wein66.eu.org:4022/udp/239.45.3.61:5140
+http://home.nuaa.us.to:4000/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://28901.noip.us.to:4000/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://www.pptongtong.top:5002/udp/239.45.3.146:5140
 #EXTINF:-1 ,东方卫视
 http://yuancw.eu.org:8088/udp/239.45.3.146:5140
 #EXTINF:-1 ,东方卫视
+http://sh1.enjoymoe.com:8001/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://gongjin.x3322.net:8686/udp/239.45.3.146:5140
+#EXTINF:-1 ,东方卫视
+http://minecraft.qc0727.top:22222/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://server.qingyuga.me:8888/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://origin.lean.org.cn:4000/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://n.lualu.io:18888/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://www.pptt.one:5002/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://vpn.rogerxlj.top:9998/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://wein66.ddnsfree.com:4022/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://www.wein66.eu.org:4022/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://home.nuaa.us.to:4000/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://28901.noip.us.to:4000/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://www.pptongtong.top:5002/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
 http://yuancw.eu.org:8088/udp/239.45.3.61:5140
-#EXTINF:-1 ,东南卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?IAS
-#EXTINF:-1 ,甘肃卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031121
-#EXTINF:-1 ,广东卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?IAS
-#EXTINF:-1 ,广西卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226030/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
-#EXTINF:-1 ,海南卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
-#EXTINF:-1 ,海峡卫视
-http://php.jdshipin.com:8880/bestv.php?id=hxwshd4m/4000000
-#EXTINF:-1 ,海峡卫视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
-#EXTINF:-1 ,河北卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?IAS
-#EXTINF:-1 ,河南卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000175/index.m3u8?IAS
-#EXTINF:-1 ,湖北卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000250/index.m3u8?IAS
-#EXTINF:-1 ,湖南卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 ,黄河卫视
-http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 ,吉林卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226013/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
-#EXTINF:-1 ,江苏卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225938/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000522/index.m3u8?IAS
-#EXTINF:-1 ,康巴卫视
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 ,康巴卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 ,康巴卫视
-http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000266002
-#EXTINF:-1 ,康巴卫视
-https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000367
-#EXTINF:-1 ,内蒙古蒙古语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-#EXTINF:-1 ,内蒙古卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 ,内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-#EXTINF:-1 ,宁夏卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
-#EXTINF:-1 ,宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-#EXTINF:-1 ,青海卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
-#EXTINF:-1 ,青海卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?IAS
-#EXTINF:-1 ,三沙卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-#EXTINF:-1 ,三沙卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000208/index.m3u8?IAS
-#EXTINF:-1 ,三沙卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 ,三沙卫视
-http://php.jdshipin.com:8880/TVOD/hnyd.php?id=08984400000000060000000000000319
-#EXTINF:-1 ,厦门卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
-#EXTINF:-1 ,厦门卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?1
-#EXTINF:-1 ,厦门卫视
-http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000193
-#EXTINF:-1 ,山东教育卫视
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225558/index.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/1.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://182.46.8.161:8018/hls/16/index.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://183.11.239.36:808/hls/72/index.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 ,山东教育卫视
-https://epg.pw/stream/e8d0ee833e202f47d4da442c98774d932f50c109ea7682b029baa1387c787d8e.m3u8
-#EXTINF:-1 ,山东卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000364/index.m3u8?IAS
-#EXTINF:-1 ,山西卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
-#EXTINF:-1 ,陕西农林卫视
-http://zhyfans.mycloudnas.com:8000/udp/239.93.0.100:5140
-#EXTINF:-1 ,陕西农林卫视
-http://ljiang108.top:8123/udp/239.93.0.100:5140
-#EXTINF:-1 ,陕西农林卫视
-http://php.jdshipin.com:8880/qly.php?id=6335
-#EXTINF:-1 ,陕西农林卫视
-https://epg.pw/stream/b6580d571ce867004e2f439aa34969e7b2dc9e820c9fcf85be54a9729e2de629.m3u8
-#EXTINF:-1 ,陕西卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
-#EXTINF:-1 ,深圳卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225997/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?IAS
-#EXTINF:-1 ,西藏藏语卫视
-http://php.jdshipin.com:8880/xztv.php?id=zy
-#EXTINF:-1 ,西藏卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
-#EXTINF:-1 ,西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,新疆卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?IAS
-#EXTINF:-1 ,新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 ,星空卫视
-http://histar.zapi.us.kg:80/?id=star-xing-kong
-#EXTINF:-1 ,延边卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1 ,延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 ,延边卫视
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 ,延边卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
-#EXTINF:-1 ,云南卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
-#EXTINF:-1 ,浙江卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://sh1.enjoymoe.com:8001/udp/239.45.3.61:5140
+#EXTINF:-1 ,东方卫视
+http://gongjin.x3322.net:8686/udp/239.45.3.61:5140
+#EXTINF:-1 ,上海新闻综合
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,上海新闻综合
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,上海新闻综合
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
+#EXTINF:-1 ,上海新闻综合
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海新闻综合
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海新闻综合
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海新闻综合
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海新闻综合
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海新闻综合
+http://minecraft.qc0727.top:22222/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://server.qingyuga.me:8888/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://origin.lean.org.cn:4000/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://n.lualu.io:18888/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://www.pptt.one:5002/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://vpn.rogerxlj.top:9998/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://wein66.ddnsfree.com:4022/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://www.wein66.eu.org:4022/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://home.nuaa.us.to:4000/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://28901.noip.us.to:4000/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://www.pptongtong.top:5002/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://yuancw.eu.org:8088/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://sh1.enjoymoe.com:8001/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海新闻综合
+http://gongjin.x3322.net:8686/udp/239.45.3.209:5140
+#EXTINF:-1 ,上海都市
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,上海都市
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,上海都市
+http://minecraft.qc0727.top:22222/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://server.qingyuga.me:8888/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://origin.lean.org.cn:4000/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://n.lualu.io:18888/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://www.pptt.one:5002/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://vpn.rogerxlj.top:9998/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://wein66.ddnsfree.com:4022/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://www.wein66.eu.org:4022/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://home.nuaa.us.to:4000/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://28901.noip.us.to:4000/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://www.pptongtong.top:5002/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://yuancw.eu.org:8088/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://sh1.enjoymoe.com:8001/udp/239.45.3.236:5140
+#EXTINF:-1 ,上海都市
+http://gongjin.x3322.net:8686/udp/239.45.3.236:5140
+#EXTINF:-1 ,纪实人文
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 ,纪实人文
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 ,纪实人文
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 ,纪实人文
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/1.m3u8
+#EXTINF:-1 ,纪实人文
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 ,纪实人文
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/wd_r2/ocn/jspdhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,纪实人文
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/wd_r2/ocn/jspdhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,纪实人文
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/wd_r2/ocn/jspdhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,纪实人文
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/ocn/jspdhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,纪实人文
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/wd_r2/ocn/jspdhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,纪实人文
+http://minecraft.qc0727.top:22222/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://server.qingyuga.me:8888/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://origin.lean.org.cn:4000/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://n.lualu.io:18888/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://www.pptt.one:5002/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://vpn.rogerxlj.top:9998/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://wein66.ddnsfree.com:4022/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://www.wein66.eu.org:4022/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://home.nuaa.us.to:4000/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://28901.noip.us.to:4000/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://www.pptongtong.top:5002/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://yuancw.eu.org:8088/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://sh1.enjoymoe.com:8001/udp/239.45.3.212:5140
+#EXTINF:-1 ,纪实人文
+http://gongjin.x3322.net:8686/udp/239.45.3.212:5140
+#EXTINF:-1 ,东方影视
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,东方影视
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,东方影视
+http://php.jdshipin.com:8880/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1 ,东方影视
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
+#EXTINF:-1 ,东方影视
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,东方影视
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,东方影视
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,东方影视
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,东方影视
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,东方影视
+http://minecraft.qc0727.top:22222/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://server.qingyuga.me:8888/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://origin.lean.org.cn:4000/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://n.lualu.io:18888/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://www.pptt.one:5002/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://vpn.rogerxlj.top:9998/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://wein66.ddnsfree.com:4022/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://www.wein66.eu.org:4022/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://home.nuaa.us.to:4000/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://28901.noip.us.to:4000/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://www.pptongtong.top:5002/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://yuancw.eu.org:8088/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://sh1.enjoymoe.com:8001/udp/239.45.3.237:5140
+#EXTINF:-1 ,东方影视
+http://gongjin.x3322.net:8686/udp/239.45.3.237:5140
+#EXTINF:-1 ,第一财经
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,第一财经
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
+#EXTINF:-1 ,第一财经
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/wd_r1/2018/bestv/dycj/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,第一财经
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/wd_r1/2018/bestv/dycj/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,第一财经
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/wd_r1/2018/bestv/dycj/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,第一财经
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r1/2018/bestv/dycj/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,第一财经
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/wd_r1/2018/bestv/dycj/1000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,第一财经
+http://minecraft.qc0727.top:22222/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://server.qingyuga.me:8888/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://origin.lean.org.cn:4000/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://n.lualu.io:18888/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://www.pptt.one:5002/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://vpn.rogerxlj.top:9998/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://wein66.ddnsfree.com:4022/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://www.wein66.eu.org:4022/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://home.nuaa.us.to:4000/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://28901.noip.us.to:4000/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://www.pptongtong.top:5002/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://yuancw.eu.org:8088/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://sh1.enjoymoe.com:8001/udp/239.45.3.211:5140
+#EXTINF:-1 ,第一财经
+http://gongjin.x3322.net:8686/udp/239.45.3.211:5140
+#EXTINF:-1 ,五星体育
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
+#EXTINF:-1 ,五星体育
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,五星体育
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,五星体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
+#EXTINF:-1 ,五星体育
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 ,五星体育
+https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
+#EXTINF:-1 ,五星体育
+https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
+#EXTINF:-1 ,五星体育
+https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
+#EXTINF:-1 ,五星体育
+https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+#EXTINF:-1 ,五星体育
+http://minecraft.qc0727.top:22222/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://server.qingyuga.me:8888/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://n.lualu.io:18888/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://www.pptt.one:5002/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://vpn.rogerxlj.top:9998/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://wein66.ddnsfree.com:4022/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://www.wein66.eu.org:4022/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://home.nuaa.us.to:4000/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://28901.noip.us.to:4000/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://www.pptongtong.top:5002/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://yuancw.eu.org:8088/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://sh1.enjoymoe.com:8001/udp/239.45.3.210:5140
+#EXTINF:-1 ,五星体育
+http://gongjin.x3322.net:8686/udp/239.45.3.210:5140
+#EXTINF:-1 ,哈哈炫动
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://www.jeremyoto.com:82/rtp/233.50.201.74:5140
+#EXTINF:-1 ,哈哈炫动
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
+#EXTINF:-1 ,哈哈炫动
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225534/index.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010117/1.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://minecraft.qc0727.top:22222/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://server.qingyuga.me:8888/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://origin.lean.org.cn:4000/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://n.lualu.io:18888/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://www.pptt.one:5002/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://vpn.rogerxlj.top:9998/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://wein66.ddnsfree.com:4022/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://www.wein66.eu.org:4022/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://home.nuaa.us.to:4000/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://28901.noip.us.to:4000/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://www.pptongtong.top:5002/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://yuancw.eu.org:8088/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://sh1.enjoymoe.com:8001/udp/239.45.1.55:5140
+#EXTINF:-1 ,哈哈炫动
+http://gongjin.x3322.net:8686/udp/239.45.1.55:5140
+#EXTINF:-1 ,上海外语
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,上海外语
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,上海外语
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/wd_r4/dfl/waiyusd/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海外语
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/wd_r4/dfl/waiyusd/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海外语
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/wd_r4/dfl/waiyusd/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海外语
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r4/dfl/waiyusd/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海外语
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/wd_r4/dfl/waiyusd/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,上海外语
+http://minecraft.qc0727.top:22222/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://server.qingyuga.me:8888/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://origin.lean.org.cn:4000/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://n.lualu.io:18888/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://www.pptt.one:5002/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://vpn.rogerxlj.top:9998/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://wein66.ddnsfree.com:4022/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://www.wein66.eu.org:4022/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://home.nuaa.us.to:4000/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://28901.noip.us.to:4000/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://www.pptongtong.top:5002/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://yuancw.eu.org:8088/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://sh1.enjoymoe.com:8001/udp/239.45.1.127:5140
+#EXTINF:-1 ,上海外语
+http://gongjin.x3322.net:8686/udp/239.45.1.127:5140
+#EXTINF:-1 ,东方购物一台
+https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 ,东方购物二台
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1 ,东方购物二台
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 ,重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 ,重温经典
+http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
+#EXTINF:-1 ,乐游频道
+http://www.jeremyoto.com:82/rtp/233.50.201.185:5140
+#EXTINF:-1 ,乐游频道
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
+#EXTINF:-1 ,乐游频道
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,乐游频道
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,乐游频道
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,乐游频道
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,乐游频道
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,乐游频道
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/leyouhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,金色学堂
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,金色学堂
+http://www.jeremyoto.com:82/rtp/233.50.201.186:5140
+#EXTINF:-1 ,金色学堂
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
+#EXTINF:-1 ,金色学堂
+http://minecraft.qc0727.top:22222/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://server.qingyuga.me:8888/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://origin.lean.org.cn:4000/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://n.lualu.io:18888/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://www.pptt.one:5002/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://vpn.rogerxlj.top:9998/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://wein66.ddnsfree.com:4022/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://www.wein66.eu.org:4022/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://home.nuaa.us.to:4000/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://28901.noip.us.to:4000/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://www.pptongtong.top:5002/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://yuancw.eu.org:8088/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://sh1.enjoymoe.com:8001/udp/239.45.1.118:5140
+#EXTINF:-1 ,金色学堂
+http://gongjin.x3322.net:8686/udp/239.45.1.118:5140
+#EXTINF:-1 ,七彩戏剧
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,七彩戏剧
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,七彩戏剧
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
+#EXTINF:-1 ,七彩戏剧
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,七彩戏剧
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,七彩戏剧
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,七彩戏剧
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,七彩戏剧
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,法治天地
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,法治天地
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,法治天地
+http://www.jeremyoto.com:82/rtp/233.50.201.191:5140
+#EXTINF:-1 ,法治天地
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/fztdhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,法治天地
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/fztdhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,法治天地
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/fztdhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,法治天地
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/fztdhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,法治天地
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/fztdhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,法治天地
+http://minecraft.qc0727.top:22222/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://server.qingyuga.me:8888/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://origin.lean.org.cn:4000/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://n.lualu.io:18888/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://www.pptt.one:5002/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://vpn.rogerxlj.top:9998/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://wein66.ddnsfree.com:4022/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://www.wein66.eu.org:4022/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://home.nuaa.us.to:4000/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://28901.noip.us.to:4000/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://www.pptongtong.top:5002/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://yuancw.eu.org:8088/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://sh1.enjoymoe.com:8001/udp/239.45.1.46:5140
+#EXTINF:-1 ,法治天地
+http://gongjin.x3322.net:8686/udp/239.45.1.46:5140
+#EXTINF:-1 ,东方财经
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,东方财经
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,东方财经
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
+#EXTINF:-1 ,欢笑剧场
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,欢笑剧场
+http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226203/index.m3u8?HlsProfileId=
+#EXTINF:-1 ,欢笑剧场
+http://www.jeremyoto.com:82/rtp/233.50.201.189:5140
+#EXTINF:-1 ,欢笑剧场
+http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001
+#EXTINF:-1 ,欢笑剧场
+http://php.jdshipin.com:8880/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1 ,欢笑剧场
+http://php.jdshipin.com:8880/bst2.php?id=hxjc4k/15000000
+#EXTINF:-1 ,欢笑剧场
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
+#EXTINF:-1 ,欢笑剧场
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/hxjchd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,欢笑剧场
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/hxjchd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,欢笑剧场
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/hxjchd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,欢笑剧场
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/hxjchd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,欢笑剧场
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/hxjchd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,欢笑剧场
+http://minecraft.qc0727.top:22222/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://server.qingyuga.me:8888/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://origin.lean.org.cn:4000/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://n.lualu.io:18888/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://www.pptt.one:5002/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://vpn.rogerxlj.top:9998/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://wein66.ddnsfree.com:4022/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://www.wein66.eu.org:4022/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://home.nuaa.us.to:4000/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://28901.noip.us.to:4000/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://www.pptongtong.top:5002/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://yuancw.eu.org:8088/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://sh1.enjoymoe.com:8001/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://gongjin.x3322.net:8686/udp/239.45.3.196:5140
+#EXTINF:-1 ,欢笑剧场
+http://minecraft.qc0727.top:22222/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://server.qingyuga.me:8888/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://origin.lean.org.cn:4000/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://n.lualu.io:18888/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://www.pptt.one:5002/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://vpn.rogerxlj.top:9998/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://wein66.ddnsfree.com:4022/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://www.wein66.eu.org:4022/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://home.nuaa.us.to:4000/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://28901.noip.us.to:4000/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://www.pptongtong.top:5002/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://yuancw.eu.org:8088/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://sh1.enjoymoe.com:8001/udp/239.45.1.4:5140
+#EXTINF:-1 ,欢笑剧场
+http://gongjin.x3322.net:8686/udp/239.45.1.4:5140
+#EXTINF:-1 ,魅力足球
+p2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
+#EXTINF:-1 ,魅力足球
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
+#EXTINF:-1 ,魅力足球
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
+#EXTINF:-1 ,魅力足球
+mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+#EXTINF:-1 ,魅力足球
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,魅力足球
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,魅力足球
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,魅力足球
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,魅力足球
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,劲爆体育
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 ,劲爆体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
+#EXTINF:-1 ,劲爆体育
+https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
+#EXTINF:-1 ,劲爆体育
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,劲爆体育
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,劲爆体育
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,劲爆体育
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,劲爆体育
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 ,都市剧场
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,都市剧场
+http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226176/index.m3u8?HlsProfileId=
+#EXTINF:-1 ,都市剧场
+http://www.jeremyoto.com:82/rtp/233.50.201.190:5140
+#EXTINF:-1 ,都市剧场
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
+#EXTINF:-1 ,都市剧场
+http://minecraft.qc0727.top:22222/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://server.qingyuga.me:8888/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://origin.lean.org.cn:4000/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://n.lualu.io:18888/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://www.pptt.one:5002/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://vpn.rogerxlj.top:9998/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://wein66.ddnsfree.com:4022/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://www.wein66.eu.org:4022/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://home.nuaa.us.to:4000/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://28901.noip.us.to:4000/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://www.pptongtong.top:5002/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://yuancw.eu.org:8088/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://sh1.enjoymoe.com:8001/udp/239.45.3.136:5140
+#EXTINF:-1 ,都市剧场
+http://gongjin.x3322.net:8686/udp/239.45.3.136:5140
+#EXTINF:-1 ,动漫秀场
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,动漫秀场
+http://www.jeremyoto.com:82/rtp/233.50.201.184:5140
+#EXTINF:-1 ,动漫秀场
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
+#EXTINF:-1 ,动漫秀场
+http://minecraft.qc0727.top:22222/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://server.qingyuga.me:8888/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://origin.lean.org.cn:4000/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://n.lualu.io:18888/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://www.pptt.one:5002/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://vpn.rogerxlj.top:9998/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://wein66.ddnsfree.com:4022/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://www.wein66.eu.org:4022/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://home.nuaa.us.to:4000/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://28901.noip.us.to:4000/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://www.pptongtong.top:5002/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://yuancw.eu.org:8088/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://sh1.enjoymoe.com:8001/udp/239.45.3.134:5140
+#EXTINF:-1 ,动漫秀场
+http://gongjin.x3322.net:8686/udp/239.45.3.134:5140
+#EXTINF:-1 ,生活时尚
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,生活时尚
+http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226358/index.m3u8?HlsProfileId=
+#EXTINF:-1 ,生活时尚
+http://www.jeremyoto.com:82/rtp/233.50.201.187:5140
+#EXTINF:-1 ,生活时尚
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
+#EXTINF:-1 ,生活时尚
+http://minecraft.qc0727.top:22222/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://server.qingyuga.me:8888/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://origin.lean.org.cn:4000/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://n.lualu.io:18888/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://www.pptt.one:5002/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://vpn.rogerxlj.top:9998/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://wein66.ddnsfree.com:4022/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://www.wein66.eu.org:4022/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://home.nuaa.us.to:4000/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://28901.noip.us.to:4000/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://www.pptongtong.top:5002/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://yuancw.eu.org:8088/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://sh1.enjoymoe.com:8001/udp/239.45.3.132:5140
+#EXTINF:-1 ,生活时尚
+http://gongjin.x3322.net:8686/udp/239.45.3.132:5140
+#EXTINF:-1 ,游戏风云
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 ,游戏风云
+http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226187/index.m3u8?HlsProfileId=
+#EXTINF:-1 ,游戏风云
+http://www.jeremyoto.com:82/rtp/233.50.201.183:5140
+#EXTINF:-1 ,游戏风云
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
+#EXTINF:-1 ,游戏风云
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.136:5140
+#EXTINF:-1 ,游戏风云
+http://www.iwumei.cc:9527/udp/239.93.0.136:5140
+#EXTINF:-1 ,游戏风云
+http://minecraft.qc0727.top:22222/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://server.qingyuga.me:8888/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://origin.lean.org.cn:4000/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://n.lualu.io:18888/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://www.pptt.one:5002/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://vpn.rogerxlj.top:9998/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://wein66.ddnsfree.com:4022/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://www.wein66.eu.org:4022/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://home.nuaa.us.to:4000/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://28901.noip.us.to:4000/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://www.pptongtong.top:5002/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://yuancw.eu.org:8088/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://sh1.enjoymoe.com:8001/udp/239.45.3.131:5140
+#EXTINF:-1 ,游戏风云
+http://gongjin.x3322.net:8686/udp/239.45.3.131:5140
+#EXTINF:-1 ,新视觉
+p2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+#EXTINF:-1 ,新视觉
+http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000
+#EXTINF:-1 ,新视觉
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
+#EXTINF:-1 ,上海崇明
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+#EXTINF:-1 ,上海崇明
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+#EXTINF:-1 ,上海嘉定
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+#EXTINF:-1 ,上海嘉定
+http://minecraft.qc0727.top:22222/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://server.qingyuga.me:8888/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://origin.lean.org.cn:4000/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://n.lualu.io:18888/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://www.pptt.one:5002/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://vpn.rogerxlj.top:9998/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://wein66.ddnsfree.com:4022/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://www.wein66.eu.org:4022/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://home.nuaa.us.to:4000/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://28901.noip.us.to:4000/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://www.pptongtong.top:5002/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://yuancw.eu.org:8088/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://sh1.enjoymoe.com:8001/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海嘉定
+http://gongjin.x3322.net:8686/udp/239.45.3.185:5140
+#EXTINF:-1 ,上海金山
+http://livejs1.newsjs.net:80/jspd/sd/live.m3u8
+#EXTINF:-1 ,上海金山
+http://livejs1.newsjs.net/jspd/playlist.m3u8
