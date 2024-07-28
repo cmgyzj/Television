@@ -57,6 +57,8 @@ CCTV17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+中学生,http://www.91dos.cn:4022/rtp/239.61.3.73:9956
+发现之旅,http://www.91dos.cn:4022/rtp/239.61.3.74:9962
 CETV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
@@ -842,6 +844,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 东方卫视,http://www.wein66.eu.org:4022/udp/239.45.3.61:5140
 东方卫视,http://yuancw.eu.org:8088/udp/239.45.3.146:5140
 东方卫视,http://yuancw.eu.org:8088/udp/239.45.3.61:5140
+东南卫视,http://www.91dos.cn:4022/rtp/239.61.2.132:8708
 东南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
@@ -863,6 +866,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 海南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
+海峡卫视,http://www.91dos.cn:4022/rtp/239.61.2.151:8894
 海峡卫视,http://php.jdshipin.com:8880/bestv.php?id=hxwshd4m/4000000
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 河北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
@@ -915,6 +919,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000208/index.m3u8?IAS
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=08984400000000060000000000000319
+厦门卫视,http://www.91dos.cn:4022/rtp/239.61.2.11:8060
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?1
 厦门卫视,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000193
@@ -1588,6 +1593,17 @@ YMG新闻,http://www.jeremyoto.com:82//rtp/233.50.201.159:5140
 中国天气,http://www.pptt.one:5002/udp/239.45.1.47:5140
 中国天气,http://www.wein66.eu.org:4022/udp/239.45.1.47:5140
 中国天气,http://yuancw.eu.org:8088/udp/239.45.1.47:5140
+福建综合,http://www.91dos.cn:4022/rtp/239.61.3.4:9542
+福建公共频道,http://www.91dos.cn:4022/rtp/239.61.2.3:8012
+福建新闻,http://www.91dos.cn:4022/rtp/239.61.2.4:8018
+福建电视剧,http://www.91dos.cn:4022/rtp/239.61.2.5:8024
+福建旅游,http://www.91dos.cn:4022/rtp/239.61.2.6:8030
+福建经济生活,http://www.91dos.cn:4022/rtp/239.61.2.7:8036
+福建体育,http://www.91dos.cn:4022/rtp/239.61.2.160:8948
+福建少儿,http://www.91dos.cn:4022/rtp/239.61.2.9:8048
+福建教育频道,http://www.91dos.cn:4022/rtp/239.61.2.173:9026
+厦门1套,http://www.91dos.cn:4022/rtp/239.61.3.55:9848
+厦门2套,http://www.91dos.cn:4022/rtp/239.61.3.56:9854
 
 YY轮播,#genre#
 好久不见-武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355914397
