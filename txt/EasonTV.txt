@@ -542,7 +542,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 游戏风云,http://www.jeremyoto.com:82/rtp/233.50.201.183:5140
 游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
 游戏风云,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.136:5140
-游戏风云,http://ljiang108.top:8123/udp/239.93.0.136:5140
+游戏风云,http://www.iwumei.cc:9527/udp/239.93.0.136:5140
 游戏风云,http://minecraft.qc0727.top:22222/udp/239.45.3.131:5140
 游戏风云,http://server.qingyuga.me:8888/udp/239.45.3.131:5140
 游戏风云,http://origin.lean.org.cn:4000/udp/239.45.3.131:5140
@@ -669,7 +669,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://[2409:8087:1a0b:df::4017]/wh7f454c46tw995728574_821219981/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1712597730&from=12&hms_devid=1104&online=1712597730&vqe=3
 成都公共,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.231:5140
-成都公共,http://ljiang108.top:8123/udp/239.93.1.231:5140
+成都公共,http://www.iwumei.cc:9527/udp/239.93.1.231:5140
 大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
 大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
@@ -702,7 +702,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 辽宁体育休闲,http://lu1.cc:80/itv/php/bfgd.php?id=lnty&mm.m3u8
 麻辣体育,http://zhyfans.mycloudnas.com:8000/udp/239.93.42.2:5140
-麻辣体育,http://ljiang108.top:8123/udp/239.93.42.2:5140
+麻辣体育,http://www.iwumei.cc:9527/udp/239.93.42.2:5140
 魅力足球,p2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
 魅力足球,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
 魅力足球,http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -737,7 +737,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 深圳体育健康,http://l2tp.yeedah.xyz:8000/udp/239.77.1.8:5146
 台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 天元围棋,http://zhyfans.mycloudnas.com:8000/udp/239.93.42.55:5140
-天元围棋,http://ljiang108.top:8123/udp/239.93.42.55:5140
+天元围棋,http://www.iwumei.cc:9527/udp/239.93.42.55:5140
 纬来体育,p2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
@@ -771,7 +771,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 武汉文体,http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
 武汉文体,http://www.tico2.eu.org:4022/rtp/239.69.1.147:10518
 先锋乒羽,http://zhyfans.mycloudnas.com:8000/udp/239.93.42.56:5140
-先锋乒羽,http://ljiang108.top:8123/udp/239.93.42.56:5140
+先锋乒羽,http://www.iwumei.cc:9527/udp/239.93.42.56:5140
 新视觉,p2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 新视觉,http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000
 新视觉,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
@@ -936,7 +936,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 山西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
 山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 陕西农林卫视,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.100:5140
-陕西农林卫视,http://ljiang108.top:8123/udp/239.93.0.100:5140
+陕西农林卫视,http://www.iwumei.cc:9527/udp/239.93.0.100:5140
 陕西农林卫视,http://php.jdshipin.com:8880/qly.php?id=6335
 陕西农林卫视,https://epg.pw/stream/b6580d571ce867004e2f439aa34969e7b2dc9e820c9fcf85be54a9729e2de629.m3u8
 陕西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
@@ -1346,7 +1346,7 @@ YMG新闻,http://www.jeremyoto.com:82//rtp/233.50.201.159:5140
 北京国际,http://124.205.11.197:91/live/BTVGJ-1500k/live.m3u8
 茶频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
 茶频道,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.114:5140
-茶频道,http://ljiang108.top:8123/udp/239.93.0.114:5140
+茶频道,http://www.iwumei.cc:9527/udp/239.93.0.114:5140
 茶频道,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
 茶频道,http://www.hiliu.myds.me:8088/rtp/239.69.1.144:10500
 茶频道,http://www.jeremyoto.com:82/rtp/233.50.201.188:5140
@@ -1356,17 +1356,17 @@ YMG新闻,http://www.jeremyoto.com:82//rtp/233.50.201.159:5140
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 潮妈辣婆,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 成都都市生活,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.18:1238
-成都都市生活,http://ljiang108.top:8123/udp/239.93.0.18:1238
+成都都市生活,http://www.iwumei.cc:9527/udp/239.93.0.18:1238
 成都经济资讯服务,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.17:1239
-成都经济资讯服务,http://ljiang108.top:8123/udp/239.93.0.17:1239
+成都经济资讯服务,http://www.iwumei.cc:9527/udp/239.93.0.17:1239
 成都每日电视购物,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.22:1252
-成都每日电视购物,http://ljiang108.top:8123/udp/239.93.0.22:1252
+成都每日电视购物,http://www.iwumei.cc:9527/udp/239.93.0.22:1252
 成都少儿,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.21:1251
-成都少儿,http://ljiang108.top:8123/udp/239.93.0.21:1251
+成都少儿,http://www.iwumei.cc:9527/udp/239.93.0.21:1251
 成都新闻综合,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.16:5140
-成都新闻综合,http://ljiang108.top:8123/udp/239.93.0.16:5140
+成都新闻综合,http://www.iwumei.cc:9527/udp/239.93.0.16:5140
 成都影视文艺,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.19:1250
-成都影视文艺,http://ljiang108.top:8123/udp/239.93.0.19:1250
+成都影视文艺,http://www.iwumei.cc:9527/udp/239.93.0.19:1250
 哒啵电竞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -1461,7 +1461,7 @@ YMG新闻,http://www.jeremyoto.com:82//rtp/233.50.201.159:5140
 快乐垂钓,p2p://generationnexxxt.com:19806/eaa3539d812f45878c95f848a77cfaea
 快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
 快乐垂钓,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.151:5140
-快乐垂钓,http://ljiang108.top:8123/udp/239.93.1.151:5140
+快乐垂钓,http://www.iwumei.cc:9527/udp/239.93.1.151:5140
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 快乐垂钓,http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
 快乐垂钓,http://www.jeremyoto.com:82/rtp/233.50.201.109:5140
