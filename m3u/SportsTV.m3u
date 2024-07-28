@@ -176,7 +176,7 @@ http://[2409:8087:1a0b:df::4017]/wh7f454c46tw995728574_821219981/ottrrs.hl.china
 #EXTINF:-1 ,成都公共
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.231:5140
 #EXTINF:-1 ,成都公共
-http://ljiang108.top:8123/udp/239.93.1.231:5140
+http://www.iwumei.cc:9527/udp/239.93.1.231:5140
 #EXTINF:-1 ,大连文体
 http://live.cooltv.top/tv/cutv.php?id=dlwt
 #EXTINF:-1 ,大连文体
@@ -242,7 +242,7 @@ http://lu1.cc:80/itv/php/bfgd.php?id=lnty&mm.m3u8
 #EXTINF:-1 ,麻辣体育
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.2:5140
 #EXTINF:-1 ,麻辣体育
-http://ljiang108.top:8123/udp/239.93.42.2:5140
+http://www.iwumei.cc:9527/udp/239.93.42.2:5140
 #EXTINF:-1 ,魅力足球
 p2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
 #EXTINF:-1 ,魅力足球
@@ -312,7 +312,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 #EXTINF:-1 ,天元围棋
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.55:5140
 #EXTINF:-1 ,天元围棋
-http://ljiang108.top:8123/udp/239.93.42.55:5140
+http://www.iwumei.cc:9527/udp/239.93.42.55:5140
 #EXTINF:-1 ,纬来体育
 p2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
 #EXTINF:-1 ,纬来体育
@@ -380,7 +380,7 @@ http://www.tico2.eu.org:4022/rtp/239.69.1.147:10518
 #EXTINF:-1 ,先锋乒羽
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.56:5140
 #EXTINF:-1 ,先锋乒羽
-http://ljiang108.top:8123/udp/239.93.42.56:5140
+http://www.iwumei.cc:9527/udp/239.93.42.56:5140
 #EXTINF:-1 ,新视觉
 p2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 #EXTINF:-1 ,新视觉
@@ -403,3 +403,5 @@ rtmp://nmglive.imfc.cn/5n1r1c/182396
 http://118.144.105.50:91/live/BTVTYhd-8M/live.m3u8
 #EXTINF:-1 ,北京体育休闲
 http://124.205.11.197:91/live/BTVTYhd-8M/live.m3u8
+#EXTINF:-1 ,福建文体
+http://www.91dos.cn:4022/rtp/239.61.2.160:8948
