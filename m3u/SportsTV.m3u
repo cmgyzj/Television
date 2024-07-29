@@ -19,7 +19,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 ,CCTV5+
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 ,Eurosport HD
+#EXTINF:-1 ,Eurosport 
 p2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
 #EXTINF:-1 ,Eleven Sports
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
@@ -44,9 +44,9 @@ mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
 #EXTINF:-1 ,iHOT爱体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,Sky 1 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+https://skylivetab-i.akamai.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 ,Sky 2 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+https://skylivetab-i.akamai.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 ,Sky Sp News
 p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
 #EXTINF:-1 ,Sky Sports 3
@@ -222,15 +222,15 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 #EXTINF:-1 ,劲爆体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,劲爆体育
-http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaoty/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,劲爆体育
-http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaoty/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,劲爆体育
-http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaoty/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,劲爆体育
-http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaoty/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,劲爆体育
-http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaoty/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,劲爆体育
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 #EXTINF:-1 ,劲爆体育
@@ -248,15 +248,15 @@ p2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
 #EXTINF:-1 ,魅力足球
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
 #EXTINF:-1 ,魅力足球
-http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/mlzu/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,魅力足球
-http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/mlzu/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,魅力足球
-http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.106.228.174/mgsp-tx.live.miguvideo.com/migu/kailu/mlzu/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,魅力足球
-http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/mlzu/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,魅力足球
-http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/mlzu/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 ,魅力足球
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 #EXTINF:-1 ,魅力足球
@@ -378,13 +378,15 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
 #EXTINF:-1 ,武汉文体
 http://www.tico2.eu.org:4022/rtp/239.69.1.147:10518
 #EXTINF:-1 ,先锋乒羽
+http://donghui.x3322.net:8888/udp/239.253.254.155:8000
+#EXTINF:-1 ,先锋乒羽
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.56:5140
 #EXTINF:-1 ,先锋乒羽
 http://www.iwumei.cc:9527/udp/239.93.42.56:5140
 #EXTINF:-1 ,新视觉
 p2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 #EXTINF:-1 ,新视觉
-http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000
+http://php.jdshipin.com:8880/bestv.php?id=xsj/4000000
 #EXTINF:-1 ,新视觉
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 #EXTINF:-1 ,央视高网
@@ -452,8 +454,12 @@ http://319.1024.net:84/live/100023/index.m3u8
 #EXTINF:-1 ,北京体育休闲
 http://server.6.1024.net:84/live/100023/index.m3u8
 #EXTINF:-1 ,北京体育休闲
-http://118.144.105.50:91/live/BTVTYhd-8M/live.m3u8
+http://118.144.105.50:91/live/BTVTY-8M/live.m3u8
 #EXTINF:-1 ,北京体育休闲
-http://124.205.11.197:91/live/BTVTYhd-8M/live.m3u8
+http://124.205.11.197:91/live/BTVTY-8M/live.m3u8
 #EXTINF:-1 ,福建文体
 http://www.91dos.cn:4022/rtp/239.61.2.160:8948
+#EXTINF:-1 ,山东体育休闲
+http://donghui.x3322.net:8888/udp/239.253.254.22:8000
+#EXTINF:-1 ,体育赛事
+http://donghui.x3322.net:8888/udp/239.253.254.172:8000
