@@ -131,35 +131,35 @@ http://www.wein66.eu.org:4022/udp/239.45.3.107:5140
 http://yuancw.eu.org:8088/udp/239.45.1.42:5140
 #EXTINF:-1 ,百事通4K
 http://yuancw.eu.org:8088/udp/239.45.3.107:5140
-#EXTINF:-1,北京财经
+#EXTINF:-1 ,北京财经
 http://www.1024.net:84/live/100026/index.m3u8
-#EXTINF:-1,北京财经
+#EXTINF:-1 ,北京财经
 http://114.246.102.14:4000/rtp/239.3.1.116:8000
-#EXTINF:-1,北京纪实科教
+#EXTINF:-1 ,北京纪实科教
 http://www.1024.net:84/live/100024/index.m3u8
-#EXTINF:-1,北京纪实科教
+#EXTINF:-1 ,北京纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1,北京卡酷少儿
+#EXTINF:-1 ,北京卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
-#EXTINF:-1,北京生活
+#EXTINF:-1 ,北京生活
 http://www.1024.net:84/live/100027/index.m3u8
-#EXTINF:-1,北京生活
+#EXTINF:-1 ,北京生活
 http://114.246.102.14:4000/rtp/239.3.1.117:8000
-#EXTINF:-1,北京文艺
+#EXTINF:-1 ,北京文艺
 http://www.1024.net:84/live/100022/index.m3u8
-#EXTINF:-1,北京文艺
+#EXTINF:-1 ,北京文艺
 http://114.246.102.14:4000/rtp/239.3.1.242:8000
-#EXTINF:-1,北京新闻
+#EXTINF:-1 ,北京新闻
 http://www.1024.net:84/live/100029/index.m3u8
-#EXTINF:-1,北京新闻
+#EXTINF:-1 ,北京新闻
 http://114.246.102.14:4000/rtp/239.3.1.159:8000
-#EXTINF:-1,北京影视
+#EXTINF:-1 ,北京影视
 http://www.1024.net:84/live/100025/index.m3u8
-#EXTINF:-1,北京影视
+#EXTINF:-1 ,北京影视
 http://114.246.102.14:4000/rtp/239.3.1.158:8000
-#EXTINF:-1,北京国际
+#EXTINF:-1 ,北京国际
 http://118.144.105.50:91/live/BTVGJ-1500k/live.m3u8
-#EXTINF:-1,北京国际
+#EXTINF:-1 ,北京国际
 http://124.205.11.197:91/live/BTVGJ-1500k/live.m3u8
 #EXTINF:-1 ,茶频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
@@ -214,7 +214,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 ,佛山公共
-http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
+http://www.namewee.xyz/gudou.php?id=foshangonggong_4500
 #EXTINF:-1 ,佛山公共
 http://113.100.72.213:8899/udp/239.253.43.53:5146
 #EXTINF:-1 ,佛山南海
@@ -222,15 +222,15 @@ http://113.100.72.213:8899/udp/239.253.43.54:5146
 #EXTINF:-1 ,佛山南海
 http://113.100.72.213:8899/udp/239.77.0.236:5146
 #EXTINF:-1 ,佛山顺德
-http://www.namewee.xyz/gudou.php?id=shundeHD_4500
+http://www.namewee.xyz/gudou.php?id=shunde_4500
 #EXTINF:-1 ,佛山顺德
 http://113.100.72.213:8899/udp/239.253.43.55:5146
 #EXTINF:-1 ,佛山影视
-http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
+http://www.namewee.xyz/gudou.php?id=foshanyingshi_4500
 #EXTINF:-1 ,佛山影视
 http://113.100.72.213:8899/udp/239.253.43.56:5146
 #EXTINF:-1 ,佛山综合
-http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
+http://www.namewee.xyz/gudou.php?id=foshanzonghe_4500
 #EXTINF:-1 ,佛山综合
 http://113.100.72.213:8899/udp/239.253.43.57:5146
 #EXTINF:-1 ,甘肃都市
@@ -330,7 +330,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 ,黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 ,湖北公共新闻
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpy%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 #EXTINF:-1 ,湖北教育
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 #EXTINF:-1 ,湖北经视
@@ -472,7 +472,7 @@ https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 #EXTINF:-1 ,全国党员干部现代远程教育
 https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8?BR=single
 #EXTINF:-1 ,全国党员干部现代远程教育
-https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
+https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_.m3u8
 #EXTINF:-1 ,山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 ,山西社会与法治
@@ -675,3 +675,49 @@ http://www.91dos.cn:4022/rtp/239.61.2.7:8036
 http://www.91dos.cn:4022/rtp/239.61.2.9:8048
 #EXTINF:-1 ,福建教育频道
 http://www.91dos.cn:4022/rtp/239.61.2.173:9026
+#EXTINF:-1 ,青岛-1
+http://donghui.x3322.net:8888/udp/239.253.254.249:8000
+#EXTINF:-1 ,青岛-2
+http://donghui.x3322.net:8888/udp/239.253.254.250:8000
+#EXTINF:-1 ,青岛-3
+http://donghui.x3322.net:8888/udp/239.253.254.251:8000
+#EXTINF:-1 ,青岛-4
+http://donghui.x3322.net:8888/udp/239.253.254.252:8000
+#EXTINF:-1 ,青岛-5
+http://donghui.x3322.net:8888/udp/239.253.254.253:8000
+#EXTINF:-1 ,青岛-6
+http://donghui.x3322.net:8888/udp/239.253.254.254:8000
+#EXTINF:-1 ,青岛崂山
+http://donghui.x3322.net:8888/udp/239.253.254.242:8000
+#EXTINF:-1 ,青岛西海岸
+http://donghui.x3322.net:8888/udp/239.253.254.243:8000
+#EXTINF:-1 ,黄岛生活
+http://donghui.x3322.net:8888/udp/239.253.254.244:8000
+#EXTINF:-1 ,胶州电视台
+http://donghui.x3322.net:8888/udp/239.253.254.246:8000
+#EXTINF:-1 ,即墨电视台
+http://donghui.x3322.net:8888/udp/239.253.254.245:8000
+#EXTINF:-1 ,平度电视台
+http://donghui.x3322.net:8888/udp/239.253.254.248:8000
+#EXTINF:-1 ,莱西综合
+http://donghui.x3322.net:8888/udp/239.253.254.247:8000
+#EXTINF:-1 ,山东齐鲁
+http://donghui.x3322.net:8888/udp/239.253.254.114:8000
+#EXTINF:-1 ,山东公共
+http://donghui.x3322.net:8888/udp/239.253.254.23:8000
+#EXTINF:-1 ,山东综艺
+http://donghui.x3322.net:8888/udp/239.253.254.159:8000
+#EXTINF:-1 ,山东生活
+http://donghui.x3322.net:8888/udp/239.253.254.151:8000
+#EXTINF:-1 ,山东影视
+http://donghui.x3322.net:8888/udp/239.253.254.160:8000
+#EXTINF:-1 ,山东少儿
+http://donghui.x3322.net:8888/udp/239.253.254.25:8000
+#EXTINF:-1 ,山东农科
+http://donghui.x3322.net:8888/udp/239.253.254.24:8000
+#EXTINF:-1 ,山东国际
+http://donghui.x3322.net:8888/udp/239.253.254.26:8000
+#EXTINF:-1 ,山东居家
+http://donghui.x3322.net:8888/udp/239.253.254.104:8000
+#EXTINF:-1 ,中国交通
+http://donghui.x3322.net:8888/udp/239.253.254.177:8000
