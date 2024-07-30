@@ -214,7 +214,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 ,佛山公共
-http://www.namewee.xyz/gudou.php?id=foshangonggong_4500
+http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
 #EXTINF:-1 ,佛山公共
 http://113.100.72.213:8899/udp/239.253.43.53:5146
 #EXTINF:-1 ,佛山南海
@@ -222,15 +222,15 @@ http://113.100.72.213:8899/udp/239.253.43.54:5146
 #EXTINF:-1 ,佛山南海
 http://113.100.72.213:8899/udp/239.77.0.236:5146
 #EXTINF:-1 ,佛山顺德
-http://www.namewee.xyz/gudou.php?id=shunde_4500
+http://www.namewee.xyz/gudou.php?id=shundeHD_4500
 #EXTINF:-1 ,佛山顺德
 http://113.100.72.213:8899/udp/239.253.43.55:5146
 #EXTINF:-1 ,佛山影视
-http://www.namewee.xyz/gudou.php?id=foshanyingshi_4500
+http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
 #EXTINF:-1 ,佛山影视
 http://113.100.72.213:8899/udp/239.253.43.56:5146
 #EXTINF:-1 ,佛山综合
-http://www.namewee.xyz/gudou.php?id=foshanzonghe_4500
+http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
 #EXTINF:-1 ,佛山综合
 http://113.100.72.213:8899/udp/239.253.43.57:5146
 #EXTINF:-1 ,甘肃都市
@@ -330,7 +330,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 ,黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 ,湖北公共新闻
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpy%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 #EXTINF:-1 ,湖北教育
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 #EXTINF:-1 ,湖北经视
@@ -472,7 +472,7 @@ https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 #EXTINF:-1 ,全国党员干部现代远程教育
 https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8?BR=single
 #EXTINF:-1 ,全国党员干部现代远程教育
-https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_.m3u8
+https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 #EXTINF:-1 ,山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 ,山西社会与法治
@@ -719,5 +719,3 @@ http://donghui.x3322.net:8888/udp/239.253.254.24:8000
 http://donghui.x3322.net:8888/udp/239.253.254.26:8000
 #EXTINF:-1 ,山东居家
 http://donghui.x3322.net:8888/udp/239.253.254.104:8000
-#EXTINF:-1 ,中国交通
-http://donghui.x3322.net:8888/udp/239.253.254.177:8000
