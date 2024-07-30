@@ -378,8 +378,6 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
 #EXTINF:-1 ,武汉文体
 http://www.tico2.eu.org:4022/rtp/239.69.1.147:10518
 #EXTINF:-1 ,先锋乒羽
-http://donghui.x3322.net:8888/udp/239.253.254.155:8000
-#EXTINF:-1 ,先锋乒羽
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.56:5140
 #EXTINF:-1 ,先锋乒羽
 http://www.iwumei.cc:9527/udp/239.93.42.56:5140
@@ -459,7 +457,3 @@ http://118.144.105.50:91/live/BTVTYhd-8M/live.m3u8
 http://124.205.11.197:91/live/BTVTYhd-8M/live.m3u8
 #EXTINF:-1 ,福建文体
 http://www.91dos.cn:4022/rtp/239.61.2.160:8948
-#EXTINF:-1 ,山东体育休闲
-http://donghui.x3322.net:8888/udp/239.253.254.22:8000
-#EXTINF:-1 ,体育赛事
-http://donghui.x3322.net:8888/udp/239.253.254.172:8000
