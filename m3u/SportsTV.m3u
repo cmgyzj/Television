@@ -287,6 +287,16 @@ http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 ,咪咕体育6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 ,咪咕体育7
+http://hlsbkmgsplive.miguvideo.com/migu/lunbo/yazhoubei/57/20240102/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 ,咪咕体育8
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid05/55/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 ,咪咕体育9
+http://hlsbkmgsplive.miguvideo.com/migu/lunbo/eufootball/57/20230310/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 ,咪咕体育10
+http://hlsbkmgsplive.miguvideo.com/migu/lunbo/wudaliansai/57/20230310/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 ,咪咕体育11
+http://hlsbkmgsplive.miguvideo.com/migu/lunbo/quanmin/57/20230310/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 ,内蒙古文体娱乐
 https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 #EXTINF:-1 ,山西文体生活
