@@ -302,6 +302,8 @@ https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62f
 #EXTINF:-1 ,山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 ,山西文体生活
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 ,山西文体生活
 https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
 #EXTINF:-1 ,深圳体育健康
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
@@ -324,7 +326,9 @@ http://zhyfans.mycloudnas.com:8000/udp/239.93.42.55:5140
 #EXTINF:-1 ,天元围棋
 http://www.iwumei.cc:9527/udp/239.93.42.55:5140
 #EXTINF:-1 ,纬来体育
-p2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
+http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
+#EXTINF:-1 ,纬来体育
+http://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 ,纬来体育
 rtmp://220.130.201.73/sat/tv721
 #EXTINF:-1 ,纬来体育
@@ -467,3 +471,11 @@ http://118.144.105.50:91/live/BTVTYhd-8M/live.m3u8
 http://124.205.11.197:91/live/BTVTYhd-8M/live.m3u8
 #EXTINF:-1 ,福建文体
 http://www.91dos.cn:4022/rtp/239.61.2.160:8948
+#EXTINF:-1 ,安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd？世界杯世界杯
+#EXTINF:-1 ,安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 ,天津体育
+http://xuys.top:8888/udp/225.1.1.6:5002
+#EXTINF:-1 ,天津体育
+http://xuys.top:8888/udp/225.1.1.122:5002
