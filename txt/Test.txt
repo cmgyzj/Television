@@ -1,6 +1,2 @@
 测试源,#genre#
-咪咕1,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/yazhoubei/57/20240102/01.m3u8?&HlsSubType=&encrypt=
-咪咕2,http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid05/55/20240605/index.m3u8?&encrypt=
-咪咕3,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/eufootball/57/20230310/01.m3u8?&HlsSubType=&encrypt=
-咪咕4,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/wudaliansai/57/20230310/01.m3u8?&HlsSubType=&encrypt=
-咪咕5,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/quanmin/57/20230310/01.m3u8?&HlsSubType=&encrypt=
+山东体育, http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
