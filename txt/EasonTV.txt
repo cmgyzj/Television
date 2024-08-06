@@ -849,6 +849,7 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 天津体育,http://xuys.top:8888/udp/225.1.1.6:5002
 天津体育,http://xuys.top:8888/udp/225.1.1.122:5002
+山东体育休闲,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
 
 卫视频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
