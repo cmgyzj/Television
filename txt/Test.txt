@@ -56,5 +56,11 @@ CDTV-8高清,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 爱赛车高清,http://home.jornihe.cn:8888/udp/239.93.42.20:5140
 爱宠宠物,http://home.jornihe.cn:8888/udp/239.93.42.32:5140
 辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+辽宁体育休闲,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+辽宁体育休闲,http://124.94.193.136:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育休闲,http://123.189.36.86:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育休闲,http://123.189.36.155:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育休闲,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
 山东体育休闲,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
+山东体育休闲,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育休闲,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
