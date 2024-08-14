@@ -66,7 +66,7 @@ CDTV-8高清,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 山东体育休闲,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉文体,http://59.173.243.210:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广东源,#genre#
+广东清远域名组播,#genre#
 广东珠江,http://jt.zorua.cn:8787/udp/239.77.0.1:5146
 广东珠江,http://jt.zorua.cn:8787/udp/239.77.0.114:5146
 广东珠江,http://jt.zorua.cn:8787/udp/239.77.0.3:5146
