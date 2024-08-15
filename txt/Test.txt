@@ -224,7 +224,26 @@ CDTV-8高清,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 中山教育,http://jt.zorua.cn:8787/udp/239.253.43.64:5146
 徐闻综合,http://jt.zorua.cn:8787/udp/239.253.43.112:5146
 
-上海电信,#genre#
+上海电信及ITV直播源,#genre#
+上海新闻综合(202),http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+上海都市(203),http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
+纪实人文(205),http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010282/1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+纪实人文(205),http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265021/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=3
+东方影视(206),http://gslbservzqhsw.itv.cmvideo.cn/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+第一财经(207),http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+五星体育(208),http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+哈哈炫动(209),http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+上海外语(210),http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
+法治天地(218),http://gslbservzqhsw.itv.cmvideo.cn/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
+法治天地(218),http://gslbservzqhsw.itv.cmvideo.cn/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
+欢笑剧场(281),http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+欢笑剧场(281),http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+魅力足球(283),http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+劲爆体育(284),http://gslbservzqhsw.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+都市剧场(285),http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
+动漫秀场(286),http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
+生活时尚(287),http://gslbservzqhsw.itv.cmvideo.cn/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+游戏风云(289),http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 上海教育(213),http://minecraft.qc0727.top:22222/udp/239.45.0.13:5140
 上海教育(213),http://server.qingyuga.me:8888/udp/239.45.0.13:5140
 上海教育(213),http://origin.lean.org.cn:4000/udp/239.45.0.13:5140
@@ -239,6 +258,7 @@ CDTV-8高清,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 上海教育(213),http://yuancw.eu.org:8088/udp/239.45.0.13:5140
 上海教育(213),http://sh1.enjoymoe.com:8001/udp/239.45.0.13:5140
 上海教育(213),http://gongjin.x3322.net:8686/udp/239.45.0.13:5140
+乐游频道(215),http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 乐游频道(215),http://minecraft.qc0727.top:22222/udp/239.45.3.135:5140
 乐游频道(215),http://server.qingyuga.me:8888/udp/239.45.3.135:5140
 乐游频道(215),http://origin.lean.org.cn:4000/udp/239.45.3.135:5140
@@ -253,6 +273,7 @@ CDTV-8高清,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 乐游频道(215),http://yuancw.eu.org:8088/udp/239.45.3.135:5140
 乐游频道(215),http://sh1.enjoymoe.com:8001/udp/239.45.3.135:5140
 乐游频道(215),http://gongjin.x3322.net:8686/udp/239.45.3.135:5140
+金色学堂(216),http://gslbservzqhsw.itv.cmvideo.cn/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
 金色学堂(216),http://minecraft.qc0727.top:22222/udp/239.45.0.9:5140
 金色学堂(216),http://server.qingyuga.me:8888/udp/239.45.0.9:5140
 金色学堂(216),http://origin.lean.org.cn:4000/udp/239.45.0.9:5140
@@ -267,6 +288,7 @@ CDTV-8高清,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 金色学堂(216),http://yuancw.eu.org:8088/udp/239.45.0.9:5140
 金色学堂(216),http://sh1.enjoymoe.com:8001/udp/239.45.0.9:5140
 金色学堂(216),http://gongjin.x3322.net:8686/udp/239.45.0.9:5140
+七彩戏剧(217),http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 七彩戏剧(217),http://minecraft.qc0727.top:22222/udp/239.45.0.16:5140
 七彩戏剧(217),http://server.qingyuga.me:8888/udp/239.45.0.16:5140
 七彩戏剧(217),http://origin.lean.org.cn:4000/udp/239.45.0.16:5140
@@ -281,6 +303,7 @@ CDTV-8高清,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 七彩戏剧(217),http://yuancw.eu.org:8088/udp/239.45.0.16:5140
 七彩戏剧(217),http://sh1.enjoymoe.com:8001/udp/239.45.0.16:5140
 七彩戏剧(217),http://gongjin.x3322.net:8686/udp/239.45.0.16:5140
+东方财经(220),http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 东方财经(220),http://minecraft.qc0727.top:22222/udp/239.45.0.17:5140
 东方财经(220),http://server.qingyuga.me:8888/udp/239.45.0.17:5140
 东方财经(220),http://origin.lean.org.cn:4000/udp/239.45.0.17:5140
@@ -316,6 +339,7 @@ CDTV-8高清,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 纪实人文,http://www.baopiqi.top:4022/udp/239.45.3.212:5140
 
 上海电信组播其他频道,#genre#
+金鹰纪实,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 金鹰纪实,http://minecraft.qc0727.top:22222/udp/239.45.1.45:5140
 金鹰纪实,http://server.qingyuga.me:8888/udp/239.45.1.45:5140
 金鹰纪实,http://origin.lean.org.cn:4000/udp/239.45.1.45:5140
@@ -471,33 +495,9 @@ CETV-4,http://gongjin.x3322.net:8686/udp/239.45.0.21:5140
 央视风云足球,http://sh1.enjoymoe.com:8001/udp/239.45.1.75:5140
 央视风云足球,http://gongjin.x3322.net:8686/udp/239.45.1.75:5140
 
-SiTV-itv,#genre#
-SiTV动漫秀场,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-SiTV都市剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
-SiTV法治天地,http://gslbservzqhsw.itv.cmvideo.cn/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-SiTV欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-SiTV欢笑剧场-4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-SiTV金色学堂,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
-SiTV劲爆体育,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-SiTV乐游,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-SiTV魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-SiTV七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-SiTV生活时尚,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
-SiTV游戏风云,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
-湖南金鹰纪实,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-湖南快乐垂钓,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-湖南茶频道,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-上海ICS外语,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-上海第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-上海东方财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-上海东方影视,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-上海都市,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-上海法治天地,http://gslbservzqhsw.itv.cmvideo.cn/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
-上海哈哈炫动,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-上海纪实人文50FPS,http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010282/1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
-上海纪实人文HEVC,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265021/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=3
-上海五星体育,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-上海新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+ITV,#genre#
+快乐垂钓,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+茶频道,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 求索动物,http://gslbservzqhsw.itv.cmvideo.cn/6000000002000010046/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索纪录,http://gslbservzqhsw.itv.cmvideo.cn/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://gslbservzqhsw.itv.cmvideo.cn/6000000002000032344/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
