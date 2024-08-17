@@ -249,39 +249,29 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 中学生,http://www.91dos.cn:4022/rtp/239.61.3.73:9956
 
 上海频道,#genre#
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-东方卫视,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000182
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
-东方卫视,http://server.qingyuga.me:8888/udp/239.45.3.146:5140
-东方卫视,http://origin.lean.org.cn:4000/udp/239.45.3.146:5140
-东方卫视,http://n.lualu.io:18888/udp/239.45.3.146:5140
-东方卫视,http://www.pptt.one:5002/udp/239.45.3.146:5140
-东方卫视,http://vpn.rogerxlj.top:9998/udp/239.45.3.146:5140
-东方卫视,http://wein66.ddnsfree.com:4022/udp/239.45.3.146:5140
-东方卫视,http://www.wein66.eu.org:4022/udp/239.45.3.146:5140
-东方卫视,http://home.nuaa.us.to:4000/udp/239.45.3.146:5140
-东方卫视,http://28901.noip.us.to:4000/udp/239.45.3.146:5140
-东方卫视,http://www.pptongtong.top:5002/udp/239.45.3.146:5140
-东方卫视,http://yuancw.eu.org:8088/udp/239.45.3.146:5140
-东方卫视,http://sh1.enjoymoe.com:8001/udp/239.45.3.146:5140
 东方卫视,http://gongjin.x3322.net:8686/udp/239.45.3.146:5140
-东方卫视,http://minecraft.qc0727.top:22222/udp/239.45.3.61:5140
-东方卫视,http://server.qingyuga.me:8888/udp/239.45.3.61:5140
-东方卫视,http://origin.lean.org.cn:4000/udp/239.45.3.61:5140
-东方卫视,http://n.lualu.io:18888/udp/239.45.3.61:5140
-东方卫视,http://www.pptt.one:5002/udp/239.45.3.61:5140
-东方卫视,http://vpn.rogerxlj.top:9998/udp/239.45.3.61:5140
-东方卫视,http://wein66.ddnsfree.com:4022/udp/239.45.3.61:5140
-东方卫视,http://www.wein66.eu.org:4022/udp/239.45.3.61:5140
-东方卫视,http://home.nuaa.us.to:4000/udp/239.45.3.61:5140
-东方卫视,http://28901.noip.us.to:4000/udp/239.45.3.61:5140
-东方卫视,http://www.pptongtong.top:5002/udp/239.45.3.61:5140
-东方卫视,http://yuancw.eu.org:8088/udp/239.45.3.61:5140
-东方卫视,http://sh1.enjoymoe.com:8001/udp/239.45.3.61:5140
 东方卫视,http://gongjin.x3322.net:8686/udp/239.45.3.61:5140
+东方卫视,http://home.nuaa.us.to:4000/udp/239.45.3.146:5140
+东方卫视,http://home.nuaa.us.to:4000/udp/239.45.3.61:5140
+东方卫视,http://n.lualu.io:18888/udp/239.45.3.146:5140
+东方卫视,http://n.lualu.io:18888/udp/239.45.3.61:5140
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视,http://sh1.enjoymoe.com:8001/udp/239.45.3.146:5140
+东方卫视,http://sh1.enjoymoe.com:8001/udp/239.45.3.61:5140
+东方卫视,http://vpn.rogerxlj.top:9998/udp/239.45.3.146:5140
+东方卫视,http://vpn.rogerxlj.top:9998/udp/239.45.3.61:5140
+东方卫视,http://wein66.ddnsfree.com:4022/udp/239.45.3.146:5140
+东方卫视,http://wein66.ddnsfree.com:4022/udp/239.45.3.61:5140
+东方卫视,http://wuqianmu.synology.me:4000/udp/232.0.0.122:1234$辽宁联通 组播
+东方卫视,http://www.wein66.eu.org:4022/udp/239.45.3.146:5140
+东方卫视,http://www.wein66.eu.org:4022/udp/239.45.3.61:5140
+东方卫视,http://xuys.top:8888/udp/225.1.1.45:5002$天津联通 组播
+东方卫视,http://xuys.top:8888/udp/225.1.2.31:5002$天津联通 组播
+东方卫视,http://yuancw.eu.org:8088/udp/239.45.3.146:5140
+东方卫视,http://yuancw.eu.org:8088/udp/239.45.3.61:5140
 上海新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻综合,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 上海新闻综合,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
