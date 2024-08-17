@@ -3082,11 +3082,15 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 group-title="娱乐频道,",BesTV
 http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
 #EXTINF:-1 group-title="娱乐频道,",CHC动作电影
+http://yd.pull.xzbjhuz.cn/histar/hw-chcdz.m3u8
+#EXTINF:-1 group-title="娱乐频道,",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 group-title="娱乐频道,",CHC动作电影
 http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094
 #EXTINF:-1 group-title="娱乐频道,",CHC动作电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
+#EXTINF:-1 group-title="娱乐频道,",CHC家庭影院
+http://yd.pull.xzbjhuz.cn/histar/hw-chcjt.m3u8
 #EXTINF:-1 group-title="娱乐频道,",CHC家庭影院
 http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
 #EXTINF:-1 group-title="娱乐频道,",CHC家庭影院
@@ -3095,6 +3099,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
 #EXTINF:-1 group-title="娱乐频道,",CHC家庭影院
 http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+#EXTINF:-1 group-title="娱乐频道,",CHC影迷电影
+http://yd.pull.xzbjhuz.cn/histar/hw-chcgq.m3u8
 #EXTINF:-1 group-title="娱乐频道,",CHC影迷电影
 http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
 #EXTINF:-1 group-title="娱乐频道,",CHC影迷电影
