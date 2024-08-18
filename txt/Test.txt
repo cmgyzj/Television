@@ -2,5 +2,6 @@
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
-
+七彩戏剧,http://111.31.122.59/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+七彩戏剧,http://hlsbkmgsplive.miguvideo.com/mgsp-tx.live.miguvideo.com/migu/kailu/qicaixjhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 
