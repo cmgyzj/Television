@@ -1,4 +1,7 @@
 测试源,#genre#
+
+http://feiyangdigital.tg.zqhswlive.ottdns.com
+
 四川康巴卫视,http://home.jornihe.cn:8888/udp/239.93.0.41:5140
 四川公共乡村,http://home.jornihe.cn:8888/udp/239.93.0.52:5140
 四川妇女儿童,http://home.jornihe.cn:8888/udp/239.93.0.219:5140
