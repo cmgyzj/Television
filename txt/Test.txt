@@ -253,7 +253,7 @@ CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 广西|钦州综合,http://www.dsmcloud.top:8888/udp/239.81.0.165:4056
 广西|梧州新闻综合,http://www.dsmcloud.top:8888/udp/239.81.0.176:4056
 广西|梧州新闻综合,http://www.dsmcloud.top:8888/udp/239.81.0.244:4056
-广西|玉林新闻,http://www.dsmcloud.top:8888/udp/239.81.0.177:4056综合
+广西|玉林新闻综合,http://www.dsmcloud.top:8888/udp/239.81.0.177:4056综合
 广西|玉林新闻综合,http://www.dsmcloud.top:8888/udp/239.81.0.138:4056
 广西都市,http://www.dsmcloud.top:8888/udp/239.81.0.4:4056
 广西国际,http://www.dsmcloud.top:8888/udp/239.81.0.8:4056
