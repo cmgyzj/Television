@@ -767,10 +767,6 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 上海金山,http://livejs1.newsjs.net/jspd/playlist.m3u8
 
 体育频道,#genre#
-beIN Sports (Singapore and Malaysia),p2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-beIN Sports 2(Singapore and Malaysia),p2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
-beIN Sports 2(Singapore and Malaysia),p2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
-beIN Sports 3(Singapore and Malaysia),p2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
 CCTV16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
@@ -790,67 +786,12 @@ CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-Eurosport HD,p2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
 Eleven Sports,https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
-ELEVEN体育1台,p2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
 ELEVEN体育1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
-ELEVEN体育2台,p2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
 ELEVEN体育2台,rtmp://f13h.mine.nu/sat/tv741
-ELEVEN体育2台,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
-ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
-ESPN U,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
-ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
 iHOT爱体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
 Sky 1 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-Sky Sp News,p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
-Sky Sports 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
-Sky Sports 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
-Sky Sports 4,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
-Sky Sports Cricket,p2p://generationnexxxt.com:19806/5ca24cd53f8a4833b81a223e59727c68
-Sky Sports Cricket,mitv://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c79e1
-Sky Sports Arena,p2p://generationnexxxt.com:19806/8af96f851dff4de3bc20f74d1c279e20
-Sky Sports Mix,p2p://generationnexxxt.com:19806/bfdd62d08ea9487ab560a16d2e2cf690
-Sky Sports F1,p2p://generationnexxxt.com:19806/40da6ffe24c64429b68ecbb1ba7391e9
-Sky Sports F1,mitv://generationnexxxt.com:19806/65791ef90003eb94316400fd79094faa
-Sky Sports F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
-Sky Sports F1,p3p://fccsen.dyndns.tv:29706/632925030006df29c988b98b40e91993
-Sky Sports Football,p2p://generationnexxxt.com:19806/1697ddb1977b42e6b6e31a6e27fa04ac
-Sky Sports Football,mitv://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
-Sky Sports Golf,p2p://generationnexxxt.com:19806/190b680d86a54d0bba8af38ccfed15c2
-Sky Sports Golf,mitv://generationnexxxt.com:19806/65791ef9000e6a67316403ad31ad3930
-Sky Sports Main Event,p2p://generationnexxxt.com:19806/ef8f88e5ae3a466dab2bd1d312183f0b
-Sky Sports Main Event,mitv://generationnexxxt.com:19806/65791ef800079cd23163fe0f44d92213
-Sky Sports MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
-Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
-TSN1,p2p://generationnexxxt.com:19806/bcf284d14b5f48d4979e980170ff7787
-TSN2,p2p://generationnexxxt.com:19806/fdbe70a4515c4cb38b3a1fa72d76d425
-TSN3,p2p://generationnexxxt.com:19806/2b173ec56c6648349d43145a63a33fc1
-TSN4,p2p://generationnexxxt.com:19806/3482e37f8ed7484ba78e7f4cc3d7733e
-TSN5,p2p://generationnexxxt.com:19806/8e13a731470b435890b7056a2ed70993
-FOX Sports 2,p2p://generationnexxxt.com:19806/52a40b5ff52844a6b91af75499354c92
-ESPN,p2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
-ESPN2,p2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
-NBA,p2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
-爱尔达体育1台,p2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
-爱尔达体育1台,p2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
-爱尔达体育2台,p2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
-爱尔达体育2台,p2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
-爱尔达体育3台,p2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
-爱尔达体育4台,p2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
-TRACE Sport Stars,p2p://generationnexxxt.com:19806/771e966a825d4e7e8280601cb8cc1227
-TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
-博斯高球,p2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e
-博斯高球,p2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
-博斯高球二台,p2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
-博斯网球台,p2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd
-博斯网球台,p2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4
-博斯魅力网,p2p://generationnexxxt.com:19806/e8db82c6084a4ae2b114ea7c5403b7a2
-博斯无限台,p2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf
-博斯无限台,p2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c
-博斯无限二台,p2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f
-博斯运动,p2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70
 百事通超级体育,http://28901.noip.us.to:4000/udp/239.45.3.139:5140
 百事通超级体育,http://gongjin.x3322.net:8686/udp/239.45.3.139:5140
 百事通超级体育,http://home.nuaa.us.to:4000/udp/239.45.3.139:5140
@@ -895,7 +836,6 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 广东体育,https://epg.pw/stream/95a6abc7ca6fc3d22dd501e34fc3da363cc13733c7ec54fa82ee4b2d66992cc5.m3u8
 广东体育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
-广东体育,p2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
 广州竞赛,http://jt.zorua.cn:8787/udp/239.253.43.70:5146
 广州竞赛,http://jt.zorua.cn:8787/udp/239.253.43.75:5146
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -921,7 +861,6 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 麻辣体育,http://zhyfans.mycloudnas.com:8000/udp/239.93.42.2:5140
 麻辣体育,http://www.iwumei.cc:9527/udp/239.93.42.2:5140
 魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-魅力足球,p2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
 魅力足球,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
 魅力足球,http://223.106.228.14/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 魅力足球,http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -929,7 +868,6 @@ TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a0
 魅力足球,http://223.111.143.161/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 魅力足球,http://223.111.143.167/mgsp-tx.live.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
-魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
 咪咕直播-睛彩竞技,http://minecraft.qc0727.top:22222/udp/239.45.3.53:5140
 咪咕直播-睛彩竞技,http://origin.lean.org.cn:4000/udp/239.45.3.53:5140
 咪咕直播-睛彩竞技,http://n.lualu.io:18888/udp/239.45.3.53:5140
@@ -1038,7 +976,6 @@ BesTV 7,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/ind
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来体育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 五星体育,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -1082,7 +1019,6 @@ BesTV 7,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/ind
 先锋乒羽,http://gongjin.x3322.net:8686/udp/239.45.3.43:5140
 先锋乒羽,http://zhyfans.mycloudnas.com:8000/udp/239.93.42.56:5140
 先锋乒羽,http://www.iwumei.cc:9527/udp/239.93.42.56:5140
-新视觉,p2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 新视觉,http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000
 新视觉,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 央视高网,http://minecraft.qc0727.top:22222/udp/239.45.1.72:5140
@@ -1098,7 +1034,6 @@ BesTV 7,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/ind
 央视高网,http://gongjin.x3322.net:8686/udp/239.45.1.72:5140
 央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
-智林体育台,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.flv
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 足球频道,rtmp://nmglive.imfc.cn/5n1r1c/182396
@@ -1138,6 +1073,7 @@ BesTV 7,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/ind
 山东体育休闲,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
 山东体育休闲,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育休闲,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
+
 
 卫视频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
@@ -2114,21 +2050,21 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 河北少儿科教,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.174:6004
 河北影视剧,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.173:6003
 河北影视剧,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.173:6003
-河南|文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-河南|梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-河南|梨园频道,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.133:6441
-河南|梨园频道,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.133:6441
-河南|梨园频道,http://xuys.top:8888/udp/225.1.2.104:5002
-河南|梨园频道,http://xuys.top:8888/udp/225.1.2.104:5002
-河南|文物宝库,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.180:6437
-河南|文物宝库,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.180:6437
-河南|文物宝库,http://xuys.top:8888/udp/225.1.2.105:5002
-河南|文物宝库,http://xuys.top:8888/udp/225.1.2.105:5002
-河南|武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
-河南|武术世界,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.46:6434
-河南|武术世界,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.46:6434
-河南|武术世界,http://xuys.top:8888/udp/225.1.2.129:5002
-河南|武术世界,http://xuys.top:8888/udp/225.1.2.129:5002
+河南文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
+河南梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+河南梨园频道,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.133:6441
+河南梨园频道,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.133:6441
+河南梨园频道,http://xuys.top:8888/udp/225.1.2.104:5002
+河南梨园频道,http://xuys.top:8888/udp/225.1.2.104:5002
+河南文物宝库,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.180:6437
+河南文物宝库,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.180:6437
+河南文物宝库,http://xuys.top:8888/udp/225.1.2.105:5002
+河南文物宝库,http://xuys.top:8888/udp/225.1.2.105:5002
+河南武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
+河南武术世界,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.46:6434
+河南武术世界,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.46:6434
+河南武术世界,http://xuys.top:8888/udp/225.1.2.129:5002
+河南武术世界,http://xuys.top:8888/udp/225.1.2.129:5002
 黑龙江|哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 黑龙江|哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 黑龙江|哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -5578,7 +5514,72 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 巴西 TV Pai Eterno,https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 巴西 TV Santa Cruz,https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 
-台湾P2P,#genre#
+P2P备份源,#genre#
+beIN Sports (Singapore and Malaysia),p2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
+beIN Sports 2(Singapore and Malaysia),p2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
+beIN Sports 2(Singapore and Malaysia),p2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
+beIN Sports 3(Singapore and Malaysia),p2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
+Eurosport HD,p2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
+ELEVEN体育1台,p2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
+ELEVEN体育2台,p2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
+Sky Sports Cricket,p2p://generationnexxxt.com:19806/5ca24cd53f8a4833b81a223e59727c68
+Sky Sports Arena,p2p://generationnexxxt.com:19806/8af96f851dff4de3bc20f74d1c279e20
+Sky Sports Mix,p2p://generationnexxxt.com:19806/bfdd62d08ea9487ab560a16d2e2cf690
+Sky Sports F1,p2p://generationnexxxt.com:19806/40da6ffe24c64429b68ecbb1ba7391e9
+Sky Sports Football,p2p://generationnexxxt.com:19806/1697ddb1977b42e6b6e31a6e27fa04ac
+Sky Sports Golf,p2p://generationnexxxt.com:19806/190b680d86a54d0bba8af38ccfed15c2
+Sky Sports Main Event,p2p://generationnexxxt.com:19806/ef8f88e5ae3a466dab2bd1d312183f0b
+TSN1,p2p://generationnexxxt.com:19806/bcf284d14b5f48d4979e980170ff7787
+TSN2,p2p://generationnexxxt.com:19806/fdbe70a4515c4cb38b3a1fa72d76d425
+TSN3,p2p://generationnexxxt.com:19806/2b173ec56c6648349d43145a63a33fc1
+TSN4,p2p://generationnexxxt.com:19806/3482e37f8ed7484ba78e7f4cc3d7733e
+TSN5,p2p://generationnexxxt.com:19806/8e13a731470b435890b7056a2ed70993
+FOX Sports 2,p2p://generationnexxxt.com:19806/52a40b5ff52844a6b91af75499354c92
+ESPN,p2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
+ESPN2,p2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
+NBA,p2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
+爱尔达体育1台,p2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
+爱尔达体育1台,p2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
+爱尔达体育2台,p2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
+爱尔达体育2台,p2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
+爱尔达体育3台,p2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
+爱尔达体育4台,p2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
+TRACE Sport Stars,p2p://generationnexxxt.com:19806/771e966a825d4e7e8280601cb8cc1227
+博斯高球,p2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e
+博斯高球,p2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
+博斯高球二台,p2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
+博斯网球台,p2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd
+博斯网球台,p2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4
+博斯魅力网,p2p://generationnexxxt.com:19806/e8db82c6084a4ae2b114ea7c5403b7a2
+博斯无限台,p2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf
+博斯无限台,p2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c
+博斯无限二台,p2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f
+博斯运动,p2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70
+广东体育,p2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
+魅力足球,p2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
+新视觉,p2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
+ESPN U,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
+Sky Sp News,p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
+Sky Sports 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
+Sky Sports 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
+Sky Sports 4,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
+Sky Sports F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
+Sky Sports F1,p3p://fccsen.dyndns.tv:29706/632925030006df29c988b98b40e91993
+Sky Sports MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
+ELEVEN体育1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
+ELEVEN体育2台,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
+ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
+Sky Sports Cricket,mitv://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c79e1
+Sky Sports F1,mitv://generationnexxxt.com:19806/65791ef90003eb94316400fd79094faa
+Sky Sports Football,mitv://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
+Sky Sports Golf,mitv://generationnexxxt.com:19806/65791ef9000e6a67316403ad31ad3930
+Sky Sports Main Event,mitv://generationnexxxt.com:19806/65791ef800079cd23163fe0f44d92213
+Sky Sports Premier League,mitv://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
+TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
+魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+纬来体育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
+智林体育台,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 BBC Lifestyle,p2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
 民视,p2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
 台视,p2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
