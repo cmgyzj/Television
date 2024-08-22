@@ -24,4 +24,5 @@ Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , 
 所有频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/EasonTV.m3u</code></p>
 
-# 注意:P2P-P6P和mitv协议的直播源地址推荐在安卓端的DIYP影音中播放收看,需要开启"玩转原力"功能播放这些协议的直播源地址,需要观看港澳台地区频道,推荐安装"<a href="https://www.123pan.com/s/PMXuVv-uWe4H.html" target="_blank">野火LIVE全球华人版</a>"(只有安卓端)
+# 注意:P2P-P6P和mitv协议的直播源地址推荐在安卓端的DIYP影音中播放收看,需要开启"玩转原力"功能即可播放这些协议的直播源地址
+# 如需稳定观看港澳台地区频道,推荐安装"<a href="https://www.123pan.com/s/PMXuVv-uWe4H.html" target="_blank">野火LIVE全球华人版</a>"(只有安卓端)
