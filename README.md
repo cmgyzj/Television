@@ -24,4 +24,4 @@ Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , 
 所有频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/EasonTV.m3u</code></p>
 
-# 注意：因直播源格式协议支持问题，iOS系统目前未找到支持mitv,p2p-p6p等协议的播放器，故无法播放所有台湾频道和部分体育频道。如需收看这些频道，请转移到安卓设备，安装DIYP影音并开启"玩转原力"模式，才能正常播放这些频道！
+# 注意:P2P-P6P和mitv协议的直播源地址推荐在安卓端的DIYP影音中播放收看,需要开启"玩转原力"功能播放这些协议的直播源地址,需要观看港澳台地区频道,推荐安装"<a href="https://www.123pan.com/s/PMXuVv-uWe4H.html" target="_blank">野火LIVE全球华人版</a>"(只有安卓端)
