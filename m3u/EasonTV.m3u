@@ -4913,8 +4913,6 @@ https://live.wjyanghu.com:443/live/CH1.m3u8
 https://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 group-title="地方频道",江苏|武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
-#EXTINF:-1 group-title="地方频道",江苏|优漫卡通
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 group-title="地方频道",江苏财富天下
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000069
 #EXTINF:-1 group-title="地方频道",江苏城市
@@ -4973,6 +4971,8 @@ http://www.starmoon.org.cn:4022/rtp/239.49.1.20:6000
 http://www.zhantong.tech:8800/rtp/239.49.0.20:8152
 #EXTINF:-1 group-title="地方频道",江苏影视
 http://www.zhantong.tech:8800/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 group-title="地方频道",江苏优漫卡通
 http://chr.460513.xyz:8800/rtp/239.49.0.21:8160
 #EXTINF:-1 group-title="地方频道",江苏优漫卡通
