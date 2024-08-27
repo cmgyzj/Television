@@ -5630,23 +5630,15 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 
 RTMP直播源,#genre#
 足球频道,rtmp://nmglive.imfc.cn/5n1r1c/182396
-纬来体育,rtmp://220.130.201.73/sat/tv721
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN体育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2台,rtmp://f13h.mine.nu/sat/tv741
-中视,rtmp://220.130.201.73/sat/tv091
 中视,rtmp://f13h.mine.nu/sat/tv091
-台视,rtmp://220.130.201.73/sat/tv071
 台视,rtmp://f13h.mine.nu/sat/tv071
-华视,rtmp://220.130.201.73/sat/tv111
 华视,rtmp://f13h.mine.nu/sat/tv111
-纬来育乐,rtmp://220.130.201.73/sat/tv701
+民视,rtmp://f13h.mine.nu/sat/tv051
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://220.130.201.73/sat/tv771
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://220.130.201.73/sat/tv331
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 
