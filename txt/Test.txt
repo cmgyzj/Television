@@ -1,4 +1,10 @@
 测试1,#genre#
+上海新闻综合,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031110/1.m3u8
+上海新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8
+上海新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+五星体育,http://[2409:8087:5e00:24::1e]:6060/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+五星体育,http://zteres.sn.chinamobile.com:6060/5000000010000017540/1.m3u8
+五星体育,http://zteres.sn.chinamobile.com:6060/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 
 测试2,#genre#
 
