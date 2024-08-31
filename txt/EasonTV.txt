@@ -390,6 +390,8 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 东方卫视,http://xuys.top:8888/udp/225.1.2.31:5002$天津联通
 东方卫视,http://yuancw.eu.org:8088/udp/239.45.3.146:5140
 东方卫视,http://yuancw.eu.org:8088/udp/239.45.3.61:5140
+上海新闻综合,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031110/1.m3u8
+上海新闻综合,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 上海新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻综合,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031110
 上海新闻综合,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
@@ -401,6 +403,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 上海新闻综合,http://yuancw.eu.org:8088/udp/239.45.3.209:5140
 上海新闻综合,http://sh1.enjoymoe.com:8001/udp/239.45.3.209:5140
 上海新闻综合,http://gongjin.x3322.net:8686/udp/239.45.3.209:5140
+上海都市,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
 上海都市,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 上海都市,http://minecraft.qc0727.top:22222/udp/239.45.3.236:5140
 上海都市,http://n.lualu.io:18888/udp/239.45.3.236:5140
@@ -410,6 +413,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 上海都市,http://yuancw.eu.org:8088/udp/239.45.3.236:5140
 上海都市,http://sh1.enjoymoe.com:8001/udp/239.45.3.236:5140
 上海都市,http://gongjin.x3322.net:8686/udp/239.45.3.236:5140
+纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实人文,http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010282/1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 纪实人文,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265021/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=3
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8
@@ -425,6 +429,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 纪实人文,http://yuancw.eu.org:8088/udp/239.45.3.212:5140
 纪实人文,http://sh1.enjoymoe.com:8001/udp/239.45.3.212:5140
 纪实人文,http://gongjin.x3322.net:8686/udp/239.45.3.212:5140
+东方影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 东方影视,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 东方影视,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000010000032212
 东方影视,http://php.jdshipin.com/bestv.php?id=dfyshd8m/8000000
@@ -437,6 +442,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 东方影视,http://yuancw.eu.org:8088/udp/239.45.3.237:5140
 东方影视,http://sh1.enjoymoe.com:8001/udp/239.45.3.237:5140
 东方影视,http://gongjin.x3322.net:8686/udp/239.45.3.237:5140
+第一财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000010000027146
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
@@ -448,6 +454,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 第一财经,http://yuancw.eu.org:8088/udp/239.45.3.211:5140
 第一财经,http://sh1.enjoymoe.com:8001/udp/239.45.3.211:5140
 第一财经,http://gongjin.x3322.net:8686/udp/239.45.3.211:5140
+五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000007
 五星体育,https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
@@ -478,6 +485,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 哈哈炫动,http://yuancw.eu.org:8088/udp/239.45.1.55:5140
 哈哈炫动,http://sh1.enjoymoe.com:8001/udp/239.45.1.55:5140
 哈哈炫动,http://gongjin.x3322.net:8686/udp/239.45.1.55:5140
+上海外语,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 上海外语,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 上海外语,http://minecraft.qc0727.top:22222/udp/239.45.1.127:5140
 上海外语,http://n.lualu.io:18888/udp/239.45.1.127:5140
@@ -506,6 +514,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
+乐游频道,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 乐游频道,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 乐游频道,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031112
 乐游频道,http://minecraft.qc0727.top:22222/udp/239.45.3.135:5140
@@ -519,6 +528,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 乐游频道,http://xuys.top:8888/udp/225.1.1.74:5002
 乐游频道,http://www.jeremyoto.com:82/rtp/233.50.201.185:5140
 乐游频道,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
+金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 金色学堂,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
 金色学堂,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000026105
 金色学堂,http://minecraft.qc0727.top:22222/udp/239.45.0.9:5140
@@ -541,6 +551,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 金色学堂,http://yuancw.eu.org:8088/udp/239.45.1.118:5140
 金色学堂,http://sh1.enjoymoe.com:8001/udp/239.45.1.118:5140
 金色学堂,http://gongjin.x3322.net:8686/udp/239.45.1.118:5140
+七彩戏剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
 七彩戏剧,http://minecraft.qc0727.top:22222/udp/239.45.0.16:5140
@@ -552,6 +563,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 七彩戏剧,http://sh1.enjoymoe.com:8001/udp/239.45.0.16:5140
 七彩戏剧,http://gongjin.x3322.net:8686/udp/239.45.0.16:5140
 七彩戏剧,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
+法治天地,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 法治天地,http://gslbservzqhsw.itv.cmvideo.cn/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
 法治天地,http://xuys.top:8888/udp/225.1.1.84:5002
@@ -565,6 +577,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 法治天地,http://yuancw.eu.org:8088/udp/239.45.1.46:5140
 法治天地,http://sh1.enjoymoe.com:8001/udp/239.45.1.46:5140
 法治天地,http://gongjin.x3322.net:8686/udp/239.45.1.46:5140
+东方财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
 东方财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 东方财经,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010003
 东方财经,http://minecraft.qc0727.top:22222/udp/239.45.0.17:5140
@@ -577,6 +590,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 东方财经,http://gongjin.x3322.net:8686/udp/239.45.0.17:5140
 东方财经,http://xuys.top:8888/udp/225.1.1.247:5002
 东方财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
+欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 欢笑剧场,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000007000010001
@@ -616,6 +630,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
+都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
 都市剧场,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 都市剧场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031111
 都市剧场,http://xuys.top:8888/udp/225.1.1.75:5002
@@ -631,6 +646,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 都市剧场,http://yuancw.eu.org:8088/udp/239.45.3.136:5140
 都市剧场,http://sh1.enjoymoe.com:8001/udp/239.45.3.136:5140
 都市剧场,http://gongjin.x3322.net:8686/udp/239.45.3.136:5140
+动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 动漫秀场,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://xuys.top:8888/udp/225.1.1.67:5002
@@ -660,6 +676,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 生活时尚,http://yuancw.eu.org:8088/udp/239.45.3.132:5140
 生活时尚,http://sh1.enjoymoe.com:8001/udp/239.45.3.132:5140
 生活时尚,http://gongjin.x3322.net:8686/udp/239.45.3.132:5140
+游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 游戏风云,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 游戏风云,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031114
 游戏风云,http://xuys.top:8888/udp/225.1.1.68:5002
@@ -696,6 +713,7 @@ CGTN英语,https://epg.pw/stream/ef62d67dad114720af70a51b9a00ac33c6f0c9cfcdc8d1e
 上海金山,http://livejs1.newsjs.net/jspd/playlist.m3u8
 
 体育频道,#genre#
+五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://gongjin.x3322.net:8686/udp/239.45.3.210:5140
 五星体育,http://minecraft.qc0727.top:22222/udp/239.45.3.210:5140
