@@ -570,6 +570,26 @@ http://www.91dos.cn:4022/rtp/239.61.3.74:9962
 #EXTINF:-1 group-title="央视频道",风云剧场
 http://php.jdshipin.com/TVOD/iptv.php?id=fyjc
 #EXTINF:-1 group-title="央视频道",风云音乐
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://sz.seala.top:4022/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://starmoon.org.cn:4022/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://sz.seala.uk:4022/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://im.508686.xyz:8088/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://st.sportbabytoy.com:9999/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.151:9202
+#EXTINF:-1 group-title="央视频道",风云音乐
 http://chr.460513.xyz:8800/rtp/239.49.0.151:9202
 #EXTINF:-1 group-title="央视频道",风云音乐
 http://www.starmoon.org.cn:4022/rtp/239.49.0.151:9202
@@ -593,6 +613,26 @@ http://wein66.ddnsfree.com:4022/udp/239.45.1.75:5140
 http://www.wein66.eu.org:4022/udp/239.45.1.75:5140
 #EXTINF:-1 group-title="央视频道",风云足球
 http://yuancw.eu.org:8088/udp/239.45.1.75:5140
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://sz.seala.top:4022/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://starmoon.org.cn:4022/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://sz.seala.uk:4022/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://im.508686.xyz:8088/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://st.sportbabytoy.com:9999/rtp/239.49.0.157:9250
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.157:9250
 #EXTINF:-1 group-title="央视频道",怀旧剧场
 http://chr.460513.xyz:8800/rtp/239.49.0.157:9250
 #EXTINF:-1 group-title="央视频道",怀旧剧场
@@ -638,11 +678,51 @@ http://yuancw.eu.org:8088/udp/239.45.1.72:5140
 #EXTINF:-1 group-title="央视频道",央视台球
 http://php.jdshipin.com/TVOD/iptv.php?id=ystq
 #EXTINF:-1 group-title="央视频道",女性时尚
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://sz.seala.top:4022/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://starmoon.org.cn:4022/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://sz.seala.uk:4022/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://im.508686.xyz:8088/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://st.sportbabytoy.com:9999/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",女性时尚
 http://chr.460513.xyz:8800/rtp/239.49.0.159:9266
 #EXTINF:-1 group-title="央视频道",女性时尚
 http://www.starmoon.org.cn:4022/rtp/239.49.0.159:9266
 #EXTINF:-1 group-title="央视频道",女性时尚
 http://www.zhantong.tech:8800/rtp/239.49.0.159:9266
+#EXTINF:-1 group-title="央视频道",世界地理
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://sz.seala.top:4022/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://starmoon.org.cn:4022/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://sz.seala.uk:4022/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://im.508686.xyz:8088/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://st.sportbabytoy.com:9999/rtp/239.49.0.155:9234
+#EXTINF:-1 group-title="央视频道",世界地理
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.155:9234
 #EXTINF:-1 group-title="央视频道",世界地理
 http://chr.460513.xyz:8800/rtp/239.49.0.155:9234
 #EXTINF:-1 group-title="央视频道",世界地理
@@ -1791,6 +1871,46 @@ http://gongjin.x3322.net:8686/udp/239.45.1.72:5140
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd？世界杯世界杯
 #EXTINF:-1 group-title="体育频道",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://sz.seala.top:4022/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://starmoon.org.cn:4022/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://sz.seala.uk:4022/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://im.508686.xyz:8088/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://st.sportbabytoy.com:9999/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://ikuai.12740162.xyz:8800/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://xiazaiji.f3322.org:8800/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://sz.seala.top:4022/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://starmoon.org.cn:4022/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://sz.seala.uk:4022/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://im.508686.xyz:8088/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://wx.puchengyu2009.top:9999/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://st.sportbabytoy.com:9999/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://dell.puchengyu2009.top:9999/rtp/239.49.1.19:6000
 #EXTINF:-1 group-title="体育频道",江苏体育休闲
 http://chr.460513.xyz:8800/rtp/239.49.0.19:8144
 #EXTINF:-1 group-title="体育频道",江苏体育休闲
@@ -4706,6 +4826,46 @@ https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
 #EXTINF:-1 group-title="地方频道",江苏财富天下
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000069
 #EXTINF:-1 group-title="地方频道",江苏城市
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://sz.seala.top:4022/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://starmoon.org.cn:4022/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://sz.seala.uk:4022/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://im.508686.xyz:8088/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://st.sportbabytoy.com:9999/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://ikuai.12740162.xyz:8800/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://xiazaiji.f3322.org:8800/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://sz.seala.top:4022/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://starmoon.org.cn:4022/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://sz.seala.uk:4022/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://im.508686.xyz:8088/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://wx.puchengyu2009.top:9999/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://st.sportbabytoy.com:9999/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://dell.puchengyu2009.top:9999/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
 http://chr.460513.xyz:8800/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="地方频道",江苏城市
 http://chr.460513.xyz:8800/rtp/239.49.1.17:6000
@@ -4717,6 +4877,46 @@ http://www.starmoon.org.cn:4022/rtp/239.49.1.17:6000
 http://www.zhantong.tech:8800/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="地方频道",江苏城市
 http://www.zhantong.tech:8800/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://sz.seala.top:4022/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://starmoon.org.cn:4022/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://sz.seala.uk:4022/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://im.508686.xyz:8088/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://st.sportbabytoy.com:9999/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://ikuai.12740162.xyz:8800/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://xiazaiji.f3322.org:8800/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://sz.seala.top:4022/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://starmoon.org.cn:4022/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://sz.seala.uk:4022/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://im.508686.xyz:8088/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://wx.puchengyu2009.top:9999/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://st.sportbabytoy.com:9999/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://dell.puchengyu2009.top:9999/rtp/239.49.1.23:6000
 #EXTINF:-1 group-title="地方频道",江苏国际
 http://chr.460513.xyz:8800/rtp/239.49.0.22:8168
 #EXTINF:-1 group-title="地方频道",江苏国际
@@ -4730,6 +4930,46 @@ http://www.zhantong.tech:8800/rtp/239.49.0.22:8168
 #EXTINF:-1 group-title="地方频道",江苏国际
 http://www.zhantong.tech:8800/rtp/239.49.1.23:6000
 #EXTINF:-1 group-title="地方频道",江苏教育
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://sz.seala.top:4022/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://starmoon.org.cn:4022/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://sz.seala.uk:4022/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://im.508686.xyz:8088/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://st.sportbabytoy.com:9999/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://ikuai.12740162.xyz:8800/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://xiazaiji.f3322.org:8800/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://sz.seala.top:4022/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://starmoon.org.cn:4022/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://sz.seala.uk:4022/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://im.508686.xyz:8088/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://wx.puchengyu2009.top:9999/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://st.sportbabytoy.com:9999/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://dell.puchengyu2009.top:9999/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
 http://chr.460513.xyz:8800/rtp/239.49.0.23:8176
 #EXTINF:-1 group-title="地方频道",江苏教育
 http://chr.460513.xyz:8800/rtp/239.49.1.25:6000
@@ -4742,11 +4982,91 @@ http://www.zhantong.tech:8800/rtp/239.49.0.23:8176
 #EXTINF:-1 group-title="地方频道",江苏教育
 http://www.zhantong.tech:8800/rtp/239.49.1.25:6000
 #EXTINF:-1 group-title="地方频道",江苏新闻
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://sz.seala.top:4022/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://starmoon.org.cn:4022/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://sz.seala.uk:4022/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://im.508686.xyz:8088/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://st.sportbabytoy.com:9999/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://ikuai.12740162.xyz:8800/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://xiazaiji.f3322.org:8800/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://sz.seala.top:4022/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://starmoon.org.cn:4022/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://sz.seala.uk:4022/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://im.508686.xyz:8088/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://wx.puchengyu2009.top:9999/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://st.sportbabytoy.com:9999/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://dell.puchengyu2009.top:9999/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
 http://chr.460513.xyz:8800/rtp/239.49.0.149:9186
 #EXTINF:-1 group-title="地方频道",江苏新闻
 http://www.starmoon.org.cn:4022/rtp/239.49.0.149:9186
 #EXTINF:-1 group-title="地方频道",江苏新闻
 http://www.zhantong.tech:8800/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://sz.seala.top:4022/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://starmoon.org.cn:4022/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://sz.seala.uk:4022/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://im.508686.xyz:8088/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://st.sportbabytoy.com:9999/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://ikuai.12740162.xyz:8800/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://xiazaiji.f3322.org:8800/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://sz.seala.top:4022/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://starmoon.org.cn:4022/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://sz.seala.uk:4022/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://im.508686.xyz:8088/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://wx.puchengyu2009.top:9999/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://st.sportbabytoy.com:9999/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://dell.puchengyu2009.top:9999/rtp/239.49.1.20:6000
 #EXTINF:-1 group-title="地方频道",江苏影视
 http://chr.460513.xyz:8800/rtp/239.49.0.20:8152
 #EXTINF:-1 group-title="地方频道",江苏影视
@@ -4761,6 +5081,46 @@ http://www.starmoon.org.cn:4022/rtp/239.49.1.20:6000
 http://www.zhantong.tech:8800/rtp/239.49.0.20:8152
 #EXTINF:-1 group-title="地方频道",江苏影视
 http://www.zhantong.tech:8800/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://sz.seala.top:4022/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://starmoon.org.cn:4022/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://sz.seala.uk:4022/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://im.508686.xyz:8088/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://st.sportbabytoy.com:9999/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://ikuai.12740162.xyz:8800/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://xiazaiji.f3322.org:8800/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://sz.seala.top:4022/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://starmoon.org.cn:4022/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://sz.seala.uk:4022/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://im.508686.xyz:8088/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://wx.puchengyu2009.top:9999/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://st.sportbabytoy.com:9999/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏优漫卡通
+http://dell.puchengyu2009.top:9999/rtp/239.49.1.21:6000
 #EXTINF:-1 group-title="地方频道",江苏优漫卡通
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 group-title="地方频道",江苏优漫卡通
@@ -4777,6 +5137,46 @@ http://www.starmoon.org.cn:4022/rtp/239.49.1.21:6000
 http://www.zhantong.tech:8800/rtp/239.49.0.21:8160
 #EXTINF:-1 group-title="地方频道",江苏优漫卡通
 http://www.zhantong.tech:8800/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://ikuai.12740162.xyz:8800/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://sz.seala.top:4022/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://starmoon.org.cn:4022/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://sz.seala.uk:4022/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://im.508686.xyz:8088/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://wx.puchengyu2009.top:9999/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://st.sportbabytoy.com:9999/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://dell.puchengyu2009.top:9999/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://ikuai.12740162.xyz:8800/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://xiazaiji.f3322.org:8800/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://sz.seala.top:4022/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://starmoon.org.cn:4022/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://sz.seala.uk:4022/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://im.508686.xyz:8088/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://wx.puchengyu2009.top:9999/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://st.sportbabytoy.com:9999/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://dell.puchengyu2009.top:9999/rtp/239.49.1.18:6000
 #EXTINF:-1 group-title="地方频道",江苏综艺
 http://chr.460513.xyz:8800/rtp/239.49.0.18:8136
 #EXTINF:-1 group-title="地方频道",江苏综艺
