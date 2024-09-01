@@ -1399,12 +1399,16 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 1905极限反转,http://php.jdshipin.com/1905.php?id=1905dy
 4K超高清电影,http://php.jdshipin.com/TVOD/iptv.php?id=emdy4k
 BesTV,http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://m.ekanx.com:8181/udp/239.81.0.239:4056
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC动作电影,http://taohua139.synology.me:4022/udp/239.81.0.239:4056
 CHC动作电影,http://www.dsmcloud.top:8888/udp/239.81.0.239:4056
 CHC动作电影,http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
 CHC家庭影院,http://m.ekanx.com:8181/udp/239.81.0.238:4056
@@ -1412,6 +1416,8 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 CHC家庭影院,http://taohua139.synology.me:4022/udp/239.81.0.238:4056
 CHC家庭影院,http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
 CHC家庭影院,http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
+CHC影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
 CHC影迷电影,http://m.ekanx.com:8181/udp/239.81.0.240:4056
