@@ -3955,11 +3955,11 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/7882297361445410858/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/
 #EXTINF:-1 group-title="娱乐频道",NewTV精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="娱乐频道",NewTV精品记录
+#EXTINF:-1 group-title="娱乐频道",NewTV精品纪录
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010060/
-#EXTINF:-1 group-title="娱乐频道",NewTV精品记录
+#EXTINF:-1 group-title="娱乐频道",NewTV精品纪录
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010076/
-#EXTINF:-1 group-title="娱乐频道",NewTV精品记录
+#EXTINF:-1 group-title="娱乐频道",NewTV精品纪录
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010076/
 #EXTINF:-1 group-title="娱乐频道",NewTV精品纪录
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
@@ -4035,7 +4035,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/7681593242002292003/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010121/
 #EXTINF:-1 group-title="娱乐频道",NewTV武博世界
 http://[2409:8087:5e00:24::1e]:6060/000000001000/bokesen/
-#EXTINF:-1 group-title="娱乐频道",NewTV武搏世界
+#EXTINF:-1 group-title="娱乐频道",NewTV武博世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",NewTV炫舞未来
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010039/
