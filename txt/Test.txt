@@ -69,3 +69,7 @@ CHC影迷电影,http://124.231.215.108:9999/tsfile/live/1110_1.m3u8
 都市剧场,http://124.231.215.108:9999/tsfile/live/1115_1.m3u8
 家庭理财,http://124.231.215.108:9999/tsfile/live/1117_1.m3u8
 劲爆体育,http://124.231.215.108:9999/tsfile/live/1113_1.m3u8
+
+云南地方台,#genre#
+云南|德宏文旅,https://zhztsrs.dehong.gov.cn:8001/srs1/matrix/102531.flv?$1920x1080
+云南|德宏综合,https://zhztsrs.dehong.gov.cn:8001/srs1/matrix/102580.flv?$1920x1080
