@@ -73,13 +73,3 @@ CHC影迷电影,http://124.231.215.108:9999/tsfile/live/1110_1.m3u8
 云南地方台,#genre#
 云南|德宏文旅,https://zhztsrs.dehong.gov.cn:8001/srs1/matrix/102531.flv?$1920x1080
 云南|德宏综合,https://zhztsrs.dehong.gov.cn:8001/srs1/matrix/102580.flv?$1920x1080
-
-北京,#genre#
-北京体育休闲,http://114.246.102.14:4000/rtp/239.3.1.243:8000
-北京体育休闲,http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
-
-新晴天1：
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/dc137c4256dfbb118ddec0762f4e2d46b1d52e63/tv/%E6%96%B0%E6%99%B4%E5%A4%A9.txt
-
-新晴天2：
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/letallthewind/live/f0753217c34d14a926bacc56fa53694cc46cce7e/qttv.txt
