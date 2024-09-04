@@ -1569,16 +1569,6 @@ BesTv 26,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000051/in
 厦门卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000058
 厦门卫视,http://wuqianmu.synology.me:4000/udp/232.0.0.160:1234$辽宁联通 组播
 厦门卫视,http://www.91dos.cn:4022/rtp/239.61.2.11:8060
-山东|济南都市,http://dspull.ijntv.cn/ijnlive/1607.flv?hwSecret=62a7b6149e5279cb602e547c5724e17050fcdc3e1753610c865ab291496a0be1&hwTime=66d32cec
-山东|济南都市,http://dspull.ijntv.cn/ijnlive/1607.m3u8?hwSecret=62a7b6149e5279cb602e547c5724e17050fcdc3e1753610c865ab291496a0be1&hwTime=66d32cec
-山东|济南鲁中,http://dspull.ijntv.cn/ijnlive/1621.flv?hwSecret=aa3cbd8c46f010c4f9d789dc64fc9eba165a4feb0bd40bcad58b070d36776995&hwTime=66d32cec
-山东|济南鲁中,http://dspull.ijntv.cn/ijnlive/1621.m3u8?hwSecret=aa3cbd8c46f010c4f9d789dc64fc9eba165a4feb0bd40bcad58b070d36776995&hwTime=66d32cec
-山东|济南生活,http://dspull.ijntv.cn/ijnlive/1615.flv?hwSecret=0d1aadcc21a4b46edd092691840287634d68b4ea7c6dfcff69aae2e2e48f3d6f&hwTime=66d32cec
-山东|济南生活,http://dspull.ijntv.cn/ijnlive/1615.m3u8?hwSecret=0d1aadcc21a4b46edd092691840287634d68b4ea7c6dfcff69aae2e2e48f3d6f&hwTime=66d32cec
-山东|济南文旅体育,http://dspull.ijntv.cn/ijnlive/1610.flv?hwSecret=d7dd1757ed8140981b0dad2e1a51e7384dff47aaccb8e24a2711ca7d752a8c1c&hwTime=66d32cec
-山东|济南文旅体育,http://dspull.ijntv.cn/ijnlive/1610.m3u8?hwSecret=d7dd1757ed8140981b0dad2e1a51e7384dff47aaccb8e24a2711ca7d752a8c1c&hwTime=66d32cec
-山东|济南新闻综合,http://dspull.ijntv.cn/ijnlive/1541.flv?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
-山东|济南新闻综合,http://dspull.ijntv.cn/ijnlive/1541.m3u8?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
 山东教育卫视,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010112/
 山东教育卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010112/
 山东教育卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000004097/
@@ -3276,7 +3266,17 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8																									
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8																									
 青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8																									
-青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8																									
+青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8		
+山东|济南都市,http://dspull.ijntv.cn/ijnlive/1607.flv?hwSecret=62a7b6149e5279cb602e547c5724e17050fcdc3e1753610c865ab291496a0be1&hwTime=66d32cec																									
+山东|济南都市,http://dspull.ijntv.cn/ijnlive/1607.m3u8?hwSecret=62a7b6149e5279cb602e547c5724e17050fcdc3e1753610c865ab291496a0be1&hwTime=66d32cec																									
+山东|济南鲁中,http://dspull.ijntv.cn/ijnlive/1621.flv?hwSecret=aa3cbd8c46f010c4f9d789dc64fc9eba165a4feb0bd40bcad58b070d36776995&hwTime=66d32cec																									
+山东|济南鲁中,http://dspull.ijntv.cn/ijnlive/1621.m3u8?hwSecret=aa3cbd8c46f010c4f9d789dc64fc9eba165a4feb0bd40bcad58b070d36776995&hwTime=66d32cec																									
+山东|济南生活,http://dspull.ijntv.cn/ijnlive/1615.flv?hwSecret=0d1aadcc21a4b46edd092691840287634d68b4ea7c6dfcff69aae2e2e48f3d6f&hwTime=66d32cec																									
+山东|济南生活,http://dspull.ijntv.cn/ijnlive/1615.m3u8?hwSecret=0d1aadcc21a4b46edd092691840287634d68b4ea7c6dfcff69aae2e2e48f3d6f&hwTime=66d32cec																									
+山东|济南文旅体育,http://dspull.ijntv.cn/ijnlive/1610.flv?hwSecret=d7dd1757ed8140981b0dad2e1a51e7384dff47aaccb8e24a2711ca7d752a8c1c&hwTime=66d32cec																									
+山东|济南文旅体育,http://dspull.ijntv.cn/ijnlive/1610.m3u8?hwSecret=d7dd1757ed8140981b0dad2e1a51e7384dff47aaccb8e24a2711ca7d752a8c1c&hwTime=66d32cec																									
+山东|济南新闻综合,http://dspull.ijntv.cn/ijnlive/1541.flv?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec																									
+山东|济南新闻综合,http://dspull.ijntv.cn/ijnlive/1541.m3u8?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec																									
 山东|青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8																									
 山东|青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8																									
 山东|泰安经济生活,http://zzbb.1545ts.com:8068/live/tatv222.m3u8																									
@@ -3287,7 +3287,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 山东|烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8																									
 山东|枣庄公共频道,http://stream.zztvzd.com/3/sd/live.m3u8																									
 山东|枣庄经济生活,http://stream.zztvzd.com/2/sd/live.m3u8																									
-山东|枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8																									
+山东|枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8																																																
 山西|高平综合频道,http://live.gprmt.cn/gpnews/hd/live.m3u8																									
 山西|黄河电视台,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true																									
 山西|晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8																									
