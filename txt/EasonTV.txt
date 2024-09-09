@@ -5678,7 +5678,6 @@ BesTv 44,http://[2409:8087:5e01:24::22]:6610/000000001000/5000000001000022620/1.
 延边卫视,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000003000000049/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=3
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://wuqianmu.synology.me:4000/udp/232.0.0.161:1234$辽宁联通 组播
@@ -7776,7 +7775,6 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 北京文艺,http://114.246.102.14:4000/rtp/239.3.1.242:8000
 北京新闻,http://114.246.102.14:4000/rtp/239.3.1.159:8000
 北京影视,http://114.246.102.14:4000/rtp/239.3.1.158:8000
-风尚购物,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
 福建|三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
 福建|武夷山综合,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
 福建电视剧,http://www.91dos.cn:4022/rtp/239.61.2.5:8024
@@ -8761,8 +8759,9 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 吉林|舒兰综合频道,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 吉林|双辽融媒,http://stream5.jlntv.cn/sl/sd/live.m3u8
 吉林|双阳综合,http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
-吉林|延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
-吉林|延边汉语综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+吉林|延边朝鲜语综合,,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+吉林|延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+吉林|延边汉语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 吉林|永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8
 江苏|苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 江苏|无锡都市,http://stream.thmz.com/wxtv3/playlist.m3u8

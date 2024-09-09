@@ -11346,8 +11346,6 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 group-title="卫视频道",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
@@ -15529,8 +15527,6 @@ http://114.246.102.14:4000/rtp/239.3.1.242:8000
 http://114.246.102.14:4000/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="地方频道",北京影视
 http://114.246.102.14:4000/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="地方频道",风尚购物
-http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
 #EXTINF:-1 group-title="地方频道",福建|三明新闻综合
 http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 group-title="地方频道",福建|武夷山综合
@@ -17499,10 +17495,12 @@ http://stream8.jlntv.cn/shulan/sd/live.m3u8
 http://stream5.jlntv.cn/sl/sd/live.m3u8
 #EXTINF:-1 group-title="地方频道",吉林|双阳综合
 http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",吉林|延边朝鲜语综合,
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="地方频道",吉林|延边朝鲜语综合
-http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
-#EXTINF:-1 group-title="地方频道",吉林|延边汉语综合
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+#EXTINF:-1 group-title="地方频道",吉林|延边汉语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 #EXTINF:-1 group-title="地方频道",吉林|永吉综合频道
 http://stream10.jlntv.cn/yongji/sd/live.m3u8
 #EXTINF:-1 group-title="地方频道",江苏|苏州4K频道
