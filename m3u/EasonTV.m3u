@@ -16605,8 +16605,6 @@ http://www.zhantong.tech:8800/rtp/239.49.1.19:6000
 http://nmglive.imfc.cn/5n1r1c/182396.flv
 #EXTINF:-1 group-title="体育频道",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 group-title="体育频道",纬来体育
-http://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="卫视频道",安多卫视
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 group-title="卫视频道",安多卫视
@@ -20739,8 +20737,6 @@ http://wuqianmu.synology.me:4000/udp/232.0.0.115:1234$辽宁联通
 http://xuys.top:8888/udp/225.1.1.114:5002$天津联通
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://xuys.top:8888/udp/225.1.1.34:5002$天津联通
-#EXTINF:-1 group-title="卫视频道",黄河卫视
-http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
@@ -22403,8 +22399,6 @@ http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 http://wuqianmu.synology.me:4000/udp/232.0.0.101:1234$辽宁联通
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://xuys.top:8888/udp/225.1.1.54:5002$天津联通
-#EXTINF:-1 group-title="卫视频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/
 #EXTINF:-1 group-title="卫视频道",三沙卫视
@@ -25403,6 +25397,8 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台频道",明珠台
 http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="港澳台频道",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="港澳台频道",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="港澳台频道",私人影院
@@ -25423,8 +25419,6 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="港澳台频道",纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="港澳台频道",纬来体育
-http://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="港澳台频道",无线华丽台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 group-title="港澳台频道",香港电台普通話台
@@ -31039,9 +31033,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/7681593242002292003/
 #EXTINF:-1 group-title="娱乐频道",NewTV热播精选
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010121/
-#EXTINF:-1 group-title="娱乐频道",NewTV武博世界
+#EXTINF:-1 group-title="娱乐频道",NewTV武搏世界
 http://[2409:8087:5e00:24::1e]:6060/000000001000/bokesen/
-#EXTINF:-1 group-title="娱乐频道",NewTV武博世界
+#EXTINF:-1 group-title="娱乐频道",NewTV武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 group-title="娱乐频道",NewTV武搏世界
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000003000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
