@@ -8825,7 +8825,7 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="港澳台频道",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-#EXTINF:-1 group-title="港澳台频道",耀才財經
+#EXTINF:-1 group-title="港澳台频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1 group-title="港澳台频道",音乐欣赏1
 http://61.221.215.25:8800/hls/49/index.m3u8
@@ -20245,29 +20245,27 @@ https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 group-title="海外频道",巴西 TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
-#EXTINF:-1 group-title="RTMP频道源",足球频道
-rtmp://nmglive.imfc.cn/5n1r1c/182396
-#EXTINF:-1 group-title="RTMP频道源",纬来体育
+#EXTINF:-1 group-title="港澳台RTMP源",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 group-title="RTMP频道源",ELEVEN体育1台
+#EXTINF:-1 group-title="港澳台RTMP源",ELEVEN体育1台
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 group-title="RTMP频道源",ELEVEN体育2台
+#EXTINF:-1 group-title="港澳台RTMP源",ELEVEN体育2台
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 group-title="RTMP频道源",中视
+#EXTINF:-1 group-title="港澳台RTMP源",中视
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 group-title="RTMP频道源",台视
+#EXTINF:-1 group-title="港澳台RTMP源",台视
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 group-title="RTMP频道源",华视
+#EXTINF:-1 group-title="港澳台RTMP源",华视
 rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 group-title="RTMP频道源",民视
+#EXTINF:-1 group-title="港澳台RTMP源",民视
 rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 group-title="RTMP频道源",纬来育乐
+#EXTINF:-1 group-title="港澳台RTMP源",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 group-title="RTMP频道源",纬来日本
+#EXTINF:-1 group-title="港澳台RTMP源",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="RTMP频道源",东森超视
+#EXTINF:-1 group-title="港澳台RTMP源",东森超视
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 group-title="RTMP频道源",MoMo综合
+#EXTINF:-1 group-title="港澳台RTMP源",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 group-title="P2P晴天源",beIN Sports (Singapore and Malaysia)
 p2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
