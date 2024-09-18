@@ -21,6 +21,24 @@ IP-21,http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000008/1.m3u
 IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
-测试3,#genre#
+江苏移动,#genre#
+CCTV-10,http://223.105.252.20/PLTV/3/224/3221225550/index.m3u8
+CCTV-10,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
+常州公共,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221227905/index.m3u8
+常州公共,http://223.105.252.20/PLTV/3/224/3221227905/index.m3u8
+常州公共,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221227772/index.m3u8
+常州公共,http://223.105.252.20/PLTV/3/224/3221227772/index.m3u8
+常州新闻综合,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221227899/index.m3u8
+常州新闻综合,http://223.105.252.20/PLTV/3/224/3221227899/index.m3u8
+常州新闻综合,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221227752/index.m3u8
+常州新闻综合,http://223.105.252.20/PLTV/3/224/3221227752/index.m3u8
+常州生活,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221227902/index.m3u8
+常州生活,http://223.105.252.20/PLTV/3/224/3221227902/index.m3u8
+常州生活,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221227816/index.m3u8
+常州生活,http://223.105.252.20/PLTV/3/224/3221227816/index.m3u8
+常州都市,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221227955/index.m3u8
+常州都市,http://223.105.252.20/PLTV/3/224/3221227955/index.m3u8
+常州都市,http://223.105.252.20/ott.js.chinamobile.com/PLTV/3/224/3221227755/index.m3u8
+常州都市,http://223.105.252.20/PLTV/3/224/3221227755/index.m3u8
 
 测试4,#genre#
