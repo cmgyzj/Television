@@ -10095,64 +10095,6 @@ ELEVEN体育2台,rtmp://f13h.mine.nu/sat/tv741
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 
 P2P晴天源,#genre#
-Bein Sport 1,p3p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
-Bein Sport 2,p3p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
-Bein Sport 3,p3p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
-Bein Sport 4,p3p://fccsen.dyndns.tv:29706/5a1f69110000604ec65ac1bb33b85661
-Bein Sport 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
-Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
-Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
-Bein Sport 8,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
-Bein Sport CA,p3p://fccsen.dyndns.tv:29706/5bd63729000b758e786c5e885c6634e3
-Bein Sports USA,p3p://fccsen.dyndns.tv:29706/5c4a5e2a000ddac2fbea9d2420355926
-Beinsport FR1,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
-Beinsport FR2,p3p://fccsen.dyndns.tv:29706/5a98ef450005f615a10e26f24e4370bc
-Beinsport FR3,p3p://fccsen.dyndns.tv:29706/5a98ef60000d6566a10e9251042026f2
-BT Sport 1,p3p://fccsen.dyndns.tv:29706/59d2486d0006b186ad7787092c1d60d5
-BT Sport 1,p3p://fccsen.dyndns.tv:29706/59d2486d0006b186ad7787092c1d60d5
-BT Sport 2,p3p://fccsen.dyndns.tv:29706/59c67e480005fd5b7f6a09dd58e05390
-BT Sport 2,p3p://fccsen.dyndns.tv:29706/59c67e480005fd5b7f6a09dd58e05390
-BT Sport 3,p3p://fccsen.dyndns.tv:29706/59c67ea30007574b7f6b6dad749b5b27
-BT Sport 3,p3p://fccsen.dyndns.tv:29706/59c67ea30007574b7f6b6dad749b5b27
-ESPN 2,p3p://fccsen.dyndns.tv:29706/59bbf1fd000b428d563618b379a53086
-ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
-ESPN U,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
-Euro Sport 1,p3p://fccsen.dyndns.tv:29706/5a21d4d80004d603cfcfc43c12066d47
-Euro Sport 2,p3p://fccsen.dyndns.tv:29706/5a21d4ed00032238cfd015d5794173ae
-Fox Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf21600071468563679492664613f
-Fox Sport 2,p3p://fccsen.dyndns.tv:29706/59e2b81e00049c3eedabbfe568a9573b
-MUTV,p3p://fccsen.dyndns.tv:29706/5f7b32e5000e762d6a11bc6c06985c05
-NBA Canada,p3p://fccsen.dyndns.tv:29706/5d45b6b600003de3d1bc062c6ca215ee
-NBA TV US,p3p://fccsen.dyndns.tv:29706/5d45b702000419e9d1bd300979f803ab
-now体育二,p3p://173.208.176.178:19806/63ed46be0002b99be8161bfd62d87e90
-now体育六,p3p://173.208.176.178:19806/63ed98d90002f8f6e956d5822ff208b1
-now体育七,p3p://173.208.176.178:19806/63ed990600010efde95784d4529f16d2
-now体育三,p3p://173.208.176.178:19806/63ed4715000c1bffe81772386f5b27f7
-now体育四,p3p://173.208.176.178:19806/63ed478e000a98f2e8194a7c2bdc7fe6
-now体育五,p3p://173.208.176.178:19806/63ed98c2000122f4e9567b333a74077a
-now体育一,p3p://173.208.176.178:19806/63ed464b000b911be8145d035c4e0f21
-now英超,p3p://173.208.176.178:19806/65acf008000b26e4bcbb1adc24476b3f
-nowplus,p3p://173.208.176.178:19806/65a442ed000e5f029ad7146558606385
-nowPrime,p3p://173.208.176.178:19806/644edbcc0004d5a765428da71f967a86
-Sky Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
-Sky Sport 2,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
-Sky Sport 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
-Sky Sport 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
-Sky Sport 5,p3p://fccsen.dyndns.tv:29706/59bbf3a100017e4d563c7ed4483777f8
-Sky Sport F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
-Sky Sport F1,p3p://fccsen.dyndns.tv:29706/632925030006df29c988b98b40e91993
-Sky Sport Football,p3p://fccsen.dyndns.tv:29706/6329271b000e5130c990e9333b502971
-Sky Sport MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
-Sky Sport NBA,p3p://fccsen.dyndns.tv:29706/632927fa0008e670c9944ee718793acf
-Sky Sports Golf,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
-Sky Sports Racing,p3p://fccsen.dyndns.tv:29706/5da51e77000af0554668f4872a89003b
-SPN 1,p3p://fccsen.dyndns.tv:29706/59d24815000bb22cad7630914a1924b3
-Star Gold,p3p://fccsen.dyndns.tv:29706/5c61ea7c0008ff7c57e6bc2c4d7c62ae
-TSN 1,p3p://fccsen.dyndns.tv:29706/5d45b4440002e468d1b279875cc53184
-TSN 2,p3p://fccsen.dyndns.tv:29706/5d45b49f0004b838d1b3dd774be667a4
-TSN 3,p3p://fccsen.dyndns.tv:29706/5d45b529000804ebd1b5f9606eef3d87
-TSN 4,p3p://fccsen.dyndns.tv:29706/5d45b59600028129d1b7a1bf71b50a26
-TSN 5,p3p://fccsen.dyndns.tv:29706/5d45b5f9000516c8d1b92521608c3d5d
 纬来体育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
 爱尔达体育一台,P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
 爱尔达体育一台,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
@@ -10163,8 +10105,8 @@ TSN 5,p3p://fccsen.dyndns.tv:29706/5d45b5f9000516c8d1b92521608c3d5d
 爱尔达体育三台,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
 爱尔达体育四台,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
 爱尔达体育四台,P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
-ELEVEN一台,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
-ELEVEN二台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
+ELEVEN体育一台,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
+ELEVEN体育二台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
 博斯高球二,P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
 博斯高球台,P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e
 博斯高球台,P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
@@ -10450,9 +10392,9 @@ Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
 TLC旅游台,P2p://generationnexxxt.com:19806/32000d7eec2049c6b1de2eb8cd3c9348
 TNN 16,P2p://generationnexxxt.com:19806/7462454333594bef83cd252fa653d14e
 TRACSport,P2p://generationnexxxt.com:19806/771e966a825d4e7e8280601cb8cc1227
-tvbs欢乐台,P2p://generationnexxxt.com:19806/115a1e134813400abd3e49bad3af517c
-tvbs欢乐台,P2p://generationnexxxt.com:19806/2f5899dbb41e4f798ef5d21862533392
-tvbs精采台,P2p://generationnexxxt.com:19806/0af9c12ec2a347b9b626002b0d10f37c
+TVBS欢乐台,P2p://generationnexxxt.com:19806/115a1e134813400abd3e49bad3af517c
+TVBS欢乐台,P2p://generationnexxxt.com:19806/2f5899dbb41e4f798ef5d21862533392
+TVBS精采台,P2p://generationnexxxt.com:19806/0af9c12ec2a347b9b626002b0d10f37c
 TVBS新闻台,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
 TVBS新闻台,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
 TVBS新闻台,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1#P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
