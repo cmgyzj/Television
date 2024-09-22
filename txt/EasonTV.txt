@@ -10095,10 +10095,10 @@ ELEVEN体育2台,rtmp://f13h.mine.nu/sat/tv741
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 
 P2P晴天源,#genre#
-beIN Sports🇸🇬🇲🇾,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-beIN Sports🇸🇬🇲🇾 2,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
-beIN Sports🇸🇬🇲🇾 2,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
-beIN Sports🇸🇬🇲🇾 3,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
+beIN Sports (Singapore & Malaysia),P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
+beIN Sports (Singapore & Malaysia) 2,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
+beIN Sports (Singapore & Malaysia) 2,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
+beIN Sports (Singapore & Malaysia) 3,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
 ESPN,P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
 纬来体育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
 爱尔达体育一台,P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
