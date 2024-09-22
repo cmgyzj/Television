@@ -10095,29 +10095,11 @@ ELEVEN体育2台,rtmp://f13h.mine.nu/sat/tv741
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 
 P2P晴天源,#genre#
-广东体育,p2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
-beIN Sports,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-beIN Sports 2,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
-beIN Sports 2,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
-beIN Sports 3,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
+beIN Sports🇸🇬🇲🇾,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
+beIN Sports🇸🇬🇲🇾 2,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
+beIN Sports🇸🇬🇲🇾 2,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
+beIN Sports🇸🇬🇲🇾 3,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
 ESPN,P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
-ESPN2,p2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
-TSN1,p2p://generationnexxxt.com:19806/bcf284d14b5f48d4979e980170ff7787
-TSN2,p2p://generationnexxxt.com:19806/fdbe70a4515c4cb38b3a1fa72d76d425
-TSN3,p2p://generationnexxxt.com:19806/2b173ec56c6648349d43145a63a33fc1
-TSN4,p2p://generationnexxxt.com:19806/3482e37f8ed7484ba78e7f4cc3d7733e
-TSN5,p2p://generationnexxxt.com:19806/8e13a731470b435890b7056a2ed70993
-FOX Sports,p2p://generationnexxxt.com:19806/5155654699e54b0d9d991cfa61d1ffaa
-FOX Sports 2,p2p://generationnexxxt.com:19806/52a40b5ff52844a6b91af75499354c92
-NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
-Eurosport HD,p2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
-Sky Sports Golf,p2p://generationnexxxt.com:19806/190b680d86a54d0bba8af38ccfed15c2
-Sky Sports Football,p2p://generationnexxxt.com:19806/1697ddb1977b42e6b6e31a6e27fa04ac
-Sky Sports F1,p2p://generationnexxxt.com:19806/40da6ffe24c64429b68ecbb1ba7391e9
-Sky Sports Arena,p2p://generationnexxxt.com:19806/8af96f851dff4de3bc20f74d1c279e20
-Sky Sports Main Event,p2p://generationnexxxt.com:19806/ef8f88e5ae3a466dab2bd1d312183f0b
-Sky Sports Cricket,p2p://generationnexxxt.com:19806/5ca24cd53f8a4833b81a223e59727c68
-Sky Sports Mix,p2p://generationnexxxt.com:19806/bfdd62d08ea9487ab560a16d2e2cf690
 纬来体育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
 爱尔达体育一台,P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
 爱尔达体育一台,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
