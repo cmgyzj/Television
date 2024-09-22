@@ -11128,16 +11128,6 @@ http://[2409:8087:5e01:24::23]:6610/000000001000/2000000004000000012/1.m3u8?chan
 #EXTINF:-1 group-title="娱乐频道",炫动3D
 http://[2409:8087:5e01:24::23]:6610/000000001000/6000000003000000558/1.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=3
 #EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
-http://[2409:8087:5e01:24::19]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
-#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
-http://[2409:8087:5e01:24::20]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
-#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
-http://[2409:8087:5e01:24::21]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
-#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
-http://[2409:8087:5e01:24::22]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
-#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
-http://[2409:8087:5e01:24::23]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
-#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
 http://[2409:8087:5e01:24::19]:6610/000000001000/2000000003000000011/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000011&livemode=1&stbId=3
 #EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
 http://[2409:8087:5e01:24::20]:6610/000000001000/2000000003000000011/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000011&livemode=1&stbId=3
@@ -11153,6 +11143,16 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010090/
 http://[2409:8087:5e00:24::1e]:6060/000000001000/8978605063318475207/
 #EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/
+#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
+http://[2409:8087:5e01:24::19]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
+#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
+http://[2409:8087:5e01:24::20]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
+#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
+http://[2409:8087:5e01:24::21]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
+#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
+http://[2409:8087:5e01:24::22]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
+#EXTINF:-1 group-title="娱乐频道",英雄联盟音乐节
+http://[2409:8087:5e01:24::23]:6610/000000001000/8978605063318475207/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3
 #EXTINF:-1 group-title="娱乐频道",优优宝贝
 http://php.jdshipin.com/cqyx.php?id=youxi
 #EXTINF:-1 group-title="娱乐频道",优优宝贝
@@ -20151,6 +20151,16 @@ rtmp://f13h.mine.nu/sat/tv051
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="港澳台RTMP源",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="P2P晴天源",beIN Sports (Singapore & Malaysia)
+P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
+#EXTINF:-1 group-title="P2P晴天源",beIN Sports (Singapore & Malaysia) 2
+P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
+#EXTINF:-1 group-title="P2P晴天源",beIN Sports (Singapore & Malaysia) 2
+P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
+#EXTINF:-1 group-title="P2P晴天源",beIN Sports (Singapore & Malaysia) 3
+P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
+#EXTINF:-1 group-title="P2P晴天源",ESPN
+P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
 #EXTINF:-1 group-title="P2P晴天源",纬来体育台
 P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
 #EXTINF:-1 group-title="P2P晴天源",爱尔达体育一台
