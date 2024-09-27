@@ -6353,6 +6353,12 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 河北|涉县新闻综合,https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
 河北|邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 河北|兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+河南|郑州新闻综合,https://live3-new.zztv.tv/xwzh/playlist.m3u8?_upt=e73462c41725342700
+河南|郑州商都,https://live2-new.zztv.tv/sdpd/sd/live.m3u8?_upt=58ec646d1725349040
+河南|郑州文体旅游,https://live2-new.zztv.tv/wtlypd/sd/live.m3u8?_upt=2ba681301725349047
+河南|郑州影视戏曲,https://live2-new.zztv.tv/ysxqpd/sd/live.m3u8?_upt=299228691725345170
+河南|郑州妇女儿童,https://live2-new.zztv.tv/fnetpd/sd/live.m3u8?_upt=b6376b201725349066
+河南|郑州都市生活,https://live2-new.zztv.tv/dsshpd/sd/live.m3u8?_upt=b647580f1725349072
 河南|宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 河南|登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 河南|邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
