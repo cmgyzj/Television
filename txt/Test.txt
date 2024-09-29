@@ -22,6 +22,30 @@ IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 测试1,#genre#
+江苏|常州公共,http://www.soaringroc.cn:5555/rtp/239.49.1.131:6000
+江苏|常州公共,http://iptv.52ljt.win:5555/rtp/239.49.1.131:6000
+江苏|常州公共,http://soaringroc.cn:5555/rtp/239.49.1.131:6000
+江苏|常州公共,http://rathan.tech:9000/rtp/239.49.1.131:6000
+江苏|常州公共,http://louis000.x3322.net:5555/rtp/239.49.1.131:6000
+江苏|常州公共,http://li.zhaoxin02.top:9997/rtp/239.49.1.131:6000
+江苏|常州生活,http://www.soaringroc.cn:5555/rtp/239.49.1.132:6000
+江苏|常州生活,http://iptv.52ljt.win:5555/rtp/239.49.1.132:6000
+江苏|常州生活,http://soaringroc.cn:5555/rtp/239.49.1.132:6000
+江苏|常州生活,http://rathan.tech:9000/rtp/239.49.1.132:6000
+江苏|常州生活,http://louis000.x3322.net:5555/rtp/239.49.1.132:6000
+江苏|常州生活,http://li.zhaoxin02.top:9997/rtp/239.49.1.132:6000
+江苏|常州都市,http://www.soaringroc.cn:5555/rtp/239.49.1.133:6000
+江苏|常州都市,http://iptv.52ljt.win:5555/rtp/239.49.1.133:6000
+江苏|常州都市,http://soaringroc.cn:5555/rtp/239.49.1.133:6000
+江苏|常州都市,http://rathan.tech:9000/rtp/239.49.1.133:6000
+江苏|常州都市,http://louis000.x3322.net:5555/rtp/239.49.1.133:6000
+江苏|常州都市,http://li.zhaoxin02.top:9997/rtp/239.49.1.133:6000
+江苏|常州新闻综合,http://www.soaringroc.cn:5555/rtp/239.49.1.134:6000
+江苏|常州新闻综合,http://iptv.52ljt.win:5555/rtp/239.49.1.134:6000
+江苏|常州新闻综合,http://soaringroc.cn:5555/rtp/239.49.1.134:6000
+江苏|常州新闻综合,http://rathan.tech:9000/rtp/239.49.1.134:6000
+江苏|常州新闻综合,http://louis000.x3322.net:5555/rtp/239.49.1.134:6000
+江苏|常州新闻综合,http://li.zhaoxin02.top:9997/rtp/239.49.1.134:6000
 
 测试2,#genre#
 

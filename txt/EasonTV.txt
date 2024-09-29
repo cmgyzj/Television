@@ -2610,6 +2610,7 @@ CCTV-16,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000016
 大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 山西文体生活,https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
+广州竞赛,http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
 广州竞赛,http://jt.zorua.cn:8787/udp/239.253.43.70:5146
 广州竞赛,http://jt.zorua.cn:8787/udp/239.253.43.75:5146
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -5727,7 +5728,6 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 广东|广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广东|广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
 广东|广州法治,http://tencentplaygzrb.gztv.com:80/live/fazhi.m3u8
-广东|广州竞赛,http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
 广东|广州南国都市,http://113.94.123.97:19888/udp/239.253.43.99:5146
 广东|广州南国都市,http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
 广东|广州南国都市,http://jt.zorua.cn:8787/udp/239.253.43.99:5146
