@@ -5214,6 +5214,8 @@ http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="体育频道",山西文体生活
 https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
 #EXTINF:-1 group-title="体育频道",广州竞赛
+http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
+#EXTINF:-1 group-title="体育频道",广州竞赛
 http://jt.zorua.cn:8787/udp/239.253.43.70:5146
 #EXTINF:-1 group-title="体育频道",广州竞赛
 http://jt.zorua.cn:8787/udp/239.253.43.75:5146
@@ -5737,6 +5739,30 @@ http://php.jdshipin.com/TVOD/iptv.php?id=ystq
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd？世界杯世界杯
 #EXTINF:-1 group-title="体育频道",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://www.soaringroc.cn:5555/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://iptv.52ljt.win:5555/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://soaringroc.cn:5555/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://rathan.tech:9000/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://louis000.x3322.net:5555/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://li.zhaoxin02.top:9997/rtp/239.49.1.19:6000
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://www.soaringroc.cn:5555/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://iptv.52ljt.win:5555/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://soaringroc.cn:5555/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://rathan.tech:9000/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://louis000.x3322.net:5555/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="体育频道",江苏体育休闲
+http://li.zhaoxin02.top:9997/rtp/239.49.0.19:8144
 #EXTINF:-1 group-title="体育频道",江苏体育休闲
 https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
 #EXTINF:-1 group-title="体育频道",江苏体育休闲
@@ -11411,8 +11437,6 @@ http://php.jdshipin.com:8880/gztv.php?id=fazhi
 http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
 #EXTINF:-1 group-title="地方频道",广东|广州法治
 http://tencentplaygzrb.gztv.com:80/live/fazhi.m3u8
-#EXTINF:-1 group-title="地方频道",广东|广州竞赛
-http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
 #EXTINF:-1 group-title="地方频道",广东|广州南国都市
 http://113.94.123.97:19888/udp/239.253.43.99:5146
 #EXTINF:-1 group-title="地方频道",广东|广州南国都市
@@ -13208,6 +13232,30 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000069
 #EXTINF:-1 group-title="地方频道",江苏财富天下
 http://xuys.top:8888/udp/225.1.2.198:5002
 #EXTINF:-1 group-title="地方频道",江苏城市
+http://www.soaringroc.cn:5555/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://iptv.52ljt.win:5555/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://soaringroc.cn:5555/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://rathan.tech:9000/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://louis000.x3322.net:5555/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://li.zhaoxin02.top:9997/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://www.soaringroc.cn:5555/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://iptv.52ljt.win:5555/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://soaringroc.cn:5555/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://rathan.tech:9000/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://louis000.x3322.net:5555/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
+http://li.zhaoxin02.top:9997/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏城市
 http://chr.460513.xyz:8800/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="地方频道",江苏城市
 http://chr.460513.xyz:8800/rtp/239.49.1.17:6000
@@ -13259,6 +13307,30 @@ http://wx.puchengyu2009.top:9999/rtp/239.49.1.17:6000
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="地方频道",江苏城市
 http://xiazaiji.f3322.org:8800/rtp/239.49.1.17:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://www.soaringroc.cn:5555/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://iptv.52ljt.win:5555/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://soaringroc.cn:5555/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://rathan.tech:9000/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://louis000.x3322.net:5555/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://li.zhaoxin02.top:9997/rtp/239.49.0.22:8168
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://www.soaringroc.cn:5555/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://iptv.52ljt.win:5555/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://soaringroc.cn:5555/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://rathan.tech:9000/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://louis000.x3322.net:5555/rtp/239.49.1.23:6000
+#EXTINF:-1 group-title="地方频道",江苏国际
+http://li.zhaoxin02.top:9997/rtp/239.49.1.23:6000
 #EXTINF:-1 group-title="地方频道",江苏国际
 http://chr.460513.xyz:8800/rtp/239.49.0.22:8168
 #EXTINF:-1 group-title="地方频道",江苏国际
@@ -13312,6 +13384,30 @@ http://xiazaiji.f3322.org:8800/rtp/239.49.0.22:8168
 #EXTINF:-1 group-title="地方频道",江苏国际
 http://xiazaiji.f3322.org:8800/rtp/239.49.1.23:6000
 #EXTINF:-1 group-title="地方频道",江苏教育
+http://www.soaringroc.cn:5555/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://iptv.52ljt.win:5555/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://soaringroc.cn:5555/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://rathan.tech:9000/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://louis000.x3322.net:5555/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://li.zhaoxin02.top:9997/rtp/239.49.0.23:8176
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://www.soaringroc.cn:5555/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://iptv.52ljt.win:5555/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://soaringroc.cn:5555/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://rathan.tech:9000/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://louis000.x3322.net:5555/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
+http://li.zhaoxin02.top:9997/rtp/239.49.1.25:6000
+#EXTINF:-1 group-title="地方频道",江苏教育
 http://chr.460513.xyz:8800/rtp/239.49.0.23:8176
 #EXTINF:-1 group-title="地方频道",江苏教育
 http://chr.460513.xyz:8800/rtp/239.49.1.25:6000
@@ -13364,6 +13460,30 @@ http://xiazaiji.f3322.org:8800/rtp/239.49.0.23:8176
 #EXTINF:-1 group-title="地方频道",江苏教育
 http://xiazaiji.f3322.org:8800/rtp/239.49.1.25:6000
 #EXTINF:-1 group-title="地方频道",江苏新闻
+http://www.soaringroc.cn:5555/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://iptv.52ljt.win:5555/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://soaringroc.cn:5555/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://rathan.tech:9000/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://louis000.x3322.net:5555/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://li.zhaoxin02.top:9997/rtp/239.49.0.149:9186
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://www.soaringroc.cn:5555/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://iptv.52ljt.win:5555/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://soaringroc.cn:5555/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://rathan.tech:9000/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://louis000.x3322.net:5555/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
+http://li.zhaoxin02.top:9997/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏新闻
 http://chr.460513.xyz:8800/rtp/239.49.0.149:9186
 #EXTINF:-1 group-title="地方频道",江苏新闻
 http://dell.puchengyu2009.top:9999/rtp/239.49.0.149:9186
@@ -13409,6 +13529,30 @@ http://wx.puchengyu2009.top:9999/rtp/239.49.1.22:6000
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.149:9186
 #EXTINF:-1 group-title="地方频道",江苏新闻
 http://xiazaiji.f3322.org:8800/rtp/239.49.1.22:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://www.soaringroc.cn:5555/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://iptv.52ljt.win:5555/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://soaringroc.cn:5555/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://rathan.tech:9000/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://louis000.x3322.net:5555/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://li.zhaoxin02.top:9997/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://www.soaringroc.cn:5555/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://iptv.52ljt.win:5555/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://soaringroc.cn:5555/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://rathan.tech:9000/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://louis000.x3322.net:5555/rtp/239.49.1.20:6000
+#EXTINF:-1 group-title="地方频道",江苏影视
+http://li.zhaoxin02.top:9997/rtp/239.49.1.20:6000
 #EXTINF:-1 group-title="地方频道",江苏影视
 http://chr.460513.xyz:8800/rtp/239.49.0.20:8152
 #EXTINF:-1 group-title="地方频道",江苏影视
@@ -13547,6 +13691,30 @@ http://wx.puchengyu2009.top:9999/rtp/239.49.1.21:6000
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.21:8160
 #EXTINF:-1 group-title="地方频道",江苏优漫卡通
 http://xiazaiji.f3322.org:8800/rtp/239.49.1.21:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://www.soaringroc.cn:5555/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://iptv.52ljt.win:5555/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://soaringroc.cn:5555/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://rathan.tech:9000/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://louis000.x3322.net:5555/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://li.zhaoxin02.top:9997/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://www.soaringroc.cn:5555/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://iptv.52ljt.win:5555/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://soaringroc.cn:5555/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://rathan.tech:9000/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://louis000.x3322.net:5555/rtp/239.49.1.18:6000
+#EXTINF:-1 group-title="地方频道",江苏综艺
+http://li.zhaoxin02.top:9997/rtp/239.49.1.18:6000
 #EXTINF:-1 group-title="地方频道",江苏综艺
 http://chr.460513.xyz:8800/rtp/239.49.0.18:8136
 #EXTINF:-1 group-title="地方频道",江苏综艺
