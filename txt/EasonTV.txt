@@ -4362,27 +4362,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 4KUHD,http://[2409:8087:5e01:24::21]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4K超高清电影,http://php.jdshipin.com/TVOD/iptv.php?id=emdy4k
 BesTV,http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
-CHC动作电影,http://119.98.124.146:4022/rtp/239.69.1.242:11094
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
-CHC动作电影,http://58.59.47.242:8180/TV00000000000000000030@HHZT
-CHC动作电影,http://m.ekanx.com:8181/udp/239.81.0.239:4056
-CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
-CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
-CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
-CHC动作电影,http://taohua139.synology.me:4022/udp/239.81.0.239:4056
-CHC动作电影,http://www.dsmcloud.top:8888/udp/239.81.0.239:4056
-CHC动作电影,http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
-CHC家庭影院,http://119.98.124.146:4022/rtp/239.69.1.243:11100
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
-CHC家庭影院,http://58.59.47.242:8180/TV00000000000000000029@HHZT
-CHC家庭影院,http://m.ekanx.com:8181/udp/239.81.0.238:4056
-CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
-CHC家庭影院,http://taohua139.synology.me:4022/udp/239.81.0.238:4056
-CHC家庭影院,http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
-CHC家庭影院,http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,http://119.98.124.146:4022/rtp/239.69.1.241:11088
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
@@ -4394,6 +4374,29 @@ CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://taohua139.synology.me:4022/udp/239.81.0.240:4056
 CHC影迷电影,http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
 CHC影迷电影,http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC家庭影院,http://119.98.124.146:4022/rtp/239.69.1.243:11100
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
+CHC家庭影院,http://58.59.47.242:8180/TV00000000000000000029@HHZT
+CHC家庭影院,http://m.ekanx.com:8181/udp/239.81.0.238:4056
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+CHC家庭影院,http://taohua139.synology.me:4022/udp/239.81.0.238:4056
+CHC家庭影院,http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
+CHC家庭影院,http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHC动作电影,http://119.98.124.146:4022/rtp/239.69.1.242:11094
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
+CHC动作电影,http://58.59.47.242:8180/TV00000000000000000030@HHZT
+CHC动作电影,http://m.ekanx.com:8181/udp/239.81.0.239:4056
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+CHC动作电影,http://taohua139.synology.me:4022/udp/239.81.0.239:4056
+CHC动作电影,http://www.dsmcloud.top:8888/udp/239.81.0.239:4056
+CHC动作电影,http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
 FASHION TV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 FASHION TV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 FASHION TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
@@ -5382,6 +5385,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 求索动物,http://[2409:8087:5e01:24::21]:6610/000000001000/6000000002000010046/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000009
+求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
 求索纪录,http://[2409:8087:5e01:24::03]:6610/000000001000/2000000004000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=3
 求索纪录,http://[2409:8087:5e01:24::03]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索纪录,http://[2409:8087:5e01:24::03]:6610/000000001000/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
@@ -6926,7 +6930,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-内蒙古文化频道,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
@@ -10071,6 +10075,7 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 巴西 TV Santa Cruz,https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 
 港澳台频道,#genre#
+凤凰卫视,http://eastscreen.tv/ooooo.php?id=fhws
 凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 凤凰卫视,http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8
@@ -10078,6 +10083,7 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 凤凰卫视,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰卫视,http://wouu.net:9977/udp/239.93.1.9:2192
 凤凰卫视,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8 
 凤凰资讯,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8

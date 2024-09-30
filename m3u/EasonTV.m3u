@@ -8709,48 +8709,8 @@ http://[2409:8087:5e01:24::21]:6610/000000001000/1000000004000011651/1.m3u8?chan
 http://php.jdshipin.com/TVOD/iptv.php?id=emdy4k
 #EXTINF:-1 group-title="娱乐频道",BesTV
 http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://119.98.124.146:4022/rtp/239.69.1.242:11094
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://58.59.47.242:8180/TV00000000000000000030@HHZT
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://m.ekanx.com:8181/udp/239.81.0.239:4056
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://taohua139.synology.me:4022/udp/239.81.0.239:4056
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://www.dsmcloud.top:8888/udp/239.81.0.239:4056
-#EXTINF:-1 group-title="娱乐频道",CHC动作电影
-http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://119.98.124.146:4022/rtp/239.69.1.243:11100
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://58.59.47.242:8180/TV00000000000000000029@HHZT
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://m.ekanx.com:8181/udp/239.81.0.238:4056
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://taohua139.synology.me:4022/udp/239.81.0.238:4056
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
-#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
-http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+#EXTINF:-1 group-title="娱乐频道",CHC影迷电影
+http://eastscreen.tv/ooooo.php?id=chchd
 #EXTINF:-1 group-title="娱乐频道",CHC影迷电影
 http://119.98.124.146:4022/rtp/239.69.1.241:11088
 #EXTINF:-1 group-title="娱乐频道",CHC影迷电影
@@ -8773,6 +8733,52 @@ http://taohua139.synology.me:4022/udp/239.81.0.240:4056
 http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
 #EXTINF:-1 group-title="娱乐频道",CHC影迷电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://eastscreen.tv/ooooo.php?id=chcjt
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://119.98.124.146:4022/rtp/239.69.1.243:11100
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://58.59.47.242:8180/TV00000000000000000029@HHZT
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://m.ekanx.com:8181/udp/239.81.0.238:4056
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://taohua139.synology.me:4022/udp/239.81.0.238:4056
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
+#EXTINF:-1 group-title="娱乐频道",CHC家庭影院
+http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://eastscreen.tv/ooooo.php?id=chcdz
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://119.98.124.146:4022/rtp/239.69.1.242:11094
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://58.59.47.242:8180/TV00000000000000000030@HHZT
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://m.ekanx.com:8181/udp/239.81.0.239:4056
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://taohua139.synology.me:4022/udp/239.81.0.239:4056
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://www.dsmcloud.top:8888/udp/239.81.0.239:4056
+#EXTINF:-1 group-title="娱乐频道",CHC动作电影
+http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
 #EXTINF:-1 group-title="娱乐频道",FASHION TV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="娱乐频道",FASHION TV
@@ -10749,6 +10755,8 @@ http://[2409:8087:5e01:24::21]:6610/000000001000/6000000002000010046/1.m3u8?chan
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="娱乐频道",求索动物
 http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000009
+#EXTINF:-1 group-title="娱乐频道",求索纪录
+http://eastscreen.tv/ooooo.php?id=qsjl
 #EXTINF:-1 group-title="娱乐频道",求索纪录
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000004000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=3
 #EXTINF:-1 group-title="娱乐频道",求索纪录
@@ -13833,7 +13841,7 @@ https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74a
 https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 #EXTINF:-1 group-title="地方频道",内蒙古少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 group-title="地方频道",内蒙古文化频道
+#EXTINF:-1 group-title="地方频道",内蒙古蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 #EXTINF:-1 group-title="地方频道",内蒙古文体娱乐
 https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
@@ -20112,6 +20120,8 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 group-title="海外频道",巴西 TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 #EXTINF:-1 group-title="港澳台频道",凤凰卫视
+http://eastscreen.tv/ooooo.php?id=fhws
+#EXTINF:-1 group-title="港澳台频道",凤凰卫视
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="港澳台频道",凤凰卫视
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
@@ -20125,6 +20135,8 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 http://wouu.net:9977/udp/239.93.1.9:2192
 #EXTINF:-1 group-title="港澳台频道",凤凰卫视
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰资讯
+http://eastscreen.tv/ooooo.php?id=fhzx
 #EXTINF:-1 group-title="港澳台频道",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="港澳台频道",凤凰资讯
