@@ -6262,7 +6262,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 贺州综合,http://taohua139.synology.me:4022/udp/239.81.0.163:4056
 贺州综合,http://www.dsmcloud.top:8888/udp/239.81.0.137:4056
 贺州综合,http://www.dsmcloud.top:8888/udp/239.81.0.163:4056
-贺州综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 横州新闻综合,http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
 来宾新闻荟萃,http://zb.gxlbamc.com:1935/live/xwhc.stream/playlist.m3u8
 来宾综合,http://m.ekanx.com:8181/udp/239.81.0.170:4056
@@ -6353,7 +6353,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 贵州生活,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH04_lo.m3u8
 贵州移动电视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 贵州影视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH03_lo.m3u8
-贵州|七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
+七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 
 海南频道,#genre#
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/
