@@ -7097,12 +7097,12 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 杭州生活,http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
 杭州影视,http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
 杭州青少,http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
+杭州导视,http://www.jeremyoto.com:82//rtp/233.50.201.182:5140
+杭州导视,http://www.jeremyoto.com:82/rtp/233.50.201.182:5140
 宁波新闻综合,http://www.jeremyoto.com:82/rtp/233.50.201.168:5140
 宁波经济生活,http://www.jeremyoto.com:82/rtp/233.50.201.178:5140
 宁波都市文体,http://www.jeremyoto.com:82/rtp/233.50.201.179:5140
 宁波影视剧,http://www.jeremyoto.com:82/rtp/233.50.201.180:5140
-杭州导视,http://www.jeremyoto.com:82//rtp/233.50.201.182:5140
-杭州导视,http://www.jeremyoto.com:82/rtp/233.50.201.182:5140
 湖州公共,http://www.jeremyoto.com:82/rtp/233.50.201.158:5140
 嘉兴新闻,http://www.jeremyoto.com:82/rtp/233.50.201.163:5140
 金华新闻,http://www.jeremyoto.com:82/rtp/233.50.201.161:5140
