@@ -2211,11 +2211,11 @@ CCTV-16,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000016
 天津体育,http://60.25.112.181:8888/udp/225.1.1.122:5002
 天津体育,http://xuys.top:8888/udp/225.1.1.6:5002
 天津体育,http://xuys.top:8888/udp/225.1.1.122:5002
-山东体育休闲,http://123.168.95.252:4000/udp/239.21.1.141:5002
-山东体育休闲,http://39.88.44.216:3333/udp/239.253.254.22:8000
-山东体育休闲,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
-山东体育休闲,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育休闲,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
+山东体育,http://123.168.95.252:4000/udp/239.21.1.141:5002
+山东体育,http://39.88.44.216:3333/udp/239.253.254.22:8000
+山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
+山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
 北京体育休闲,http://mmitv.top:80/pltv/livee3b7j7/bjyd_ipv6.php?id=3221279780
 北京体育休闲,http://115.171.216.203:4000/udp/225.1.0.113:1025
 北京体育休闲,http://114.246.102.14:4000/rtp/239.3.1.243:8000
@@ -6523,6 +6523,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 湖南茶频道,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.114:5140
 湖南电视剧,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=8765482907954673867
 湖南电视剧,http://php.jdshipin.com/TVOD/iptv.php?id=hndsj
+湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 湖南电影,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7884242846753128038
 湖南电影,http://php.jdshipin.com/TVOD/iptv.php?id=hndy
@@ -6615,7 +6616,6 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 湖南快乐垂钓,http://xuys.top:8888/udp/225.1.2.18:5002
 湖南快乐垂钓,http://xuys.top:8888/udp/225.1.2.20:5002
 湖南快乐垂钓,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.151:5140
-湖南视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 湖南娱乐,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6427893650335440392
 湖南娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=hnyl
