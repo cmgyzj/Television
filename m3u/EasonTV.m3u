@@ -20419,15 +20419,13 @@ rtmp://f13h.mine.nu/sat/tv051
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="MoMo综合" tvg-logo="https://epg.112114.eu.org/logo/MoMo综合.png" group-title="港澳台RTMP源",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://epg.112114.eu.org/logo/铁岭新闻综合.png" group-title="港澳台RTMP源",铁岭新闻综合
-rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=4851316755-0-0-b486a4484293605b3d71486762b44b0a
-#EXTINF:-1 tvg-name="beIN Sports (Singapore & Malaysia)" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports (Singapore & Malaysia).png" group-title="晴天",beIN Sports (Singapore & Malaysia)
+#EXTINF:-1 tvg-name="beIN Sports" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天",beIN Sports
 P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-#EXTINF:-1 tvg-name="beIN Sports (Singapore & Malaysia) 2" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports (Singapore & Malaysia) 2.png" group-title="晴天",beIN Sports (Singapore & Malaysia) 2
+#EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天",beIN Sports 2
 P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
-#EXTINF:-1 tvg-name="beIN Sports (Singapore & Malaysia) 2" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports (Singapore & Malaysia) 2.png" group-title="晴天",beIN Sports (Singapore & Malaysia) 2
+#EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天",beIN Sports 2
 P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
-#EXTINF:-1 tvg-name="beIN Sports (Singapore & Malaysia) 3" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports (Singapore & Malaysia) 3.png" group-title="晴天",beIN Sports (Singapore & Malaysia) 3
+#EXTINF:-1 tvg-name="beIN Sports 3" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天",beIN Sports 3
 P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.112114.eu.org/logo/ESPN.png" group-title="晴天",ESPN
 P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
@@ -20499,6 +20497,68 @@ P2p://generationnexxxt.com:19806/8a65b7456abb49f0bd564d6741cd4542
 P2p://generationnexxxt.com:19806/28427e22e6804e4a8ebd65671e789376
 #EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://epg.112114.eu.org/logo/纬来日本.png" group-title="晴天",纬来日本
 P2p://generationnexxxt.com:19806/f975f456c2124eb78e6afaad3a9db300
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="晴天",CHC影迷电影
+P2p://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="晴天",CHC影迷电影
+P2p://generationnexxxt.com:19806/71dc6da8b03a42059dae9204b5395a89
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="晴天",CHC家庭影院
+P2p://generationnexxxt.com:19806/9151cec1ea824240b5ee3be1a48ae2c9
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="晴天",CHC家庭影院
+P2p://generationnexxxt.com:19806/8083b7def9404a41808df7039034cac8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="晴天",CHC动作电影
+P2p://generationnexxxt.com:19806/ba97d7744f9b4bbaac3d6bb6b9e3798b
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="晴天",CHC动作电影
+P2p://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db55156032
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="晴天",广东体育
+P2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="晴天",广东体育
+P2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.112114.eu.org/logo/广东影视.png" group-title="晴天",广东影视
+P2p://generationnexxxt.com:19806/c77392e78511404799e2e8efd0635304
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.112114.eu.org/logo/魅力足球.png" group-title="晴天",魅力足球
+P2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
+#EXTINF:-1 tvg-name="新视觉体育" tvg-logo="https://epg.112114.eu.org/logo/新视觉体育.png" group-title="晴天",新视觉体育
+P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+#EXTINF:-1 tvg-name="新视觉体育" tvg-logo="https://epg.112114.eu.org/logo/新视觉体育.png" group-title="晴天",新视觉体育
+P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="晴天",星空卫视
+P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.112114.eu.org/logo/ESPN.png" group-title="晴天",ESPN
+P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://epg.112114.eu.org/logo/ESPN2.png" group-title="晴天",ESPN2
+P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://epg.112114.eu.org/logo/ESPN2.png" group-title="晴天",ESPN2
+P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
+#EXTINF:-1 tvg-name="Eurosport HD" tvg-logo="https://epg.112114.eu.org/logo/Eurosport HD.png" group-title="晴天",Eurosport HD
+P2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
+#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://epg.112114.eu.org/logo/FOX Sports.png" group-title="晴天",FOX Sports
+P2p://generationnexxxt.com:19806/5155654699e54b0d9d991cfa61d1ffaa
+#EXTINF:-1 tvg-name="FOX Sports 2" tvg-logo="https://epg.112114.eu.org/logo/FOX Sports 2.png" group-title="晴天",FOX Sports 2
+P2p://generationnexxxt.com:19806/52a40b5ff52844a6b91af75499354c92
+#EXTINF:-1 tvg-name="NBA" tvg-logo="https://epg.112114.eu.org/logo/NBA.png" group-title="晴天",NBA
+P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
+#EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Arena.png" group-title="晴天",Sky Sports Arena
+P2p://generationnexxxt.com:19806/8af96f851dff4de3bc20f74d1c279e20
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Cricket.png" group-title="晴天",Sky Sports Cricket
+P2p://generationnexxxt.com:19806/5ca24cd53f8a4833b81a223e59727c68
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports F1.png" group-title="晴天",Sky Sports F1
+P2p://generationnexxxt.com:19806/40da6ffe24c64429b68ecbb1ba7391e9
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Main Event.png" group-title="晴天",Sky Sports Main Event
+P2p://generationnexxxt.com:19806/ef8f88e5ae3a466dab2bd1d312183f0b
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Mix.png" group-title="晴天",Sky Sports Mix
+P2p://generationnexxxt.com:19806/bfdd62d08ea9487ab560a16d2e2cf690
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://epg.112114.eu.org/logo/TSN1.png" group-title="晴天",TSN1
+P2p://generationnexxxt.com:19806/bcf284d14b5f48d4979e980170ff7787
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="https://epg.112114.eu.org/logo/TSN2.png" group-title="晴天",TSN2
+P2p://generationnexxxt.com:19806/fdbe70a4515c4cb38b3a1fa72d76d425
+#EXTINF:-1 tvg-name="TSN3" tvg-logo="https://epg.112114.eu.org/logo/TSN3.png" group-title="晴天",TSN3
+P2p://generationnexxxt.com:19806/2b173ec56c6648349d43145a63a33fc1
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://epg.112114.eu.org/logo/TSN4.png" group-title="晴天",TSN4
+P2p://generationnexxxt.com:19806/3482e37f8ed7484ba78e7f4cc3d7733e
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="https://epg.112114.eu.org/logo/TSN5.png" group-title="晴天",TSN5
+P2p://generationnexxxt.com:19806/8e13a731470b435890b7056a2ed70993
+#EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://epg.112114.eu.org/logo/铁岭新闻综合.png" group-title="晴天",铁岭新闻综合
+rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=4851316755-0-0-b486a4484293605b3d71486762b44b0a
 #EXTINF:-1 tvg-name="600TV" tvg-logo="https://epg.112114.eu.org/logo/600TV.png" group-title="晴天",600TV
 P2p://generationnexxxt.com:19806/cc580b16770e42c081a08a4ee737b28b
 #EXTINF:-1 tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.eu.org/logo/爱尔达影剧.png" group-title="晴天",爱尔达影剧
