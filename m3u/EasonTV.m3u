@@ -3071,47 +3071,47 @@ http://wein66.ddnsfree.com:4022/udp/239.45.1.127:5140
 http://www.wein66.eu.org:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.112114.eu.org/logo/上海外语.png" group-title="上海频道",上海外语
 http://yuancw.eu.org:8088/udp/239.45.1.127:5140
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海频道",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物一台
 https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海频道",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物二台
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海频道",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物二台
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海频道",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物二台
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海频道",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物二台
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海频道",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物二台
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海频道",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物二台
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海频道",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物二台
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海频道",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物二台
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物三台.png" group-title="上海频道",东方购物三台
+#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物三台
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000091/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000091&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物三台.png" group-title="上海频道",东方购物三台
+#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物三台
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000091/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000091&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物三台.png" group-title="上海频道",东方购物三台
+#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海频道",东方购物三台
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000091/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000091&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.112114.eu.org/logo/上海教育.png" group-title="上海频道",上海教育
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000107/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000107&IASHttpSessionId=OTT19019320240419154124000281
@@ -3153,99 +3153,99 @@ http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
 http://mtw.so/5NPX0U
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000092/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000006000040025/1.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000092/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000006000040025/1.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000092/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000006000040025/1.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000092/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000006000040025/1.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000092/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000006000040025/1.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://gongjin.x3322.net:8686/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://minecraft.qc0727.top:22222/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://n.lualu.io:18888/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031112
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://sh1.enjoymoe.com:8001/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://vpn.rogerxlj.top:9998/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://wein66.ddnsfree.com:4022/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://www.jeremyoto.com:82/rtp/233.50.201.185:5140
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://www.wein66.eu.org:4022/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://xuys.top:8888/udp/225.1.1.74:5002
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.112114.eu.org/logo/乐游频道.png" group-title="上海频道",乐游频道
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://yuancw.eu.org:8088/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.112114.eu.org/logo/金色学堂.png" group-title="上海频道",金色学堂
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/
@@ -3983,29 +3983,29 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xsj
 http://php.jdshipin.com:8880/bestv.php?id=xsjhd/4000000
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.eu.org/logo/新视觉.png" group-title="上海频道",新视觉
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
-#EXTINF:-1 tvg-name="上海崇明" tvg-logo="https://epg.112114.eu.org/logo/上海崇明.png" group-title="上海频道",上海崇明
+#EXTINF:-1 tvg-name="上海崇明" tvg-logo="https://epg.112114.eu.org/logo/崇明电视台.png" group-title="上海频道",上海崇明
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-#EXTINF:-1 tvg-name="上海崇明" tvg-logo="https://epg.112114.eu.org/logo/上海崇明.png" group-title="上海频道",上海崇明
+#EXTINF:-1 tvg-name="上海崇明" tvg-logo="https://epg.112114.eu.org/logo/崇明电视台.png" group-title="上海频道",上海崇明
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/上海嘉定.png" group-title="上海频道",上海嘉定
+#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",上海嘉定
 http://minecraft.qc0727.top:22222/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/上海嘉定.png" group-title="上海频道",上海嘉定
+#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",上海嘉定
 http://n.lualu.io:18888/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/上海嘉定.png" group-title="上海频道",上海嘉定
+#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",上海嘉定
 http://vpn.rogerxlj.top:9998/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/上海嘉定.png" group-title="上海频道",上海嘉定
+#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",上海嘉定
 http://wein66.ddnsfree.com:4022/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/上海嘉定.png" group-title="上海频道",上海嘉定
+#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",上海嘉定
 http://www.wein66.eu.org:4022/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/上海嘉定.png" group-title="上海频道",上海嘉定
+#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",上海嘉定
 http://yuancw.eu.org:8088/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/上海嘉定.png" group-title="上海频道",上海嘉定
+#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",上海嘉定
 http://sh1.enjoymoe.com:8001/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/上海嘉定.png" group-title="上海频道",上海嘉定
+#EXTINF:-1 tvg-name="上海嘉定" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",上海嘉定
 http://gongjin.x3322.net:8686/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-name="上海金山" tvg-logo="https://epg.112114.eu.org/logo/上海金山.png" group-title="上海频道",上海金山
+#EXTINF:-1 tvg-name="上海金山" tvg-logo="https://epg.112114.eu.org/logo/金山电视台.png" group-title="上海频道",上海金山
 http://livejs1.newsjs.net:80/jspd/sd/live.m3u8
-#EXTINF:-1 tvg-name="上海金山" tvg-logo="https://epg.112114.eu.org/logo/上海金山.png" group-title="上海频道",上海金山
+#EXTINF:-1 tvg-name="上海金山" tvg-logo="https://epg.112114.eu.org/logo/金山电视台.png" group-title="上海频道",上海金山
 http://livejs1.newsjs.net/jspd/playlist.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.112114.eu.org/logo/睛彩竞技.png" group-title="体育频道",睛彩竞技
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -4765,349 +4765,349 @@ http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.2:5140
 #EXTINF:-1 tvg-name="麻辣体育" tvg-logo="https://epg.112114.eu.org/logo/麻辣体育.png" group-title="体育频道",麻辣体育
 http://www.iwumei.cc:9527/udp/239.93.42.2:5140
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-1
+#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-1
 http://gongjin.x3322.net:8686/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-1
+#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-1
 http://minecraft.qc0727.top:22222/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-1
+#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-1
 http://n.lualu.io:18888/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-1
+#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-1
 http://sh1.enjoymoe.com:8001/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-1
+#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-1
 http://vpn.rogerxlj.top:9998/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-1
+#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-1
 http://wein66.ddnsfree.com:4022/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-1
+#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-1
 http://www.wein66.eu.org:4022/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-1
+#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-1
 http://yuancw.eu.org:8088/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-2
+#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-2
 http://minecraft.qc0727.top:22222/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-2
+#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-2
 http://n.lualu.io:18888/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-2
+#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-2
 http://vpn.rogerxlj.top:9998/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-2
+#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-2
 http://wein66.ddnsfree.com:4022/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-2
+#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-2
 http://www.wein66.eu.org:4022/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-2
+#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-2
 http://yuancw.eu.org:8088/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-2
+#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-2
 http://sh1.enjoymoe.com:8001/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-2
+#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-2
 http://gongjin.x3322.net:8686/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-3
+#EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-3
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-4
+#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-4
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000025/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000025&livemode=1&stbId
-#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-4
+#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-4
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-4
+#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-4
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-4
+#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-4
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-4
+#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-4
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-4
+#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-4
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000025/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000025&livemode=1&stbId
-#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-4
+#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-4
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-4
+#EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-4
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-5
+#EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-5
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000027/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000027/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000027/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000027/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000027/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-6
+#EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-6
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000028/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000028/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000028/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000028/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000028/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-7
+#EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-7
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-8
+#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-8
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000029/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000029&livemode=1&stbId
-#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-8
+#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-8
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-8
+#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-8
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-8
+#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-8
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-8
+#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-8
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-8
+#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-8
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000029/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000029&livemode=1&stbId
-#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-8
+#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-8
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-8
+#EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-8
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-9
+#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-9
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000030/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000030&livemode=1&stbId
-#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-9
+#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-9
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-9
+#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-9
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-9
+#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-9
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-9
+#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-9
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-9
+#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-9
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000030/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000030&livemode=1&stbId
-#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-9
+#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-9
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-9
+#EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-9
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-10
+#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-10
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-10
+#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-10
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-10
+#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-10
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-10
+#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-10
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-10
+#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-10
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-10
+#EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-10
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000050/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000050&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000050/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000050&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000050/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000050&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000050/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000050&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000050/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000050&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-11
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-11
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000050/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000050&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000051/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000051&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000051/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000051&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000051/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000051&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000051/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000051&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000051/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000051&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-12
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-12
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-13
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-13
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-13
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-13
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-13
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-13
 http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-13
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-13
 http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-13
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-13
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-14
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-14
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000001116/1.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-14
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-14
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000001116/1.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-14
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-14
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000001116/1.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-14
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-14
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000001116/1.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-14
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-14
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000001116/1.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-15
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-15
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000002898/1.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-15
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-15
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000002898/1.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-15
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-15
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000002898/1.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-15
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-15
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000002898/1.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-15
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-15
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000002898/1.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-16
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-16
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000004876/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-16
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-16
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000004876/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-16
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-16
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000004876/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-16
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-16
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000004876/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-16
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-16
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000004876/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-17
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-17
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-17
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-17
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-17
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-17
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-17
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-17
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-17
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-17
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-18
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-18
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000006777/1.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-18
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-18
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000006777/1.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-18
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-18
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000006777/1.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-18
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-18
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000006777/1.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-18
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-18
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000006777/1.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-19
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-19
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000017342/1.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-19
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-19
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000017342/1.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-19
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-19
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000017342/1.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-19
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-19
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000017342/1.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-19
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-19
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000017342/1.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-20
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-20
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000018009/1.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-20
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-20
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000018009/1.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-20
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-20
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000018009/1.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-20
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-20
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000018009/1.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-20
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-20
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000018009/1.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-21
+#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-21
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000019233/1.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-21
+#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-21
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000019233/1.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-21
+#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-21
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000019233/1.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-21
+#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-21
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000019233/1.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-21
+#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-21
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000019233/1.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-22
+#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-22
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000022620/1.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-22
+#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-22
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000022620/1.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-22
+#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-22
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000022620/1.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-22
+#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-22
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000022620/1.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-22
+#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-22
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000022620/1.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-23
+#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-23
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000023256/1.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-23
+#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-23
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000023256/1.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-23
+#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-23
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000023256/1.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-23
+#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-23
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000023256/1.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-23
+#EXTINF:-1 tvg-name="百视通直播-23" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-23
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000023256/1.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-24
+#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-24
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000026930/1.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-24
+#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-24
 http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000026930/1.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-24
+#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-24
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000026930/1.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-24
+#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-24
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000026930/1.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/bestv.png" group-title="体育频道",百视通直播-24
+#EXTINF:-1 tvg-name="百视通直播-24" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通直播-24
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000026930/1.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.112114.eu.org/logo/安多卫视.png" group-title="卫视频道",安多卫视
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
