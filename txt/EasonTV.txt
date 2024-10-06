@@ -10280,6 +10280,36 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 铁岭新闻综合,rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=4851316755-0-0-b486a4484293605b3d71486762b44b0a
 
 晴天,#genre#
+CHC动作电影,P2p://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db55156032
+CHC动作电影,P2p://generationnexxxt.com:19806/ba97d7744f9b4bbaac3d6bb6b9e3798b
+CHC家庭影院,P2p://generationnexxxt.com:19806/8083b7def9404a41808df7039034cac8
+CHC家庭影院,P2p://generationnexxxt.com:19806/9151cec1ea824240b5ee3be1a48ae2c9
+CHC影迷电影,P2p://generationnexxxt.com:19806/71dc6da8b03a42059dae9204b5395a89
+CHC影迷电影,P2p://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
+ESPN,P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
+ESPN2,P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
+ESPN2,P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
+Eurosport HD,P2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
+FOX Sports 2,P2p://generationnexxxt.com:19806/52a40b5ff52844a6b91af75499354c92
+FOX Sports,P2p://generationnexxxt.com:19806/5155654699e54b0d9d991cfa61d1ffaa
+NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
+Sky Sports Arena,P2p://generationnexxxt.com:19806/8af96f851dff4de3bc20f74d1c279e20
+Sky Sports Cricket,P2p://generationnexxxt.com:19806/5ca24cd53f8a4833b81a223e59727c68
+Sky Sports F1,P2p://generationnexxxt.com:19806/40da6ffe24c64429b68ecbb1ba7391e9
+Sky Sports Main Event,P2p://generationnexxxt.com:19806/ef8f88e5ae3a466dab2bd1d312183f0b
+Sky Sports Mix,P2p://generationnexxxt.com:19806/bfdd62d08ea9487ab560a16d2e2cf690
+TSN1,P2p://generationnexxxt.com:19806/bcf284d14b5f48d4979e980170ff7787
+TSN2,P2p://generationnexxxt.com:19806/fdbe70a4515c4cb38b3a1fa72d76d425
+TSN3,P2p://generationnexxxt.com:19806/2b173ec56c6648349d43145a63a33fc1
+TSN4,P2p://generationnexxxt.com:19806/3482e37f8ed7484ba78e7f4cc3d7733e
+TSN5,P2p://generationnexxxt.com:19806/8e13a731470b435890b7056a2ed70993
+广东体育,P2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
+广东体育,P2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
+广东影视,P2p://generationnexxxt.com:19806/c77392e78511404799e2e8efd0635304
+魅力足球,P2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
+新视觉体育,P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+新视觉体育,P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be
+星空卫视,P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
 beIN Sports (Singapore & Malaysia),P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
 beIN Sports (Singapore & Malaysia) 2,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
 beIN Sports (Singapore & Malaysia) 2,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
