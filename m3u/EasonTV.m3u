@@ -3147,16 +3147,6 @@ http://wein66.ddnsfree.com:4022/udp/239.45.0.13:5140
 http://www.wein66.eu.org:4022/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.112114.eu.org/logo/上海教育.png" group-title="上海频道",上海教育
 http://yuancw.eu.org:8088/udp/239.45.0.13:5140
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
-http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
-http://mtw.so/5NPX0U
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
@@ -14383,14 +14373,14 @@ http://dspull.ijntv.cn/ijnlive/1541.flv?hwSecret=93b2c0d66e0549806aa4d665b1cc23b
 http://dspull.ijntv.cn/ijnlive/1541.m3u8?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
 #EXTINF:-1 tvg-name="济南教育" tvg-logo="https://epg.112114.eu.org/logo/济南教育.png" group-title="山东频道",济南教育
 https://livejnedu.chinamcache.com/live/jneduzb04.m3u8
-#EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://epg.112114.eu.org/logo/青州文化旅游.png" group-title="山东频道",青州文化旅游
-http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://epg.112114.eu.org/logo/青州综合.png" group-title="山东频道",青州综合
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="泰安经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰安经济生活.png" group-title="山东频道",泰安经济生活
-http://zzbb.1545ts.com:8068/live/tatv222.m3u8
+#EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://epg.112114.eu.org/logo/青州文化旅游.png" group-title="山东频道",青州文化旅游
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="泰安综合" tvg-logo="https://epg.112114.eu.org/logo/泰安综合.png" group-title="山东频道",泰安综合
 http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
+#EXTINF:-1 tvg-name="泰安经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰安经济生活.png" group-title="山东频道",泰安经济生活
+http://zzbb.1545ts.com:8068/live/tatv222.m3u8
 #EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://epg.112114.eu.org/logo/烟台公共.png" group-title="山东频道",烟台公共
 http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 #EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="https://epg.112114.eu.org/logo/烟台经济科技.png" group-title="山东频道",烟台经济科技
@@ -14415,10 +14405,6 @@ http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="枣庄教育频道" tvg-logo="https://epg.112114.eu.org/logo/枣庄教育频道.png" group-title="山东频道",枣庄教育频道
 http://stream.zztvzd.com/2/sd/live.m3u8
-#EXTINF:-1 tvg-name="泰安新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰安新闻综合.png" group-title="山东频道",泰安新闻综合
-http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
-#EXTINF:-1 tvg-name="青州综合频道" tvg-logo="https://epg.112114.eu.org/logo/青州综合频道.png" group-title="山东频道",青州综合频道
-http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西频道",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西频道",山西文体生活
@@ -21555,6 +21541,8 @@ P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="晴天源",星空卫视
 P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="晴天源",重温经典
+P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.112114.eu.org/logo/ESPN.png" group-title="晴天源",ESPN
 P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
 #EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://epg.112114.eu.org/logo/ESPN2.png" group-title="晴天源",ESPN2

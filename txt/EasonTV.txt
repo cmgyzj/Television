@@ -1575,11 +1575,6 @@ CGTN西语,https://epg.pw/stream/8b596954e62a0aa4dcf41f14c542dc887f189abc7ce6ce2
 上海教育,http://wein66.ddnsfree.com:4022/udp/239.45.0.13:5140
 上海教育,http://www.wein66.eu.org:4022/udp/239.45.0.13:5140
 上海教育,http://yuancw.eu.org:8088/udp/239.45.0.13:5140
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://ali.hlspull.yximgs.com:80/live/awei_cwjd.flv
-重温经典,http://mtw.so/5NPX0U
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 乐游,http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3
@@ -7235,6 +7230,8 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
 山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
+济南新闻综合,http://dspull.ijntv.cn/ijnlive/1541.flv?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
+济南新闻综合,http://dspull.ijntv.cn/ijnlive/1541.m3u8?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
 济南都市,http://dspull.ijntv.cn/ijnlive/1607.flv?hwSecret=62a7b6149e5279cb602e547c5724e17050fcdc3e1753610c865ab291496a0be1&hwTime=66d32cec
 济南都市,http://dspull.ijntv.cn/ijnlive/1607.m3u8?hwSecret=62a7b6149e5279cb602e547c5724e17050fcdc3e1753610c865ab291496a0be1&hwTime=66d32cec
 济南鲁中,http://dspull.ijntv.cn/ijnlive/1621.flv?hwSecret=aa3cbd8c46f010c4f9d789dc64fc9eba165a4feb0bd40bcad58b070d36776995&hwTime=66d32cec
@@ -7243,13 +7240,11 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 济南生活,http://dspull.ijntv.cn/ijnlive/1615.m3u8?hwSecret=0d1aadcc21a4b46edd092691840287634d68b4ea7c6dfcff69aae2e2e48f3d6f&hwTime=66d32cec
 济南文旅体育,http://dspull.ijntv.cn/ijnlive/1610.flv?hwSecret=d7dd1757ed8140981b0dad2e1a51e7384dff47aaccb8e24a2711ca7d752a8c1c&hwTime=66d32cec
 济南文旅体育,http://dspull.ijntv.cn/ijnlive/1610.m3u8?hwSecret=d7dd1757ed8140981b0dad2e1a51e7384dff47aaccb8e24a2711ca7d752a8c1c&hwTime=66d32cec
-济南新闻综合,http://dspull.ijntv.cn/ijnlive/1541.flv?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
-济南新闻综合,http://dspull.ijntv.cn/ijnlive/1541.m3u8?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
 济南教育,https://livejnedu.chinamcache.com/live/jneduzb04.m3u8
-青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-泰安经济生活,http://zzbb.1545ts.com:8068/live/tatv222.m3u8
+青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 泰安综合,http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
+泰安经济生活,http://zzbb.1545ts.com:8068/live/tatv222.m3u8
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
@@ -7262,8 +7257,6 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 菏泽影视频道,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 枣庄教育频道,http://stream.zztvzd.com/2/sd/live.m3u8
-泰安新闻综合,http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
-青州综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 
 山西频道,#genre#
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
@@ -10856,6 +10849,7 @@ CHC动作电影,P2p://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db5515603
 新视觉,P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 新视觉,P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be
 星空卫视,P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
+重温经典,P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421
 ESPN,P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
 ESPN2,P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
 ESPN2,P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
