@@ -13950,10 +13950,6 @@ http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 #EXTINF:-1 tvg-name="句容党建频道" tvg-logo="https://epg.112114.eu.org/logo/句容党建频道.png" group-title="江苏频道",句容党建频道
 http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
-#EXTINF:-1 tvg-name="常熟新闻频道" tvg-logo="https://epg.112114.eu.org/logo/常熟新闻频道.png" group-title="江苏频道",常熟新闻频道
-http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
-#EXTINF:-1 tvg-name="常熟民生频道" tvg-logo="https://epg.112114.eu.org/logo/常熟民生频道.png" group-title="江苏频道",常熟民生频道
-http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
 #EXTINF:-1 tvg-name="睢宁综合频道" tvg-logo="https://epg.112114.eu.org/logo/睢宁综合频道.png" group-title="江苏频道",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 #EXTINF:-1 tvg-name="睢宁生活教育" tvg-logo="https://epg.112114.eu.org/logo/睢宁生活教育.png" group-title="江苏频道",睢宁生活教育
@@ -14898,10 +14894,10 @@ http://www.jeremyoto.com:82/rtp/233.50.201.156:5140
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/绍兴新闻综合.png" group-title="浙江频道",绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 tvg-name="嵊泗新闻综合" tvg-logo="https://epg.112114.eu.org/logo/嵊泗新闻综合.png" group-title="浙江频道",嵊泗新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1 tvg-name="绍兴文化影视" tvg-logo="https://epg.112114.eu.org/logo/绍兴文化影视.png" group-title="浙江频道",绍兴文化影视
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-name="嵊泗新闻综合" tvg-logo="https://epg.112114.eu.org/logo/嵊泗新闻综合.png" group-title="浙江频道",嵊泗新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/嵊州新闻综合.png" group-title="浙江频道",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="松阳综合频道" tvg-logo="https://epg.112114.eu.org/logo/松阳综合频道.png" group-title="浙江频道",松阳综合频道
