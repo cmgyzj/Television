@@ -22,23 +22,6 @@ IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 测试1,#genre#
-安徽|宿松新闻综合,rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
-广西|百色综合频道,rtmp://live.gxrb.com.cn/tv/bstv_zh
-广西|博白综合,rtmp://live.gxrb.com.cn/hls/a22
-广西|容县电视,rtmp://live.gxrb.com.cn/gx/rongxian
-甘肃|玉门综合频道,rtmp://live.yumentv.cn:12345/live/room10
-河北|廊坊新闻综合,rtmp://222.222.126.18/live/lfxw
-河北|廊坊公共频道,rtmp://222.222.126.18/live/lfgg
-河北|廊坊导视频道,rtmp://222.222.126.18/live/lfds
-河南|安阳新闻综合,rtmp://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab
-辽宁|铁岭综合频道,rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=4851316755-0-0-b486a4484293605b3d71486762b44b0a
-四川|凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1
-四川|凉山彝语频道,rtmp://tv.drs.yizu.tv/channellive/ch2
-四川|夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1
-四川|沐川综合频道,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
-西藏|拉萨汉语综合,rtmp://tv.lasatv.cn/channellive/lszhpd
-西藏|拉萨藏语综合,rtmp://tv.lasatv.cn/channellive/lszypd
-西藏|拉萨文旅频道,rtmp://tv.lasatv.cn/channellive/lswlpd
 
 测试2,#genre#
 
