@@ -10824,6 +10824,8 @@ https://tplaylive.grtn.cn/live/life.m3u8
 #EXTINF:-1 tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东频道",广东文化
 https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="广东频道",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="广东频道",广东体育
 http://mmitv.top:80/pltv/source.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2&user=t2b53u&st=2ed69d3c&et=2ed72f3c&np=3i7nlif&isp=telnet&token=d8f72522&tag=live
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="广东频道",广东体育
 http://59.32.97.214:9901/tsfile/live/1081_1.m3u8?key=txiptv
