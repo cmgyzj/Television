@@ -6250,12 +6250,16 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 河南公共,http://php.jdshipin.com/hntv.php?id=hngg
 河南乡村频道,http://php.jdshipin.com:8880/hntv.php?id=hnxc
 河南乡村频道,http://php.jdshipin.com/hntv.php?id=hnxc
+河南梨园频道,http://php.jdshipin.com:8880/hntv.php?id=hnly
+河南梨园频道,http://php.jdshipin.com/hntv.php?id=hnly
 河南梨园频道,http://xuys.top:8888/udp/225.1.2.104:5002
 河南武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
+河南武术世界,http://php.jdshipin.com/hntv.php?id=wspd
 河南武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 河南武术世界,http://php.jdshipin.com/hntv.php?id=wspd
 河南武术世界,http://xuys.top:8888/udp/225.1.2.129:5002
 河南文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
+河南文物宝库,http://php.jdshipin.com/hntv.php?id=wwbk
 河南文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 河南文物宝库,http://php.jdshipin.com/hntv.php?id=wwbk
 河南文物宝库,http://xuys.top:8888/udp/225.1.2.105:5002
