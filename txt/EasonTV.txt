@@ -6306,7 +6306,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 湖北经视,http://119.98.124.146:4022/rtp/239.69.1.41:9886
 湖北垄上,http://119.98.124.146:4022/rtp/239.69.1.43:9898
 湖北影视,http://119.98.124.146:4022/rtp/239.69.1.204:10866
-湖北公共新闻,http://119.98.124.146:4022/rtp/239.69.1.40:9880
+湖北公共,http://119.98.124.146:4022/rtp/239.69.1.40:9880
 湖北教育,http://119.98.124.146:4022/rtp/239.69.1.206:10878
 湖北生活,http://119.98.124.146:4022/rtp/239.69.1.205:10872
 武汉新闻综合,http://119.98.124.146:4022/rtp/239.69.1.145:10506
@@ -6584,6 +6584,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 
 江苏频道,#genre#
+江苏城市,http://cdn.jdshipin.com:8880/jstv.php?id=jscs
+江苏城市,http://cdn.jdshipin.com/jstv.php?id=jscs
 江苏城市,http://www.soaringroc.cn:5555/rtp/239.49.0.17:8128
 江苏城市,http://iptv.52ljt.win:5555/rtp/239.49.0.17:8128
 江苏城市,http://soaringroc.cn:5555/rtp/239.49.0.17:8128
@@ -6622,6 +6624,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏城市,http://wx.puchengyu2009.top:9999/rtp/239.49.1.17:6000
 江苏城市,http://xiazaiji.f3322.org:8800/rtp/239.49.0.17:8128
 江苏城市,http://xiazaiji.f3322.org:8800/rtp/239.49.1.17:6000
+江苏综艺,http://cdn.jdshipin.com:8880/jstv.php?id=jszy
+江苏综艺,http://cdn.jdshipin.com/jstv.php?id=jszy
 江苏综艺,http://www.soaringroc.cn:5555/rtp/239.49.0.18:8136
 江苏综艺,http://iptv.52ljt.win:5555/rtp/239.49.0.18:8136
 江苏综艺,http://soaringroc.cn:5555/rtp/239.49.0.18:8136
@@ -6660,6 +6664,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏综艺,http://wx.puchengyu2009.top:9999/rtp/239.49.1.18:6000
 江苏综艺,http://xiazaiji.f3322.org:8800/rtp/239.49.0.18:8136
 江苏综艺,http://xiazaiji.f3322.org:8800/rtp/239.49.1.18:6000
+江苏影视,http://cdn.jdshipin.com:8880/jstv.php?id=jsys
+江苏影视,http://cdn.jdshipin.com/jstv.php?id=jsys
 江苏影视,http://www.soaringroc.cn:5555/rtp/239.49.0.20:8152
 江苏影视,http://iptv.52ljt.win:5555/rtp/239.49.0.20:8152
 江苏影视,http://soaringroc.cn:5555/rtp/239.49.0.20:8152
@@ -6699,6 +6705,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏影视,http://wx.puchengyu2009.top:9999/rtp/239.49.1.20:6000
 江苏影视,http://xiazaiji.f3322.org:8800/rtp/239.49.0.20:8152
 江苏影视,http://xiazaiji.f3322.org:8800/rtp/239.49.1.20:6000
+江苏新闻,http://cdn.jdshipin.com:8880/jstv.php?id=jsgg
+江苏新闻,http://cdn.jdshipin.com/jstv.php?id=jsgg
 江苏新闻,http://www.soaringroc.cn:5555/rtp/239.49.0.149:9186
 江苏新闻,http://iptv.52ljt.win:5555/rtp/239.49.0.149:9186
 江苏新闻,http://soaringroc.cn:5555/rtp/239.49.0.149:9186
@@ -6734,6 +6742,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏新闻,http://wx.puchengyu2009.top:9999/rtp/239.49.1.22:6000
 江苏新闻,http://xiazaiji.f3322.org:8800/rtp/239.49.0.149:9186
 江苏新闻,http://xiazaiji.f3322.org:8800/rtp/239.49.1.22:6000
+江苏体育,http://cdn.jdshipin.com:8880/jstv.php?id=jsty
+江苏体育,http://cdn.jdshipin.com/jstv.php?id=jsty
 江苏体育,http://www.soaringroc.cn:5555/rtp/239.49.1.19:6000
 江苏体育,http://iptv.52ljt.win:5555/rtp/239.49.1.19:6000
 江苏体育,http://soaringroc.cn:5555/rtp/239.49.1.19:6000
@@ -6773,6 +6783,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏体育,http://www.starmoon.org.cn:4022/rtp/239.49.1.19:6000
 江苏体育,http://www.zhantong.tech:8800/rtp/239.49.0.19:8144
 江苏体育,http://www.zhantong.tech:8800/rtp/239.49.1.19:6000
+江苏优漫卡通,http://cdn.jdshipin.com:8880/jstv.php?id=ymkt
+江苏优漫卡通,http://cdn.jdshipin.com/jstv.php?id=ymkt
 江苏优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 江苏优漫卡通,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010118/
 江苏优漫卡通,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010118/
@@ -6815,6 +6827,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏优漫卡通,http://wx.puchengyu2009.top:9999/rtp/239.49.1.21:6000
 江苏优漫卡通,http://xiazaiji.f3322.org:8800/rtp/239.49.0.21:8160
 江苏优漫卡通,http://xiazaiji.f3322.org:8800/rtp/239.49.1.21:6000
+江苏国际,http://cdn.jdshipin.com:8880/jstv.php?id=jsgj
+江苏国际,http://cdn.jdshipin.com/jstv.php?id=jsgj
 江苏国际,http://www.soaringroc.cn:5555/rtp/239.49.0.22:8168
 江苏国际,http://iptv.52ljt.win:5555/rtp/239.49.0.22:8168
 江苏国际,http://soaringroc.cn:5555/rtp/239.49.0.22:8168
@@ -6853,6 +6867,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏国际,http://wx.puchengyu2009.top:9999/rtp/239.49.1.23:6000
 江苏国际,http://xiazaiji.f3322.org:8800/rtp/239.49.0.22:8168
 江苏国际,http://xiazaiji.f3322.org:8800/rtp/239.49.1.23:6000
+江苏教育,http://cdn.jdshipin.com:8880/jstv.php?id=jsjy
+江苏教育,http://cdn.jdshipin.com/jstv.php?id=jsjy
 江苏教育,http://www.soaringroc.cn:5555/rtp/239.49.0.23:8176
 江苏教育,http://iptv.52ljt.win:5555/rtp/239.49.0.23:8176
 江苏教育,http://soaringroc.cn:5555/rtp/239.49.0.23:8176
@@ -7224,8 +7240,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 四川科教频道,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 成都新闻综合,http://www.iwumei.cc:9527/udp/239.93.0.16:5140
 成都新闻综合,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.16:5140
-成都经济资讯服务,http://www.iwumei.cc:9527/udp/239.93.0.17:1239
-成都经济资讯服务,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.17:1239
+成都经济,http://www.iwumei.cc:9527/udp/239.93.0.17:1239
+成都经济,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.17:1239
 成都都市生活,http://www.iwumei.cc:9527/udp/239.93.0.18:1238
 成都都市生活,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.18:1238
 成都影视文艺,http://www.iwumei.cc:9527/udp/239.93.0.19:1250
@@ -7467,7 +7483,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 浙江之江纪录,http://www.jeremyoto.com:82/rtp/233.50.202.25:5140
 浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 杭州综合,http://www.jeremyoto.com:82/rtp/233.50.201.173:5140
-杭州明珠,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
+杭州西湖明珠,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
 杭州生活,http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
 杭州影视,http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
 杭州青少,http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
