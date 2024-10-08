@@ -22,15 +22,6 @@ IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 测试1,#genre#
-贵阳新闻,https://movement.gzstv.com/streams/videolive/76
-遵义新闻综合,https://movement.gzstv.com/streams/videolive/78
-安顺新闻综合,https://movement.gzstv.com/streams/videolive/79
-六盘水综合,https://movement.gzstv.com/streams/videolive/77
-毕节新闻综合,https://movement.gzstv.com/streams/videolive/80
-铜仁新闻综合,https://movement.gzstv.com/streams/videolive/84
-黔南综合,https://movement.gzstv.com/streams/videolive/82
-黔西南综合,https://movement.gzstv.com/streams/videolive/83
-黔东南新闻综合,https://movement.gzstv.com/streams/videolive/81
 
 测试2,#genre#
 
