@@ -425,22 +425,20 @@ RTMP,#genre#
 深圳众创TV,rtmp://lglivepull.sznews.com/live/2645
 
 测试1,#genre#
-兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
-央视高网,http://[2409:8087:74F1:0021::0008]/270000001128/9900000094/index.m3u8
-风云音乐,http://60.10.225.157:555/rtp/239.253.93.253:6431
-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-文化精品,http://wouu.net:9977/udp/239.93.42.47:5140
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
-电视指南,http://60.10.225.157:555/rtp/239.253.93.249:6427
-CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+60,http://111.61.236.247:9081/hls/60/index.m3u8
+兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+63,http://111.61.236.247:9081/hls/63/index.m3u8
+64,http://111.61.236.247:9081/hls/64/index.m3u8
+65,http://111.61.236.247:9081/hls/65/index.m3u8
+66,http://111.61.236.247:9081/hls/66/index.m3u8
+怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+68,http://111.61.236.247:9081/hls/68/index.m3u8
+69,http://111.61.236.247:9081/hls/69/index.m3u8
+70,http://111.61.236.247:9081/hls/70/index.m3u8
+央视高网,http://[2409:8087:74F1:0021::0008]/270000001128/9900000094/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 测试2,#genre#
