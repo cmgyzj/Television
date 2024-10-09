@@ -425,6 +425,12 @@ RTMP,#genre#
 深圳众创TV,rtmp://lglivepull.sznews.com/live/2645
 
 测试1,#genre#
+深圳电视剧,http://ye23.win/iptv/sztv.php?id=3
+深圳财经生活,http://ye23.win/iptv/sztv.php?id=5
+深圳娱乐,http://ye23.win/iptv/sztv.php?id=6
+深圳少儿,http://ye23.win/iptv/sztv.php?id=7
+深圳公共,http://ye23.win/iptv/sztv.php?id=4
+深圳国际,http://ye23.win/iptv/sztv.php?id=11
 
 测试2,#genre#
 
