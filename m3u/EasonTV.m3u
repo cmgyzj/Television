@@ -14126,7 +14126,7 @@ http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻综合.png" group-title="江苏频道",宜兴新闻综合
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="宜兴新闻频道" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻频道.png" group-title="江苏频道",宜兴新闻频道
+#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻频道.png" group-title="江苏频道",宜兴新闻频道
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1 tvg-name="宜兴紫砂频道" tvg-logo="https://epg.112114.eu.org/logo/宜兴紫砂频道.png" group-title="江苏频道",宜兴紫砂频道
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
