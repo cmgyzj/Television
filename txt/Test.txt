@@ -22,6 +22,27 @@ IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 测试1,#genre#
+九江综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8
+九江公共,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8
+九江教育,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8
+上饶新闻综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
+上饶经济旅游,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
+萍乡综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+萍乡公共,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
+庐山电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
+井冈山电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
+修水电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xiushui01.m3u8
+永修电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
+彭泽电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_pengze.m3u8
+宁都综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8
+广丰综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangfeng.m3u8
+余干综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
+万载电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
+武宁新闻综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
+广昌综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchang.m3u8
+铜鼓电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
+分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
+莲花电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
 
 测试2,#genre#
 
