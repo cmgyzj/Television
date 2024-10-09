@@ -425,6 +425,7 @@ RTMP,#genre#
 深圳众创TV,rtmp://lglivepull.sznews.com/live/2645
 
 测试1,#genre#
+深圳卫视,http://125.92.110.56:4022/udp/239.77.1.3:5146
 
 测试2,#genre#
 
