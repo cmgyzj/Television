@@ -38,7 +38,7 @@ CETV早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
-宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+宿州经济生活,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 
 重庆,#genre#
 武隆综合,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
@@ -425,13 +425,6 @@ RTMP,#genre#
 深圳众创TV,rtmp://lglivepull.sznews.com/live/2645
 
 测试1,#genre#
-深圳电视剧,http://ye23.win/iptv/sztv.php?id=3
-深圳财经生活,http://ye23.win/iptv/sztv.php?id=5
-深圳娱乐,http://ye23.win/iptv/sztv.php?id=6
-深圳少儿,http://ye23.win/iptv/sztv.php?id=7
-深圳公共,http://ye23.win/iptv/sztv.php?id=4
-深圳国际,http://ye23.win/iptv/sztv.php?id=11
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 
 测试2,#genre#
 
