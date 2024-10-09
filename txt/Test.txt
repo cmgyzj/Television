@@ -431,6 +431,7 @@ RTMP,#genre#
 深圳少儿,http://ye23.win/iptv/sztv.php?id=7
 深圳公共,http://ye23.win/iptv/sztv.php?id=4
 深圳国际,http://ye23.win/iptv/sztv.php?id=11
+深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 
 测试2,#genre#
 
