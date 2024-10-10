@@ -8639,56 +8639,6 @@ Access Sacramento Channel 18,https://reflect-access-sacramento.cablecast.tv/live
 Acheloos TV (576p) [Not 24/7],http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 Action Hollywood Movies,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 Addis TV (720p),https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
-AdultIPTV.net Anal (720p),http://cdn.adultiptv.net/anal.m3u8
-AdultIPTV.net Asian (720p),http://cdn.adultiptv.net/asian.m3u8
-AdultIPTV.net Big Ass (720p),http://cdn.adultiptv.net/bigass.m3u8
-AdultIPTV.net Big Dick (720p),http://cdn.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Tits (720p),http://cdn.adultiptv.net/bigtits.m3u8
-AdultIPTV.net Blonde (720p),http://cdn.adultiptv.net/blonde.m3u8
-AdultIPTV.net Blowjob (720p),http://cdn.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Brunette (720p),http://cdn.adultiptv.net/brunette.m3u8
-AdultIPTV.net Compilation (720p),http://cdn.adultiptv.net/compilation.m3u8
-AdultIPTV.net Cuckold (720p),http://cdn.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Fetish (720p),http://cdn.adultiptv.net/fetish.m3u8
-AdultIPTV.net Gangbang (720p),http://cdn.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Gay (720p),http://cdn.adultiptv.net/gay.m3u8
-AdultIPTV.net Hardcore (720p),http://cdn.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Interracial (720p),http://cdn.adultiptv.net/interracial.m3u8
-AdultIPTV.net Latina (720p),http://cdn.adultiptv.net/latina.m3u8
-AdultIPTV.net Lesbian (720p),http://cdn.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Live Cams (720p),http://cdn.adultiptv.net/livecams.m3u8
-AdultIPTV.net MILF (720p),http://cdn.adultiptv.net/milf.m3u8
-AdultIPTV.net Pornstar (720p),http://cdn.adultiptv.net/pornstar.m3u8
-AdultIPTV.net POV (720p),http://cdn.adultiptv.net/pov.m3u8
-AdultIPTV.net Rough (720p),http://cdn.adultiptv.net/rough.m3u8
-AdultIPTV.net Russian (720p),http://cdn.adultiptv.net/russian.m3u8
-AdultIPTV.net Teen (720p),http://cdn.adultiptv.net/teen.m3u8
-AdultIPTV.net Threesome (720p),http://cdn.adultiptv.net/threesome.m3u8
-AdultIPTV.net Woman (720p),http://live.redtraffic.net/woman.m3u8
-Babestation24 (720p),http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-Miami TV México,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-Miami TV Mexico (1080p),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-MyCamTV Anal (720p),https://live.mycamtv.com/anal.m3u8
-MyCamTV Arab (720p),http://live.mycamtv.com/arab.m3u8
-MyCamTV Asian (720p),https://live.mycamtv.com/asian.m3u8
-MyCamTV Big Ass (720p),https://live.mycamtv.com/defstream.m3u8
-MyCamTV Big Tits (720p),https://live.mycamtv.com/bigtits.m3u8
-MyCamTV Blonde (720p),https://live.mycamtv.com/blonde.m3u8
-MyCamTV Blowjob (720p),http://live.mycamtv.com/blowjob.m3u8
-MyCamTV Brunette (720p),https://live.mycamtv.com/brunette.m3u8
-MyCamTV Latina (720p),https://live.mycamtv.com/latina.m3u8
-MyCamTV Medium (720p),http://live.mycamtv.com/medium.m3u8
-MyCamTV MILF (720p),http://live.mycamtv.com/milf.m3u8
-MyCamTV Skinny (720p),https://live.mycamtv.com/arab.m3u8
-MyCamTV Squirt (720p),https://live.mycamtv.com/squirt.m3u8
-MyCamTV Teen (720p),http://live.mycamtv.com/teen.m3u8
-MyCamTV White (720p),https://live.mycamtv.com/white.m3u8
-MyCamTV Young (720p),http://live.mycamtv.com/young.m3u8
-O-la-la! (576p),http://31.148.48.15/O-la-la/index.m3u8
-Playboy TV Latin America (1080p),http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-Visit-X TV (720p),https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 Africa TV 1,http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 Africa TV 2,http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 Africa TV3 (720p) [Not 24/7],http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
