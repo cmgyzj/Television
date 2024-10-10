@@ -22,13 +22,6 @@ IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 测试1,#genre#
-成都新闻综合,http://home.jornihe.cn:8888/udp/239.93.0.16:5140
-成都经济,http://home.jornihe.cn:8888/udp/239.93.0.17:1239
-成都都市生活,http://home.jornihe.cn:8888/udp/239.93.0.18:1238
-成都影视文艺,http://home.jornihe.cn:8888/udp/239.93.0.19:1250
-成都公共,http://home.jornihe.cn:8888/udp/239.93.1.231:5140
-成都少儿,http://home.jornihe.cn:8888/udp/239.93.0.21:1251
-成都每日电视购物,http://home.jornihe.cn:8888/udp/239.93.0.22:1252
 
 测试2,#genre#
 
