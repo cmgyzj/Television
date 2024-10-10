@@ -12764,32 +12764,47 @@ http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 #EXTINF:-1 tvg-name="安阳文旅" tvg-logo="https://epg.112114.eu.org/logo/安阳文旅.png" group-title="河南频道",安阳文旅
 http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江频道",黑龙江新闻法治
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江频道",黑龙江新闻法治
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江频道",黑龙江新闻法治
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江频道",黑龙江农业科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江频道",黑龙江农业科教
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江频道",黑龙江农业科教
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江频道",黑龙江农业科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.112114.eu.org/logo/哈尔滨新闻综合.png" group-title="黑龙江频道",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="https://epg.112114.eu.org/logo/哈尔滨生活.png" group-title="黑龙江频道",哈尔滨生活
