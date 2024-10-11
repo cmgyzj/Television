@@ -14731,8 +14731,84 @@ http://live.gprmt.cn/gpnews/hd/live.m3u8
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 #EXTINF:-1 tvg-name="定襄综合" tvg-logo="https://epg.112114.eu.org/logo/定襄综合.png" group-title="山西频道",定襄综合
 http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
-#EXTINF:-1 tvg-name="四川科教频道" tvg-logo="https://epg.112114.eu.org/logo/四川科教频道.png" group-title="四川频道",四川科教频道
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.112114.eu.org/logo/四川经济.png" group-title="四川频道",四川经济
+http://www.iwumei.cc:9527/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.112114.eu.org/logo/四川经济.png" group-title="四川频道",四川经济
+http://www.iwumei.cc:9527/udp/239.93.1.102:5140
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.112114.eu.org/logo/四川经济.png" group-title="四川频道",四川经济
+http://www.iwumei.cc:9527/udp/239.93.1.16:5140
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.112114.eu.org/logo/四川经济.png" group-title="四川频道",四川经济
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.112114.eu.org/logo/四川经济.png" group-title="四川频道",四川经济
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.102:5140
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.112114.eu.org/logo/四川经济.png" group-title="四川频道",四川经济
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.16:5140
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.112114.eu.org/logo/四川文化旅游.png" group-title="四川频道",四川文化旅游
+http://www.iwumei.cc:9527/udp/239.93.1.102:5140
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.112114.eu.org/logo/四川文化旅游.png" group-title="四川频道",四川文化旅游
+http://www.iwumei.cc:9527/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.112114.eu.org/logo/四川文化旅游.png" group-title="四川频道",四川文化旅游
+http://www.iwumei.cc:9527/udp/239.93.1.20:5140
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.112114.eu.org/logo/四川文化旅游.png" group-title="四川频道",四川文化旅游
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.102:5140
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.112114.eu.org/logo/四川文化旅游.png" group-title="四川频道",四川文化旅游
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.112114.eu.org/logo/四川文化旅游.png" group-title="四川频道",四川文化旅游
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.20:5140
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://epg.112114.eu.org/logo/四川新闻.png" group-title="四川频道",四川新闻
+http://www.iwumei.cc:9527/udp/239.93.0.47:5140
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://epg.112114.eu.org/logo/四川新闻.png" group-title="四川频道",四川新闻
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.47:5140
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://epg.112114.eu.org/logo/四川影视文艺.png" group-title="四川频道",四川影视文艺
+http://www.iwumei.cc:9527/udp/239.93.0.166:5140
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://epg.112114.eu.org/logo/四川影视文艺.png" group-title="四川频道",四川影视文艺
+http://www.iwumei.cc:9527/udp/239.93.1.195:5140
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://epg.112114.eu.org/logo/四川影视文艺.png" group-title="四川频道",四川影视文艺
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.166:5140
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://epg.112114.eu.org/logo/四川影视文艺.png" group-title="四川频道",四川影视文艺
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.195:5140
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川频道",四川星空购物
+http://www.iwumei.cc:9527/udp/239.93.1.144:5140
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川频道",四川星空购物
+http://www.iwumei.cc:9527/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川频道",四川星空购物
+http://www.iwumei.cc:9527/udp/239.93.1.10:2193
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川频道",四川星空购物
+http://www.iwumei.cc:9527/udp/239.93.1.171:5140
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川频道",四川星空购物
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.144:5140
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川频道",四川星空购物
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川频道",四川星空购物
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.10:2193
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川频道",四川星空购物
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.171:5140
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/四川妇女儿童.png" group-title="四川频道",四川妇女儿童
+http://www.iwumei.cc:9527/udp/239.93.0.219:5140
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/四川妇女儿童.png" group-title="四川频道",四川妇女儿童
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.219:5140
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.112114.eu.org/logo/四川科教.png" group-title="四川频道",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.112114.eu.org/logo/四川科教.png" group-title="四川频道",四川科教
+http://www.iwumei.cc:9527/udp/239.93.42.44:5140
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.112114.eu.org/logo/四川科教.png" group-title="四川频道",四川科教
+http://zhyfans.mycloudnas.com:8000/udp/239.93.42.44:5140
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://epg.112114.eu.org/logo/四川乡村.png" group-title="四川频道",四川乡村
+http://www.iwumei.cc:9527/udp/239.93.0.52:5140
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://epg.112114.eu.org/logo/四川乡村.png" group-title="四川频道",四川乡村
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.52:5140
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.eu.org/logo/四川峨眉电影.png" group-title="四川频道",四川峨眉电影
+http://www.iwumei.cc:9527/udp/239.93.1.54:5140
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.eu.org/logo/四川峨眉电影.png" group-title="四川频道",四川峨眉电影
+http://www.iwumei.cc:9527/udp/239.93.1.18:5140
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.eu.org/logo/四川峨眉电影.png" group-title="四川频道",四川峨眉电影
+http://www.iwumei.cc:9527/udp/239.93.0.252:5140
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.eu.org/logo/四川峨眉电影.png" group-title="四川频道",四川峨眉电影
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.54:5140
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.eu.org/logo/四川峨眉电影.png" group-title="四川频道",四川峨眉电影
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.18:5140
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.eu.org/logo/四川峨眉电影.png" group-title="四川频道",四川峨眉电影
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://epg.112114.eu.org/logo/成都新闻综合.png" group-title="四川频道",成都新闻综合
 http://www.iwumei.cc:9527/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://epg.112114.eu.org/logo/成都新闻综合.png" group-title="四川频道",成都新闻综合
