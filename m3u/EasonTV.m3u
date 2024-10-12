@@ -21438,9 +21438,11 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 tvg-name="巴西 TV Santa Cruz" tvg-logo="https://epg.112114.eu.org/logo/巴西 TV Santa Cruz.png" group-title="海外频道",巴西 TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
-http://php.jdshipin.com:8880/jydx.php?id=37
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
+http://php.jdshipin.com:8880/jydx.php?id=37
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
 http://eastscreen.tv/ooooo.php?id=fhws
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
@@ -21457,6 +21459,8 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 http://wouu.net:9977/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
@@ -21478,6 +21482,8 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
 http://wouu.net:9977/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.112114.eu.org/logo/凤凰香港.png" group-title="港澳台频道",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.112114.eu.org/logo/凤凰香港.png" group-title="港澳台频道",凤凰香港
 http://php.jdshipin.com:8880/jydx.php?id=38
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.112114.eu.org/logo/凤凰香港.png" group-title="港澳台频道",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -21493,34 +21499,6 @@ http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://epg.112114.eu.org/logo/澳视澳门.png" group-title="港澳台频道",澳视澳门
 http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
-#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://epg.112114.eu.org/logo/八大第一.png" group-title="港澳台频道",八大第一
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://epg.112114.eu.org/logo/八大戏剧.png" group-title="港澳台频道",八大戏剧
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://epg.112114.eu.org/logo/八大综合.png" group-title="港澳台频道",八大综合
-http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://epg.112114.eu.org/logo/大爱1台.png" group-title="港澳台频道",大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://epg.112114.eu.org/logo/大爱2台.png" group-title="港澳台频道",大爱2台
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://epg.112114.eu.org/logo/大爱2台.png" group-title="港澳台频道",大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="大立电视台" tvg-logo="https://epg.112114.eu.org/logo/大立电视台.png" group-title="港澳台频道",大立电视台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.112114.eu.org/logo/东森超视.png" group-title="港澳台频道",东森超视
-http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="东森美洲2" tvg-logo="https://epg.112114.eu.org/logo/东森美洲2.png" group-title="港澳台频道",东森美洲2
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://epg.112114.eu.org/logo/动物星球.png" group-title="港澳台频道",动物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 tvg-name="番薯音乐" tvg-logo="https://epg.112114.eu.org/logo/番薯音乐.png" group-title="港澳台频道",番薯音乐
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
-#EXTINF:-1 tvg-name="好消息" tvg-logo="https://epg.112114.eu.org/logo/好消息.png" group-title="港澳台频道",好消息
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 tvg-name="华视电视" tvg-logo="https://epg.112114.eu.org/logo/华视电视.png" group-title="港澳台频道",华视电视
-http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-#EXTINF:-1 tvg-name="华视电视" tvg-logo="https://epg.112114.eu.org/logo/华视电视.png" group-title="港澳台频道",华视电视
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 tvg-name="环球电视" tvg-logo="https://epg.112114.eu.org/logo/环球电视.png" group-title="港澳台频道",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://epg.112114.eu.org/logo/莲花卫视.png" group-title="港澳台频道",莲花卫视
@@ -21529,46 +21507,10 @@ http://php.jdshipin.com:8880/amlh.php
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="美亚电影国" tvg-logo="https://epg.112114.eu.org/logo/美亚电影国.png" group-title="港澳台频道",美亚电影国
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="港澳台频道",民视
-https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
-http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png" group-title="港澳台频道",明珠台
 http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://epg.112114.eu.org/logo/人间卫视.png" group-title="港澳台频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://epg.112114.eu.org/logo/人间卫视.png" group-title="港澳台频道",人间卫视
-https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
-#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://epg.112114.eu.org/logo/三立戏剧.png" group-title="港澳台频道",三立戏剧
-http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="私人影院" tvg-logo="https://epg.112114.eu.org/logo/私人影院.png" group-title="港澳台频道",私人影院
 http://13457610200.8866.org:2018/live/影视频道HD/index.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
-https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
-http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 tvg-name="台湾番薯台" tvg-logo="https://epg.112114.eu.org/logo/台湾番薯台.png" group-title="港澳台频道",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
-#EXTINF:-1 tvg-name="台湾番薯台" tvg-logo="https://epg.112114.eu.org/logo/台湾番薯台.png" group-title="港澳台频道",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://epg.112114.eu.org/logo/探索亚洲.png" group-title="港澳台频道",探索亚洲
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 tvg-name="无线华丽台" tvg-logo="https://epg.112114.eu.org/logo/无线华丽台.png" group-title="港澳台频道",无线华丽台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-name="香港电台普通話台" tvg-logo="https://epg.112114.eu.org/logo/香港电台普通話台.png" group-title="港澳台频道",香港电台普通話台
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://epg.112114.eu.org/logo/香港卫视.png" group-title="港澳台频道",香港卫视
@@ -21594,6 +21536,16 @@ http://www.iwumei.cc:9527/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="港澳台频道",星空卫视
 http://www.iwumei.cc:9527/udp/239.93.1.10:2193
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="港澳台频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="港澳台频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="港澳台频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="港澳台频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="港澳台频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="港澳台频道",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="港澳台频道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -21604,13 +21556,15 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png" group-title="港澳台频道",明珠台
 http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://epg.112114.eu.org/logo/星河台.png" group-title="港澳台频道",星河台
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-name="星河台" tvg-logo="https://epg.112114.eu.org/logo/星河台.png" group-title="港澳台频道",星河台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-name="星河台" tvg-logo="https://epg.112114.eu.org/logo/星河台.png" group-title="港澳台频道",星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://epg.112114.eu.org/logo/星河台.png" group-title="港澳台频道",星河台
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://epg.112114.eu.org/logo/星河台.png" group-title="港澳台频道",星河台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="星河台" tvg-logo="https://epg.112114.eu.org/logo/星河台.png" group-title="港澳台频道",星河台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://epg.112114.eu.org/logo/亚洲新闻.png" group-title="港澳台频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://epg.112114.eu.org/logo/亚洲新闻.png" group-title="港澳台频道",亚洲新闻
@@ -21633,16 +21587,18 @@ http://61.221.215.25:8800/hls/49/index.m3u8
 http://61.221.215.25:8800/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="中国电影" tvg-logo="https://epg.112114.eu.org/logo/中国电影.png" group-title="港澳台频道",中国电影
 http://13457610200.8866.org:2018/live/中国电影/index.m3u8
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://epg.112114.eu.org/logo/中华小当家.png" group-title="港澳台频道",中华小当家
-http://61.221.215.25:8800/hls/40/index.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="港澳台频道",中视
-http://37.27.111.214:8080/live/7/hls.m3u8
-#EXTINF:-1 tvg-name="中旺电视" tvg-logo="https://epg.112114.eu.org/logo/中旺电视.png" group-title="港澳台频道",中旺电视
-http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.112114.eu.org/logo/无线新闻台.png" group-title="港澳台频道",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.eu.org/logo/华丽翡翠台.png" group-title="港澳台频道",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.eu.org/logo/华丽翡翠台.png" group-title="港澳台频道",华丽翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.eu.org/logo/华丽翡翠台.png" group-title="港澳台频道",华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://epg.112114.eu.org/logo/千禧经典台.png" group-title="港澳台频道",千禧经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://epg.112114.eu.org/logo/千禧经典台.png" group-title="港澳台频道",千禧经典台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://epg.112114.eu.org/logo/AMC电影台.png" group-title="港澳台频道",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="D-box" tvg-logo="https://epg.112114.eu.org/logo/D-box.png" group-title="港澳台频道",D-box
@@ -21653,12 +21609,90 @@ http://61.221.215.25:8800/hls/51/index.m3u8
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://epg.112114.eu.org/logo/RTHK35.png" group-title="港澳台频道",RTHK35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="TVBJ2" tvg-logo="https://epg.112114.eu.org/logo/TVBJ2.png" group-title="港澳台频道",TVBJ2
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://epg.112114.eu.org/logo/TVB J1.png" group-title="港澳台频道",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://epg.112114.eu.org/logo/TVB J1.png" group-title="港澳台频道",TVB J1
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://epg.112114.eu.org/logo/TVB J2.png" group-title="港澳台频道",TVB J2
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-name="TVB-jade" tvg-logo="https://epg.112114.eu.org/logo/TVB-jade.png" group-title="港澳台频道",TVB-jade
-TVB-jade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-name="TVB-jade" tvg-logo="https://epg.112114.eu.org/logo/TVB-jade.png" group-title="港澳台频道",TVB-jade
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.112114.eu.org/logo/TVB Plus.png" group-title="港澳台频道",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.112114.eu.org/logo/TVB Plus.png" group-title="港澳台频道",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://epg.112114.eu.org/logo/ViuTV.png" group-title="港澳台频道",ViuTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="港澳台频道",民视
+https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="港澳台频道",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
+https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="港澳台频道",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-name="番薯台" tvg-logo="https://epg.112114.eu.org/logo/番薯台.png" group-title="港澳台频道",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-name="番薯台" tvg-logo="https://epg.112114.eu.org/logo/番薯台.png" group-title="港澳台频道",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://epg.112114.eu.org/logo/人间卫视.png" group-title="港澳台频道",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://epg.112114.eu.org/logo/人间卫视.png" group-title="港澳台频道",人间卫视
+https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://epg.112114.eu.org/logo/三立戏剧.png" group-title="港澳台频道",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://epg.112114.eu.org/logo/八大第一.png" group-title="港澳台频道",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://epg.112114.eu.org/logo/八大戏剧.png" group-title="港澳台频道",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://epg.112114.eu.org/logo/八大综合.png" group-title="港澳台频道",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://epg.112114.eu.org/logo/大爱1台.png" group-title="港澳台频道",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://epg.112114.eu.org/logo/大爱2台.png" group-title="港澳台频道",大爱2台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://epg.112114.eu.org/logo/大爱2台.png" group-title="港澳台频道",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="大立电视台" tvg-logo="https://epg.112114.eu.org/logo/大立电视台.png" group-title="港澳台频道",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.112114.eu.org/logo/东森超视.png" group-title="港澳台频道",东森超视
+http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="东森美洲2" tvg-logo="https://epg.112114.eu.org/logo/东森美洲2.png" group-title="港澳台频道",东森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://epg.112114.eu.org/logo/动物星球.png" group-title="港澳台频道",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="番薯音乐" tvg-logo="https://epg.112114.eu.org/logo/番薯音乐.png" group-title="港澳台频道",番薯音乐
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
+#EXTINF:-1 tvg-name="好消息" tvg-logo="https://epg.112114.eu.org/logo/好消息.png" group-title="港澳台频道",好消息
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-name="华语电视" tvg-logo="https://epg.112114.eu.org/logo/华语电视.png" group-title="港澳台频道",华语电视
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 tvg-name="华语电视" tvg-logo="https://epg.112114.eu.org/logo/华语电视.png" group-title="港澳台频道",华语电视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://epg.112114.eu.org/logo/探索亚洲.png" group-title="港澳台频道",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://epg.112114.eu.org/logo/中华小当家.png" group-title="港澳台频道",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="港澳台频道",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 tvg-name="中旺电视" tvg-logo="https://epg.112114.eu.org/logo/中旺电视.png" group-title="港澳台频道",中旺电视
+http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://epg.112114.eu.org/logo/TVBS新闻.png" group-title="港澳台频道",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://epg.112114.eu.org/logo/TVBS亚洲.png" group-title="港澳台频道",TVBS亚洲
@@ -21673,10 +21707,6 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://epg.112114.eu.org/logo/TVBS亚洲.png" group-title="港澳台频道",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.112114.eu.org/logo/TVB Plus.png" group-title="港澳台频道",TVB Plus
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://epg.112114.eu.org/logo/ViuTV.png" group-title="港澳台频道",ViuTV
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.112114.eu.org/logo/纬来体育.png" group-title="RTMP源",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.112114.eu.org/logo/纬来育乐.png" group-title="RTMP源",纬来育乐
