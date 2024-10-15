@@ -22,18 +22,6 @@ IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 测试1,#genre#
-世界地理,http://zhancheng.x3322.net:6699/live/1087/index.m3u8
-兵器科技,http://zhancheng.x3322.net:6699/live/1083/index.m3u8
-第一剧场,http://zhancheng.x3322.net:6699/live/1081/index.m3u8
-怀旧剧场,http://zhancheng.x3322.net:6699/live/1088/index.m3u8
-风云剧场,http://zhancheng.x3322.net:6699/live/1082/index.m3u8
-风云音乐,http://rihou.cc:555/cqyx.php?id=fyyy
-风云足球,http://zhancheng.x3322.net:6699/live/1080/index.m3u8
-女性时尚,http://rihou.cc:555/cqyx.php?id=nxss
-文化精品,http://zhancheng.x3322.net:6699/live/1079/index.m3u8
-高尔网球,http://zhancheng.x3322.net:6699/live/1078/index.m3u8
-央视台球,http://zhancheng.x3322.net:6699/live/1077/index.m3u8
-电视指南,http://zhancheng.x3322.net:6699/live/1084/index.m3u8
 
 测试2,#genre#
 
