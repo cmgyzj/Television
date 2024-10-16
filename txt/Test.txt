@@ -22,35 +22,6 @@ IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 测试1,#genre#
-金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
-金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8
-浦东电视台,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hhse/2500000/mnf.m3u8
-浦东电视台,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/hhse/2500000/mnf.m3u8
-浦东电视台,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/hhse/2500000/mnf.m3u8
-浦东电视台,https://cntv.lat/tv/live.php?auth=231110&id=pdtv
-浦东电视台,http://223.109.210.41:8088/liveplay-kk.rtxapp.com/live/program/live/hhse/2500000/mnf.m3u8
-浦东电视台,http://117.161.12.124/live/program/live/hhse/2500000/mnf.m3u8
-浦东电视台,http://116.226.30.31:4022/udp/239.45.3.248:5140
-山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
-山东体育,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
-山东体育,http://144.52.199.156:8888/udp/239.21.1.141:5002
-山东体育,http://144.52.199.164:8888/udp/239.21.1.58:5002
-山东体育,http://113.128.128.46:8688/udp/239.21.1.141:5002
-山东体育,http://113.128.128.46:8688/udp/239.21.1.58:5002
-山东体育,http://sunny2017.forver.one:4022/udp/239.21.1.141:5002
-山东体育,http://113.128.128.68:8688/udp/239.21.1.141:5002
-山东体育,http://144.52.199.11:8888/udp/239.21.1.58:5002
-山东体育,http://113.120.108.236:4000/udp/239.21.1.58:5002
-山东体育,http://182.32.160.19:9997/udp/239.21.1.141:5002
-天津体育,https://dispatchnew.ulivetv.net/v/live/cgxamprz0kw0.m3u8?stream_id=cgxamprz0kw0&token=c0vzuc7wqkzk
-天津体育,http://111.165.239.80:50000/udp/225.1.1.122:5002
-天津体育,http://221.198.171.57:8888/udp/225.1.1.122:5002
-辽宁体育,https://dispatchnew.ulivetv.net/v/live/cgxamzvb8vk0.m3u8?stream_id=cgxamzvb8vk0&token=c0vzuc7wqkzk
-辽宁体育,http://218.25.44.2:8899/hls/53/index.m3u8
-辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8?世界杯WorldCup
-辽宁教育,http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
-辽宁教育,http://218.25.44.2:8899/hls/51/index.m3u8
-辽宁教育,http://113.231.98.189:8818/hls/17/index.m3u8
 
 测试2,#genre#
 
