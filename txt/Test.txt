@@ -21,20 +21,6 @@ IP-21,http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000008/1.m3u
 IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
-河南,#genre#
-河南公共,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226441/index.m3u8?servicetype=1
-河南公共,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226566/index.m3u8?servicetype=1
-河南公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
-梨园,http://terrysg.cn:4000/udp/239.77.1.100:5146
-梨园,http://angtv.cc/jd/gdlz.php?id=lypd
-梨园,http://182.247.36.76:4080/udp/239.200.200.101:8048
-文物宝库,http://terrysg.cn:4000/udp/239.77.1.120:5146
-文物宝库,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1939
-文物宝库,http://angtv.cc/jd/gdlz.php?id=whbk
-武术世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
-武术世界,http://120.204.20.48/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226019/index.m3u8
-武术世界,http://terrysg.cn:4000/udp/239.77.1.108:5146
-
 测试1,#genre#
 
 测试2,#genre#
