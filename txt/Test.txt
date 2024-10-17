@@ -22,6 +22,12 @@ IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 测试1,#genre#
+深圳都市,https://sztv-live.sztv.com.cn/ZwxzUXr/500/1729094400000/51227704.ts
+深圳都市,https://sztv-live.sztv.com.cn/ZwxzUXr/500/1729094400000/51235315.ts
+深圳都市,https://sztv-live.sztv.com.cn/ZwxzUXr/500/1729094400000/51242941.ts
+深圳都市,https://sztv-live.sztv.com.cn/ZwxzUXr/500/1729094400000/51250551.ts
+深圳都市,https://sztv-live.sztv.com.cn/ZwxzUXr/500/1729094400000/51258178.ts
+深圳都市,https://sztv-live.sztv.com.cn/ZwxzUXr/500/1729094400000/51265867.ts
 
 测试2,#genre#
 
