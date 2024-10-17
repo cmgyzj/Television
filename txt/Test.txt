@@ -21,6 +21,15 @@ IP-21,http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000008/1.m3u
 IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
+河南,#genre#
+河南都市,http://123.160.235.240:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生,http://123.160.235.240:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法制,http://123.160.235.240:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://123.160.235.240:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河南公共,http://123.160.235.240:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河南梨园,http://123.160.235.240:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+河南移动戏曲,http://123.160.235.240:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 测试1,#genre#
 
 测试2,#genre#
