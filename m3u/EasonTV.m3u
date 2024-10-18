@@ -7882,6 +7882,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=emdy4k
 #EXTINF:-1 tvg-name="BesTV" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="娱乐频道",BesTV
 http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
+http://minecraft.qc0727.top:22222/udp/239.45.0.42:5140
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
+http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
 http://eastscreen.tv/ooooo.php?id=chchd
@@ -7908,6 +7912,10 @@ http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
+http://minecraft.qc0727.top:22222/udp/239.45.0.40:5140
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
+http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
 http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
 http://eastscreen.tv/ooooo.php?id=chcjt
@@ -7933,6 +7941,10 @@ http://taohua139.synology.me:4022/udp/239.81.0.238:4056
 http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
 http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
+http://minecraft.qc0727.top:22222/udp/239.45.0.41:5140
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
+http://vpn.rogerxlj.top:9998/udp/239.45.0.41:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
@@ -12616,6 +12628,10 @@ http://php.jdshipin.com:8880/hntv.php?id=hnxc
 #EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png" group-title="河南频道",河南乡村频道
 http://php.jdshipin.com/hntv.php?id=hnxc
 #EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.195:5140
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
+http://www.iwumei.cc:9527/udp/239.93.1.195:5140
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
 http://xuys.top:8888/udp/225.1.2.104:5002
 #EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
 http://php.jdshipin.com:8880/hntv.php?id=hnly
@@ -12626,6 +12642,8 @@ http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://xuys.top:8888/udp/225.1.2.129:5002
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://111.61.236.247:9081/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://php.jdshipin.com:8880/hntv.php?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://php.jdshipin.com/hntv.php?id=wspd
@@ -12635,6 +12653,8 @@ http://php.jdshipin.com/hntv.php?id=wspd
 http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://xuys.top:8888/udp/225.1.2.105:5002
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://111.61.236.247:9081/hls/64/index.m3u8
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://php.jdshipin.com/hntv.php?id=wwbk
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库

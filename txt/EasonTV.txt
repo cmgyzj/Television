@@ -3949,6 +3949,8 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 4K超高清电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
 4K超高清电影,http://php.jdshipin.com/TVOD/iptv.php?id=emdy4k
 BesTV,http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
+CHC影迷电影,http://minecraft.qc0727.top:22222/udp/239.45.0.42:5140
+CHC影迷电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,http://119.98.124.146:4022/rtp/239.69.1.241:11088
@@ -3962,6 +3964,8 @@ CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://taohua139.synology.me:4022/udp/239.81.0.240:4056
 CHC影迷电影,http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
 CHC影迷电影,http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
+CHC家庭影院,http://minecraft.qc0727.top:22222/udp/239.45.0.40:5140
+CHC家庭影院,http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://119.98.124.146:4022/rtp/239.69.1.243:11100
@@ -3975,6 +3979,8 @@ CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://taohua139.synology.me:4022/udp/239.81.0.238:4056
 CHC家庭影院,http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
 CHC家庭影院,http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+CHC动作电影,http://minecraft.qc0727.top:22222/udp/239.45.0.41:5140
+CHC动作电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.41:5140
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://119.98.124.146:4022/rtp/239.69.1.242:11094
@@ -6339,16 +6345,20 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 河南乡村频道,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南乡村频道,http://php.jdshipin.com:8880/hntv.php?id=hnxc
 河南乡村频道,http://php.jdshipin.com/hntv.php?id=hnxc
+河南梨园频道,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.195:5140
+河南梨园频道,http://www.iwumei.cc:9527/udp/239.93.1.195:5140
 河南梨园频道,http://xuys.top:8888/udp/225.1.2.104:5002
 河南梨园频道,http://php.jdshipin.com:8880/hntv.php?id=hnly
 河南梨园频道,http://php.jdshipin.com/hntv.php?id=hnly
 河南武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 河南武术世界,http://xuys.top:8888/udp/225.1.2.129:5002
+河南武术世界,http://111.61.236.247:9081/hls/60/index.m3u8
 河南武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
 河南武术世界,http://php.jdshipin.com/hntv.php?id=wspd
 河南武术世界,http://php.jdshipin.com/hntv.php?id=wspd
 河南文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 河南文物宝库,http://xuys.top:8888/udp/225.1.2.105:5002
+河南文物宝库,http://111.61.236.247:9081/hls/64/index.m3u8
 河南文物宝库,http://php.jdshipin.com/hntv.php?id=wwbk
 河南文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 河南文物宝库,http://php.jdshipin.com/hntv.php?id=wwbk
