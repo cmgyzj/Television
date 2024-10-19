@@ -2048,6 +2048,8 @@ http://[2409:8087:5e01:24::21]:6610/000000001000/1000000002000009569/1.m3u8?chan
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视频道",CGTN英语
 http://[2409:8087:5e01:24::21]:6610/000000001000/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视频道",CGTN英语
+http://www.jeremyoto.com:82/rtp/233.50.201.126:5140
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视频道",CGTN英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视频道",CGTN英语
 http://live.cgtn.com/500/prog_index.m3u8
@@ -2080,6 +2082,8 @@ http://[2409:8087:5e01:24::14]:6610/000000001000/1000000006000280001/1.m3u8?chan
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://epg.112114.eu.org/logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://[2409:8087:5e01:24::21]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://epg.112114.eu.org/logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
+http://www.jeremyoto.com:82/rtp/233.50.201.38:5140
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://epg.112114.eu.org/logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://epg.112114.eu.org/logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
@@ -2104,6 +2108,8 @@ http://[2409:8087:5e01:24::14]:6610/000000001000/1000000006000280004/1.m3u8?chan
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://epg.112114.eu.org/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://[2409:8087:5e01:24::21]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://epg.112114.eu.org/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
+http://www.jeremyoto.com:82/rtp/233.50.201.39:5140
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://epg.112114.eu.org/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://epg.112114.eu.org/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
@@ -2121,6 +2127,8 @@ http://[2409:8087:5e01:24::08]:6610/000000001000/1000000006000280003/1.m3u8?chan
 http://[2409:8087:5e01:24::14]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://epg.112114.eu.org/logo/CGTN法语.png" group-title="央视频道",CGTN法语
 http://[2409:8087:5e01:24::21]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://epg.112114.eu.org/logo/CGTN法语.png" group-title="央视频道",CGTN法语
+http://www.jeremyoto.com:82/rtp/233.50.201.37:5140
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://epg.112114.eu.org/logo/CGTN法语.png" group-title="央视频道",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://epg.112114.eu.org/logo/CGTN法语.png" group-title="央视频道",CGTN法语
@@ -2179,6 +2187,8 @@ http://[2409:8087:5e01:24::08]:6610/000000001000/1000000006000280002/1.m3u8?chan
 http://[2409:8087:5e01:24::14]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.112114.eu.org/logo/CGTN西语.png" group-title="央视频道",CGTN西语
 http://[2409:8087:5e01:24::21]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.112114.eu.org/logo/CGTN西语.png" group-title="央视频道",CGTN西语
+http://www.jeremyoto.com:82/rtp/233.50.201.36:5140
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.112114.eu.org/logo/CGTN西语.png" group-title="央视频道",CGTN西语
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.112114.eu.org/logo/CGTN西语.png" group-title="央视频道",CGTN西语
@@ -3227,6 +3237,10 @@ http://wein66.ddnsfree.com:4022/udp/239.45.0.13:5140
 http://www.wein66.eu.org:4022/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.112114.eu.org/logo/上海教育.png" group-title="上海频道",上海教育
 http://yuancw.eu.org:8088/udp/239.45.0.13:5140
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="上海频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
@@ -10361,6 +10375,14 @@ https://livesec.mudu.tv/watch/bk8coj.m3u8
 http://119.135.1.64:9999/udp/239.10.0.36:1025
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://epg.112114.eu.org/logo/中国交通.png" group-title="娱乐频道",中国交通
 http://119.135.1.64:9999/udp/239.10.0.72:1025
+#EXTINF:-1 tvg-name="CHANNEL-V" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐频道",CHANNEL-V
+http://zhyfans.mycloudnas.com:8000/udp/239.93.1.7:2194
+#EXTINF:-1 tvg-name="CHANNEL-V" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐频道",CHANNEL-V
+http://www.iwumei.cc:9527/udp/239.93.1.7:2194
+#EXTINF:-1 tvg-name="CHANNEL-V" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐频道",CHANNEL-V
+http://zhyfans.mycloudnas.com:8000/udp/239.93.0.157:2194
+#EXTINF:-1 tvg-name="CHANNEL-V" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐频道",CHANNEL-V
+http://www.iwumei.cc:9527/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://epg.112114.eu.org/logo/安徽经济生活.png" group-title="安徽频道",安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://epg.112114.eu.org/logo/安徽经济生活.png" group-title="安徽频道",安徽经济生活
@@ -10873,6 +10895,18 @@ http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
 http://117.27.190.42:85/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="大田综合" tvg-logo="https://epg.112114.eu.org/logo/大田综合.png" group-title="福建频道",大田综合
 http://84y6jdxz.live2.danghongyun.com/live/hls/f42fd56e10624950999cd47dd87691be/498d5919ec4843178fbf7e7a153414ef.m3u8
+#EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://epg.112114.eu.org/logo/甘肃文化影视.png" group-title="甘肃频道",甘肃文化影视
+https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
+#EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://epg.112114.eu.org/logo/甘肃经济.png" group-title="甘肃频道",甘肃经济
+https://hls.gstv.com.cn/49048r/10iv1j.m3u8
+#EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://epg.112114.eu.org/logo/甘肃公共应急.png" group-title="甘肃频道",甘肃公共应急
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+#EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://epg.112114.eu.org/logo/甘肃都市.png" group-title="甘肃频道",甘肃都市
+https://hls.gstv.com.cn/49048r/l54391.m3u8
+#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://epg.112114.eu.org/logo/甘肃少儿.png" group-title="甘肃频道",甘肃少儿
+https://hls.gstv.com.cn/49048r/922k96.m3u8
+#EXTINF:-1 tvg-name="甘肃移动电视" tvg-logo="https://epg.112114.eu.org/logo/甘肃移动.png" group-title="甘肃频道",甘肃移动电视
+https://hls.gstv.com.cn/49048r/y72q36.m3u8
 #EXTINF:-1 tvg-name="临夏市电视台" tvg-logo="https://epg.112114.eu.org/logo/临夏市电视台.png" group-title="甘肃频道",临夏市电视台
 http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 #EXTINF:-1 tvg-name="崆峒综合频道" tvg-logo="https://epg.112114.eu.org/logo/崆峒综合频道.png" group-title="甘肃频道",崆峒综合频道
@@ -21598,6 +21632,8 @@ http://php.jdshipin.com:8880/jydx.php?id=37
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
 http://eastscreen.tv/ooooo.php?id=fhws
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
+http://www.jeremyoto.com:82/rtp/233.50.200.191:5140
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台频道",凤凰中文
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
@@ -21619,6 +21655,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com:8880/jydx.php?id=36
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
 http://eastscreen.tv/ooooo.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
+http://www.jeremyoto.com:82/rtp/233.50.200.192:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
