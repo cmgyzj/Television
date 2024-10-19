@@ -21,31 +21,11 @@ IP-21,http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000008/1.m3u
 IP-22,http://[2409:8087:5e01:24::22]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
-咪咕,#genre#
-CHC家庭影院,http://rihou.cc:567/aikan.php?id=chcjt
-CHC动作电影,http://rihou.cc:567/aikan.php?id=chcdz
-CHC发现之旅,http://rihou.cc:567/aikan.php?id=fxzl
-老故事,http://rihou.cc:567/aikan.php?id=lgs
-中学生,http://rihou.cc:567/aikan.php?id=zxs
-四海钓鱼,http://rihou.cc:567/aikan.php?id=shdy
-江苏教育,http://rihou.cc:567/aikan.php?id=jsjy
-山东教育,http://rihou.cc:567/aikan.php?id=sdjy
-之江纪录,http://rihou.cc:567/aikan.php?id=zjjl
-杭州综合,http://rihou.cc:567/aikan.php?id=hzzh
-杭州明珠,http://rihou.cc:567/aikan.php?id=hzmz
-杭州生活,http://rihou.cc:567/aikan.php?id=hzsh
-杭州影视,http://rihou.cc:567/aikan.php?id=hzys
-杭州少体,http://rihou.cc:567/aikan.php?id=hzse
-嵊泗综合,http://rihou.cc:567/aikan.php?id=ssxwzh
-普陀电视台,http://rihou.cc:567/aikan.php?id=ptxwzh
-高清大片,http://rihou.cc:567/aikan.php?id=gqdp
-经典电影,http://rihou.cc:567/aikan.php?id=jdxgdy
-军事大片,http://rihou.cc:567/aikan.php?id=jsdp
-热剧联播,http://rihou.cc:567/aikan.php?id=rjlb
-赛事经典,http://rihou.cc:567/aikan.php?id=sszjd
-体坛名汇,http://rihou.cc:567/aikan.php?id=ttmlh
-新片映厅,http://rihou.cc:567/aikan.php?id=xpfyt
-Y+剧场台,http://rihou.cc:567/aikan.php?id=yjjc
+成都,#genre#
+CHANNEL-V,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.7:2194
+CHANNEL-V,http://www.iwumei.cc:9527/udp/239.93.1.7:2194
+CHANNEL-V,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.157:2194
+CHANNEL-V,http://www.iwumei.cc:9527/udp/239.93.0.157:2194
 
 甘肃,#genre#
 甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
