@@ -1189,6 +1189,11 @@ CGTN西语,https://epg.pw/stream/8b596954e62a0aa4dcf41f14c542dc887f189abc7ce6ce2
 女性时尚,http://119.135.1.64:9999/udp/239.11.0.62:1025
 女性时尚,http://www.lizhinas.top:8688/rtp/239.252.219.94:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+卫生健康,http://113.109.250.116:9999/udp/239.77.0.212:5146
+卫生健康,http://116.21.122.39:8000/udp/239.77.0.212:5146
+卫生健康,http://58.62.234.242:10000/udp/239.77.0.212:5146
+卫生健康,http://61.143.227.162:10000/udp/239.77.0.212:5146
+卫生健康,http://www.zz49.top:4022/udp/239.77.0.212:5146
 卫生健康,http://119.135.1.64:9999/udp/239.11.0.185:1025
 卫生健康,https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
 第一剧场,http://xiazaiji.f3322.org:8800/rtp/239.49.0.44:8000
@@ -1447,6 +1452,16 @@ CGTN西语,https://epg.pw/stream/8b596954e62a0aa4dcf41f14c542dc887f189abc7ce6ce2
 老故事,http://119.135.1.64:9999/udp/239.10.0.33:1025
 发现之旅,http://php.jdshipin.com/cqyx.php?id=faxian
 发现之旅,http://php.jdshipin.com:8880/cqyx.php?id=faxian
+发现之旅,http://113.109.250.116:9999/udp/239.253.43.127:5146
+发现之旅,http://113.109.250.116:9999/udp/239.77.1.112:5146
+发现之旅,http://116.21.122.39:8000/udp/239.253.43.127:5146
+发现之旅,http://116.21.122.39:8000/udp/239.77.1.112:5146
+发现之旅,http://58.62.234.242:10000/udp/239.253.43.127:5146
+发现之旅,http://58.62.234.242:10000/udp/239.77.1.112:5146
+发现之旅,http://61.143.227.162:10000/udp/239.253.43.127:5146
+发现之旅,http://61.143.227.162:10000/udp/239.77.1.112:5146
+发现之旅,http://www.zz49.top:4022/udp/239.253.43.127:5146
+发现之旅,http://www.zz49.top:4022/udp/239.77.1.112:5146
 发现之旅,http://119.135.1.64:9999/udp/239.11.0.182:1025
 发现之旅,http://www.91dos.cn:4022/rtp/239.61.3.74:9962
 中学生,http://113.109.250.116:9999/udp/239.77.1.195:5146
@@ -5439,7 +5454,17 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 中华特产,http://php.jdshipin.com/cqyx.php?id=techan
 中华特产,http://xuys.top:8888/udp/225.1.2.197:5002
 中国国际少儿电视台,https://livesec.mudu.tv/watch/bk8coj.m3u8
+环球奇观,http://113.109.250.116:9999/udp/239.77.1.198:5146
+环球奇观,http://116.21.122.39:8000/udp/239.77.1.198:5146
+环球奇观,http://58.62.234.242:10000/udp/239.77.1.198:5146
+环球奇观,http://61.143.227.162:10000/udp/239.77.1.198:5146
+环球奇观,http://www.zz49.top:4022/udp/239.77.1.198:5146
 环球奇观,http://119.135.1.64:9999/udp/239.10.0.36:1025
+中国交通,http://113.109.250.116:9999/udp/239.77.1.249:5146
+中国交通,http://116.21.122.39:8000/udp/239.77.1.249:5146
+中国交通,http://58.62.234.242:10000/udp/239.77.1.249:5146
+中国交通,http://61.143.227.162:10000/udp/239.77.1.249:5146
+中国交通,http://www.zz49.top:4022/udp/239.77.1.249:5146
 中国交通,http://119.135.1.64:9999/udp/239.10.0.72:1025
 CHANNEL-V,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.7:2194
 CHANNEL-V,http://www.iwumei.cc:9527/udp/239.93.1.7:2194
@@ -9520,7 +9545,7 @@ CBSN Philly PA (720p),https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893
 CBSN Pittsburgh PA (720p),https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 CCTN 47 (1080p) [Not 24/7],http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 Cekmeköy TV,https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
-C爱尔达 TV,https://vivo.solumedia.com:19360/c爱尔达/c爱尔达.m3u8
+CELTA TV,https://vivo.solumedia.com:19360/cELTA/cELTA.m3u8
 Central,https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
 Chacra TV (480p) [Not 24/7],https://s8.stweb.tv/chacra/live/playlist.m3u8
 Chamber TV (1080p),https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
@@ -10533,7 +10558,7 @@ Radio Javan (720p),https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
 Radio Number One (720p) [Not 24/7],https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 Radio PROS (720p) [Not 24/7],http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 Radio Radicale TV (240p) [Not 24/7],https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
-Radio Studio D爱尔达 TV (1080p) [Not 24/7],https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+Radio Studio DELTA TV (1080p) [Not 24/7],https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 Radio Taormina Sicilia (720p) [Not 24/7],https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 Radio Télé 4VEH (720p),https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 Radio Tropical Tarapoto (480p) [Not 24/7],https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
@@ -11228,7 +11253,7 @@ CTNi (Christian Television Network International),https://584097344c1f0.streamlo
 CYC (Christan Youth Channel),http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 CYC TV,http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
 Das Erste HD,https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-D爱尔达 TV,http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+DELTA TV,http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 Dijlah,http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 Dijlah,https://ghaasiflu.online/Dijlah/index.m3u8
 Divorce Court,https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8

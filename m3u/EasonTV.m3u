@@ -2382,6 +2382,16 @@ http://www.lizhinas.top:8688/rtp/239.252.219.94:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视频道",女性时尚
 http://111.61.236.247:9081/hls/59/index.m3u8
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.112114.eu.org/logo/卫生健康.png" group-title="央视频道",卫生健康
+http://113.109.250.116:9999/udp/239.77.0.212:5146
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.112114.eu.org/logo/卫生健康.png" group-title="央视频道",卫生健康
+http://116.21.122.39:8000/udp/239.77.0.212:5146
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.112114.eu.org/logo/卫生健康.png" group-title="央视频道",卫生健康
+http://58.62.234.242:10000/udp/239.77.0.212:5146
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.112114.eu.org/logo/卫生健康.png" group-title="央视频道",卫生健康
+http://61.143.227.162:10000/udp/239.77.0.212:5146
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.112114.eu.org/logo/卫生健康.png" group-title="央视频道",卫生健康
+http://www.zz49.top:4022/udp/239.77.0.212:5146
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.112114.eu.org/logo/卫生健康.png" group-title="央视频道",卫生健康
 http://119.135.1.64:9999/udp/239.11.0.185:1025
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.112114.eu.org/logo/卫生健康.png" group-title="央视频道",卫生健康
 https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
@@ -2897,6 +2907,26 @@ http://119.135.1.64:9999/udp/239.10.0.33:1025
 http://php.jdshipin.com/cqyx.php?id=faxian
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
 http://php.jdshipin.com:8880/cqyx.php?id=faxian
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://113.109.250.116:9999/udp/239.253.43.127:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://113.109.250.116:9999/udp/239.77.1.112:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://116.21.122.39:8000/udp/239.253.43.127:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://116.21.122.39:8000/udp/239.77.1.112:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://58.62.234.242:10000/udp/239.253.43.127:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://58.62.234.242:10000/udp/239.77.1.112:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://61.143.227.162:10000/udp/239.253.43.127:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://61.143.227.162:10000/udp/239.77.1.112:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://www.zz49.top:4022/udp/239.253.43.127:5146
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://www.zz49.top:4022/udp/239.77.1.112:5146
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
 http://119.135.1.64:9999/udp/239.11.0.182:1025
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://epg.112114.eu.org/logo/发现之旅.png" group-title="央视频道",发现之旅
@@ -10862,7 +10892,27 @@ http://xuys.top:8888/udp/225.1.2.197:5002
 #EXTINF:-1 tvg-name="中国国际少儿电视台" tvg-logo="https://epg.112114.eu.org/logo/中国国际少儿电视台.png" group-title="娱乐频道",中国国际少儿电视台
 https://livesec.mudu.tv/watch/bk8coj.m3u8
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://epg.112114.eu.org/logo/环球奇观.png" group-title="娱乐频道",环球奇观
+http://113.109.250.116:9999/udp/239.77.1.198:5146
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://epg.112114.eu.org/logo/环球奇观.png" group-title="娱乐频道",环球奇观
+http://116.21.122.39:8000/udp/239.77.1.198:5146
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://epg.112114.eu.org/logo/环球奇观.png" group-title="娱乐频道",环球奇观
+http://58.62.234.242:10000/udp/239.77.1.198:5146
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://epg.112114.eu.org/logo/环球奇观.png" group-title="娱乐频道",环球奇观
+http://61.143.227.162:10000/udp/239.77.1.198:5146
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://epg.112114.eu.org/logo/环球奇观.png" group-title="娱乐频道",环球奇观
+http://www.zz49.top:4022/udp/239.77.1.198:5146
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://epg.112114.eu.org/logo/环球奇观.png" group-title="娱乐频道",环球奇观
 http://119.135.1.64:9999/udp/239.10.0.36:1025
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://epg.112114.eu.org/logo/中国交通.png" group-title="娱乐频道",中国交通
+http://113.109.250.116:9999/udp/239.77.1.249:5146
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://epg.112114.eu.org/logo/中国交通.png" group-title="娱乐频道",中国交通
+http://116.21.122.39:8000/udp/239.77.1.249:5146
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://epg.112114.eu.org/logo/中国交通.png" group-title="娱乐频道",中国交通
+http://58.62.234.242:10000/udp/239.77.1.249:5146
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://epg.112114.eu.org/logo/中国交通.png" group-title="娱乐频道",中国交通
+http://61.143.227.162:10000/udp/239.77.1.249:5146
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://epg.112114.eu.org/logo/中国交通.png" group-title="娱乐频道",中国交通
+http://www.zz49.top:4022/udp/239.77.1.249:5146
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://epg.112114.eu.org/logo/中国交通.png" group-title="娱乐频道",中国交通
 http://119.135.1.64:9999/udp/239.10.0.72:1025
 #EXTINF:-1 tvg-name="CHANNEL-V" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐频道",CHANNEL-V
@@ -18881,8 +18931,8 @@ https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-name="Cekmeköy TV" tvg-logo="https://epg.112114.eu.org/logo/Cekmeköy TV.png" group-title="海外频道",Cekmeköy TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="C爱尔达 TV" tvg-logo="https://epg.112114.eu.org/logo/C爱尔达 TV.png" group-title="海外频道",C爱尔达 TV
-https://vivo.solumedia.com:19360/c爱尔达/c爱尔达.m3u8
+#EXTINF:-1 tvg-name="CELTA TV" tvg-logo="https://epg.112114.eu.org/logo/CELTA TV.png" group-title="海外频道",CELTA TV
+https://vivo.solumedia.com:19360/cELTA/cELTA.m3u8
 #EXTINF:-1 tvg-name="Central" tvg-logo="https://epg.112114.eu.org/logo/Central.png" group-title="海外频道",Central
 https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
 #EXTINF:-1 tvg-name="Chacra TV (480p) [Not 24/7]" tvg-logo="https://epg.112114.eu.org/logo/Chacra TV (480p) [Not 24/7].png" group-title="海外频道",Chacra TV (480p) [Not 24/7]
@@ -20907,7 +20957,7 @@ https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Radicale TV (240p) [Not 24/7]" tvg-logo="https://epg.112114.eu.org/logo/Radio Radicale TV (240p) [Not 24/7].png" group-title="海外频道",Radio Radicale TV (240p) [Not 24/7]
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Studio D爱尔达 TV (1080p) [Not 24/7]" tvg-logo="https://epg.112114.eu.org/logo/Radio Studio D爱尔达 TV (1080p) [Not 24/7].png" group-title="海外频道",Radio Studio D爱尔达 TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Radio Studio DELTA TV (1080p) [Not 24/7]" tvg-logo="https://epg.112114.eu.org/logo/Radio Studio DELTA TV (1080p) [Not 24/7].png" group-title="海外频道",Radio Studio DELTA TV (1080p) [Not 24/7]
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Taormina Sicilia (720p) [Not 24/7]" tvg-logo="https://epg.112114.eu.org/logo/Radio Taormina Sicilia (720p) [Not 24/7].png" group-title="海外频道",Radio Taormina Sicilia (720p) [Not 24/7]
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
@@ -22297,7 +22347,7 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://epg.112114.eu.org/logo/Das Erste HD.png" group-title="海外频道",Das Erste HD
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-name="D爱尔达 TV" tvg-logo="https://epg.112114.eu.org/logo/D爱尔达 TV.png" group-title="海外频道",D爱尔达 TV
+#EXTINF:-1 tvg-name="DELTA TV" tvg-logo="https://epg.112114.eu.org/logo/DELTA TV.png" group-title="海外频道",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Dijlah" tvg-logo="https://epg.112114.eu.org/logo/Dijlah.png" group-title="海外频道",Dijlah
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
