@@ -13803,167 +13803,167 @@ http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
 http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="安平新闻综合" tvg-logo="https://epg.112114.eu.org/logo/安平新闻综合.png" group-title="河北频道",安平新闻综合
 http://zhap.city1000.cn/xinwen/ap_xw.m3u8
-#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.112114.eu.org/logo/河南都市.png",河南都市
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.112114.eu.org/logo/河南都市.png" group-title="河南频道",河南都市
 http://www.cdnstv.com:6398/hls/1110/index.m3u8
-#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.112114.eu.org/logo/河南都市.png",河南都市
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.112114.eu.org/logo/河南都市.png" group-title="河南频道",河南都市
 http://1.197.253.9:885/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.112114.eu.org/logo/河南都市.png",河南都市
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.112114.eu.org/logo/河南都市.png" group-title="河南频道",河南都市
 http://php.jdshipin.com:8880/hntv.php?id=hnds
-#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.112114.eu.org/logo/河南都市.png",河南都市
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.112114.eu.org/logo/河南都市.png" group-title="河南频道",河南都市
 http://php.jdshipin.com/hntv.php?id=hnds
-#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.112114.eu.org/logo/河南民生.png",河南民生
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.112114.eu.org/logo/河南民生.png" group-title="河南频道",河南民生
 http://www.cdnstv.com:6398/hls/1111/index.m3u8
-#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.112114.eu.org/logo/河南民生.png",河南民生
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.112114.eu.org/logo/河南民生.png" group-title="河南频道",河南民生
 http://1.197.253.9:885/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.112114.eu.org/logo/河南民生.png",河南民生
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.112114.eu.org/logo/河南民生.png" group-title="河南频道",河南民生
 http://php.jdshipin.com:8880/hntv.php?id=hnms
-#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.112114.eu.org/logo/河南民生.png",河南民生
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.112114.eu.org/logo/河南民生.png" group-title="河南频道",河南民生
 http://php.jdshipin.com/hntv.php?id=hnms
-#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.112114.eu.org/logo/河南法治.png",河南法治
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.112114.eu.org/logo/河南法治.png" group-title="河南频道",河南法治
 http://www.cdnstv.com:6398/hls/1112/index.m3u8
-#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.112114.eu.org/logo/河南法治.png",河南法治
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.112114.eu.org/logo/河南法治.png" group-title="河南频道",河南法治
 http://1.197.253.9:885/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.112114.eu.org/logo/河南法治.png",河南法治
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.112114.eu.org/logo/河南法治.png" group-title="河南频道",河南法治
 http://php.jdshipin.com:8880/hntv.php?id=hmfz
-#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.112114.eu.org/logo/河南法治.png",河南法治
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.112114.eu.org/logo/河南法治.png" group-title="河南频道",河南法治
 http://php.jdshipin.com/hntv.php?id=hmfz
-#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.112114.eu.org/logo/河南电视剧.png",河南电视剧
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.112114.eu.org/logo/河南电视剧.png" group-title="河南频道",河南电视剧
 http://www.cdnstv.com:6398/hls/1113/index.m3u8
-#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.112114.eu.org/logo/河南电视剧.png",河南电视剧
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.112114.eu.org/logo/河南电视剧.png" group-title="河南频道",河南电视剧
 http://1.197.253.9:885/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.112114.eu.org/logo/河南电视剧.png",河南电视剧
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.112114.eu.org/logo/河南电视剧.png" group-title="河南频道",河南电视剧
 http://php.jdshipin.com:8880/hntv.php?id=hndsj
-#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.112114.eu.org/logo/河南电视剧.png",河南电视剧
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.112114.eu.org/logo/河南电视剧.png" group-title="河南频道",河南电视剧
 http://php.jdshipin.com/hntv.php?id=hndsj
-#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.112114.eu.org/logo/河南新闻.png",河南新闻
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.112114.eu.org/logo/河南新闻.png" group-title="河南频道",河南新闻
 http://www.cdnstv.com:6398/hls/1114/index.m3u8
-#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.112114.eu.org/logo/河南新闻.png",河南新闻
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.112114.eu.org/logo/河南新闻.png" group-title="河南频道",河南新闻
 http://1.197.253.9:885/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.112114.eu.org/logo/河南新闻.png",河南新闻
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.112114.eu.org/logo/河南新闻.png" group-title="河南频道",河南新闻
 http://php.jdshipin.com:8880/hntv.php?id=hnxw
-#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.112114.eu.org/logo/河南新闻.png",河南新闻
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.112114.eu.org/logo/河南新闻.png" group-title="河南频道",河南新闻
 http://php.jdshipin.com/hntv.php?id=hnxw
-#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.112114.eu.org/logo/河南欢腾购物.png",河南欢腾购物
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.112114.eu.org/logo/河南欢腾购物.png" group-title="河南频道",河南欢腾购物
 http://www.cdnstv.com:6398/hls/1115/index.m3u8
-#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.112114.eu.org/logo/河南欢腾购物.png",河南欢腾购物
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.112114.eu.org/logo/河南欢腾购物.png" group-title="河南频道",河南欢腾购物
 http://www.cdnstv.com:6398/hls/1122/index.m3u8
-#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.112114.eu.org/logo/河南欢腾购物.png",河南欢腾购物
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.112114.eu.org/logo/河南欢腾购物.png" group-title="河南频道",河南欢腾购物
 http://php.jdshipin.com:8880/hntv.php?id=htgw
-#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.112114.eu.org/logo/河南欢腾购物.png",河南欢腾购物
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.112114.eu.org/logo/河南欢腾购物.png" group-title="河南频道",河南欢腾购物
 http://php.jdshipin.com/hntv.php?id=htgw
-#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.112114.eu.org/logo/河南公共.png",河南公共
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.112114.eu.org/logo/河南公共.png" group-title="河南频道",河南公共
 http://1.197.253.9:885/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.112114.eu.org/logo/河南公共.png",河南公共
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.112114.eu.org/logo/河南公共.png" group-title="河南频道",河南公共
 http://php.jdshipin.com:8880/hntv.php?id=hngg
-#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.112114.eu.org/logo/河南公共.png",河南公共
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.112114.eu.org/logo/河南公共.png" group-title="河南频道",河南公共
 http://php.jdshipin.com/hntv.php?id=hngg
-#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png",河南乡村频道
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png" group-title="河南频道",河南乡村频道
 http://www.cdnstv.com:6398/hls/1116/index.m3u8
-#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png",河南乡村频道
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png" group-title="河南频道",河南乡村频道
 http://1.197.253.9:885/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png",河南乡村频道
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png" group-title="河南频道",河南乡村频道
 http://php.jdshipin.com:8880/hntv.php?id=hnxc
-#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png",河南乡村频道
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://epg.112114.eu.org/logo/河南乡村频道.png" group-title="河南频道",河南乡村频道
 http://php.jdshipin.com/hntv.php?id=hnxc
-#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png",河南梨园频道
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.195:5140
-#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png",河南梨园频道
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
 http://www.iwumei.cc:9527/udp/239.93.1.195:5140
-#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png",河南梨园频道
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
 http://xuys.top:8888/udp/225.1.2.104:5002
-#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png",河南梨园频道
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
 http://php.jdshipin.com:8880/hntv.php?id=hnly
-#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png",河南梨园频道
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
 http://php.jdshipin.com/hntv.php?id=hnly
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png",河南武术世界
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png",河南武术世界
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://xuys.top:8888/udp/225.1.2.129:5002
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png",河南武术世界
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://111.61.236.247:9081/hls/60/index.m3u8
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png",河南武术世界
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://php.jdshipin.com:8880/hntv.php?id=wspd
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png",河南武术世界
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://php.jdshipin.com/hntv.php?id=wspd
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png",河南武术世界
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://php.jdshipin.com/hntv.php?id=wspd
-#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png",河南文物宝库
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
-#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png",河南文物宝库
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://xuys.top:8888/udp/225.1.2.105:5002
-#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png",河南文物宝库
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://111.61.236.247:9081/hls/64/index.m3u8
-#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png",河南文物宝库
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://php.jdshipin.com/hntv.php?id=wwbk
-#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png",河南文物宝库
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://php.jdshipin.com:8880/hntv.php?id=wwbk
-#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png",河南文物宝库
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://php.jdshipin.com/hntv.php?id=wwbk
-#EXTINF:-1 tvg-name="河南收藏天下" tvg-logo="https://epg.112114.eu.org/logo/河南收藏天下.png",河南收藏天下
+#EXTINF:-1 tvg-name="河南收藏天下" tvg-logo="https://epg.112114.eu.org/logo/河南收藏天下.png" group-title="河南频道",河南收藏天下
 http://www.cdnstv.com:6398/hls/1118/index.m3u8
-#EXTINF:-1 tvg-name="河南收藏天下" tvg-logo="https://epg.112114.eu.org/logo/河南收藏天下.png",河南收藏天下
+#EXTINF:-1 tvg-name="河南收藏天下" tvg-logo="https://epg.112114.eu.org/logo/河南收藏天下.png" group-title="河南频道",河南收藏天下
 http://1.197.253.9:885/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://epg.112114.eu.org/logo/河南戏曲.png",河南戏曲
+#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://epg.112114.eu.org/logo/河南戏曲.png" group-title="河南频道",河南戏曲
 http://www.cdnstv.com:6398/hls/1119/index.m3u8
-#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://epg.112114.eu.org/logo/河南戏曲.png",河南戏曲
+#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://epg.112114.eu.org/logo/河南戏曲.png" group-title="河南频道",河南戏曲
 http://1.197.253.9:885/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="河南4K实验" tvg-logo="https://epg.112114.eu.org/logo/河南4K实验.png",河南4K实验
+#EXTINF:-1 tvg-name="河南4K实验" tvg-logo="https://epg.112114.eu.org/logo/河南4K实验.png" group-title="河南频道",河南4K实验
 http://www.cdnstv.com:6398/hls/1168/index.m3u8
-#EXTINF:-1 tvg-name="中华功夫" tvg-logo="https://epg.112114.eu.org/logo/中华功夫.png",中华功夫
+#EXTINF:-1 tvg-name="中华功夫" tvg-logo="https://epg.112114.eu.org/logo/中华功夫.png" group-title="河南频道",中华功夫
 http://www.cdnstv.com:6398/hls/1120/index.m3u8
-#EXTINF:-1 tvg-name="中华功夫" tvg-logo="https://epg.112114.eu.org/logo/中华功夫.png",中华功夫
+#EXTINF:-1 tvg-name="中华功夫" tvg-logo="https://epg.112114.eu.org/logo/中华功夫.png" group-title="河南频道",中华功夫
 http://1.197.253.9:885/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.112114.eu.org/logo/国学.png",国学
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.112114.eu.org/logo/国学.png" group-title="河南频道",国学
 http://www.cdnstv.com:6398/hls/1121/index.m3u8
-#EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.112114.eu.org/logo/国学.png",国学
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.112114.eu.org/logo/国学.png" group-title="河南频道",国学
 http://119.135.1.64:9999/udp/239.10.0.38:1025
-#EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.112114.eu.org/logo/国学.png",国学
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.112114.eu.org/logo/国学.png" group-title="河南频道",国学
 http://php.jdshipin.com/cqyx.php?id=guoxue
-#EXTINF:-1 tvg-name="美食汇" tvg-logo="https://epg.112114.eu.org/logo/美食汇.png",美食汇
+#EXTINF:-1 tvg-name="美食汇" tvg-logo="https://epg.112114.eu.org/logo/美食汇.png" group-title="河南频道",美食汇
 http://1.197.253.9:885/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="棋牌汇" tvg-logo="https://epg.112114.eu.org/logo/棋牌汇.png",棋牌汇
+#EXTINF:-1 tvg-name="棋牌汇" tvg-logo="https://epg.112114.eu.org/logo/棋牌汇.png" group-title="河南频道",棋牌汇
 http://1.197.253.9:885/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="调解剧场" tvg-logo="https://epg.112114.eu.org/logo/调解剧场.png",调解剧场
+#EXTINF:-1 tvg-name="调解剧场" tvg-logo="https://epg.112114.eu.org/logo/调解剧场.png" group-title="河南频道",调解剧场
 http://1.197.253.9:885/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://epg.112114.eu.org/logo/大美河南.png",大美河南
+#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://epg.112114.eu.org/logo/大美河南.png" group-title="河南频道",大美河南
 http://www.cdnstv.com:6398/hls/1117/index.m3u8
-#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://epg.112114.eu.org/logo/大美河南.png",大美河南
+#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://epg.112114.eu.org/logo/大美河南.png" group-title="河南频道",大美河南
 http://1.197.253.9:885/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/郑州新闻综合.png",郑州新闻综合
+#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/郑州新闻综合.png" group-title="河南频道",郑州新闻综合
 https://live3-new.zztv.tv/xwzh/playlist.m3u8?_upt=e73462c41725342700
-#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/郑州新闻综合.png",郑州新闻综合
+#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/郑州新闻综合.png" group-title="河南频道",郑州新闻综合
 http://www.cdnstv.com:6398/hls/1162/index.m3u8
-#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/郑州新闻综合.png",郑州新闻综合
+#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/郑州新闻综合.png" group-title="河南频道",郑州新闻综合
 http://1.197.253.9:885/hls/72/index.m3u8
-#EXTINF:-1 tvg-name="郑州商都" tvg-logo="https://epg.112114.eu.org/logo/郑州商都.png",郑州商都
+#EXTINF:-1 tvg-name="郑州商都" tvg-logo="https://epg.112114.eu.org/logo/郑州商都.png" group-title="河南频道",郑州商都
 https://live2-new.zztv.tv/sdpd/sd/live.m3u8?_upt=58ec646d1725349040
-#EXTINF:-1 tvg-name="郑州商都" tvg-logo="https://epg.112114.eu.org/logo/郑州商都.png",郑州商都
+#EXTINF:-1 tvg-name="郑州商都" tvg-logo="https://epg.112114.eu.org/logo/郑州商都.png" group-title="河南频道",郑州商都
 http://www.cdnstv.com:6398/hls/1163/index.m3u8
-#EXTINF:-1 tvg-name="郑州商都" tvg-logo="https://epg.112114.eu.org/logo/郑州商都.png",郑州商都
+#EXTINF:-1 tvg-name="郑州商都" tvg-logo="https://epg.112114.eu.org/logo/郑州商都.png" group-title="河南频道",郑州商都
 http://1.197.253.9:885/hls/73/index.m3u8
-#EXTINF:-1 tvg-name="郑州文体旅游" tvg-logo="https://epg.112114.eu.org/logo/郑州文体旅游.png",郑州文体旅游
+#EXTINF:-1 tvg-name="郑州文体旅游" tvg-logo="https://epg.112114.eu.org/logo/郑州文体旅游.png" group-title="河南频道",郑州文体旅游
 https://live2-new.zztv.tv/wtlypd/sd/live.m3u8?_upt=2ba681301725349047
-#EXTINF:-1 tvg-name="郑州文体旅游" tvg-logo="https://epg.112114.eu.org/logo/郑州文体旅游.png",郑州文体旅游
+#EXTINF:-1 tvg-name="郑州文体旅游" tvg-logo="https://epg.112114.eu.org/logo/郑州文体旅游.png" group-title="河南频道",郑州文体旅游
 http://www.cdnstv.com:6398/hls/1164/index.m3u8
-#EXTINF:-1 tvg-name="郑州文体旅游" tvg-logo="https://epg.112114.eu.org/logo/郑州文体旅游.png",郑州文体旅游
+#EXTINF:-1 tvg-name="郑州文体旅游" tvg-logo="https://epg.112114.eu.org/logo/郑州文体旅游.png" group-title="河南频道",郑州文体旅游
 http://1.197.253.9:885/hls/74/index.m3u8
-#EXTINF:-1 tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.eu.org/logo/郑州影视戏曲.png",郑州影视戏曲
+#EXTINF:-1 tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.eu.org/logo/郑州影视戏曲.png" group-title="河南频道",郑州影视戏曲
 https://live2-new.zztv.tv/ysxqpd/sd/live.m3u8?_upt=299228691725345170
-#EXTINF:-1 tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.eu.org/logo/郑州影视戏曲.png",郑州影视戏曲
+#EXTINF:-1 tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.eu.org/logo/郑州影视戏曲.png" group-title="河南频道",郑州影视戏曲
 http://www.cdnstv.com:6398/hls/1165/index.m3u8
-#EXTINF:-1 tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.eu.org/logo/郑州影视戏曲.png",郑州影视戏曲
+#EXTINF:-1 tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.eu.org/logo/郑州影视戏曲.png" group-title="河南频道",郑州影视戏曲
 http://1.197.253.9:885/hls/75/index.m3u8
-#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/郑州妇女儿童.png",郑州妇女儿童
+#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/郑州妇女儿童.png" group-title="河南频道",郑州妇女儿童
 https://live2-new.zztv.tv/fnetpd/sd/live.m3u8?_upt=b6376b201725349066
-#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/郑州妇女儿童.png",郑州妇女儿童
+#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/郑州妇女儿童.png" group-title="河南频道",郑州妇女儿童
 http://www.cdnstv.com:6398/hls/1166/index.m3u8
-#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/郑州妇女儿童.png",郑州妇女儿童
+#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/郑州妇女儿童.png" group-title="河南频道",郑州妇女儿童
 http://1.197.253.9:885/hls/76/index.m3u8
-#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://epg.112114.eu.org/logo/郑州都市生活.png",郑州都市生活
+#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://epg.112114.eu.org/logo/郑州都市生活.png" group-title="河南频道",郑州都市生活
 https://live2-new.zztv.tv/dsshpd/sd/live.m3u8?_upt=b647580f1725349072
-#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://epg.112114.eu.org/logo/郑州都市生活.png",郑州都市生活
+#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://epg.112114.eu.org/logo/郑州都市生活.png" group-title="河南频道",郑州都市生活
 http://www.cdnstv.com:6398/hls/1167/index.m3u8
-#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://epg.112114.eu.org/logo/郑州都市生活.png",郑州都市生活
+#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://epg.112114.eu.org/logo/郑州都市生活.png" group-title="河南频道",郑州都市生活
 http://1.197.253.9:885/hls/77/index.m3u8
 #EXTINF:-1 tvg-name="郑州教育" tvg-logo="https://epg.112114.eu.org/logo/郑州教育.png" group-title="河南频道",郑州教育
 https://livezzutv.chinamcache.com/zb02/zb02.m3u8?auth_key=1694413413-0-0-fdccf5824fa42b4a2e285f73e7d2d12b
