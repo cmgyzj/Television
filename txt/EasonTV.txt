@@ -225,6 +225,7 @@ CCTV-4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv4hd265/57/20191230/inde
 CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 CCTV-4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000503
+CCTV-4K,http://www.cdnstv.com:6398/hls/1193/index.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -2115,6 +2116,7 @@ CGTN西语,https://epg.pw/stream/8b596954e62a0aa4dcf41f14c542dc887f189abc7ce6ce2
 魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 魅力足球,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031207
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
+魅力足球,http://www.cdnstv.com:6398/hls/1185/index.m3u8
 魅力足球,http://xuys.top:8888/udp/225.1.1.137:5002
 劲爆体育,http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 劲爆体育,http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
@@ -5144,6 +5146,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 百事通4K,http://yuancw.eu.org:8088/udp/239.45.1.42:5140
 百事通4K,http://yuancw.eu.org:8088/udp/239.45.3.107:5140
 宝宝动画,http://php.jdshipin.com/bestv.php?id=bbdh8m/8000000
+车迷频道,http://www.cdnstv.com:6398/hls/1177/index.m3u8
 车迷频道,http://www.91dos.cn:4022/rtp/239.61.3.64:9902
 车迷频道,http://php.jdshipin.com/cqyx.php?id=doxtv
 车迷频道,http://xuys.top:8888/udp/225.1.2.199:5002
@@ -5200,6 +5203,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 华数服务,http://[2409:8087:5e01:24::14]:6610/000000001000/2000000004000000025/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000025&livemode=1&stbId=3
 华数服务,http://[2409:8087:5e01:24::21]:6610/000000001000/2000000004000000025/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000025&livemode=1&stbId=3
 华语影院,http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
+环球旅游,http://www.cdnstv.com:6398/hls/1190/index.m3u8
 环球旅游,http://www.91dos.cn:4022/rtp/239.61.3.66:9914
 环球旅游,http://php.jdshipin.com/cqyx.php?id=huanqiulvyou
 环球旅游,http://xuys.top:8888/udp/225.1.2.200:5002
@@ -5350,6 +5354,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 生态环境,http://php.jdshipin.com/cqyx.php?id=shengtai
 生态环境,http://xuys.top:8888/udp/225.1.2.201:5002
 收藏天下,http://php.jdshipin.com/cqyx.php?id=soucang
+书画,http://www.cdnstv.com:6398/hls/1176/index.m3u8
 书画,http://xiazaiji.f3322.org:8800/rtp/239.49.0.123:8000
 书画,http://sz.seala.top:4022/rtp/239.49.0.123:8000
 书画,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.123:8000
@@ -5454,6 +5459,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 中华美食,http://[2409:8087:5e01:24::14]:6610/000000001000/2000000003000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=3
 中华美食,http://[2409:8087:5e01:24::21]:6610/000000001000/1000000005000266015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=3
 中华美食,http://[2409:8087:5e01:24::21]:6610/000000001000/2000000003000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=3
+中华特产,http://www.cdnstv.com:6398/hls/1191/index.m3u8
 中华特产,http://php.jdshipin.com/cqyx.php?id=techan
 中华特产,http://xuys.top:8888/udp/225.1.2.197:5002
 中国国际少儿电视台,https://livesec.mudu.tv/watch/bk8coj.m3u8
@@ -6913,17 +6919,24 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 河南文物宝库,http://php.jdshipin.com/hntv.php?id=wwbk
 河南收藏天下,http://www.cdnstv.com:6398/hls/1118/index.m3u8
 河南移动戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
+河南4K实验,http://www.cdnstv.com:6398/hls/1168/index.m3u8
 中华功夫,http://www.cdnstv.com:6398/hls/1120/index.m3u8
 国学,http://www.cdnstv.com:6398/hls/1121/index.m3u8
 国学,http://119.135.1.64:9999/udp/239.10.0.38:1025
 国学,http://php.jdshipin.com/cqyx.php?id=guoxue
 大美河南,http://www.cdnstv.com:6398/hls/1117/index.m3u8
 郑州新闻综合,https://live3-new.zztv.tv/xwzh/playlist.m3u8?_upt=e73462c41725342700
+郑州新闻综合,http://www.cdnstv.com:6398/hls/1162/index.m3u8
 郑州商都,https://live2-new.zztv.tv/sdpd/sd/live.m3u8?_upt=58ec646d1725349040
+郑州商都,http://www.cdnstv.com:6398/hls/1163/index.m3u8
 郑州文体旅游,https://live2-new.zztv.tv/wtlypd/sd/live.m3u8?_upt=2ba681301725349047
+郑州文体旅游,http://www.cdnstv.com:6398/hls/1164/index.m3u8
 郑州影视戏曲,https://live2-new.zztv.tv/ysxqpd/sd/live.m3u8?_upt=299228691725345170
+郑州影视戏曲,http://www.cdnstv.com:6398/hls/1165/index.m3u8
 郑州妇女儿童,https://live2-new.zztv.tv/fnetpd/sd/live.m3u8?_upt=b6376b201725349066
+郑州妇女儿童,http://www.cdnstv.com:6398/hls/1166/index.m3u8
 郑州都市生活,https://live2-new.zztv.tv/dsshpd/sd/live.m3u8?_upt=b647580f1725349072
+郑州都市生活,http://www.cdnstv.com:6398/hls/1167/index.m3u8
 郑州教育,https://livezzutv.chinamcache.com/zb02/zb02.m3u8?auth_key=1694413413-0-0-fdccf5824fa42b4a2e285f73e7d2d12b
 驻马店新闻综合,http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
 驻马店科教,http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
@@ -7017,6 +7030,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 建安综合,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+郏县综合,http://www.cdnstv.com:6398/hls/1170/index.m3u8
+郏县公共,http://www.cdnstv.com:6398/hls/1169/index.m3u8
 济源一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
 辉县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
