@@ -5549,15 +5549,8 @@ CHANNEL-V,http://www.iwumei.cc:9527/udp/239.93.0.157:2194
 安庆经济生活,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=4840160247-0-0-09f173f08ee665e4b1b65aa69a5ee46d&extra_key=9Gv-6hfRrMAaAuD7AYFdmB969naxPovqhZHAkcCYJSb1EAOCXARnqb8CUtO3J79-DQBGs-_55m2odXUh9cAecLDbz52sbpGw9b0f7umLy91QXS1P_Ueiz0_24GvOOdDugwSYLDZBUq-Ia5AZgi3CDUtTcex5hgsjrgkpwyXJnQH37tIiCpZY3zrNbW0tiDDU
 
 北京频道,#genre#
-北京文艺,http://bjlive.u.domybox.com:91/live/BTVWYhd-5M/live.m3u8
-北京文艺,http://beijinglive.online.domybox.com:91/live/BTVWYhd-5M/live.m3u8
-北京文艺,http://beijinglive.online.pthv.gitv.tv:91/live/BTVWYhd-5M/live.m3u8
-北京文艺,http://bjlive.u.domybox.com:91/live/BTVWY-1500k/live.m3u8
-北京文艺,http://beijinglive.online.domybox.com:91/live/BTVWY-1500k/live.m3u8
-北京文艺,http://beijinglive.online.pthv.gitv.tv:91/live/BTVWY-1500k/live.m3u8
-北京文艺,http://beijinglive.online.pthv.gitv.tv:81/live/BTVWY-1500k/live.m3u8
-北京文艺,http://118.144.105.51:81/live/BTVWY-1500k/live.m3u8
-北京文艺,http://114.246.102.14:4000/rtp/239.3.1.242:8000
+北京文艺,http://39.134.135.82:80/000000000001/PLTV/88888888/224/3221279778/index.m3u8?HlsProfileId=
+北京文艺,http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221279778
 北京纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/
 北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028380/
