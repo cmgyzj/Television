@@ -11190,81 +11190,25 @@ http://beijinglive.online.pthv.gitv.tv:81/live/BTVKJ-1500k/live.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://118.144.105.51:81/live/BTVKJ-1500k/live.m3u8
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://bjlive.u.domybox.com:91/live/BTVYShd-5M/live.m3u8
+http://39.134.135.82:80/000000002001/PLTV/88888888/224/3221279788/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://beijinglive.online.domybox.com:91/live/BTVYShd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVYShd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://bjlive.u.domybox.com:91/live/BTVYS-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://beijinglive.online.domybox.com:91/live/BTVYS-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVYS-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://beijinglive.online.pthv.gitv.tv:81/live/BTVYS-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://118.144.105.51:81/live/BTVYS-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://114.246.102.14:4000/rtp/239.3.1.158:8000
+http://mmitv.top:80/pltv/livetb2d5b/bjyd_ipv6.php?id=3221279788
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://114.246.102.14:4000/rtp/239.3.1.116:8000
+http://39.134.134.44:80/000000000001/PLTV/88888888/224/3221282970/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://bjlive.u.domybox.com:91/live/BTVCJhd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://beijinglive.online.domybox.com:91/live/BTVCJhd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVCJhd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://bjlive.u.domybox.com:91/live/BTVCJ-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://beijinglive.online.domybox.com:91/live/BTVCJ-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVCJ-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://beijinglive.online.pthv.gitv.tv:81/live/BTVCJ-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://118.144.105.51:81/live/BTVCJ-1500k/live.m3u8
+http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221282970
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
 http://39.134.135.83:80/000000002001/PLTV/88888888/224/3221279780/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
-http://bjlive.u.domybox.com:91/live/BTVTYhd-8M/live.m3u8
-#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
-http://beijinglive.online.domybox.com:91/live/BTVTYhd-8M/live.m3u8
-#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVTYhd-8M/live.m3u8
+http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221279780
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://bjlive.u.domybox.com:91/live/BTVSHhd-5M/live.m3u8
+http://39.134.134.43:80/000000002001/PLTV/88888888/224/3221283599/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://beijinglive.online.domybox.com:91/live/BTVSHhd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVSHhd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://bjlive.u.domybox.com:91/live/BTVSH-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://beijinglive.online.domybox.com:91/live/BTVSH-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVSH-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://beijinglive.online.pthv.gitv.tv:81/live/BTVSH-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://118.144.105.51:81/live/BTVSH-1500k/live.m3u8
+http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221283599
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://bjlive.u.domybox.com:91/live/BTVXWhd-5M/live.m3u8
+http://39.134.135.84:80/000000001001/PLTV/88888888/224/3221280389/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://beijinglive.online.domybox.com:91/live/BTVXWhd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVXWhd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://bjlive.u.domybox.com:91/live/BTVXW-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://beijinglive.online.domybox.com:91/live/BTVXW-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVXW-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://beijinglive.online.pthv.gitv.tv:81/live/BTVXW-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://118.144.105.51:81/live/BTVXW-1500k/live.m3u8
+http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221280389
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7851974109718180595
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
@@ -11358,15 +11302,9 @@ http://xuys.top:8888/udp/225.1.1.58:5002
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://yuancw.eu.org:8088/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
-http://bjlive.u.domybox.com:91/live/BTVGJ-1500k/live.m3u8
+http://39.134.134.82:80/000000001001/PLTV/88888888/224/3221280405/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
-http://beijinglive.online.domybox.com:91/live/BTVGJ-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
-http://beijinglive.online.pthv.gitv.tv:91/live/BTVGJ-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
-http://beijinglive.online.pthv.gitv.tv:81/live/BTVGJ-1500k/live.m3u8
-#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
-http://118.144.105.51:81/live/BTVGJ-1500k/live.m3u8
+http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221280405
 #EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://epg.112114.eu.org/logo/北京IPTV4K.png" group-title="北京频道",北京IPTV4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=bj4k
 #EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://epg.112114.eu.org/logo/延庆电视台.png" group-title="北京频道",延庆电视台
