@@ -11226,6 +11226,8 @@ http://beijinglive.online.pthv.gitv.tv:81/live/BTVCJ-1500k/live.m3u8
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
 http://118.144.105.51:81/live/BTVCJ-1500k/live.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
+http://39.134.135.83:80/000000002001/PLTV/88888888/224/3221279780/index.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
 http://bjlive.u.domybox.com:91/live/BTVTYhd-8M/live.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
 http://beijinglive.online.domybox.com:91/live/BTVTYhd-8M/live.m3u8
