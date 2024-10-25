@@ -82,5 +82,19 @@ IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u
 房县综合,http://bl.dchwtq.asia:10000/rtp/239.69.1.192:10794
 房县综合,http://www.furymax.top:85/rtp/239.69.1.192:10794
 
+测试,#genre#
+苏州新闻综合,https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+苏州新闻综合,http://61.155.203.93:5021/live_hls/1/.m3u8
+苏州社会经济,https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+苏州社会经济,http://61.155.203.93:5021/live_hls/2/.m3u8
+苏州文化生活,https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+苏州文化生活,http://61.155.203.93:5021/live_hls/3/.m3u8
+苏州生活资讯,https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+苏州生活资讯,http://61.155.203.93:5021/live_hls/4/.m3u8
+深圳财经生活,http://php.jdshipin.com:8880/TVOD/iptv.php?id=szcjsh
+
+EPG+CQYX 最完美搭配方法（CCTV+地方台全部包含） – mxd's Blog
+https://blog.mxdyeah.top/mxdyeah_blog_post/44.html
+
 
 
