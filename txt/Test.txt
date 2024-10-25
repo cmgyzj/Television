@@ -82,4 +82,27 @@ IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u
 房县综合,http://bl.dchwtq.asia:10000/rtp/239.69.1.192:10794
 房县综合,http://www.furymax.top:85/rtp/239.69.1.192:10794
 
+福建组播,#genre#
+福建综合,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.1:8000
+福建综合,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.1:8000
+福建综合,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.4:9542
+福建公共,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.3:8012
+福建新闻,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.4:8018
+福建电视剧,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.5:8024
+福建旅游,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.6:8030
+福建经济,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.7:8036
+福建文体,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.160:8948
+福建少儿,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.9:8048
+福建教育频道,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.173:9026
+厦门卫视,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.11:8060
+厦门1套,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.55:9848
+厦门2套,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.56:9854
+发现之旅,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.74:9962
+中学生,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.73:9956
+车迷频道,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.64:9902
+环球旅游,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.66:9914
+生态环境,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.68:9926
+四海钓鱼,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.69:9932
+优优宝贝,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.70:9938
+
 
