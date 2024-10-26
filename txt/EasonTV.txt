@@ -4318,6 +4318,7 @@ CHC影迷电影,http://minecraft.qc0727.top:22222/udp/239.45.0.42:5140
 CHC影迷电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
 CHC影迷电影,http://222.64.125.110:58888/udp/239.45.0.42:5140
 CHC影迷电影,http://116.226.57.29:8881/udp/239.45.0.42:5140
+CHC影迷电影,http://116.231.244.25:8888/udp/239.45.0.42:5140
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,http://119.98.124.146:4022/rtp/239.69.1.241:11088
@@ -4334,6 +4335,7 @@ CHC影迷电影,http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 CHC家庭影院,http://minecraft.qc0727.top:22222/udp/239.45.0.40:5140
 CHC家庭影院,http://222.64.125.110:58888/udp/239.45.0.40:5140
 CHC家庭影院,http://116.226.57.29:8881/udp/239.45.0.40:5140
+CHC家庭影院,http://116.231.244.25:8888/udp/239.45.0.40:5140
 CHC家庭影院,http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
@@ -4352,6 +4354,7 @@ CHC动作电影,http://minecraft.qc0727.top:22222/udp/239.45.0.41:5140
 CHC动作电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.41:5140
 CHC动作电影,http://222.64.125.110:58888/udp/239.45.0.41:5140
 CHC动作电影,http://116.226.57.29:8881/udp/239.45.0.41:5140
+CHC动作电影,http://116.231.244.25:8888/udp/239.45.0.41:5140
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://119.98.124.146:4022/rtp/239.69.1.242:11094
