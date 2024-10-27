@@ -11893,59 +11893,59 @@ https://videoplay.yanqingrmzx.com/yanqappvideo/yqingappvideo.m3u8?auth_key=17256
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-name="顺义电视" tvg-logo="https://epg.112114.eu.org/logo/顺义电视.png" group-title="北京频道",顺义电视
 https://livebjsy.chinamcache.com/live/zb02.m3u8
-#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png",重庆新闻
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png" group-title="重庆频道",重庆新闻
 http://123.145.17.138:8001/udp/225.0.4.188:7980
-#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png",重庆新闻
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png" group-title="重庆频道",重庆新闻
 http://123.145.17.138:8002/udp/225.0.4.188:7980
-#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png",重庆新闻
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png" group-title="重庆频道",重庆新闻
 http://123.145.17.138:8003/udp/225.0.4.188:7980
-#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png",重庆新闻
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png" group-title="重庆频道",重庆新闻
 http://123.145.17.138:8004/udp/225.0.4.188:7980
-#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png",重庆社会与法
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png" group-title="重庆频道",重庆社会与法
 http://123.145.17.138:8001/udp/225.0.4.190:7980
-#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png",重庆社会与法
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png" group-title="重庆频道",重庆社会与法
 http://123.145.17.138:8002/udp/225.0.4.190:7980
-#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png",重庆社会与法
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png" group-title="重庆频道",重庆社会与法
 http://123.145.17.138:8003/udp/225.0.4.190:7980
-#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png",重庆社会与法
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png" group-title="重庆频道",重庆社会与法
 http://123.145.17.138:8004/udp/225.0.4.190:7980
-#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://epg.112114.eu.org/logo/重庆少儿.png",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://epg.112114.eu.org/logo/重庆少儿.png" group-title="重庆频道",重庆少儿
 http://123.145.17.138:8001/udp/225.0.4.191:7980
-#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://epg.112114.eu.org/logo/重庆少儿.png",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://epg.112114.eu.org/logo/重庆少儿.png" group-title="重庆频道",重庆少儿
 http://123.145.17.138:8002/udp/225.0.4.191:7980
-#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://epg.112114.eu.org/logo/重庆少儿.png",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://epg.112114.eu.org/logo/重庆少儿.png" group-title="重庆频道",重庆少儿
 http://123.145.17.138:8003/udp/225.0.4.191:7980
-#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://epg.112114.eu.org/logo/重庆少儿.png",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://epg.112114.eu.org/logo/重庆少儿.png" group-title="重庆频道",重庆少儿
 http://123.145.17.138:8004/udp/225.0.4.191:7980
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png",重庆影视
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆频道",重庆影视
 http://123.145.17.138:8001/udp/225.0.4.192:7980
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png",重庆影视
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆频道",重庆影视
 http://123.145.17.138:8002/udp/225.0.4.192:7980
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png",重庆影视
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆频道",重庆影视
 http://123.145.17.138:8003/udp/225.0.4.192:7980
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png",重庆影视
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆频道",重庆影视
 http://123.145.17.138:8004/udp/225.0.4.192:7980
-#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png",重庆科教
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png" group-title="重庆频道",重庆科教
 http://123.145.17.138:8001/udp/225.0.4.193:7980
-#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png",重庆科教
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png" group-title="重庆频道",重庆科教
 http://123.145.17.138:8002/udp/225.0.4.193:7980
-#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png",重庆科教
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png" group-title="重庆频道",重庆科教
 http://123.145.17.138:8003/udp/225.0.4.193:7980
-#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png",重庆科教
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png" group-title="重庆频道",重庆科教
 http://123.145.17.138:8004/udp/225.0.4.193:7980
-#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆娱乐.png",重庆娱乐
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆娱乐.png" group-title="重庆频道",重庆娱乐
 http://123.145.17.138:8001/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆娱乐.png",重庆娱乐
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆娱乐.png" group-title="重庆频道",重庆娱乐
 http://123.145.17.138:8002/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆娱乐.png",重庆娱乐
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆娱乐.png" group-title="重庆频道",重庆娱乐
 http://123.145.17.138:8003/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆娱乐.png",重庆娱乐
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆娱乐.png" group-title="重庆频道",重庆娱乐
 http://123.145.17.138:8004/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.eu.org/logo/重庆汽摩.png",重庆汽摩
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.eu.org/logo/重庆汽摩.png" group-title="重庆频道",重庆汽摩
 http://php.jdshipin.com/cqyx.php?id=cqcarSD
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.eu.org/logo/重庆汽摩.png",重庆汽摩
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.eu.org/logo/重庆汽摩.png" group-title="重庆频道",重庆汽摩
 http://php.jdshipin.com:8880/cqyx.php?id=cqcarSD
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.eu.org/logo/重庆汽摩.png",重庆汽摩
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.eu.org/logo/重庆汽摩.png" group-title="重庆频道",重庆汽摩
 http://123.145.17.138:8001/udp/225.0.4.195:7980
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.eu.org/logo/重庆汽摩.png",重庆汽摩
 http://123.145.17.138:8002/udp/225.0.4.195:7980
@@ -11973,37 +11973,37 @@ http://61.143.227.162:10000/udp/239.77.1.205:5146
 http://www.zz49.top:4022/udp/239.77.0.209:5146
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.eu.org/logo/重庆汽摩.png",重庆汽摩
 http://www.zz49.top:4022/udp/239.77.1.205:5146
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆频道",重庆时尚生活
 http://123.145.17.138:8001/udp/225.0.4.196:7980
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆频道",重庆时尚生活
 http://123.145.17.138:8002/udp/225.0.4.196:7980
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆频道",重庆时尚生活
 http://123.145.17.138:8003/udp/225.0.4.196:7980
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆频道",重庆时尚生活
 http://123.145.17.138:8004/udp/225.0.4.196:7980
-#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://epg.112114.eu.org/logo/重庆新农村.png",重庆新农村
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://epg.112114.eu.org/logo/重庆新农村.png" group-title="重庆频道",重庆新农村
 http://123.145.17.138:8001/udp/225.0.4.189:7980
-#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://epg.112114.eu.org/logo/重庆新农村.png",重庆新农村
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://epg.112114.eu.org/logo/重庆新农村.png" group-title="重庆频道",重庆新农村
 http://123.145.17.138:8002/udp/225.0.4.189:7980
-#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://epg.112114.eu.org/logo/重庆新农村.png",重庆新农村
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://epg.112114.eu.org/logo/重庆新农村.png" group-title="重庆频道",重庆新农村
 http://123.145.17.138:8003/udp/225.0.4.189:7980
-#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://epg.112114.eu.org/logo/重庆新农村.png",重庆新农村
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://epg.112114.eu.org/logo/重庆新农村.png" group-title="重庆频道",重庆新农村
 http://123.145.17.138:8004/udp/225.0.4.189:7980
-#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://epg.112114.eu.org/logo/重庆移动.png",重庆移动
+#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://epg.112114.eu.org/logo/重庆移动.png" group-title="重庆频道",重庆移动
 http://123.145.17.138:8001/udp/225.0.4.215:7980
-#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://epg.112114.eu.org/logo/重庆移动.png",重庆移动
+#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://epg.112114.eu.org/logo/重庆移动.png" group-title="重庆频道",重庆移动
 http://123.145.17.138:8002/udp/225.0.4.215:7980
-#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://epg.112114.eu.org/logo/重庆移动.png",重庆移动
+#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://epg.112114.eu.org/logo/重庆移动.png" group-title="重庆频道",重庆移动
 http://123.145.17.138:8003/udp/225.0.4.215:7980
-#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://epg.112114.eu.org/logo/重庆移动.png",重庆移动
+#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://epg.112114.eu.org/logo/重庆移动.png" group-title="重庆频道",重庆移动
 http://123.145.17.138:8004/udp/225.0.4.215:7980
-#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚购物.png",重庆时尚购物
+#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚购物.png" group-title="重庆频道",重庆时尚购物
 http://123.145.17.138:8001/udp/225.0.4.198:7980
-#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚购物.png",重庆时尚购物
+#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚购物.png" group-title="重庆频道",重庆时尚购物
 http://123.145.17.138:8002/udp/225.0.4.198:7980
-#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚购物.png",重庆时尚购物
+#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚购物.png" group-title="重庆频道",重庆时尚购物
 http://123.145.17.138:8003/udp/225.0.4.198:7980
-#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚购物.png",重庆时尚购物
+#EXTINF:-1 tvg-name="重庆时尚购物" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚购物.png" group-title="重庆频道",重庆时尚购物
 http://123.145.17.138:8004/udp/225.0.4.198:7980
 #EXTINF:-1 tvg-name="忠县综合频道" tvg-logo="https://epg.112114.eu.org/logo/忠县综合频道.png" group-title="重庆频道",忠县综合频道
 https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
