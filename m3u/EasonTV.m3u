@@ -14434,43 +14434,93 @@ http://rtmp.gdlive.gdmain.com/live/5z4yjgm0.m3u8
 #EXTINF:-1 tvg-name="藤县综合" tvg-logo="https://epg.112114.eu.org/logo/藤县综合.png" group-title="广西频道",藤县综合
 http://srs.txdst.cn/live/txtv.m3u8
 #EXTINF:-1 tvg-name="贵州公共" tvg-logo="https://epg.112114.eu.org/logo/贵州公共.png" group-title="贵州频道",贵州公共
+http://www.akw323.com:9527/rtp/238.255.2.2:5999
+#EXTINF:-1 tvg-name="贵州公共" tvg-logo="https://epg.112114.eu.org/logo/贵州公共.png" group-title="贵州频道",贵州公共
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
-#EXTINF:-1 tvg-name="贵州影视" tvg-logo="https://epg.112114.eu.org/logo/贵州影视.png" group-title="贵州频道",贵州影视
+#EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://epg.112114.eu.org/logo/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
+http://www.akw323.com:9527/rtp/238.255.2.3:5999
+#EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://epg.112114.eu.org/logo/贵州影视文艺.png" group-title="贵州频道",贵州影视文艺
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH03_lo.m3u8
-#EXTINF:-1 tvg-name="贵州生活" tvg-logo="https://epg.112114.eu.org/logo/贵州生活.png" group-title="贵州频道",贵州生活
+#EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://epg.112114.eu.org/logo/贵州大众生活.png" group-title="贵州频道",贵州大众生活
+http://www.akw323.com:9527/rtp/238.255.2.4:5999
+#EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://epg.112114.eu.org/logo/贵州大众生活.png" group-title="贵州频道",贵州大众生活
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH04_lo.m3u8
-#EXTINF:-1 tvg-name="贵州法制" tvg-logo="https://epg.112114.eu.org/logo/贵州法制.png" group-title="贵州频道",贵州法制
+#EXTINF:-1 tvg-name="贵州生态乡村" tvg-logo="https://epg.112114.eu.org/logo/贵州生态乡村.png" group-title="贵州频道",贵州生态乡村
+http://www.akw323.com:9527/rtp/238.255.2.5:5999
+#EXTINF:-1 tvg-name="贵州生态乡村" tvg-logo="https://epg.112114.eu.org/logo/贵州生态乡村.png" group-title="贵州频道",贵州生态乡村
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH05_lo.m3u8
-#EXTINF:-1 tvg-name="贵州科教" tvg-logo="https://epg.112114.eu.org/logo/贵州科教.png" group-title="贵州频道",贵州科教
+#EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://epg.112114.eu.org/logo/贵州科教健康.png" group-title="贵州频道",贵州科教健康
+http://www.akw323.com:9527/rtp/238.255.2.6:5999
+#EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://epg.112114.eu.org/logo/贵州科教健康.png" group-title="贵州频道",贵州科教健康
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH06_lo.m3u8
 #EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://epg.112114.eu.org/logo/贵州经济.png" group-title="贵州频道",贵州经济
+http://www.akw323.com:9527/rtp/238.255.2.9:5999
+#EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://epg.112114.eu.org/logo/贵州经济.png" group-title="贵州频道",贵州经济
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
+#EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://epg.112114.eu.org/logo/贵州移动电视.png" group-title="贵州频道",贵州移动电视
+http://www.akw323.com:9527/rtp/238.255.2.117:5999
 #EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://epg.112114.eu.org/logo/贵州移动电视.png" group-title="贵州频道",贵州移动电视
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 #EXTINF:-1 tvg-name="贵州家有购物" tvg-logo="https://epg.112114.eu.org/logo/贵州家有购物.png" group-title="贵州频道",贵州家有购物
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CHJY_lo.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://epg.112114.eu.org/logo/天元围棋.png" group-title="贵州频道",天元围棋
+http://www.akw323.com:9527/rtp/238.255.2.7:5999
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://epg.112114.eu.org/logo/天元围棋.png" group-title="贵州频道",天元围棋
 http://php.jdshipin.com/cqyx.php?id=weiqi
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://epg.112114.eu.org/logo/天元围棋.png" group-title="贵州频道",天元围棋
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://epg.112114.eu.org/logo/天元围棋.png" group-title="贵州频道",天元围棋
 http://www.iwumei.cc:9527/udp/239.93.42.55:5140
+#EXTINF:-1 tvg-name="贵阳一套" tvg-logo="https://epg.112114.eu.org/logo/贵阳一套.png" group-title="贵州频道",贵阳一套
+http://www.akw323.com:9527/rtp/238.255.2.19:5999
+#EXTINF:-1 tvg-name="贵阳二套" tvg-logo="https://epg.112114.eu.org/logo/贵阳二套.png" group-title="贵州频道",贵阳二套
+http://www.akw323.com:9527/rtp/238.255.2.20:5999
+#EXTINF:-1 tvg-name="贵阳三套" tvg-logo="https://epg.112114.eu.org/logo/贵阳三套.png" group-title="贵州频道",贵阳三套
+http://www.akw323.com:9527/rtp/238.255.2.22:5999
+#EXTINF:-1 tvg-name="安顺新闻综合" tvg-logo="https://epg.112114.eu.org/logo/安顺新闻综合.png" group-title="贵州频道",安顺新闻综合
+http://www.akw323.com:9527/rtp/238.255.2.157:5999
+#EXTINF:-1 tvg-name="安顺新闻频道" tvg-logo="https://epg.112114.eu.org/logo/安顺新闻频道.png" group-title="贵州频道",安顺新闻频道
+http://hplayer1.juyun.tv/camera/154379194.m3u8
+#EXTINF:-1 tvg-name="安顺公共频道" tvg-logo="https://epg.112114.eu.org/logo/安顺公共频道.png" group-title="贵州频道",安顺公共频道
+http://www.akw323.com:9527/rtp/238.255.2.158:5999
+#EXTINF:-1 tvg-name="安顺公共频道" tvg-logo="https://epg.112114.eu.org/logo/安顺公共频道.png" group-title="贵州频道",安顺公共频道
+http://hplayer1.juyun.tv/camera/154526164.m3u8
+#EXTINF:-1 tvg-name="毕节一套" tvg-logo="https://epg.112114.eu.org/logo/毕节一套.png" group-title="贵州频道",毕节一套
+http://www.akw323.com:9527/rtp/238.255.2.131:5999
+#EXTINF:-1 tvg-name="毕节二套" tvg-logo="https://epg.112114.eu.org/logo/毕节二套.png" group-title="贵州频道",毕节二套
+http://www.akw323.com:9527/rtp/238.255.2.132:5999
+#EXTINF:-1 tvg-name="黄果树瀑布直播" tvg-logo="https://epg.112114.eu.org/logo/黄果树瀑布直播.png" group-title="贵州频道",黄果树瀑布直播
+http://www.akw323.com:9527/rtp/238.255.2.163:5999
+#EXTINF:-1 tvg-name="凯里电视台" tvg-logo="https://epg.112114.eu.org/logo/凯里电视台.png" group-title="贵州频道",凯里电视台
+http://www.akw323.com:9527/rtp/238.255.2.180:5999
+#EXTINF:-1 tvg-name="雷山综合" tvg-logo="https://epg.112114.eu.org/logo/雷山综合.png" group-title="贵州频道",雷山综合
+http://www.akw323.com:9527/rtp/238.255.2.128:5999
 #EXTINF:-1 tvg-name="七星关电视台" tvg-logo="https://epg.112114.eu.org/logo/七星关电视台.png" group-title="贵州频道",七星关电视台
 https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 #EXTINF:-1 tvg-name="湄潭新闻" tvg-logo="https://epg.112114.eu.org/logo/湄潭新闻.png" group-title="贵州频道",湄潭新闻
 http://p8.vzan.com/slowlive/158160919638855965/live.m3u8
 #EXTINF:-1 tvg-name="黔东南综合" tvg-logo="https://epg.112114.eu.org/logo/黔东南综合.png" group-title="贵州频道",黔东南综合
+http://www.akw323.com:9527/rtp/238.255.2.179:5999
+#EXTINF:-1 tvg-name="黔东南综合" tvg-logo="https://epg.112114.eu.org/logo/黔东南综合.png" group-title="贵州频道",黔东南综合
 http://media.qdnrm.cn:18100/live/264712/playlist.m3u8
 #EXTINF:-1 tvg-name="黔南新闻综合" tvg-logo="https://epg.112114.eu.org/logo/黔南新闻综合.png" group-title="贵州频道",黔南新闻综合
+http://www.akw323.com:9527/rtp/238.255.2.150:5999
+#EXTINF:-1 tvg-name="黔南新闻综合" tvg-logo="https://epg.112114.eu.org/logo/黔南新闻综合.png" group-title="贵州频道",黔南新闻综合
 http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
-#EXTINF:-1 tvg-name="黔南公共频道" tvg-logo="https://epg.112114.eu.org/logo/黔南公共频道.png" group-title="贵州频道",黔南公共频道
+#EXTINF:-1 tvg-name="黔南公共" tvg-logo="https://epg.112114.eu.org/logo/黔南公共.png" group-title="贵州频道",黔南公共
+http://www.akw323.com:9527/rtp/238.255.2.151:5999
+#EXTINF:-1 tvg-name="黔南公共" tvg-logo="https://epg.112114.eu.org/logo/黔南公共.png" group-title="贵州频道",黔南公共
 http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
-#EXTINF:-1 tvg-name="安顺新闻频道" tvg-logo="https://epg.112114.eu.org/logo/安顺新闻频道.png" group-title="贵州频道",安顺新闻频道
-http://hplayer1.juyun.tv/camera/154379194.m3u8
-#EXTINF:-1 tvg-name="安顺公共频道" tvg-logo="https://epg.112114.eu.org/logo/安顺公共频道.png" group-title="贵州频道",安顺公共频道
-http://hplayer1.juyun.tv/camera/154526164.m3u8
+#EXTINF:-1 tvg-name="黔西南综合" tvg-logo="https://epg.112114.eu.org/logo/黔西南综合.png" group-title="贵州频道",黔西南综合
+http://www.akw323.com:9527/rtp/238.255.2.126:5999
+#EXTINF:-1 tvg-name="黔西南公共" tvg-logo="https://epg.112114.eu.org/logo/黔西南公共.png" group-title="贵州频道",黔西南公共
+http://www.akw323.com:9527/rtp/238.255.2.127:5999
+#EXTINF:-1 tvg-name="六盘水综合" tvg-logo="https://epg.112114.eu.org/logo/六盘水综合.png" group-title="贵州频道",六盘水综合
+http://www.akw323.com:9527/rtp/238.255.2.115:5999
 #EXTINF:-1 tvg-name="六盘水综合" tvg-logo="https://epg.112114.eu.org/logo/六盘水综合.png" group-title="贵州频道",六盘水综合
 https://tvfile.lpsrtv.com/nmip-media/channellive/channel110181/playlist.m3u8
+#EXTINF:-1 tvg-name="六盘水公共" tvg-logo="https://epg.112114.eu.org/logo/六盘水公共.png" group-title="贵州频道",六盘水公共
+http://www.akw323.com:9527/rtp/238.255.2.116:5999
 #EXTINF:-1 tvg-name="六盘水公共" tvg-logo="https://epg.112114.eu.org/logo/六盘水公共.png" group-title="贵州频道",六盘水公共
 https://tvfile.lpsrtv.com/nmip-media/channellive/channel110983/playlist.m3u8
 #EXTINF:-1 tvg-name="松桃新闻" tvg-logo="https://epg.112114.eu.org/logo/松桃新闻.png" group-title="贵州频道",松桃新闻
@@ -14479,6 +14529,18 @@ http://live.strmtzx.cn/stxw/sd/live.m3u8
 http://live.strmtzx.cn/stzy/sd/live.m3u8
 #EXTINF:-1 tvg-name="凤冈综合" tvg-logo="https://epg.112114.eu.org/logo/凤冈综合.png" group-title="贵州频道",凤冈综合
 http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
+#EXTINF:-1 tvg-name="铜仁一套" tvg-logo="https://epg.112114.eu.org/logo/铜仁一套.png" group-title="贵州频道",铜仁一套
+http://www.akw323.com:9527/rtp/238.255.2.31:5999
+#EXTINF:-1 tvg-name="铜仁二套" tvg-logo="https://epg.112114.eu.org/logo/铜仁二套.png" group-title="贵州频道",铜仁二套
+http://www.akw323.com:9527/rtp/238.255.2.87:5999
+#EXTINF:-1 tvg-name="瓮安电视台" tvg-logo="https://epg.112114.eu.org/logo/瓮安电视台.png" group-title="贵州频道",瓮安电视台
+http://www.akw323.com:9527/rtp/238.255.2.216:5999
+#EXTINF:-1 tvg-name="遵义综合" tvg-logo="https://epg.112114.eu.org/logo/遵义综合.png" group-title="贵州频道",遵义综合
+http://www.akw323.com:9527/rtp/238.255.2.153:5999
+#EXTINF:-1 tvg-name="遵义都市" tvg-logo="https://epg.112114.eu.org/logo/遵义都市.png" group-title="贵州频道",遵义都市
+http://www.akw323.com:9527/rtp/238.255.2.154:5999
+#EXTINF:-1 tvg-name="遵义公共" tvg-logo="https://epg.112114.eu.org/logo/遵义公共.png" group-title="贵州频道",遵义公共
+http://www.akw323.com:9527/rtp/238.255.2.152:5999
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.112114.eu.org/logo/海南自贸.png" group-title="海南频道",海南自贸
 http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000116/
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.112114.eu.org/logo/海南自贸.png" group-title="海南频道",海南自贸
