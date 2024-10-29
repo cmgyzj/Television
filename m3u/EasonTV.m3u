@@ -18464,6 +18464,18 @@ http://61.155.203.93:5021/live_hls/2/.m3u8
 #EXTINF:-1 tvg-name="苏州社会经济" tvg-logo="https://epg.112114.eu.org/logo/苏州社会经济.png" group-title="江苏频道",苏州社会经济
 http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
+http://xiazaiji.f3322.org:8800/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
+http://sz.seala.top:4022/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
+http://sz.seala.uk:4022/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
+http://chr.460513.xyz:8800/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
+http://www.zhantong.tech:8800/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
 http://61.155.203.93:5021/live_hls/3/.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
 http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
@@ -18505,6 +18517,54 @@ http://stream.thmz.com/wxtv5/sd/live.m3u8
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡移动电视" tvg-logo="https://epg.112114.eu.org/logo/无锡移动电视.png" group-title="江苏频道",无锡移动电视
 http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
+#EXTINF:-1 tvg-name="常州新闻" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.221:9594
+#EXTINF:-1 tvg-name="常州新闻" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻
+http://sz.seala.top:4022/rtp/239.49.0.221:9594
+#EXTINF:-1 tvg-name="常州新闻" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.221:9594
+#EXTINF:-1 tvg-name="常州新闻" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻
+http://sz.seala.uk:4022/rtp/239.49.0.221:9594
+#EXTINF:-1 tvg-name="常州新闻" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻
+http://chr.460513.xyz:8800/rtp/239.49.0.221:9594
+#EXTINF:-1 tvg-name="常州新闻" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻
+http://www.zhantong.tech:8800/rtp/239.49.0.221:9594
+#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://epg.112114.eu.org/logo/常州都市.png" group-title="江苏频道",常州都市
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.220:9590
+#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://epg.112114.eu.org/logo/常州都市.png" group-title="江苏频道",常州都市
+http://sz.seala.top:4022/rtp/239.49.0.220:9590
+#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://epg.112114.eu.org/logo/常州都市.png" group-title="江苏频道",常州都市
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.220:9590
+#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://epg.112114.eu.org/logo/常州都市.png" group-title="江苏频道",常州都市
+http://sz.seala.uk:4022/rtp/239.49.0.220:9590
+#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://epg.112114.eu.org/logo/常州都市.png" group-title="江苏频道",常州都市
+http://chr.460513.xyz:8800/rtp/239.49.0.220:9590
+#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://epg.112114.eu.org/logo/常州都市.png" group-title="江苏频道",常州都市
+http://www.zhantong.tech:8800/rtp/239.49.0.220:9590
+#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://epg.112114.eu.org/logo/常州生活.png" group-title="江苏频道",常州生活
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.219:9586
+#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://epg.112114.eu.org/logo/常州生活.png" group-title="江苏频道",常州生活
+http://sz.seala.top:4022/rtp/239.49.0.219:9586
+#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://epg.112114.eu.org/logo/常州生活.png" group-title="江苏频道",常州生活
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.219:9586
+#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://epg.112114.eu.org/logo/常州生活.png" group-title="江苏频道",常州生活
+http://sz.seala.uk:4022/rtp/239.49.0.219:9586
+#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://epg.112114.eu.org/logo/常州生活.png" group-title="江苏频道",常州生活
+http://chr.460513.xyz:8800/rtp/239.49.0.219:9586
+#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://epg.112114.eu.org/logo/常州生活.png" group-title="江苏频道",常州生活
+http://www.zhantong.tech:8800/rtp/239.49.0.219:9586
+#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://epg.112114.eu.org/logo/常州公共.png" group-title="江苏频道",常州公共
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.218:9582
+#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://epg.112114.eu.org/logo/常州公共.png" group-title="江苏频道",常州公共
+http://sz.seala.top:4022/rtp/239.49.0.218:9582
+#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://epg.112114.eu.org/logo/常州公共.png" group-title="江苏频道",常州公共
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.218:9582
+#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://epg.112114.eu.org/logo/常州公共.png" group-title="江苏频道",常州公共
+http://sz.seala.uk:4022/rtp/239.49.0.218:9582
+#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://epg.112114.eu.org/logo/常州公共.png" group-title="江苏频道",常州公共
+http://chr.460513.xyz:8800/rtp/239.49.0.218:9582
+#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://epg.112114.eu.org/logo/常州公共.png" group-title="江苏频道",常州公共
+http://www.zhantong.tech:8800/rtp/239.49.0.218:9582
 #EXTINF:-1 tvg-name="武进新闻" tvg-logo="https://epg.112114.eu.org/logo/武进新闻.png" group-title="江苏频道",武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 tvg-name="武进新闻" tvg-logo="https://epg.112114.eu.org/logo/武进新闻.png" group-title="江苏频道",武进新闻
