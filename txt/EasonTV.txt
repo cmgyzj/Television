@@ -9498,7 +9498,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 辽宁体育休闲,http://124.94.193.136:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁体育休闲,http://123.189.36.155:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁体育休闲,http://120.76.248.139/live/bfgd/4200000611.m3u8
-大连新闻综合,http://live.dltv.cn:80/tcb3IB5/500/a47hcg3.m3u8
 大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt
 大洼综合频道,https://cp.dawawg.com/live/dawatv/hls.m3u8
 

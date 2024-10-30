@@ -18921,8 +18921,6 @@ http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 http://124.94.193.136:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
 http://123.189.36.155:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="大连新闻综合" tvg-logo="https://epg.112114.eu.org/logo/大连新闻综合.png" group-title="辽宁频道",大连新闻综合
-http://live.dltv.cn:80/tcb3IB5/500/a47hcg3.m3u8
 #EXTINF:-1 tvg-name="大连文体" tvg-logo="https://epg.112114.eu.org/logo/大连文体.png" group-title="辽宁频道",大连文体
 http://live.cooltv.top/tv/tide.php?id=dlwt
 #EXTINF:-1 tvg-name="大洼综合频道" tvg-logo="https://epg.112114.eu.org/logo/大洼综合频道.png" group-title="辽宁频道",大洼综合频道
