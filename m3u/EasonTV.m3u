@@ -452,7 +452,7 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视频道",CCTV-4
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000503
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV-4K.png" group-title="央视频道",CCTV-4K
-http://minecraft.qc0727.top:22222/udp/239.45.0.55:5140
+http://116.227.10.196:2048/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV-4K.png" group-title="央视频道",CCTV-4K
 http://vpn.rogerxlj.top:9998/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV-4K.png" group-title="央视频道",CCTV-4K
@@ -2020,7 +2020,7 @@ http://yuancw.eu.org:8088/udp/239.45.0.21:5140
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.112114.eu.org/logo/CETV4.png" group-title="央视频道",CETV-4
 http://yuancw.eu.org:8088/udp/239.45.1.50:5140
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视频道",CETV早期教育
-http://minecraft.qc0727.top:22222/udp/239.45.0.54:5140
+http://116.227.10.196:2048/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视频道",CETV早期教育
 http://vpn.rogerxlj.top:9998/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视频道",CETV早期教育
@@ -2228,7 +2228,7 @@ https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.112114.eu.org/logo/CGTN西语.png" group-title="央视频道",CGTN西语
 https://epg.pw/stream/8b596954e62a0aa4dcf41f14c542dc887f189abc7ce6ce217e03593fb27f1177.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视频道",电视指南
-http://minecraft.qc0727.top:22222/udp/239.45.1.73:5140
+http://116.227.10.196:2048/udp/239.45.1.73:5140
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视频道",电视指南
 http://vpn.rogerxlj.top:9998/udp/239.45.1.73:5140
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视频道",电视指南
@@ -2300,7 +2300,7 @@ http://116.231.244.25:8888/udp/239.45.1.73:5140
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视频道",电视指南
 http://yuancw.eu.org:8088/udp/239.45.1.73:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视频道",风云足球
-http://minecraft.qc0727.top:22222/udp/239.45.0.43:5140
+http://116.227.10.196:2048/udp/239.45.0.43:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视频道",风云足球
 http://vpn.rogerxlj.top:9998/udp/239.45.0.43:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视频道",风云足球
@@ -2310,7 +2310,7 @@ http://116.226.57.29:8881/udp/239.45.0.43:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视频道",风云足球
 http://116.231.244.25:8888/udp/239.45.0.43:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视频道",风云足球
-http://minecraft.qc0727.top:22222/udp/239.45.1.75:5140
+http://116.227.10.196:2048/udp/239.45.1.75:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视频道",风云足球
 http://vpn.rogerxlj.top:9998/udp/239.45.1.75:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视频道",风云足球
@@ -2380,7 +2380,7 @@ http://116.231.244.25:8888/udp/239.45.1.75:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视频道",风云足球
 http://yuancw.eu.org:8088/udp/239.45.1.75:5140
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视频道",女性时尚
-http://minecraft.qc0727.top:22222/udp/239.45.0.47:5140
+http://116.227.10.196:2048/udp/239.45.0.47:5140
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视频道",女性时尚
 http://vpn.rogerxlj.top:9998/udp/239.45.0.47:5140
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视频道",女性时尚
@@ -2456,7 +2456,7 @@ http://119.135.1.64:9999/udp/239.11.0.185:1025
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.112114.eu.org/logo/卫生健康.png" group-title="央视频道",卫生健康
 https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视频道",第一剧场
-http://minecraft.qc0727.top:22222/udp/239.45.0.51:5140
+http://116.227.10.196:2048/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视频道",第一剧场
 http://vpn.rogerxlj.top:9998/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视频道",第一剧场
@@ -2518,7 +2518,7 @@ http://119.135.1.64:9999/udp/239.11.0.67:1025
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视频道",第一剧场
 http://www.lizhinas.top:8688/rtp/239.252.219.86:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视频道",风云剧场
-http://minecraft.qc0727.top:22222/udp/239.45.0.50:5140
+http://116.227.10.196:2048/udp/239.45.0.50:5140
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视频道",风云剧场
 http://vpn.rogerxlj.top:9998/udp/239.45.0.50:5140
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视频道",风云剧场
@@ -2578,7 +2578,7 @@ http://119.135.1.64:9999/udp/239.11.0.65:1025
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视频道",风云剧场
 http://www.lizhinas.top:8688/rtp/239.252.219.89:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视频道",风云音乐
-http://minecraft.qc0727.top:22222/udp/239.45.0.52:5140
+http://116.227.10.196:2048/udp/239.45.0.52:5140
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视频道",风云音乐
 http://vpn.rogerxlj.top:9998/udp/239.45.0.52:5140
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视频道",风云音乐
@@ -2646,7 +2646,7 @@ http://www.zz49.top:4022/udp/239.253.43.29:5146
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视频道",风云音乐
 http://www.zz49.top:4022/udp/239.253.43.6:5146
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视频道",怀旧剧场
-http://minecraft.qc0727.top:22222/udp/239.45.0.49:5140
+http://116.227.10.196:2048/udp/239.45.0.49:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视频道",怀旧剧场
 http://vpn.rogerxlj.top:9998/udp/239.45.0.49:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视频道",怀旧剧场
@@ -2718,7 +2718,7 @@ http://119.135.1.64:9999/udp/239.11.0.64:1025
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视频道",怀旧剧场
 http://www.lizhinas.top:8688/rtp/239.252.219.90:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视频道",央视高网
-http://minecraft.qc0727.top:22222/udp/239.45.0.48:5140
+http://116.227.10.196:2048/udp/239.45.0.48:5140
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视频道",央视高网
 http://vpn.rogerxlj.top:9998/udp/239.45.0.48:5140
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视频道",央视高网
@@ -2730,7 +2730,7 @@ http://116.231.244.25:8888/udp/239.45.0.48:5140
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视频道",央视高网
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.154:9226
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视频道",央视高网
-http://minecraft.qc0727.top:22222/udp/239.45.1.72:5140
+http://116.227.10.196:2048/udp/239.45.1.72:5140
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视频道",央视高网
 http://vpn.rogerxlj.top:9998/udp/239.45.1.72:5140
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视频道",央视高网
@@ -2800,7 +2800,7 @@ http://zhyfans.mycloudnas.com:8000/udp/239.93.1.54:5140
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视频道",央视高网
 http://www.iwumei.cc:9527/udp/239.93.1.54:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视频道",文化精品
-http://minecraft.qc0727.top:22222/udp/239.45.0.53:5140
+http://116.227.10.196:2048/udp/239.45.0.53:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视频道",文化精品
 http://vpn.rogerxlj.top:9998/udp/239.45.0.53:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视频道",文化精品
@@ -2810,7 +2810,7 @@ http://116.226.57.29:8881/udp/239.45.0.53:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视频道",文化精品
 http://116.231.244.25:8888/udp/239.45.0.53:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视频道",文化精品
-http://minecraft.qc0727.top:22222/udp/239.45.1.17:5140
+http://116.227.10.196:2048/udp/239.45.1.17:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视频道",文化精品
 http://vpn.rogerxlj.top:9998/udp/239.45.1.17:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视频道",文化精品
@@ -2878,7 +2878,7 @@ http://116.231.244.25:8888/udp/239.45.1.17:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视频道",文化精品
 http://yuancw.eu.org:8088/udp/239.45.1.17:5140
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视频道",世界地理
-http://minecraft.qc0727.top:22222/udp/239.45.0.46:5140
+http://116.227.10.196:2048/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视频道",世界地理
 http://vpn.rogerxlj.top:9998/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视频道",世界地理
@@ -2940,7 +2940,7 @@ http://www.lizhinas.top:8688/rtp/239.252.219.93:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视频道",世界地理
 http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视频道",央视台球
-http://minecraft.qc0727.top:22222/udp/239.45.0.44:5140
+http://116.227.10.196:2048/udp/239.45.0.44:5140
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视频道",央视台球
 http://vpn.rogerxlj.top:9998/udp/239.45.0.44:5140
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视频道",央视台球
@@ -2996,7 +2996,7 @@ http://www.lizhinas.top:8688/rtp/239.252.219.80:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视频道",央视台球
 http://php.jdshipin.com/TVOD/iptv.php?id=ystq
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视频道",兵器科技
-http://minecraft.qc0727.top:22222/udp/239.45.0.45:5140
+http://116.227.10.196:2048/udp/239.45.0.45:5140
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视频道",兵器科技
 http://vpn.rogerxlj.top:9998/udp/239.45.0.45:5140
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视频道",兵器科技
@@ -3006,7 +3006,7 @@ http://116.226.57.29:8881/udp/239.45.0.45:5140
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视频道",兵器科技
 http://116.231.244.25:8888/udp/239.45.0.45:5140
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视频道",兵器科技
-http://minecraft.qc0727.top:22222/udp/239.45.1.74:5140
+http://116.227.10.196:2048/udp/239.45.1.74:5140
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视频道",兵器科技
 http://vpn.rogerxlj.top:9998/udp/239.45.1.74:5140
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视频道",兵器科技
@@ -3390,7 +3390,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/上海新闻综合.png" group-title="上海频道",上海新闻综合
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/上海新闻综合.png" group-title="上海频道",上海新闻综合
-http://minecraft.qc0727.top:22222/udp/239.45.3.209:5140
+http://116.227.10.196:2048/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/上海新闻综合.png" group-title="上海频道",上海新闻综合
 http://222.64.125.110:58888/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/上海新闻综合.png" group-title="上海频道",上海新闻综合
@@ -3446,7 +3446,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.112114.eu.org/logo/上海都市.png" group-title="上海频道",上海都市
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.112114.eu.org/logo/上海都市.png" group-title="上海频道",上海都市
-http://minecraft.qc0727.top:22222/udp/239.45.3.236:5140
+http://116.227.10.196:2048/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.112114.eu.org/logo/上海都市.png" group-title="上海频道",上海都市
 http://222.64.125.110:58888/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.112114.eu.org/logo/上海都市.png" group-title="上海频道",上海都市
@@ -3536,7 +3536,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265021/1.m3u8?channel-id=ystenl
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.112114.eu.org/logo/纪实人文.png" group-title="上海频道",纪实人文
 http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010282/1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.112114.eu.org/logo/纪实人文.png" group-title="上海频道",纪实人文
-http://minecraft.qc0727.top:22222/udp/239.45.3.212:5140
+http://116.227.10.196:2048/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.112114.eu.org/logo/纪实人文.png" group-title="上海频道",纪实人文
 http://222.64.125.110:58888/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.112114.eu.org/logo/纪实人文.png" group-title="上海频道",纪实人文
@@ -3596,7 +3596,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.112114.eu.org/logo/东方影视.png" group-title="上海频道",东方影视
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.112114.eu.org/logo/东方影视.png" group-title="上海频道",东方影视
-http://minecraft.qc0727.top:22222/udp/239.45.3.237:5140
+http://116.227.10.196:2048/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.112114.eu.org/logo/东方影视.png" group-title="上海频道",东方影视
 http://222.64.125.110:58888/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.112114.eu.org/logo/东方影视.png" group-title="上海频道",东方影视
@@ -3654,7 +3654,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.112114.eu.org/logo/第一财经.png" group-title="上海频道",第一财经
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.112114.eu.org/logo/第一财经.png" group-title="上海频道",第一财经
-http://minecraft.qc0727.top:22222/udp/239.45.3.211:5140
+http://116.227.10.196:2048/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.112114.eu.org/logo/第一财经.png" group-title="上海频道",第一财经
 http://222.64.125.110:58888/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.112114.eu.org/logo/第一财经.png" group-title="上海频道",第一财经
@@ -3700,7 +3700,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="上海频道",五星体育
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="上海频道",五星体育
-http://minecraft.qc0727.top:22222/udp/239.45.3.210:5140
+http://116.227.10.196:2048/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="上海频道",五星体育
 http://222.64.125.110:58888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="上海频道",五星体育
@@ -3770,7 +3770,7 @@ http://gongjin.x3322.net:8686/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.112114.eu.org/logo/哈哈炫动.png" group-title="上海频道",哈哈炫动
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.112114.eu.org/logo/哈哈炫动.png" group-title="上海频道",哈哈炫动
-http://minecraft.qc0727.top:22222/udp/239.45.1.55:5140
+http://116.227.10.196:2048/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.112114.eu.org/logo/哈哈炫动.png" group-title="上海频道",哈哈炫动
 http://222.64.125.110:58888/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.112114.eu.org/logo/哈哈炫动.png" group-title="上海频道",哈哈炫动
@@ -3834,7 +3834,7 @@ http://gongjin.x3322.net:8686/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.112114.eu.org/logo/上海外语.png" group-title="上海频道",上海外语
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.112114.eu.org/logo/上海外语.png" group-title="上海频道",上海外语
-http://minecraft.qc0727.top:22222/udp/239.45.1.127:5140
+http://116.227.10.196:2048/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.112114.eu.org/logo/上海外语.png" group-title="上海频道",上海外语
 http://222.64.125.110:58888/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.112114.eu.org/logo/上海外语.png" group-title="上海频道",上海外语
@@ -3906,7 +3906,7 @@ http://116.233.34.25:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.112114.eu.org/logo/上海教育.png" group-title="上海频道",上海教育
 http://gongjin.x3322.net:8686/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.112114.eu.org/logo/上海教育.png" group-title="上海频道",上海教育
-http://minecraft.qc0727.top:22222/udp/239.45.0.13:5140
+http://116.227.10.196:2048/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.112114.eu.org/logo/上海教育.png" group-title="上海频道",上海教育
 http://222.64.125.110:58888/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.112114.eu.org/logo/上海教育.png" group-title="上海频道",上海教育
@@ -4000,7 +4000,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
-http://minecraft.qc0727.top:22222/udp/239.45.3.135:5140
+http://116.227.10.196:2048/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
 http://222.64.125.110:58888/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.112114.eu.org/logo/乐游.png" group-title="上海频道",乐游
@@ -4068,9 +4068,9 @@ http://gongjin.x3322.net:8686/udp/239.45.1.118:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.112114.eu.org/logo/金色学堂.png" group-title="上海频道",金色学堂
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.112114.eu.org/logo/金色学堂.png" group-title="上海频道",金色学堂
-http://minecraft.qc0727.top:22222/udp/239.45.0.9:5140
+http://116.227.10.196:2048/udp/239.45.0.9:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.112114.eu.org/logo/金色学堂.png" group-title="上海频道",金色学堂
-http://minecraft.qc0727.top:22222/udp/239.45.1.118:5140
+http://116.227.10.196:2048/udp/239.45.1.118:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.112114.eu.org/logo/金色学堂.png" group-title="上海频道",金色学堂
 http://222.64.125.110:58888/udp/239.45.0.9:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.112114.eu.org/logo/金色学堂.png" group-title="上海频道",金色学堂
@@ -4144,7 +4144,7 @@ http://gongjin.x3322.net:8686/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.112114.eu.org/logo/七彩戏剧.png" group-title="上海频道",七彩戏剧
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.112114.eu.org/logo/七彩戏剧.png" group-title="上海频道",七彩戏剧
-http://minecraft.qc0727.top:22222/udp/239.45.0.16:5140
+http://116.227.10.196:2048/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.112114.eu.org/logo/七彩戏剧.png" group-title="上海频道",七彩戏剧
 http://222.64.125.110:58888/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.112114.eu.org/logo/七彩戏剧.png" group-title="上海频道",七彩戏剧
@@ -4204,7 +4204,7 @@ http://gongjin.x3322.net:8686/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.112114.eu.org/logo/法治天地.png" group-title="上海频道",法治天地
 http://gslbservzqhsw.itv.cmvideo.cn/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.112114.eu.org/logo/法治天地.png" group-title="上海频道",法治天地
-http://minecraft.qc0727.top:22222/udp/239.45.1.46:5140
+http://116.227.10.196:2048/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.112114.eu.org/logo/法治天地.png" group-title="上海频道",法治天地
 http://222.64.125.110:58888/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.112114.eu.org/logo/法治天地.png" group-title="上海频道",法治天地
@@ -4266,7 +4266,7 @@ http://gongjin.x3322.net:8686/udp/239.45.0.17:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.112114.eu.org/logo/东方财经.png" group-title="上海频道",东方财经
 http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.112114.eu.org/logo/东方财经.png" group-title="上海频道",东方财经
-http://minecraft.qc0727.top:22222/udp/239.45.0.17:5140
+http://116.227.10.196:2048/udp/239.45.0.17:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.112114.eu.org/logo/东方财经.png" group-title="上海频道",东方财经
 http://222.64.125.110:58888/udp/239.45.0.17:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.112114.eu.org/logo/东方财经.png" group-title="上海频道",东方财经
@@ -4342,9 +4342,9 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/1.m3u8?channel-id=bestzb
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.112114.eu.org/logo/欢笑剧场.png" group-title="上海频道",欢笑剧场
 http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.112114.eu.org/logo/欢笑剧场.png" group-title="上海频道",欢笑剧场
-http://minecraft.qc0727.top:22222/udp/239.45.1.4:5140
+http://116.227.10.196:2048/udp/239.45.1.4:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.112114.eu.org/logo/欢笑剧场.png" group-title="上海频道",欢笑剧场
-http://minecraft.qc0727.top:22222/udp/239.45.3.196:5140
+http://116.227.10.196:2048/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.112114.eu.org/logo/欢笑剧场.png" group-title="上海频道",欢笑剧场
 http://222.64.125.110:58888/udp/239.45.1.4:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.112114.eu.org/logo/欢笑剧场.png" group-title="上海频道",欢笑剧场
@@ -4530,7 +4530,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.112114.eu.org/logo/都市剧场.png" group-title="上海频道",都市剧场
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.112114.eu.org/logo/都市剧场.png" group-title="上海频道",都市剧场
-http://minecraft.qc0727.top:22222/udp/239.45.3.136:5140
+http://116.227.10.196:2048/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.112114.eu.org/logo/都市剧场.png" group-title="上海频道",都市剧场
 http://222.64.125.110:58888/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.112114.eu.org/logo/都市剧场.png" group-title="上海频道",都市剧场
@@ -4604,7 +4604,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.112114.eu.org/logo/动漫秀场.png" group-title="上海频道",动漫秀场
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.112114.eu.org/logo/动漫秀场.png" group-title="上海频道",动漫秀场
-http://minecraft.qc0727.top:22222/udp/239.45.3.134:5140
+http://116.227.10.196:2048/udp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.112114.eu.org/logo/动漫秀场.png" group-title="上海频道",动漫秀场
 http://222.64.125.110:58888/udp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.112114.eu.org/logo/动漫秀场.png" group-title="上海频道",动漫秀场
@@ -4666,7 +4666,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.112114.eu.org/logo/生活时尚.png" group-title="上海频道",生活时尚
 http://gslbservzqhsw.itv.cmvideo.cn/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.112114.eu.org/logo/生活时尚.png" group-title="上海频道",生活时尚
-http://minecraft.qc0727.top:22222/udp/239.45.3.132:5140
+http://116.227.10.196:2048/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.112114.eu.org/logo/生活时尚.png" group-title="上海频道",生活时尚
 http://222.64.125.110:58888/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.112114.eu.org/logo/生活时尚.png" group-title="上海频道",生活时尚
@@ -4726,7 +4726,7 @@ http://gongjin.x3322.net:8686/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.112114.eu.org/logo/游戏风云.png" group-title="上海频道",游戏风云
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.112114.eu.org/logo/游戏风云.png" group-title="上海频道",游戏风云
-http://minecraft.qc0727.top:22222/udp/239.45.3.131:5140
+http://116.227.10.196:2048/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.112114.eu.org/logo/游戏风云.png" group-title="上海频道",游戏风云
 http://222.64.125.110:58888/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.112114.eu.org/logo/游戏风云.png" group-title="上海频道",游戏风云
@@ -4768,7 +4768,7 @@ https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.
 #EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://epg.112114.eu.org/logo/崇明电视台.png" group-title="上海频道",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",嘉定电视台
-http://minecraft.qc0727.top:22222/udp/239.45.3.185:5140
+http://116.227.10.196:2048/udp/239.45.3.185:5140
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",嘉定电视台
 http://vpn.rogerxlj.top:9998/udp/239.45.3.185:5140
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海频道",嘉定电视台
@@ -5548,7 +5548,7 @@ http://www.iwumei.cc:9527/udp/239.93.42.2:5140
 #EXTINF:-1 tvg-name="百视通体育直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通体育直播-1
 http://gongjin.x3322.net:8686/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-name="百视通体育直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通体育直播-1
-http://minecraft.qc0727.top:22222/udp/239.45.3.139:5140
+http://116.227.10.196:2048/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-name="百视通体育直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通体育直播-1
 http://222.64.125.110:58888/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-name="百视通体育直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通体育直播-1
@@ -5562,7 +5562,7 @@ http://116.231.244.25:8888/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-name="百视通体育直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通体育直播-1
 http://yuancw.eu.org:8088/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-name="百视通体育直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通体育直播-2
-http://minecraft.qc0727.top:22222/udp/239.45.3.53:5140
+http://116.227.10.196:2048/udp/239.45.3.53:5140
 #EXTINF:-1 tvg-name="百视通体育直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通体育直播-2
 http://222.64.125.110:58888/udp/239.45.3.53:5140
 #EXTINF:-1 tvg-name="百视通体育直播-2" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育频道",百视通体育直播-2
@@ -8624,7 +8624,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=emdy4k
 #EXTINF:-1 tvg-name="BesTV" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="娱乐频道",BesTV
 http://www.jeremyoto.com:82/rtp/233.50.201.201:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
-http://minecraft.qc0727.top:22222/udp/239.45.0.42:5140
+http://116.227.10.196:2048/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
 http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
@@ -8660,7 +8660,7 @@ http://171.110.55.49:4200/udp/239.81.0.240:4056
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
-http://minecraft.qc0727.top:22222/udp/239.45.0.40:5140
+http://116.227.10.196:2048/udp/239.45.0.40:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
 http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
@@ -8696,7 +8696,7 @@ http://171.110.55.49:4200/udp/239.81.0.238:4056
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
 http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
-http://minecraft.qc0727.top:22222/udp/239.45.0.41:5140
+http://116.227.10.196:2048/udp/239.45.0.41:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
 http://vpn.rogerxlj.top:9998/udp/239.45.0.41:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
@@ -10472,9 +10472,9 @@ http://home.nuaa.us.to:4000/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="娱乐频道",百事通4K
 http://home.nuaa.us.to:4000/udp/239.45.3.107:5140
 #EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="娱乐频道",百事通4K
-http://minecraft.qc0727.top:22222/udp/239.45.1.42:5140
+http://116.227.10.196:2048/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="娱乐频道",百事通4K
-http://minecraft.qc0727.top:22222/udp/239.45.3.107:5140
+http://116.227.10.196:2048/udp/239.45.3.107:5140
 #EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="娱乐频道",百事通4K
 http://222.64.125.110:58888/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="娱乐频道",百事通4K
@@ -11080,7 +11080,7 @@ http://home.nuaa.us.to:4000/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐频道",中国天气
 http://202.103.213.10:8888/udp/239.81.0.63:4056
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐频道",中国天气
-http://minecraft.qc0727.top:22222/udp/239.45.1.47:5140
+http://116.227.10.196:2048/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐频道",中国天气
 http://222.64.125.110:58888/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐频道",中国天气
@@ -11900,7 +11900,7 @@ http://202.103.213.10:8888/udp/239.81.0.62:4056
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://202.103.213.10:8888/udp/239.81.0.64:4056
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
-http://minecraft.qc0727.top:22222/udp/239.45.0.8:5140
+http://116.227.10.196:2048/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://222.64.125.110:58888/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
@@ -17304,7 +17304,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031203/1.m3u8?channel-id=bestzb
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
 http://home.nuaa.us.to:4000/udp/239.45.1.45:5140
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
-http://minecraft.qc0727.top:22222/udp/239.45.1.45:5140
+http://116.227.10.196:2048/udp/239.45.1.45:5140
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
 http://222.64.125.110:58888/udp/239.45.1.45:5140
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
@@ -17448,7 +17448,7 @@ http://202.103.213.75:8888/udp/239.81.0.236:4056
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南频道",湖南先锋乒羽
 http://xuys.top:8888/udp/225.1.1.219:5002
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南频道",湖南先锋乒羽
-http://minecraft.qc0727.top:22222/udp/239.45.3.43:5140
+http://116.227.10.196:2048/udp/239.45.3.43:5140
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南频道",湖南先锋乒羽
 http://222.64.125.110:58888/udp/239.45.3.43:5140
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南频道",湖南先锋乒羽
