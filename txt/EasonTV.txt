@@ -13839,7 +13839,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 深圳龙岗,rtmp://lglivepull.sznews.com/live/2647
 深圳众创TV,rtmp://lglivepull.sznews.com/live/2645
 
-晴天源_体育,#genre#
+晴天体育源,#genre#
 Astro Arena,p2p://generationnexxxt.com:19806/0bcdb6af8ec84dbabe58277e6a276219
 Astro Arena 2,p2p://generationnexxxt.com:19806/09d26ac8e0414694ad8285a9d7289dc3
 Astro SuperSport,p2p://generationnexxxt.com:19806/66c9a1c30009852153e38337084f562b
@@ -13901,7 +13901,7 @@ Z频道,p2p://generationnexxxt.com:19806/a8b5b0745cf742eea2e1b8ef696a7574
 新视觉,p2p://generationnexxxt.com:19806/0e5b07aee4ed413fbafd4e6d1816cef6
 智林体育台,p2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118
 
-晴天源_台湾,#genre#
+晴天台湾源,#genre#
 amc电影台,p2p://generationnexxxt.com:19806/0091215ed2cc4975abfd580dc83a2af1
 Animax,p2p://generationnexxxt.com:19806/cb00c0c9bd7547aeb88abef70afd4981
 AXN,p2p://generationnexxxt.com:19806/0de5c98575a9438ab79941da02cdd289
@@ -14043,7 +14043,7 @@ WARNER TV,p2p://generationnexxxt.com:19806/89989aef89064df6af80054d37dae64d
 中天综合台,p2p://generationnexxxt.com:19806/d07c7ed033fa4d66901af75caab59e06
 罪案侦缉频道,p2p://generationnexxxt.com:19806/95625d26452949c1a6ee4f6dbc71d230
 
-晴天源_大陆,#genre#
+晴天大陆源,#genre#
 广东影视,p2p://generationnexxxt.com:19806/b1137b642b2b4db686e7a604473a2b73
 广州综合,p2p://generationnexxxt.com:19806/07806c412a664a2e9da0c3b8d49f453b
 广州新闻,p2p://generationnexxxt.com:19806/61e6fce7eed54ba3957ed11ee31a1d3b
