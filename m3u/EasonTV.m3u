@@ -27537,695 +27537,428 @@ rtmp://tv.lasatv.cn/channellive/lswlpd
 rtmp://lglivepull.sznews.com/live/2647
 #EXTINF:-1 tvg-name="深圳众创TV" tvg-logo="https://epg.112114.eu.org/logo/深圳众创TV.png" group-title="RTMP源",深圳众创TV
 rtmp://lglivepull.sznews.com/live/2645
-#EXTINF:-1 tvg-name="beIN Sports" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天源",beIN Sports
-P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-#EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天源",beIN Sports 2
-P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
-#EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天源",beIN Sports 2
-P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
-#EXTINF:-1 tvg-name="beIN Sports 3" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天源",beIN Sports 3
-P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.112114.eu.org/logo/ESPN.png" group-title="晴天源",ESPN
-P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.112114.eu.org/logo/纬来体育.png" group-title="晴天源",纬来体育
-P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
-#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育1台.png" group-title="晴天源",爱尔达体育1台
-P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
-#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育1台.png" group-title="晴天源",爱尔达体育1台
-P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
-#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育1台.png" group-title="晴天源",爱尔达体育1台
-P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
-#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育2台.png" group-title="晴天源",爱尔达体育2台
-P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
-#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育2台.png" group-title="晴天源",爱尔达体育2台
-P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
-#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育3台.png" group-title="晴天源",爱尔达体育3台
-P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
-#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育3台.png" group-title="晴天源",爱尔达体育3台
-P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
-#EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育4台.png" group-title="晴天源",爱尔达体育4台
-P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
-#EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育4台.png" group-title="晴天源",爱尔达体育4台
-P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
-#EXTINF:-1 tvg-name="ELEVEN体育1台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN体育1台.png" group-title="晴天源",ELEVEN体育1台
-P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
-#EXTINF:-1 tvg-name="ELEVEN体育2台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN体育2台.png" group-title="晴天源",ELEVEN体育2台
-P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
-#EXTINF:-1 tvg-name="博斯高球台" tvg-logo="https://epg.112114.eu.org/logo/博斯高球台.png" group-title="晴天源",博斯高球台
-P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e
-#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://epg.112114.eu.org/logo/博斯高球二台.png" group-title="晴天源",博斯高球二台
-P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
-#EXTINF:-1 tvg-name="博斯高球台" tvg-logo="https://epg.112114.eu.org/logo/博斯高球台.png" group-title="晴天源",博斯高球台
-P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
-#EXTINF:-1 tvg-name="博斯魅力网" tvg-logo="https://epg.112114.eu.org/logo/博斯魅力网.png" group-title="晴天源",博斯魅力网
-P2p://generationnexxxt.com:19806/e8db82c6084a4ae2b114ea7c5403b7a2
-#EXTINF:-1 tvg-name="博斯网球台" tvg-logo="https://epg.112114.eu.org/logo/博斯网球台.png" group-title="晴天源",博斯网球台
-P2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4
-#EXTINF:-1 tvg-name="博斯网球台" tvg-logo="https://epg.112114.eu.org/logo/博斯网球台.png" group-title="晴天源",博斯网球台
-P2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd
-#EXTINF:-1 tvg-name="博斯无限台" tvg-logo="https://epg.112114.eu.org/logo/博斯无限台.png" group-title="晴天源",博斯无限台
-P2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf
-#EXTINF:-1 tvg-name="博斯无限台" tvg-logo="https://epg.112114.eu.org/logo/博斯无限台.png" group-title="晴天源",博斯无限台
-P2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c
-#EXTINF:-1 tvg-name="博斯无限二台" tvg-logo="https://epg.112114.eu.org/logo/博斯无限二台.png" group-title="晴天源",博斯无限二台
-P2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f
-#EXTINF:-1 tvg-name="博斯运动台" tvg-logo="https://epg.112114.eu.org/logo/博斯运动台.png" group-title="晴天源",博斯运动台
-P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4
-#EXTINF:-1 tvg-name="博斯运动台" tvg-logo="https://epg.112114.eu.org/logo/博斯运动台.png" group-title="晴天源",博斯运动台
-P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70
-#EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="https://epg.112114.eu.org/logo/博斯运动二台.png" group-title="晴天源",博斯运动二台
-P2p://generationnexxxt.com:19806/9b8a1167e7484391ab3945d2dcb29170
-#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://epg.112114.eu.org/logo/智林体育台.png" group-title="晴天源",智林体育台
-P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.112114.eu.org/logo/纬来育乐.png" group-title="晴天源",纬来育乐
-P2p://generationnexxxt.com:19806/582d689b3362424fbf99541335e57ba2
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.112114.eu.org/logo/纬来育乐.png" group-title="晴天源",纬来育乐
-P2p://generationnexxxt.com:19806/5c2e47cfcc864451b73783def36674bb
-#EXTINF:-1 tvg-name="纬来综合" tvg-logo="https://epg.112114.eu.org/logo/纬来综合.png" group-title="晴天源",纬来综合
-P2p://generationnexxxt.com:19806/9ca438ac1af6416087c98ee06bb3e512
-#EXTINF:-1 tvg-name="纬来综合" tvg-logo="https://epg.112114.eu.org/logo/纬来综合.png" group-title="晴天源",纬来综合
-P2p://generationnexxxt.com:19806/b936f6c565994dc88e2143be7af35c25
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://epg.112114.eu.org/logo/纬来电影.png" group-title="晴天源",纬来电影
-P2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://epg.112114.eu.org/logo/纬来电影.png" group-title="晴天源",纬来电影
-P2p://generationnexxxt.com:19806/c919ad41b4a9444bbc9fdf332a13724d
-#EXTINF:-1 tvg-name="纬来戏剧" tvg-logo="https://epg.112114.eu.org/logo/纬来戏剧.png" group-title="晴天源",纬来戏剧
-P2p://generationnexxxt.com:19806/8a65b7456abb49f0bd564d6741cd4542
-#EXTINF:-1 tvg-name="纬来精采" tvg-logo="https://epg.112114.eu.org/logo/纬来精采.png" group-title="晴天源",纬来精采
-P2p://generationnexxxt.com:19806/28427e22e6804e4a8ebd65671e789376
-#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://epg.112114.eu.org/logo/纬来日本.png" group-title="晴天源",纬来日本
-P2p://generationnexxxt.com:19806/f975f456c2124eb78e6afaad3a9db300
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="晴天源",CHC影迷电影
-P2p://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="晴天源",CHC影迷电影
-P2p://generationnexxxt.com:19806/71dc6da8b03a42059dae9204b5395a89
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="晴天源",CHC家庭影院
-P2p://generationnexxxt.com:19806/9151cec1ea824240b5ee3be1a48ae2c9
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="晴天源",CHC家庭影院
-P2p://generationnexxxt.com:19806/8083b7def9404a41808df7039034cac8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="晴天源",CHC动作电影
-P2p://generationnexxxt.com:19806/ba97d7744f9b4bbaac3d6bb6b9e3798b
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="晴天源",CHC动作电影
-P2p://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db55156032
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="晴天源",广东体育
-P2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="晴天源",广东体育
-P2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.112114.eu.org/logo/广东影视.png" group-title="晴天源",广东影视
-P2p://generationnexxxt.com:19806/c77392e78511404799e2e8efd0635304
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.112114.eu.org/logo/魅力足球.png" group-title="晴天源",魅力足球
-P2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.eu.org/logo/新视觉.png" group-title="晴天源",新视觉
-P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.eu.org/logo/新视觉.png" group-title="晴天源",新视觉
-P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="晴天源",星空卫视
-P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="晴天源",重温经典
-P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.112114.eu.org/logo/ESPN.png" group-title="晴天源",ESPN
-P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
-#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://epg.112114.eu.org/logo/ESPN2.png" group-title="晴天源",ESPN2
-P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
-#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://epg.112114.eu.org/logo/ESPN2.png" group-title="晴天源",ESPN2
-P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
-#EXTINF:-1 tvg-name="Eurosport HD" tvg-logo="https://epg.112114.eu.org/logo/Eurosport HD.png" group-title="晴天源",Eurosport HD
-P2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
-#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://epg.112114.eu.org/logo/FOX Sports.png" group-title="晴天源",FOX Sports
-P2p://generationnexxxt.com:19806/5155654699e54b0d9d991cfa61d1ffaa
-#EXTINF:-1 tvg-name="FOX Sports 2" tvg-logo="https://epg.112114.eu.org/logo/FOX Sports 2.png" group-title="晴天源",FOX Sports 2
-P2p://generationnexxxt.com:19806/52a40b5ff52844a6b91af75499354c92
-#EXTINF:-1 tvg-name="NBA" tvg-logo="https://epg.112114.eu.org/logo/NBA.png" group-title="晴天源",NBA
-P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
-#EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Arena.png" group-title="晴天源",Sky Sports Arena
-P2p://generationnexxxt.com:19806/8af96f851dff4de3bc20f74d1c279e20
-#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Cricket.png" group-title="晴天源",Sky Sports Cricket
-P2p://generationnexxxt.com:19806/5ca24cd53f8a4833b81a223e59727c68
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports F1.png" group-title="晴天源",Sky Sports F1
-P2p://generationnexxxt.com:19806/40da6ffe24c64429b68ecbb1ba7391e9
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Main Event.png" group-title="晴天源",Sky Sports Main Event
-P2p://generationnexxxt.com:19806/ef8f88e5ae3a466dab2bd1d312183f0b
-#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Mix.png" group-title="晴天源",Sky Sports Mix
-P2p://generationnexxxt.com:19806/bfdd62d08ea9487ab560a16d2e2cf690
-#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://epg.112114.eu.org/logo/TSN1.png" group-title="晴天源",TSN1
-P2p://generationnexxxt.com:19806/bcf284d14b5f48d4979e980170ff7787
-#EXTINF:-1 tvg-name="TSN2" tvg-logo="https://epg.112114.eu.org/logo/TSN2.png" group-title="晴天源",TSN2
-P2p://generationnexxxt.com:19806/fdbe70a4515c4cb38b3a1fa72d76d425
-#EXTINF:-1 tvg-name="TSN3" tvg-logo="https://epg.112114.eu.org/logo/TSN3.png" group-title="晴天源",TSN3
-P2p://generationnexxxt.com:19806/2b173ec56c6648349d43145a63a33fc1
-#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://epg.112114.eu.org/logo/TSN4.png" group-title="晴天源",TSN4
-P2p://generationnexxxt.com:19806/3482e37f8ed7484ba78e7f4cc3d7733e
-#EXTINF:-1 tvg-name="TSN5" tvg-logo="https://epg.112114.eu.org/logo/TSN5.png" group-title="晴天源",TSN5
-P2p://generationnexxxt.com:19806/8e13a731470b435890b7056a2ed70993
-#EXTINF:-1 tvg-name="600TV" tvg-logo="https://epg.112114.eu.org/logo/600TV.png" group-title="晴天源",600TV
-P2p://generationnexxxt.com:19806/cc580b16770e42c081a08a4ee737b28b
-#EXTINF:-1 tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.eu.org/logo/爱尔达影剧.png" group-title="晴天源",爱尔达影剧
-P2p://generationnexxxt.com:19806/d2fc333d45044f419b16748a28ac19c5
-#EXTINF:-1 tvg-name="澳门-MACAU" tvg-logo="https://epg.112114.eu.org/logo/澳门-MACAU.png" group-title="晴天源",澳门-MACAU
-P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801#P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://epg.112114.eu.org/logo/澳门莲花.png" group-title="晴天源",澳门莲花
-P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242#P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8
-#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://epg.112114.eu.org/logo/八大第一台.png" group-title="晴天源",八大第一台
-P2p://generationnexxxt.com:19806/ef3ddf51945a48beabd3f79eeafe8ac0
-#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://epg.112114.eu.org/logo/八大戏剧台.png" group-title="晴天源",八大戏剧台
-P2p://generationnexxxt.com:19806/a5393bab3516410fb2bd81ea2329f7b3
-#EXTINF:-1 tvg-name="八大优频道" tvg-logo="https://epg.112114.eu.org/logo/八大优频道.png" group-title="晴天源",八大优频道
-P2p://generationnexxxt.com:19806/108382b44b1d4a45ae635297d23a4b61
-#EXTINF:-1 tvg-name="八大优频道" tvg-logo="https://epg.112114.eu.org/logo/八大优频道.png" group-title="晴天源",八大优频道
-P2p://generationnexxxt.com:19806/18013a59708946259a859b90d07b8aac
-#EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://epg.112114.eu.org/logo/八大娱乐台.png" group-title="晴天源",八大娱乐台
-P2p://generationnexxxt.com:19806/5ca416b9a3564813893dc1033310b6ba
-#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://epg.112114.eu.org/logo/八大综合台.png" group-title="晴天源",八大综合台
-P2p://generationnexxxt.com:19806/5bc105affae344648b1b19d46233e6e6
-#EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://epg.112114.eu.org/logo/采昌影剧台.png" group-title="晴天源",采昌影剧台
-P2p://generationnexxxt.com:19806/2f739a4b287f479bbd28c962f1eb6367
-#EXTINF:-1 tvg-name="超视" tvg-logo="https://epg.112114.eu.org/logo/超视.png" group-title="晴天源",超视
-P2p://generationnexxxt.com:19806/9cf45ab03b744e3696aeeb3aec844fa9
-#EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://epg.112114.eu.org/logo/达文西频道.png" group-title="晴天源",达文西频道
-P2p://generationnexxxt.com:19806/170c28c8132b4ce183b4fbf61537dcff
-#EXTINF:-1 tvg-name="大爱" tvg-logo="https://epg.112114.eu.org/logo/大爱.png" group-title="晴天源",大爱
-P2p://generationnexxxt.com:19806/3a1fb2af7f384a148c57899bb1b50dfb
-#EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://epg.112114.eu.org/logo/大爱二台.png" group-title="晴天源",大爱二台
-P2p://generationnexxxt.com:19806/c549d8292cd14ac6a77bf310fba08b65
-#EXTINF:-1 tvg-name="东森财经台" tvg-logo="https://epg.112114.eu.org/logo/东森财经台.png" group-title="晴天源",东森财经台
-P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
-#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森财经新闻台.png" group-title="晴天源",东森财经新闻台
-P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
-#EXTINF:-1 tvg-name="东森电影台" tvg-logo="https://epg.112114.eu.org/logo/东森电影台.png" group-title="晴天源",东森电影台
-P2p://generationnexxxt.com:19806/90fe82037af64fd3bfc08879b08f3e2f
-#EXTINF:-1 tvg-name="东森购物一台" tvg-logo="https://epg.112114.eu.org/logo/东森购物一台.png" group-title="晴天源",东森购物一台
-P2p://generationnexxxt.com:19806/21dbc6f9b1e141f4bbda7573d9af70a9
-#EXTINF:-1 tvg-name="东森购物二台" tvg-logo="https://epg.112114.eu.org/logo/东森购物二台.png" group-title="晴天源",东森购物二台
-P2p://generationnexxxt.com:19806/50299f66ecb24fe1964c5c7818118527
-#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://epg.112114.eu.org/logo/东森戏剧台.png" group-title="晴天源",东森戏剧台
-P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
-#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://epg.112114.eu.org/logo/东森戏剧台.png" group-title="晴天源",东森戏剧台
-P2p://generationnexxxt.com:19806/d6863286fa4a40cbbf9f93bd5c1e5733
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="晴天源",东森新闻台
-P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="晴天源",东森新闻台
-P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="晴天源",东森新闻台
-P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4#P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="晴天源",东森新闻台
-P2p://generationnexxxt.com:19806/f848bf771436495b9ce252af20bea6e2
-#EXTINF:-1 tvg-name="东森洋片台" tvg-logo="https://epg.112114.eu.org/logo/东森洋片台.png" group-title="晴天源",东森洋片台
-P2p://generationnexxxt.com:19806/29384d5c65734485903a3e592c9ef54f
-#EXTINF:-1 tvg-name="东森幼幼台" tvg-logo="https://epg.112114.eu.org/logo/东森幼幼台.png" group-title="晴天源",东森幼幼台
-P2p://generationnexxxt.com:19806/f426ffd2f2744109aedcfaa04fed3a6e
-#EXTINF:-1 tvg-name="东森综合台" tvg-logo="https://epg.112114.eu.org/logo/东森综合台.png" group-title="晴天源",东森综合台
-P2p://generationnexxxt.com:19806/96888fe237044e2e97823cc5e215e1a3
-#EXTINF:-1 tvg-name="动物星球台" tvg-logo="https://epg.112114.eu.org/logo/动物星球台.png" group-title="晴天源",动物星球台
-P2p://generationnexxxt.com:19806/b165132a770741bcac023d15750067d3
-#EXTINF:-1 tvg-name="动物星球台" tvg-logo="https://epg.112114.eu.org/logo/动物星球台.png" group-title="晴天源",动物星球台
-P2p://generationnexxxt.com:19806/e2f475dd35c74f20b7dc33c3204beb23
-#EXTINF:-1 tvg-name="非凡商业台" tvg-logo="https://epg.112114.eu.org/logo/非凡商业台.png" group-title="晴天源",非凡商业台
-P2p://generationnexxxt.com:19806/75d635caf96142a3807ed6c5f7e6240d
-#EXTINF:-1 tvg-name="非凡商业台" tvg-logo="https://epg.112114.eu.org/logo/非凡商业台.png" group-title="晴天源",非凡商业台
-P2p://generationnexxxt.com:19806/75d635caf96142a3807ed6c5f7e6240d
-#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://epg.112114.eu.org/logo/非凡新闻台.png" group-title="晴天源",非凡新闻台
-P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09
-#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://epg.112114.eu.org/logo/非凡新闻台.png" group-title="晴天源",非凡新闻台
-P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09#P2p://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3
-#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://epg.112114.eu.org/logo/非凡新闻台.png" group-title="晴天源",非凡新闻台
-P2p://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="晴天源",凤凰中文
-P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="晴天源",凤凰资讯
-P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.112114.eu.org/logo/凤凰香港.png" group-title="晴天源",凤凰香港
-P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
-#EXTINF:-1 tvg-name="佛卫慈悲台" tvg-logo="https://epg.112114.eu.org/logo/佛卫慈悲台.png" group-title="晴天源",佛卫慈悲台
-P2p://generationnexxxt.com:19806/61d88141c1fe4dccac7b23e365606290
-#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://epg.112114.eu.org/logo/港台电视31.png" group-title="晴天源",港台电视31
-P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f
-#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://epg.112114.eu.org/logo/港台电视32.png" group-title="晴天源",港台电视32
-P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f
-#EXTINF:-1 tvg-name="高点综合台" tvg-logo="https://epg.112114.eu.org/logo/高点综合台.png" group-title="晴天源",高点综合台
-P2p://generationnexxxt.com:19806/434410dec739471d9743acce6fa7db63
-#EXTINF:-1 tvg-name="高点综合台" tvg-logo="https://epg.112114.eu.org/logo/高点综合台.png" group-title="晴天源",高点综合台
-P2p://generationnexxxt.com:19806/87ef49531c3c4f70b86874445d32ff0d
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.112114.eu.org/logo/公视.png" group-title="晴天源",公视
-P2p://generationnexxxt.com:19806/345c7e0b5a7545cfacafed5319da0351
-#EXTINF:-1 tvg-name="公视三台" tvg-logo="https://epg.112114.eu.org/logo/公视三台.png" group-title="晴天源",公视三台
-P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758
-#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://epg.112114.eu.org/logo/公视台语台.png" group-title="晴天源",公视台语台
-P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
-#EXTINF:-1 tvg-name="国兴卫视台" tvg-logo="https://epg.112114.eu.org/logo/国兴卫视台.png" group-title="晴天源",国兴卫视台
-P2p://generationnexxxt.com:19806/341ef44c383e42aabb387120e1dade1c
-#EXTINF:-1 tvg-name="韩国娱乐台" tvg-logo="https://epg.112114.eu.org/logo/韩国娱乐台.png" group-title="晴天源",韩国娱乐台
-P2p://generationnexxxt.com:19806/8f28b72b74e64314b3b36973f682d021
-#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://epg.112114.eu.org/logo/好莱坞电影.png" group-title="晴天源",好莱坞电影
-P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
-#EXTINF:-1 tvg-name="好消息频道" tvg-logo="https://epg.112114.eu.org/logo/好消息频道.png" group-title="晴天源",好消息频道
-P2p://generationnexxxt.com:19806/4d0ca895f6d94917a6d24019ab13bd5a
-#EXTINF:-1 tvg-name="好消息二台" tvg-logo="https://epg.112114.eu.org/logo/好消息二台.png" group-title="晴天源",好消息二台
-P2p://generationnexxxt.com:19806/75d2c136059342dca8535905bdbd3c19
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="晴天源",华视
-P2p://generationnexxxt.com:19806/2ebe6c2c5cfd454ebdc30acc44e683d7
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="晴天源",华视
-P2p://generationnexxxt.com:19806/f2790dcfba0d4f479db8ec97095579af
-#EXTINF:-1 tvg-name="华视新闻台" tvg-logo="https://epg.112114.eu.org/logo/华视新闻台.png" group-title="晴天源",华视新闻台
-P2p://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
-#EXTINF:-1 tvg-name="华视新闻台" tvg-logo="https://epg.112114.eu.org/logo/华视新闻台.png" group-title="晴天源",华视新闻台
-P2p://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
-#EXTINF:-1 tvg-name="寰宇台湾台" tvg-logo="https://epg.112114.eu.org/logo/寰宇台湾台.png" group-title="晴天源",寰宇台湾台
-P2p://generationnexxxt.com:19806/eca259193814499a8bea04411ffceb1e
-#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻台.png" group-title="晴天源",寰宇新闻台
-P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
-#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻台.png" group-title="晴天源",寰宇新闻台
-P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
-#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻台湾台.png" group-title="晴天源",寰宇新闻台湾台
-P2p://generationnexxxt.com:19806/eca259193814499a8bea04411ffceb1e
-#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://epg.112114.eu.org/logo/靖天电影台.png" group-title="晴天源",靖天电影台
-P2p://generationnexxxt.com:19806/37bdc9a3001d4081a0f0885b317d7221
-#EXTINF:-1 tvg-name="靖天国际台" tvg-logo="https://epg.112114.eu.org/logo/靖天国际台.png" group-title="晴天源",靖天国际台
-P2p://generationnexxxt.com:19806/924e7a65eec84eddade5f03c3d5ebb37
-#EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="https://epg.112114.eu.org/logo/靖天欢乐台.png" group-title="晴天源",靖天欢乐台
-P2p://generationnexxxt.com:19806/292ac060fb694ab6bab52a705abd0444
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖天卡通台.png" group-title="晴天源",靖天卡通台
-P2p://generationnexxxt.com:19806/f55c325d0f8b4cac938804f090c50b5c
-#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://epg.112114.eu.org/logo/靖天日本台.png" group-title="晴天源",靖天日本台
-P2p://generationnexxxt.com:19806/a3d3573d8c2543bd81a38c0cf885f56d
-#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://epg.112114.eu.org/logo/靖天戏剧台.png" group-title="晴天源",靖天戏剧台
-P2p://generationnexxxt.com:19806/08786346511f4fbbbbfe0c4e72ad9409
-#EXTINF:-1 tvg-name="靖天映画台" tvg-logo="https://epg.112114.eu.org/logo/靖天映画台.png" group-title="晴天源",靖天映画台
-P2p://generationnexxxt.com:19806/02870872a71c4d2296b35dd02d5a9973
-#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://epg.112114.eu.org/logo/靖天育乐台.png" group-title="晴天源",靖天育乐台
-P2p://generationnexxxt.com:19806/056c144c71cc4b58be94ec2b1bc6409d
-#EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://epg.112114.eu.org/logo/靖天资讯台.png" group-title="晴天源",靖天资讯台
-P2p://generationnexxxt.com:19806/f412c238a0594d74a72da81118a27f98
-#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://epg.112114.eu.org/logo/靖天综合台.png" group-title="晴天源",靖天综合台
-P2p://generationnexxxt.com:19806/9617767eac9b4ce792a24a442e821b13
-#EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖洋卡通台.png" group-title="晴天源",靖洋卡通台
-P2p://generationnexxxt.com:19806/c7d3153e13894863a8d735c907971efd
-#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.eu.org/logo/靖洋戏剧台.png" group-title="晴天源",靖洋戏剧台
-P2p://generationnexxxt.com:19806/0089fb08f1b448b99c18ce438a9f7fc5
-#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://epg.112114.eu.org/logo/镜新闻.png" group-title="晴天源",镜新闻
-P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
-#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://epg.112114.eu.org/logo/镜新闻.png" group-title="晴天源",镜新闻
-P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
-#EXTINF:-1 tvg-name="居家乐活台" tvg-logo="https://epg.112114.eu.org/logo/居家乐活台.png" group-title="晴天源",居家乐活台
-P2p://generationnexxxt.com:19806/695f8cb90c384faaa0a6253d92e35176
-#EXTINF:-1 tvg-name="卡通频道台" tvg-logo="https://epg.112114.eu.org/logo/卡通频道台.png" group-title="晴天源",卡通频道台
-P2p://generationnexxxt.com:19806/7eb800b1540d4aab9365efc149622aa0
-#EXTINF:-1 tvg-name="科学频道台" tvg-logo="https://epg.112114.eu.org/logo/科学频道台.png" group-title="晴天源",科学频道台
-P2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e841668
-#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://epg.112114.eu.org/logo/客家电视台.png" group-title="晴天源",客家电视台
-P2p://generationnexxxt.com:19806/12c8600cdaec420b96693e6cf2e37f67
-#EXTINF:-1 tvg-name="历史频道台" tvg-logo="https://epg.112114.eu.org/logo/历史频道台.png" group-title="晴天源",历史频道台
-P2p://generationnexxxt.com:19806/b43ae6d6c7264673901171201610d68c
-#EXTINF:-1 tvg-name="历史频道台" tvg-logo="https://epg.112114.eu.org/logo/历史频道台.png" group-title="晴天源",历史频道台
-P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47
-#EXTINF:-1 tvg-name="龙华电影台" tvg-logo="https://epg.112114.eu.org/logo/龙华电影台.png" group-title="晴天源",龙华电影台
-P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
-#EXTINF:-1 tvg-name="龙华偶像台" tvg-logo="https://epg.112114.eu.org/logo/龙华偶像台.png" group-title="晴天源",龙华偶像台
-P2p://generationnexxxt.com:19806/a7b822eb3c86487b960d27a273d5e0b6
-#EXTINF:-1 tvg-name="龙华戏剧台" tvg-logo="https://epg.112114.eu.org/logo/龙华戏剧台.png" group-title="晴天源",龙华戏剧台
-P2p://generationnexxxt.com:19806/b3526dee03424c8090e6d4d5e787c56b
-#EXTINF:-1 tvg-name="龙祥电影台" tvg-logo="https://epg.112114.eu.org/logo/龙祥电影台.png" group-title="晴天源",龙祥电影台
-P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9
-#EXTINF:-1 tvg-name="美食星球台" tvg-logo="https://epg.112114.eu.org/logo/美食星球台.png" group-title="晴天源",美食星球台
-P2p://generationnexxxt.com:19806/02a89e372e1344d0b74c5b288d4d1cea
-#EXTINF:-1 tvg-name="美食星球台" tvg-logo="https://epg.112114.eu.org/logo/美食星球台.png" group-title="晴天源",美食星球台
-P2p://generationnexxxt.com:19806/603ff2b4a3b34834bbe7bbc04b6b8d78
-#EXTINF:-1 tvg-name="美亚电影国" tvg-logo="https://epg.112114.eu.org/logo/美亚电影国.png" group-title="晴天源",美亚电影国
-P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
-#EXTINF:-1 tvg-name="美亚电影粤" tvg-logo="https://epg.112114.eu.org/logo/美亚电影粤.png" group-title="晴天源",美亚电影粤
-P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="晴天源",民视
-P2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="晴天源",民视
-P2p://generationnexxxt.com:19806/710b3fa51d9746d982e51411e5a49400
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.112114.eu.org/logo/民视第一台.png" group-title="晴天源",民视第一台
-P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.112114.eu.org/logo/民视第一台.png" group-title="晴天源",民视第一台
-P2p://generationnexxxt.com:19806/c29c4ad3a69749f4908e9ae4cab91032
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://epg.112114.eu.org/logo/民视台湾台.png" group-title="晴天源",民视台湾台
-P2p://generationnexxxt.com:19806/38f827cbd65f4fd8af9c173dc13f6cc7
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.112114.eu.org/logo/民视新闻台.png" group-title="晴天源",民视新闻台
-P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.112114.eu.org/logo/民视新闻台.png" group-title="晴天源",民视新闻台
-P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
-#EXTINF:-1 tvg-name="尼克频道台" tvg-logo="https://epg.112114.eu.org/logo/尼克频道台.png" group-title="晴天源",尼克频道台
-P2p://generationnexxxt.com:19806/1d8cc2412f824c3c888a5d91d241910c
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.112114.eu.org/logo/年代新闻.png" group-title="晴天源",年代新闻
-P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.112114.eu.org/logo/年代新闻.png" group-title="晴天源",年代新闻
-P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.112114.eu.org/logo/年代新闻.png" group-title="晴天源",年代新闻
-P2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.112114.eu.org/logo/年代新闻.png" group-title="晴天源",年代新闻
-P2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.112114.eu.org/logo/年代新闻.png" group-title="晴天源",年代新闻
-P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc#P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
-#EXTINF:-1 tvg-name="霹雳台湾台" tvg-logo="https://epg.112114.eu.org/logo/霹雳台湾台.png" group-title="晴天源",霹雳台湾台
-P2p://generationnexxxt.com:19806/0e3ab414dfb34fccb76d20665cd03da4
-#EXTINF:-1 tvg-name="霹雳台湾台" tvg-logo="https://epg.112114.eu.org/logo/霹雳台湾台.png" group-title="晴天源",霹雳台湾台
-P2p://generationnexxxt.com:19806/28662f792e3745e6893da9c2f2f94575
-#EXTINF:-1 tvg-name="人间卫视台" tvg-logo="https://epg.112114.eu.org/logo/人间卫视台.png" group-title="晴天源",人间卫视台
-P2p://generationnexxxt.com:19806/6c97041f5da4437597c4f045b19b28c0
-#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://epg.112114.eu.org/logo/三立都会台.png" group-title="晴天源",三立都会台
-P2p://generationnexxxt.com:19806/d246662584364ea6aad39cb2c7767eec
-#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://epg.112114.eu.org/logo/三立台湾台.png" group-title="晴天源",三立台湾台
-P2p://generationnexxxt.com:19806/82fb76c0b7d7487cb42604a970c4d2da
-#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://epg.112114.eu.org/logo/三立台湾台.png" group-title="晴天源",三立台湾台
-P2p://generationnexxxt.com:19806/82c3325594cc42bcb28b18426623428e
-#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://epg.112114.eu.org/logo/三立戏剧台.png" group-title="晴天源",三立戏剧台
-P2p://generationnexxxt.com:19806/3e3919a7f09443d1b07bdea99f22e42f
-#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="晴天源",三立新闻台
-P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
-#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="晴天源",三立新闻台
-P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
-#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="晴天源",三立新闻台
-P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d#P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
-#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://epg.112114.eu.org/logo/三立综合台.png" group-title="晴天源",三立综合台
-P2p://generationnexxxt.com:19806/a29710ab6188439f8cfaf83e5268ac06
-#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://epg.112114.eu.org/logo/三立iNEWS.png" group-title="晴天源",三立iNEWS
-P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
-#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://epg.112114.eu.org/logo/三立iNEWS.png" group-title="晴天源",三立iNEWS
-P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
-#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://epg.112114.eu.org/logo/三立iNEWS.png" group-title="晴天源",三立iNEWS
-P2p://generationnexxxt.com:19806/6ec25b8c951a47cfb921435fb1968c16
-#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://epg.112114.eu.org/logo/三立iNEWS.png" group-title="晴天源",三立iNEWS
-P2p://generationnexxxt.com:19806/6ec25b8c951a47cfb921435fb1968c16
-#EXTINF:-1 tvg-name="食交子频道" tvg-logo="https://epg.112114.eu.org/logo/食交子频道.png" group-title="晴天源",食交子频道
-P2p://generationnexxxt.com:19806/95909f6c10614748a8d824e33bdfaad0
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="晴天源",台视
-P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="晴天源",台视
-P2p://generationnexxxt.com:19806/4f26385653f04516a9f205e141fa77b2
-#EXTINF:-1 tvg-name="台视财经台" tvg-logo="https://epg.112114.eu.org/logo/台视财经台.png" group-title="晴天源",台视财经台
-P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
-#EXTINF:-1 tvg-name="台视财经台" tvg-logo="https://epg.112114.eu.org/logo/台视财经台.png" group-title="晴天源",台视财经台
-P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
-#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://epg.112114.eu.org/logo/台视新闻台.png" group-title="晴天源",台视新闻台
-P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
-#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://epg.112114.eu.org/logo/台视新闻台.png" group-title="晴天源",台视新闻台
-P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
-#EXTINF:-1 tvg-name="台视综合台" tvg-logo="https://epg.112114.eu.org/logo/台视综合台.png" group-title="晴天源",台视综合台
-P2p://generationnexxxt.com:19806/b8121a70de4c4ce1aa94361a1689297a
-#EXTINF:-1 tvg-name="探索频道台" tvg-logo="https://epg.112114.eu.org/logo/探索频道台.png" group-title="晴天源",探索频道台
-P2p://generationnexxxt.com:19806/03803dbb35eb4e78a332b2b421b770c8
-#EXTINF:-1 tvg-name="探索频道台" tvg-logo="https://epg.112114.eu.org/logo/探索频道台.png" group-title="晴天源",探索频道台
-P2p://generationnexxxt.com:19806/c7afe2fe39a04c1dada51462430dce8a
-#EXTINF:-1 tvg-name="天映经典国" tvg-logo="https://epg.112114.eu.org/logo/天映经典国.png" group-title="晴天源",天映经典国
-P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
-#EXTINF:-1 tvg-name="天映频道粤" tvg-logo="https://epg.112114.eu.org/logo/天映频道粤.png" group-title="晴天源",天映频道粤
-P2p://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
-#EXTINF:-1 tvg-name="无线翡翠台" tvg-logo="https://epg.112114.eu.org/logo/无线翡翠台.png" group-title="晴天源",无线翡翠台
-P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
-#EXTINF:-1 tvg-name="无线翡翠台" tvg-logo="https://epg.112114.eu.org/logo/无线翡翠台.png" group-title="晴天源",无线翡翠台
-P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
-#EXTINF:-1 tvg-name="无线功夫台" tvg-logo="https://epg.112114.eu.org/logo/无线功夫台.png" group-title="晴天源",无线功夫台
-P2p://generationnexxxt.com:19806/85398bbb5112406b95c5780d36d3a173
-#EXTINF:-1 tvg-name="无线黄金台" tvg-logo="https://epg.112114.eu.org/logo/无线黄金台.png" group-title="晴天源",无线黄金台
-P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c#P2p://generationnexxxt.com:19806/99b70f5afa114465aa463db0cfed6569
-#EXTINF:-1 tvg-name="无线明珠台" tvg-logo="https://epg.112114.eu.org/logo/无线明珠台.png" group-title="晴天源",无线明珠台
-P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe#P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
-#EXTINF:-1 tvg-name="无线千禧台" tvg-logo="https://epg.112114.eu.org/logo/无线千禧台.png" group-title="晴天源",无线千禧台
-P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
-#EXTINF:-1 tvg-name="无线赛马台" tvg-logo="https://epg.112114.eu.org/logo/无线赛马台.png" group-title="晴天源",无线赛马台
-P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
-#EXTINF:-1 tvg-name="无线戏曲台" tvg-logo="https://epg.112114.eu.org/logo/无线戏曲台.png" group-title="晴天源",无线戏曲台
-P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.112114.eu.org/logo/无线新闻台.png" group-title="晴天源",无线新闻台
-P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.112114.eu.org/logo/无线新闻台.png" group-title="晴天源",无线新闻台
-P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.112114.eu.org/logo/无线新闻台.png" group-title="晴天源",无线新闻台
-P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.112114.eu.org/logo/无线新闻台.png" group-title="晴天源",无线新闻台
-P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07#P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.112114.eu.org/logo/无线新闻台.png" group-title="晴天源",无线新闻台
-P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
-#EXTINF:-1 tvg-name="无线星河台" tvg-logo="https://epg.112114.eu.org/logo/无线星河台.png" group-title="晴天源",无线星河台
-P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6#P2p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c
-#EXTINF:-1 tvg-name="无线亚洲台" tvg-logo="https://epg.112114.eu.org/logo/无线亚洲台.png" group-title="晴天源",无线亚洲台
-P2p://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
-#EXTINF:-1 tvg-name="无线娱乐台" tvg-logo="https://epg.112114.eu.org/logo/无线娱乐台.png" group-title="晴天源",无线娱乐台
-P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06#P2p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318
-#EXTINF:-1 tvg-name="无线粤片台" tvg-logo="https://epg.112114.eu.org/logo/无线粤片台.png" group-title="晴天源",无线粤片台
-P2p://generationnexxxt.com:19806/3d6644cc478648c2952a8c69cb9fccf5
-#EXTINF:-1 tvg-name="无线Plus台" tvg-logo="https://epg.112114.eu.org/logo/无线Plus台.png" group-title="晴天源",无线Plus台
-P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
-#EXTINF:-1 tvg-name="无线Popc台" tvg-logo="https://epg.112114.eu.org/logo/无线Popc台.png" group-title="晴天源",无线Popc台
-P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043#P2p://generationnexxxt.com:19806/63cdb28090d949ed824376fab51fdd12
-#EXTINF:-1 tvg-name="香港财经台" tvg-logo="https://epg.112114.eu.org/logo/香港财经台.png" group-title="晴天源",香港财经台
-P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932#P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
-#EXTINF:-1 tvg-name="香港国际财经台" tvg-logo="https://epg.112114.eu.org/logo/香港国际财经台.png" group-title="晴天源",香港国际财经台
-P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
-#EXTINF:-1 tvg-name="香港国际财经台" tvg-logo="https://epg.112114.eu.org/logo/香港国际财经台.png" group-title="晴天源",香港国际财经台
-P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
-#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.eu.org/logo/亚洲旅游台.png" group-title="晴天源",亚洲旅游台
-P2p://generationnexxxt.com:19806/409459f958a04a5fa3609250df421445
-#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.eu.org/logo/亚洲旅游台.png" group-title="晴天源",亚洲旅游台
-P2p://generationnexxxt.com:19806/bc0c6c9782004039b1220b4faa8a3abf
-#EXTINF:-1 tvg-name="亚洲美食台" tvg-logo="https://epg.112114.eu.org/logo/亚洲美食台.png" group-title="晴天源",亚洲美食台
-P2p://generationnexxxt.com:19806/081793e8697647e5af4c70b9265cab70
-#EXTINF:-1 tvg-name="亚洲美食台" tvg-logo="https://epg.112114.eu.org/logo/亚洲美食台.png" group-title="晴天源",亚洲美食台
-P2p://generationnexxxt.com:19806/ac7e749ef27c4f2c8775ecaae5cd2206
-#EXTINF:-1 tvg-name="壹电视频道" tvg-logo="https://epg.112114.eu.org/logo/壹电视频道.png" group-title="晴天源",壹电视频道
-P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d
-#EXTINF:-1 tvg-name="壹电视新闻" tvg-logo="https://epg.112114.eu.org/logo/壹电视新闻.png" group-title="晴天源",壹电视新闻
-P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
-#EXTINF:-1 tvg-name="壹电视新闻" tvg-logo="https://epg.112114.eu.org/logo/壹电视新闻.png" group-title="晴天源",壹电视新闻
-P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
-#EXTINF:-1 tvg-name="壹电视综合" tvg-logo="https://epg.112114.eu.org/logo/壹电视综合.png" group-title="晴天源",壹电视综合
-P2p://generationnexxxt.com:19806/cf21d5f3323f485b81fd561e01ddb505
-#EXTINF:-1 tvg-name="影迷数位台" tvg-logo="https://epg.112114.eu.org/logo/影迷数位台.png" group-title="晴天源",影迷数位台
-P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b
-#EXTINF:-1 tvg-name="影迷数位台" tvg-logo="https://epg.112114.eu.org/logo/影迷数位台.png" group-title="晴天源",影迷数位台
-P2p://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
-#EXTINF:-1 tvg-name="有线赛马台" tvg-logo="https://epg.112114.eu.org/logo/有线赛马台.png" group-title="晴天源",有线赛马台
-P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
-#EXTINF:-1 tvg-name="有线新闻台" tvg-logo="https://epg.112114.eu.org/logo/有线新闻台.png" group-title="晴天源",有线新闻台
-P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
-#EXTINF:-1 tvg-name="有线综合台" tvg-logo="https://epg.112114.eu.org/logo/有线综合台.png" group-title="晴天源",有线综合台
-P2p://generationnexxxt.com:19806/532d47eca340456a814ba21cc5e68a52
-#EXTINF:-1 tvg-name="原民电视台" tvg-logo="https://epg.112114.eu.org/logo/原民电视台.png" group-title="晴天源",原民电视台
-P2p://generationnexxxt.com:19806/97025f4b61624e4498cf89ac22dc2120
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="晴天源",中视
-P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="晴天源",中视
-P2p://generationnexxxt.com:19806/185127a48ab34a0dad54ab6e003ddeb3
-#EXTINF:-1 tvg-name="中视经典台" tvg-logo="https://epg.112114.eu.org/logo/中视经典台.png" group-title="晴天源",中视经典台
-P2p://generationnexxxt.com:19806/b0fa86c1552742ffb1e5b79fcc2a9f5e
-#EXTINF:-1 tvg-name="中视菁采台" tvg-logo="https://epg.112114.eu.org/logo/中视菁采台.png" group-title="晴天源",中视菁采台
-P2p://generationnexxxt.com:19806/abf4b02e6c7d408ebc9947ae5b2e11c3
-#EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://epg.112114.eu.org/logo/中视新闻台.png" group-title="晴天源",中视新闻台
-P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
-#EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://epg.112114.eu.org/logo/中视新闻台.png" group-title="晴天源",中视新闻台
-P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.eu.org/logo/中天新闻台.png" group-title="晴天源",中天新闻台
-P2p://147.135.39.171:9906/668829a300087a07bea90b34300003a6
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.eu.org/logo/中天新闻台.png" group-title="晴天源",中天新闻台
-P2p://147.135.39.171:9906/668829a300087a07bea90b34300003a6#P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.eu.org/logo/中天新闻台.png" group-title="晴天源",中天新闻台
-P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
-#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.eu.org/logo/中天亚洲台.png" group-title="晴天源",中天亚洲台
-P2p://generationnexxxt.com:19806/1279f4aaa3ea4f958ed26b14f1ffeb7e
-#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://epg.112114.eu.org/logo/中天娱乐台.png" group-title="晴天源",中天娱乐台
-P2p://generationnexxxt.com:19806/4ec900f6e5c0468db4b5f6743efa6508
-#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://epg.112114.eu.org/logo/中天娱乐台.png" group-title="晴天源",中天娱乐台
-P2p://generationnexxxt.com:19806/ef92e3e69b334eaca20f0e2a26bf0f31
-#EXTINF:-1 tvg-name="中天综合台" tvg-logo="https://epg.112114.eu.org/logo/中天综合台.png" group-title="晴天源",中天综合台
-P2p://generationnexxxt.com:19806/3e0f75883e414bb98765c2eab11991be
-#EXTINF:-1 tvg-name="罪案侦缉台" tvg-logo="https://epg.112114.eu.org/logo/罪案侦缉台.png" group-title="晴天源",罪案侦缉台
-P2p://generationnexxxt.com:19806/33eb3b21b71b469f9a9e0b780c615230
-#EXTINF:-1 tvg-name="ABC Australia" tvg-logo="https://epg.112114.eu.org/logo/ABC Australia.png" group-title="晴天源",ABC Australia
-P2p://generationnexxxt.com:19806/cab3e899c937431f812c75c84b5cdf5f
-#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://epg.112114.eu.org/logo/amc电影台.png" group-title="晴天源",amc电影台
-P2p://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf
-#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://epg.112114.eu.org/logo/amc电影台.png" group-title="晴天源",amc电影台
-P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
-#EXTINF:-1 tvg-name="Anima频道" tvg-logo="https://epg.112114.eu.org/logo/Anima频道.png" group-title="晴天源",Anima频道
-P2p://generationnexxxt.com:19806/4913cc8e4b7e490eaebbb4a081bf02b8
-#EXTINF:-1 tvg-name="Animax-台" tvg-logo="https://epg.112114.eu.org/logo/Animax-台.png" group-title="晴天源",Animax-台
-P2p://generationnexxxt.com:19806/7c6f8a583fc24b298779528c07b8c66d
-#EXTINF:-1 tvg-name="AXN电影台" tvg-logo="https://epg.112114.eu.org/logo/AXN电影台.png" group-title="晴天源",AXN电影台
-P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://epg.112114.eu.org/logo/BBC Earth.png" group-title="晴天源",BBC Earth
-P2p://generationnexxxt.com:19806/bfb6de1d865a44c7a78477c6a0eb0b4a
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://epg.112114.eu.org/logo/BBC World News.png" group-title="晴天源",BBC World News
-P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://epg.112114.eu.org/logo/BBC World News.png" group-title="晴天源",BBC World News
-P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://epg.112114.eu.org/logo/BBC World News.png" group-title="晴天源",BBC World News
-P2p://generationnexxxt.com:19806/f666946be06f45e8a2e08ebf1136d385
-#EXTINF:-1 tvg-name="BBC" tvg-logo="https://epg.112114.eu.org/logo/BBC.png" group-title="晴天源",BBC
-P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
-#EXTINF:-1 tvg-name="BBCEarth台" tvg-logo="https://epg.112114.eu.org/logo/BBCEarth台.png" group-title="晴天源",BBCEarth台
-P2p://generationnexxxt.com:19806/14e78adfa4c44280a4ad715bab2532f0
-#EXTINF:-1 tvg-name="BBCLifestyl" tvg-logo="https://epg.112114.eu.org/logo/BBCLifestyl.png" group-title="晴天源",BBCLifestyl
-P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://epg.112114.eu.org/logo/Bloomberg TV.png" group-title="晴天源",Bloomberg TV
-P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://epg.112114.eu.org/logo/Bloomberg.png" group-title="晴天源",Bloomberg
-P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
-#EXTINF:-1 tvg-name="Business News Network" tvg-logo="https://epg.112114.eu.org/logo/Business News Network.png" group-title="晴天源",Business News Network
-P2p://generationnexxxt.com:19806/0634014988a34226a3a034b527309099
-#EXTINF:-1 tvg-name="Catc电影台" tvg-logo="https://epg.112114.eu.org/logo/Catc电影台.png" group-title="晴天源",Catc电影台
-P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15
-#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://epg.112114.eu.org/logo/CBC News.png" group-title="晴天源",CBC News
-P2p://generationnexxxt.com:19806/fda21da704634e48b989ed9d33807e01
-#EXTINF:-1 tvg-name="CBSN" tvg-logo="https://epg.112114.eu.org/logo/CBSN.png" group-title="晴天源",CBSN
-P2p://generationnexxxt.com:19806/3d6d0c5a24e847369695ae867576a4e9
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.112114.eu.org/logo/CGTN.png" group-title="晴天源",CGTN
-P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
-#EXTINF:-1 tvg-name="CINE--MAX" tvg-logo="https://epg.112114.eu.org/logo/CINE--MAX.png" group-title="晴天源",CINE--MAX
-P2p://generationnexxxt.com:19806/d559fe6e91584b87bff1eaeb0660c6ef
-#EXTINF:-1 tvg-name="CINE-MAX" tvg-logo="https://epg.112114.eu.org/logo/CINE-MAX.png" group-title="晴天源",CINE-MAX
-P2p://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e
-#EXTINF:-1 tvg-name="Cinema-台" tvg-logo="https://epg.112114.eu.org/logo/Cinema-台.png" group-title="晴天源",Cinema-台
-P2p://generationnexxxt.com:19806/b132ee920a4c47b284c08292e8c215f7
-#EXTINF:-1 tvg-name="CinemaWo" tvg-logo="https://epg.112114.eu.org/logo/CinemaWo.png" group-title="晴天源",CinemaWo
-P2p://generationnexxxt.com:19806/023f59ea320a4c6e92921cefdbaa56fa
-#EXTINF:-1 tvg-name="CLA-古典乐" tvg-logo="https://epg.112114.eu.org/logo/CLA-古典乐.png" group-title="晴天源",CLA-古典乐
-P2p://generationnexxxt.com:19806/2671749a00774d36bd1afb569bd1edeb
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://epg.112114.eu.org/logo/CNA.png" group-title="晴天源",CNA
-P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
-#EXTINF:-1 tvg-name="CNBC-频道" tvg-logo="https://epg.112114.eu.org/logo/CNBC-频道.png" group-title="晴天源",CNBC-频道
-P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://epg.112114.eu.org/logo/CNBC.png" group-title="晴天源",CNBC
-P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-#EXTINF:-1 tvg-name="CNN USA" tvg-logo="https://epg.112114.eu.org/logo/CNN USA.png" group-title="晴天源",CNN USA
-P2p://generationnexxxt.com:19806/2c9b8717e3bc4b01b2a76d8ae7ad9776
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.112114.eu.org/logo/CNN.png" group-title="晴天源",CNN
-P2p://generationnexxxt.com:19806/88e503d015b54c75866ce86732601017
-#EXTINF:-1 tvg-name="CP24" tvg-logo="https://epg.112114.eu.org/logo/CP24.png" group-title="晴天源",CP24
-P2p://generationnexxxt.com:19806/1e461dd783af47a395e0bb79180148d2
-#EXTINF:-1 tvg-name="CTV News" tvg-logo="https://epg.112114.eu.org/logo/CTV News.png" group-title="晴天源",CTV News
-P2p://generationnexxxt.com:19806/236beb5caf9a4a66afcca1d7cc0a104d
-#EXTINF:-1 tvg-name="Discover台" tvg-logo="https://epg.112114.eu.org/logo/Discover台.png" group-title="晴天源",Discover台
-P2p://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.eu.org/logo/Discovery.png" group-title="晴天源",Discovery
-P2p://generationnexxxt.com:19806/6d031b7fba864255a10992d86da402ca
-#EXTINF:-1 tvg-name="DMAX频道" tvg-logo="https://epg.112114.eu.org/logo/DMAX频道.png" group-title="晴天源",DMAX频道
-P2p://generationnexxxt.com:19806/9fcdb313900f49c4b0236628fd939870
-#EXTINF:-1 tvg-name="ELTV生活台" tvg-logo="https://epg.112114.eu.org/logo/ELTV生活台.png" group-title="晴天源",ELTV生活台
-P2p://generationnexxxt.com:19806/1a430b38978a4a0698ede6f842b3a265
-#EXTINF:-1 tvg-name="ETto综合台" tvg-logo="https://epg.112114.eu.org/logo/ETto综合台.png" group-title="晴天源",ETto综合台
-P2p://generationnexxxt.com:19806/760bcd80b88c4fefa052bef73e87c234
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://epg.112114.eu.org/logo/Euronews.png" group-title="晴天源",Euronews
-P2p://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692
-#EXTINF:-1 tvg-name="EVE频道台" tvg-logo="https://epg.112114.eu.org/logo/EVE频道台.png" group-title="晴天源",EVE频道台
-P2p://generationnexxxt.com:19806/958f90533a3f4857bd1ea3f6610f45e5
-#EXTINF:-1 tvg-name="EYE-旅游台" tvg-logo="https://epg.112114.eu.org/logo/EYE-旅游台.png" group-title="晴天源",EYE-旅游台
-P2p://generationnexxxt.com:19806/49931b62c0b34671af7cce9d0842ede8
-#EXTINF:-1 tvg-name="EYE-旅游台" tvg-logo="https://epg.112114.eu.org/logo/EYE-旅游台.png" group-title="晴天源",EYE-旅游台
-P2p://generationnexxxt.com:19806/5b302f252b45400888768bf7dce6cf94
-#EXTINF:-1 tvg-name="EYE戏剧台" tvg-logo="https://epg.112114.eu.org/logo/EYE戏剧台.png" group-title="晴天源",EYE戏剧台
-P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40f
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://epg.112114.eu.org/logo/Fox News.png" group-title="晴天源",Fox News
-P2p://generationnexxxt.com:19806/95842d0c7228442a91d0e8a46a8ee1c9
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://epg.112114.eu.org/logo/Fox News.png" group-title="晴天源",Fox News
-P2p://generationnexxxt.com:19806/a6e8a65e41004e1dbc0ee1c762a5d30e
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://epg.112114.eu.org/logo/Fox News.png" group-title="晴天源",Fox News
-P2p://generationnexxxt.com:19806/f8b4af1fac554568956d500f533ed0cf
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://epg.112114.eu.org/logo/France24.png" group-title="晴天源",France24
-P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://epg.112114.eu.org/logo/France24.png" group-title="晴天源",France24
-P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
-#EXTINF:-1 tvg-name="Hands Up" tvg-logo="https://epg.112114.eu.org/logo/Hands Up.png" group-title="晴天源",Hands Up
-P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
-#EXTINF:-1 tvg-name="HBO频道台" tvg-logo="https://epg.112114.eu.org/logo/HBO频道台.png" group-title="晴天源",HBO频道台
-P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
-#EXTINF:-1 tvg-name="HBO强档台" tvg-logo="https://epg.112114.eu.org/logo/HBO强档台.png" group-title="晴天源",HBO强档台
-P2p://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd26242
-#EXTINF:-1 tvg-name="HBO强档台" tvg-logo="https://epg.112114.eu.org/logo/HBO强档台.png" group-title="晴天源",HBO强档台
-P2p://generationnexxxt.com:19806/7199aae1ab984d4fa9562d1babe7ba06
-#EXTINF:-1 tvg-name="HBO原创台" tvg-logo="https://epg.112114.eu.org/logo/HBO原创台.png" group-title="晴天源",HBO原创台
-P2p://generationnexxxt.com:19806/03579c59806d4cd9b1b3100caacadede
-#EXTINF:-1 tvg-name="HBO原创台" tvg-logo="https://epg.112114.eu.org/logo/HBO原创台.png" group-title="晴天源",HBO原创台
-P2p://generationnexxxt.com:19806/39c393cd52cb4a1b9b51a542f897570e
-#EXTINF:-1 tvg-name="HBOFamily" tvg-logo="https://epg.112114.eu.org/logo/HBOFamily.png" group-title="晴天源",HBOFamily
-P2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64
-#EXTINF:-1 tvg-name="HBOFamily" tvg-logo="https://epg.112114.eu.org/logo/HBOFamily.png" group-title="晴天源",HBOFamily
-P2p://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980
-#EXTINF:-1 tvg-name="HITs频道台" tvg-logo="https://epg.112114.eu.org/logo/HITs频道台.png" group-title="晴天源",HITs频道台
-P2p://generationnexxxt.com:19806/512347b10e364e9bb4d436f495b1a8be
-#EXTINF:-1 tvg-name="iFun动漫台" tvg-logo="https://epg.112114.eu.org/logo/iFun动漫台.png" group-title="晴天源",iFun动漫台
-P2p://generationnexxxt.com:19806/5e4556e2a12846c5bedb721c6b5ff1c3
-#EXTINF:-1 tvg-name="iFun动漫台" tvg-logo="https://epg.112114.eu.org/logo/iFun动漫台.png" group-title="晴天源",iFun动漫台
-P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
-#EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://epg.112114.eu.org/logo/JET综合台.png" group-title="晴天源",JET综合台
-P2p://generationnexxxt.com:19806/834c314a8ff844b0a9c3ea729ad8516b
-#EXTINF:-1 tvg-name="JKN 18" tvg-logo="https://epg.112114.eu.org/logo/JKN 18.png" group-title="晴天源",JKN 18
-P2p://generationnexxxt.com:19806/5e7619bcc3d648419a7be15d55b0a6df
-#EXTINF:-1 tvg-name="Lifetime台" tvg-logo="https://epg.112114.eu.org/logo/Lifetime台.png" group-title="晴天源",Lifetime台
-P2p://generationnexxxt.com:19806/7d5e25a5a50c47c3b6853d45f9f54d63
-#EXTINF:-1 tvg-name="Mezzo Live" tvg-logo="https://epg.112114.eu.org/logo/Mezzo Live.png" group-title="晴天源",Mezzo Live
-P2p://generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4
-#EXTINF:-1 tvg-name="MO-综合台" tvg-logo="https://epg.112114.eu.org/logo/MO-综合台.png" group-title="晴天源",MO-综合台
-P2p://generationnexxxt.com:19806/bc7a77f2d1a54242a2b845916fcb726c
-#EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="https://epg.112114.eu.org/logo/MOMO亲子台.png" group-title="晴天源",MOMO亲子台
-P2p://generationnexxxt.com:19806/e15e61548a2b4ff792b3dd6620be8139
-#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://epg.112114.eu.org/logo/MSNBC.png" group-title="晴天源",MSNBC
-P2p://generationnexxxt.com:19806/81bf2e7056d94f06a8efb784036f8d38
-#EXTINF:-1 tvg-name="NDTV" tvg-logo="https://epg.112114.eu.org/logo/NDTV.png" group-title="晴天源",NDTV
-P2p://generationnexxxt.com:19806/ed51f8ce798c4eb6b1d55d499370d722
-#EXTINF:-1 tvg-name="NHK新闻台" tvg-logo="https://epg.112114.eu.org/logo/NHK新闻台.png" group-title="晴天源",NHK新闻台
-P2p://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
-#EXTINF:-1 tvg-name="NHK新闻资讯台" tvg-logo="https://epg.112114.eu.org/logo/NHK新闻资讯台.png" group-title="晴天源",NHK新闻资讯台
-P2p://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
-#EXTINF:-1 tvg-name="Nick频道台" tvg-logo="https://epg.112114.eu.org/logo/Nick频道台.png" group-title="晴天源",Nick频道台
-P2p://generationnexxxt.com:19806/0fdb4f78ab6f498f88c12ca5a34fffc2
-#EXTINF:-1 tvg-name="now财经台" tvg-logo="https://epg.112114.eu.org/logo/now财经台.png" group-title="晴天源",now财经台
-P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
-#EXTINF:-1 tvg-name="now财经台" tvg-logo="https://epg.112114.eu.org/logo/now财经台.png" group-title="晴天源",now财经台
-P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534#P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
-#EXTINF:-1 tvg-name="now财经台" tvg-logo="https://epg.112114.eu.org/logo/now财经台.png" group-title="晴天源",now财经台
-P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
-#EXTINF:-1 tvg-name="now新闻台" tvg-logo="https://epg.112114.eu.org/logo/now新闻台.png" group-title="晴天源",now新闻台
-P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
-#EXTINF:-1 tvg-name="now新闻台" tvg-logo="https://epg.112114.eu.org/logo/now新闻台.png" group-title="晴天源",now新闻台
-P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
-#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://epg.112114.eu.org/logo/Now新闻台.png" group-title="晴天源",Now新闻台
-P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
-#EXTINF:-1 tvg-name="ROCK-频道" tvg-logo="https://epg.112114.eu.org/logo/ROCK-频道.png" group-title="晴天源",ROCK-频道
-P2p://generationnexxxt.com:19806/337165af094e40b48fb6db958ffd1cdc
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://epg.112114.eu.org/logo/Sky News.png" group-title="晴天源",Sky News
-P2p://generationnexxxt.com:19806/82241dd85d9e4dad885f1c12b11e3d2e
-#EXTINF:-1 tvg-name="Smart-知识" tvg-logo="https://epg.112114.eu.org/logo/Smart-知识.png" group-title="晴天源",Smart-知识
-P2p://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
-#EXTINF:-1 tvg-name="TechStorm" tvg-logo="https://epg.112114.eu.org/logo/TechStorm.png" group-title="晴天源",TechStorm
-P2p://generationnexxxt.com:19806/9e84e7f44550435a91e4d0d92cc0147f
-#EXTINF:-1 tvg-name="The Weather Channel" tvg-logo="https://epg.112114.eu.org/logo/The Weather Channel.png" group-title="晴天源",The Weather Channel
-P2p://generationnexxxt.com:19806/118d5553ab4e4acc946d08c9d2299949
-#EXTINF:-1 tvg-name="The Weather Network" tvg-logo="https://epg.112114.eu.org/logo/The Weather Network.png" group-title="晴天源",The Weather Network
-P2p://generationnexxxt.com:19806/95294525f47d423081bec37b4a5f1537
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://epg.112114.eu.org/logo/Thrill.png" group-title="晴天源",Thrill
-P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
-#EXTINF:-1 tvg-name="TLC旅游台" tvg-logo="https://epg.112114.eu.org/logo/TLC旅游台.png" group-title="晴天源",TLC旅游台
-P2p://generationnexxxt.com:19806/32000d7eec2049c6b1de2eb8cd3c9348
-#EXTINF:-1 tvg-name="TNN 16" tvg-logo="https://epg.112114.eu.org/logo/TNN 16.png" group-title="晴天源",TNN 16
-P2p://generationnexxxt.com:19806/7462454333594bef83cd252fa653d14e
-#EXTINF:-1 tvg-name="TRACSport" tvg-logo="https://epg.112114.eu.org/logo/TRACSport.png" group-title="晴天源",TRACSport
-P2p://generationnexxxt.com:19806/771e966a825d4e7e8280601cb8cc1227
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.eu.org/logo/TVBS欢乐台.png" group-title="晴天源",TVBS欢乐台
-P2p://generationnexxxt.com:19806/115a1e134813400abd3e49bad3af517c
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.eu.org/logo/TVBS欢乐台.png" group-title="晴天源",TVBS欢乐台
-P2p://generationnexxxt.com:19806/2f5899dbb41e4f798ef5d21862533392
-#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://epg.112114.eu.org/logo/TVBS精采台.png" group-title="晴天源",TVBS精采台
-P2p://generationnexxxt.com:19806/0af9c12ec2a347b9b626002b0d10f37c
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.eu.org/logo/TVBS新闻台.png" group-title="晴天源",TVBS新闻台
-P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.eu.org/logo/TVBS新闻台.png" group-title="晴天源",TVBS新闻台
-P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.eu.org/logo/TVBS新闻台.png" group-title="晴天源",TVBS新闻台
-P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1#P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
-#EXTINF:-1 tvg-name="TVBSHD台" tvg-logo="https://epg.112114.eu.org/logo/TVBSHD台.png" group-title="晴天源",TVBSHD台
-P2p://generationnexxxt.com:19806/5fe15c41a5ed4d5f9262ee28464c45c0#P2p://generationnexxxt.com:19806/9e185dd6c7dd46edb5a7d675e4fca701
-#EXTINF:-1 tvg-name="tvN-频道台" tvg-logo="https://epg.112114.eu.org/logo/tvN-频道台.png" group-title="晴天源",tvN-频道台
-P2p://generationnexxxt.com:19806/45cb5d3ff4f842178bd262ac32891a0c
-#EXTINF:-1 tvg-name="ViuTV台英" tvg-logo="https://epg.112114.eu.org/logo/ViuTV台英.png" group-title="晴天源",ViuTV台英
-P2p://generationnexxxt.com:19806/ea75ceca822f454bb858845559d5fc55#P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580
-#EXTINF:-1 tvg-name="ViuTV台粤" tvg-logo="https://epg.112114.eu.org/logo/ViuTV台粤.png" group-title="晴天源",ViuTV台粤
-P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
-#EXTINF:-1 tvg-name="WARNER台" tvg-logo="https://epg.112114.eu.org/logo/WARNER台.png" group-title="晴天源",WARNER台
-P2p://generationnexxxt.com:19806/3565510269ca47e2b0183ec1cdeca375
-#EXTINF:-1 tvg-name="WARNERtv" tvg-logo="https://epg.112114.eu.org/logo/WARNERtv.png" group-title="晴天源",WARNERtv
-P2p://generationnexxxt.com:19806/fcf665244a5740ebb61fcba5ef2f6cee
-#EXTINF:-1 tvg-name="Z--频道台" tvg-logo="https://epg.112114.eu.org/logo/Z--频道台.png" group-title="晴天源",Z--频道台
-P2p://generationnexxxt.com:19806/70f52ed474e541f78682604ce0330bf2
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="Astro Arena" tvg-logo="https://epg.112114.eu.org/logo/Astro Arena.png" group-title="晴天源_体育",Astro Arena
+p2p://generationnexxxt.com:19806/0bcdb6af8ec84dbabe58277e6a276219
+#EXTINF:-1 tvg-name="Astro Arena 2" tvg-logo="https://epg.112114.eu.org/logo/Astro Arena 2.png" group-title="晴天源_体育",Astro Arena 2
+p2p://generationnexxxt.com:19806/09d26ac8e0414694ad8285a9d7289dc3
+#EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://epg.112114.eu.org/logo/Astro SuperSport.png" group-title="晴天源_体育",Astro SuperSport
+p2p://generationnexxxt.com:19806/66c9a1c30009852153e38337084f562b
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://epg.112114.eu.org/logo/Astro SuperSport 2.png" group-title="晴天源_体育",Astro SuperSport 2
+p2p://generationnexxxt.com:19806/8fcfef494e93492a8589791bf5f824f9
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://epg.112114.eu.org/logo/Astro SuperSport 3.png" group-title="晴天源_体育",Astro SuperSport 3
+p2p://generationnexxxt.com:19806/76bd3fe45aaa4f0b8783e5dfa93d276d
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://epg.112114.eu.org/logo/Astro SuperSport 4.png" group-title="晴天源_体育",Astro SuperSport 4
+p2p://generationnexxxt.com:19806/233546e210924d67adc87c0a58347f57
+#EXTINF:-1 tvg-name="beIN Sports" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天源_体育",beIN Sports
+p2p://generationnexxxt.com:19806/3a4b5eb56fa8471f99903f3607870c72
+#EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天源_体育",beIN Sports 2
+p2p://generationnexxxt.com:19806/d8a0f79d4c2344d987a24a09f62405c6
+#EXTINF:-1 tvg-name="beIN Sports 3" tvg-logo="https://epg.112114.eu.org/logo/beIN Sports.png" group-title="晴天源_体育",beIN Sports 3
+p2p://generationnexxxt.com:19806/5a87f53fb58f497aa499c4c4ac5870f9
+#EXTINF:-1 tvg-name="ELEVEN体育1台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN体育1台.png" group-title="晴天源_体育",ELEVEN体育1台
+p2p://generationnexxxt.com:19806/58405d91a62f498aab4dbe1b22bcdb22
+#EXTINF:-1 tvg-name="ELEVEN体育2台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN体育2台.png" group-title="晴天源_体育",ELEVEN体育2台
+p2p://generationnexxxt.com:19806/962f4658c222459687c8b7bd377bb479
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.112114.eu.org/logo/ESPN.png" group-title="晴天源_体育",ESPN
+p2p://generationnexxxt.com:19806/58c7f6b9d5aa4013b624bf164950a75b
+#EXTINF:-1 tvg-name="Eurosport HD" tvg-logo="https://epg.112114.eu.org/logo/Eurosport HD.png" group-title="晴天源_体育",Eurosport HD
+p2p://generationnexxxt.com:19806/61ba8e4afe6b43018789c8d7ce502701
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://epg.112114.eu.org/logo/Fight Sports.png" group-title="晴天源_体育",Fight Sports
+p2p://generationnexxxt.com:19806/fc96c16e5b9e4a20a7f19621fe43310a
+#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://epg.112114.eu.org/logo/FOX Sports.png" group-title="晴天源_体育",FOX Sports
+p2p://generationnexxxt.com:19806/4779bcfb87604ab199ce5cd7474e64cc
+#EXTINF:-1 tvg-name="Golf Channel" tvg-logo="https://epg.112114.eu.org/logo/Golf Channel.png" group-title="晴天源_体育",Golf Channel
+p2p://generationnexxxt.com:19806/b96d0fffd12848bea98d8f7a8421e73d
+#EXTINF:-1 tvg-name="HKC 18" tvg-logo="https://epg.112114.eu.org/logo/HKC 18.png" group-title="晴天源_体育",HKC 18
+p2p://generationnexxxt.com:19806/5e31a19a900948b89756059789d98ce3
+#EXTINF:-1 tvg-name="J Sports 1" tvg-logo="https://epg.112114.eu.org/logo/J Sports 1.png" group-title="晴天源_体育",J Sports 1
+p2p://generationnexxxt.com:19806/053a4dce972548f0b2f79ff919612c06
+#EXTINF:-1 tvg-name="J Sports 2" tvg-logo="https://epg.112114.eu.org/logo/J Sports 2.png" group-title="晴天源_体育",J Sports 2
+p2p://generationnexxxt.com:19806/1aa6d445c3c644b4b5215be78b93a103
+#EXTINF:-1 tvg-name="J Sports 3" tvg-logo="https://epg.112114.eu.org/logo/J Sports 3.png" group-title="晴天源_体育",J Sports 3
+p2p://generationnexxxt.com:19806/6e0c0f9f707e402a82e67be05969555e
+#EXTINF:-1 tvg-name="J Sports 4" tvg-logo="https://epg.112114.eu.org/logo/J Sports 4.png" group-title="晴天源_体育",J Sports 4
+p2p://generationnexxxt.com:19806/e0d0afc941c043a98fab87f6fb7e419d
+#EXTINF:-1 tvg-name="NBA" tvg-logo="https://epg.112114.eu.org/logo/NBA.png" group-title="晴天源_体育",NBA
+p2p://generationnexxxt.com:19806/8a9604ca754443d8bf97f20ad7494127
+#EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Arena.png" group-title="晴天源_体育",Sky Sports Arena
+p2p://generationnexxxt.com:19806/60adb59f687148a8aad9133287dd0c16
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Cricket.png" group-title="晴天源_体育",Sky Sports Cricket
+p2p://generationnexxxt.com:19806/62259a3143ca4baf8194844d2530364a
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports F1.png" group-title="晴天源_体育",Sky Sports F1
+p2p://generationnexxxt.com:19806/7236af3fa88f4a07bb6b5c72cc6c8891
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Football.png" group-title="晴天源_体育",Sky Sports Football
+p2p://generationnexxxt.com:19806/d1ba58c561b842b8b2b7582e347143e5
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Golf.png" group-title="晴天源_体育",Sky Sports Golf
+p2p://generationnexxxt.com:19806/9396b7d3a6d74fac91e5a292fb5adb70
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Main Event.png" group-title="晴天源_体育",Sky Sports Main Event
+p2p://generationnexxxt.com:19806/b961c81601944b4882640b65779fe77d
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://epg.112114.eu.org/logo/Sky Sports Mix.png" group-title="晴天源_体育",Sky Sports Mix
+p2p://generationnexxxt.com:19806/83e3dad7e48a4e55acd4159f78d64b70
+#EXTINF:-1 tvg-name="Skynet Sports 2" tvg-logo="https://epg.112114.eu.org/logo/Skynet Sports 2.png" group-title="晴天源_体育",Skynet Sports 2
+p2p://generationnexxxt.com:19806/a6602548697d484e99823bc4c2f4c2a5
+#EXTINF:-1 tvg-name="Skynet Sports 5" tvg-logo="https://epg.112114.eu.org/logo/Skynet Sports 5.png" group-title="晴天源_体育",Skynet Sports 5
+p2p://generationnexxxt.com:19806/2e737200de11421ea3823ca549e1d722
+#EXTINF:-1 tvg-name="Skynet Sports 6" tvg-logo="https://epg.112114.eu.org/logo/Skynet Sports 6.png" group-title="晴天源_体育",Skynet Sports 6
+p2p://generationnexxxt.com:19806/c6049ac1feaa4e91ad77e1d8cfe0c0f5
+#EXTINF:-1 tvg-name="Skynet Sports HD" tvg-logo="https://epg.112114.eu.org/logo/Skynet Sports HD.png" group-title="晴天源_体育",Skynet Sports HD
+p2p://generationnexxxt.com:19806/8fe6a5a66d02459b8bff1325828ab51e
+#EXTINF:-1 tvg-name="Sports PRIME" tvg-logo="https://epg.112114.eu.org/logo/Sports PRIME.png" group-title="晴天源_体育",Sports PRIME
+p2p://generationnexxxt.com:19806/5b107e66dc5446c98ab97060babb5baf
+#EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://epg.112114.eu.org/logo/SPOTV.png" group-title="晴天源_体育",SPOTV
+p2p://generationnexxxt.com:19806/e57e190fa4db49b9b48ce01873540c9e
+#EXTINF:-1 tvg-name="TechStorm" tvg-logo="https://epg.112114.eu.org/logo/TechStorm.png" group-title="晴天源_体育",TechStorm
+p2p://generationnexxxt.com:19806/8bc27ba94cc94864a660a217fcc09426
+#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://epg.112114.eu.org/logo/TRACE Sport Stars.png" group-title="晴天源_体育",TRACE Sport Stars
+p2p://generationnexxxt.com:19806/36bb554b273a447281a3ae6c0101a4f5
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://epg.112114.eu.org/logo/WWE.png" group-title="晴天源_体育",WWE
+p2p://generationnexxxt.com:19806/a384654b809f41a1aacc69f8a8d37f11
+#EXTINF:-1 tvg-name="Z频道" tvg-logo="https://epg.112114.eu.org/logo/Z频道.png" group-title="晴天源_体育",Z频道
+p2p://generationnexxxt.com:19806/a8b5b0745cf742eea2e1b8ef696a7574
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育1台.png" group-title="晴天源_体育",爱尔达体育1台
+p2p://generationnexxxt.com:19806/03d333eae8a14c84b5ad4bbe27b4edbf
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育1台.png" group-title="晴天源_体育",爱尔达体育1台
+p2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育2台.png" group-title="晴天源_体育",爱尔达体育2台
+p2p://generationnexxxt.com:19806/bfb69131ecb14c6e8b8deeecee24d7ec
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育3台.png" group-title="晴天源_体育",爱尔达体育3台
+p2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
+#EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达体育4台.png" group-title="晴天源_体育",爱尔达体育4台
+p2p://generationnexxxt.com:19806/199bacdda3a54ce68e5b4beb998d37e6
+#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://epg.112114.eu.org/logo/博斯高球.png" group-title="晴天源_体育",博斯高球
+p2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://epg.112114.eu.org/logo/博斯高球二台.png" group-title="晴天源_体育",博斯高球二台
+p2p://generationnexxxt.com:19806/5e2abda89475440bbe692e436b34fb4c
+#EXTINF:-1 tvg-name="博斯魅力网" tvg-logo="https://epg.112114.eu.org/logo/博斯魅力网.png" group-title="晴天源_体育",博斯魅力网
+p2p://generationnexxxt.com:19806/32f5f3d37bcd40fcae18bd08abae308c
+#EXTINF:-1 tvg-name="博斯网球台" tvg-logo="https://epg.112114.eu.org/logo/博斯网球台.png" group-title="晴天源_体育",博斯网球台
+p2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd
+#EXTINF:-1 tvg-name="博斯无限二台" tvg-logo="https://epg.112114.eu.org/logo/博斯无限二台.png" group-title="晴天源_体育",博斯无限二台
+p2p://generationnexxxt.com:19806/d8017a7c96504c7b8f7aaf6a563d11dc
+#EXTINF:-1 tvg-name="博斯无限台" tvg-logo="https://epg.112114.eu.org/logo/博斯无限台.png" group-title="晴天源_体育",博斯无限台
+p2p://generationnexxxt.com:19806/1e3e2f8b028942b8b09b48b34591ba6d
+#EXTINF:-1 tvg-name="博斯运动" tvg-logo="https://epg.112114.eu.org/logo/博斯运动.png" group-title="晴天源_体育",博斯运动
+p2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4
+#EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="https://epg.112114.eu.org/logo/博斯运动二台.png" group-title="晴天源_体育",博斯运动二台
+p2p://generationnexxxt.com:19806/2ca1d7e7072f4fd5b84e9d0c926b9001
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="晴天源_体育",风云足球
+p2p://generationnexxxt.com:19806/79cdff82432e4a30bdaeab4621411c36
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="晴天源_体育",广东体育
+p2p://generationnexxxt.com:19806/666ec4bbd2574ebc89e9c3fe14328dfc
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.112114.eu.org/logo/魅力足球.png" group-title="晴天源_体育",魅力足球
+p2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.112114.eu.org/logo/纬来体育.png" group-title="晴天源_体育",纬来体育
+p2p://generationnexxxt.com:19806/e27081aaad61431d84f3eec0b5efd27e
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.112114.eu.org/logo/纬来育乐.png" group-title="晴天源_体育",纬来育乐
+p2p://generationnexxxt.com:19806/0e514294c57546629949f011c46c8aa4
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="晴天源_体育",五星体育
+p2p://generationnexxxt.com:19806/dd0e49f171ca4b7185c916cefe27870f
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.eu.org/logo/新视觉.png" group-title="晴天源_体育",新视觉
+p2p://generationnexxxt.com:19806/0e5b07aee4ed413fbafd4e6d1816cef6
+#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://epg.112114.eu.org/logo/智林体育台.png" group-title="晴天源_体育",智林体育台
+p2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118
+#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://epg.112114.eu.org/logo/amc电影台.png" group-title="晴天源_台湾",amc电影台
+p2p://generationnexxxt.com:19806/0091215ed2cc4975abfd580dc83a2af1
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://epg.112114.eu.org/logo/Animax.png" group-title="晴天源_台湾",Animax
+p2p://generationnexxxt.com:19806/cb00c0c9bd7547aeb88abef70afd4981
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://epg.112114.eu.org/logo/AXN.png" group-title="晴天源_台湾",AXN
+p2p://generationnexxxt.com:19806/0de5c98575a9438ab79941da02cdd289
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://epg.112114.eu.org/logo/BBC Earth.png" group-title="晴天源_台湾",BBC Earth
+p2p://generationnexxxt.com:19806/fb4d216ac7be4ebfa08b4bf8d9f75e68
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://epg.112114.eu.org/logo/BBC Lifestyle.png" group-title="晴天源_台湾",BBC Lifestyle
+p2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://epg.112114.eu.org/logo/Bloomberg TV.png" group-title="晴天源_台湾",Bloomberg TV
+p2p://generationnexxxt.com:19806/ae2d2b3ad6094a0a9c6b89d375ef8ee9
+#EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://epg.112114.eu.org/logo/CatchPlay电影台.png" group-title="晴天源_台湾",CatchPlay电影台
+p2p://generationnexxxt.com:19806/810cf72605914e9f9c3e691629a980e3
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://epg.112114.eu.org/logo/CinemaWorld.png" group-title="晴天源_台湾",CinemaWorld
+p2p://generationnexxxt.com:19806/61482743f1b748859e4d444d27a427bf
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://epg.112114.eu.org/logo/CINEMAX.png" group-title="晴天源_台湾",CINEMAX
+p2p://generationnexxxt.com:19806/9bd0355949e34a9ebb1c17aa90c6fe10
+#EXTINF:-1 tvg-name="CLASSICA 古典乐" tvg-logo="https://epg.112114.eu.org/logo/CLASSICA 古典乐.png" group-title="晴天源_台湾",CLASSICA 古典乐
+p2p://generationnexxxt.com:19806/445d58f153db484f86c457ad0137623a
+#EXTINF:-1 tvg-name="CN卡通频道" tvg-logo="https://epg.112114.eu.org/logo/CN卡通频道.png" group-title="晴天源_台湾",CN卡通频道
+p2p://generationnexxxt.com:19806/9ce84e56a97d4f25b9f9ed6c7b799aaa
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://epg.112114.eu.org/logo/Discovery Asia.png" group-title="晴天源_台湾",Discovery Asia
+p2p://generationnexxxt.com:19806/08cffd0fa7a84d28bec4610847d9ff3d
+#EXTINF:-1 tvg-name="Discovery科学频道" tvg-logo="https://epg.112114.eu.org/logo/Discovery科学频道.png" group-title="晴天源_台湾",Discovery科学频道
+p2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e841668
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://epg.112114.eu.org/logo/DMAX.png" group-title="晴天源_台湾",DMAX
+p2p://generationnexxxt.com:19806/9b992512290045e38428a3eeb59fba0e
+#EXTINF:-1 tvg-name="ELTV生活英语台" tvg-logo="https://epg.112114.eu.org/logo/ELTV生活英语台.png" group-title="晴天源_台湾",ELTV生活英语台
+p2p://generationnexxxt.com:19806/f25ef62b4a244fbdaa6af6d267861f80
+#EXTINF:-1 tvg-name="ETtoday综合台" tvg-logo="https://epg.112114.eu.org/logo/ETtoday综合台.png" group-title="晴天源_台湾",ETtoday综合台
+p2p://generationnexxxt.com:19806/8df6fe5bec0f497a8c78e3ac1f6b1f30
+#EXTINF:-1 tvg-name="EVE" tvg-logo="https://epg.112114.eu.org/logo/EVE.png" group-title="晴天源_台湾",EVE
+p2p://generationnexxxt.com:19806/d1b33ee5f9f24913829c3abb5bed41dc
+#EXTINF:-1 tvg-name="EYE TV旅游台" tvg-logo="https://epg.112114.eu.org/logo/EYE TV旅游台.png" group-title="晴天源_台湾",EYE TV旅游台
+p2p://generationnexxxt.com:19806/1b5889db59a04d41823ec45d93f5b4ed
+#EXTINF:-1 tvg-name="EYE TV戏剧台" tvg-logo="https://epg.112114.eu.org/logo/EYE TV戏剧台.png" group-title="晴天源_台湾",EYE TV戏剧台
+p2p://generationnexxxt.com:19806/a87dd9fc95e043ac9ba672c80814a141
+#EXTINF:-1 tvg-name="France24" tvg-logo="https://epg.112114.eu.org/logo/France24.png" group-title="晴天源_台湾",France24
+p2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://epg.112114.eu.org/logo/HBO Family.png" group-title="晴天源_台湾",HBO Family
+p2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://epg.112114.eu.org/logo/HBO.png" group-title="晴天源_台湾",HBO
+p2p://generationnexxxt.com:19806/b6502375733b411f8a483287dfb88fec
+#EXTINF:-1 tvg-name="HBO强档巨献" tvg-logo="https://epg.112114.eu.org/logo/HBO强档巨献.png" group-title="晴天源_台湾",HBO强档巨献
+p2p://generationnexxxt.com:19806/1d907359fd8c4923974922b4eb578f2f
+#EXTINF:-1 tvg-name="HBO原创巨献" tvg-logo="https://epg.112114.eu.org/logo/HBO原创巨献.png" group-title="晴天源_台湾",HBO原创巨献
+p2p://generationnexxxt.com:19806/c19ca194059f4acfb73a741c8c338077
+#EXTINF:-1 tvg-name="HGTV居家乐活频道" tvg-logo="https://epg.112114.eu.org/logo/HGTV居家乐活频道.png" group-title="晴天源_台湾",HGTV居家乐活频道
+p2p://generationnexxxt.com:19806/66ae0f2200083377e82eafa94d5b1859
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://epg.112114.eu.org/logo/HITS.png" group-title="晴天源_台湾",HITS
+p2p://generationnexxxt.com:19806/033e83ab97bd45429dc3c6bfa93f5acf
+#EXTINF:-1 tvg-name="i-Fun动漫台" tvg-logo="https://epg.112114.eu.org/logo/i-Fun动漫台.png" group-title="晴天源_台湾",i-Fun动漫台
+p2p://generationnexxxt.com:19806/be14f67c350040899575a7ee22080bc6
+#EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://epg.112114.eu.org/logo/JET综合台.png" group-title="晴天源_台湾",JET综合台
+p2p://generationnexxxt.com:19806/c7de9dfe5a7d41788b38c79f334828fe
+#EXTINF:-1 tvg-name="KLT-靖天国际台" tvg-logo="https://epg.112114.eu.org/logo/KLT-靖天国际台.png" group-title="晴天源_台湾",KLT-靖天国际台
+p2p://generationnexxxt.com:19806/66d01f45000be4dd6d3dc7a4497611af
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://epg.112114.eu.org/logo/Lifetime.png" group-title="晴天源_台湾",Lifetime
+p2p://generationnexxxt.com:19806/bf267c69754941cab169e38f370a996b
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://epg.112114.eu.org/logo/Love Nature.png" group-title="晴天源_台湾",Love Nature
+p2p://generationnexxxt.com:19806/9b1ff285caf24a37b83e6e64c9cd99d6
+#EXTINF:-1 tvg-name="Mezzo Live" tvg-logo="https://epg.112114.eu.org/logo/Mezzo Live.png" group-title="晴天源_台湾",Mezzo Live
+p2p://generationnexxxt.com:19806/67a56f04718f47f89114c8d9ae4107d7
+#EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="https://epg.112114.eu.org/logo/MOMO亲子台.png" group-title="晴天源_台湾",MOMO亲子台
+p2p://generationnexxxt.com:19806/49d5b57c646a4e34955f13b03e0bface
+#EXTINF:-1 tvg-name="MOMO综合台" tvg-logo="https://epg.112114.eu.org/logo/MOMO综合台.png" group-title="晴天源_台湾",MOMO综合台
+p2p://generationnexxxt.com:19806/e88a66769592441c8ec2707b0a3b55e5
+#EXTINF:-1 tvg-name="NHK新闻资讯台" tvg-logo="https://epg.112114.eu.org/logo/NHK新闻资讯台.png" group-title="晴天源_台湾",NHK新闻资讯台
+p2p://generationnexxxt.com:19806/7817b74b04e6431095921ffa20d3b50b
+#EXTINF:-1 tvg-name="Nice TV靖天欢乐台" tvg-logo="https://epg.112114.eu.org/logo/Nice TV靖天欢乐台.png" group-title="晴天源_台湾",Nice TV靖天欢乐台
+p2p://generationnexxxt.com:19806/292ac060fb694ab6bab52a705abd0444
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://epg.112114.eu.org/logo/Nick Jr..png" group-title="晴天源_台湾",Nick Jr.
+p2p://generationnexxxt.com:19806/66ae0e0c0003ff9de82a70a05bc00a78
+#EXTINF:-1 tvg-name="ROCK Extreme" tvg-logo="https://epg.112114.eu.org/logo/ROCK Extreme.png" group-title="晴天源_台湾",ROCK Extreme
+p2p://generationnexxxt.com:19806/b64cc1b25fdd4f67b34969e557cbd840
+#EXTINF:-1 tvg-name="Smart知识台" tvg-logo="https://epg.112114.eu.org/logo/Smart知识台.png" group-title="晴天源_台湾",Smart知识台
+p2p://generationnexxxt.com:19806/96e22211f4fc4bbba3e2662c25243663
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="晴天源_台湾",TVBS
+p2p://generationnexxxt.com:19806/a9fd676ed5f844aea4b5157c9869c21f
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.eu.org/logo/TVBS欢乐台.png" group-title="晴天源_台湾",TVBS欢乐台
+p2p://generationnexxxt.com:19806/0c6fcbe8a4cf4f87bc35d21dd3db56c0
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://epg.112114.eu.org/logo/TVBS精采台.png" group-title="晴天源_台湾",TVBS精采台
+p2p://generationnexxxt.com:19806/50e7d62d52934a2684fccc5b4bebf14e
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.eu.org/logo/TVBS新闻台.png" group-title="晴天源_台湾",TVBS新闻台
+p2p://generationnexxxt.com:19806/9c57ebc5e8974b6aa93db655c034f394
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://epg.112114.eu.org/logo/tvN.png" group-title="晴天源_台湾",tvN
+p2p://generationnexxxt.com:19806/1425d4463275418680ce31d1e5e543c4
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://epg.112114.eu.org/logo/WARNER TV.png" group-title="晴天源_台湾",WARNER TV
+p2p://generationnexxxt.com:19806/89989aef89064df6af80054d37dae64d
+#EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://epg.112114.eu.org/logo/爱尔达影剧台.png" group-title="晴天源_台湾",爱尔达影剧台
+p2p://generationnexxxt.com:19806/f5f1c132d34a46f4a6a5b8fe4088c90e
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://epg.112114.eu.org/logo/八大第一台.png" group-title="晴天源_台湾",八大第一台
+p2p://generationnexxxt.com:19806/4c27879a32be460590ed561f0d133508
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://epg.112114.eu.org/logo/八大戏剧台.png" group-title="晴天源_台湾",八大戏剧台
+p2p://generationnexxxt.com:19806/2ea9d0ceed7946cbba2fe95b1dd3ff34
+#EXTINF:-1 tvg-name="八大优频道" tvg-logo="https://epg.112114.eu.org/logo/八大优频道.png" group-title="晴天源_台湾",八大优频道
+p2p://generationnexxxt.com:19806/77525f1f53324b3b86b823988e40e76d
+#EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://epg.112114.eu.org/logo/八大娱乐台.png" group-title="晴天源_台湾",八大娱乐台
+p2p://generationnexxxt.com:19806/1f00741597cb41788810b3580e4e24f9
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://epg.112114.eu.org/logo/八大综合台.png" group-title="晴天源_台湾",八大综合台
+p2p://generationnexxxt.com:19806/8cd82984c82143ccb4d5efffc3a00e58
+#EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://epg.112114.eu.org/logo/采昌影剧台.png" group-title="晴天源_台湾",采昌影剧台
+p2p://generationnexxxt.com:19806/539b893a79cb4e9da212c52b2c7dbceb
+#EXTINF:-1 tvg-name="超视" tvg-logo="https://epg.112114.eu.org/logo/超视.png" group-title="晴天源_台湾",超视
+p2p://generationnexxxt.com:19806/9cf45ab03b744e3696aeeb3aec844fa9
+#EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://epg.112114.eu.org/logo/达文西频道.png" group-title="晴天源_台湾",达文西频道
+p2p://generationnexxxt.com:19806/6bcc2881ed5e45ec9fa6b38c32034914
+#EXTINF:-1 tvg-name="大爱" tvg-logo="https://epg.112114.eu.org/logo/大爱.png" group-title="晴天源_台湾",大爱
+p2p://generationnexxxt.com:19806/3a1fb2af7f384a148c57899bb1b50dfb
+#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://epg.112114.eu.org/logo/大爱2台.png" group-title="晴天源_台湾",大爱2台
+p2p://generationnexxxt.com:19806/88596bd7c84d496998c0b2cbcc1ed946
+#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森财经新闻台.png" group-title="晴天源_台湾",东森财经新闻台
+p2p://generationnexxxt.com:19806/8298df48b0634aaa8b95fee3c4403627
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="https://epg.112114.eu.org/logo/东森电影台.png" group-title="晴天源_台湾",东森电影台
+p2p://generationnexxxt.com:19806/66adf84d000d5ed7e7d580f9459517f8
+#EXTINF:-1 tvg-name="东森购物1台" tvg-logo="https://epg.112114.eu.org/logo/东森购物1台.png" group-title="晴天源_台湾",东森购物1台
+p2p://generationnexxxt.com:19806/24ef83147d424169b164892b24a462ec
+#EXTINF:-1 tvg-name="东森购物2台" tvg-logo="https://epg.112114.eu.org/logo/东森购物2台.png" group-title="晴天源_台湾",东森购物2台
+p2p://generationnexxxt.com:19806/26f50f2eb32b47bfb38ff409d2c379f5
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://epg.112114.eu.org/logo/东森戏剧台.png" group-title="晴天源_台湾",东森戏剧台
+p2p://generationnexxxt.com:19806/627f01a67cc04477b166c3640b075ce7
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="晴天源_台湾",东森新闻台
+p2p://generationnexxxt.com:19806/efe003be84fe4042acbfe64fad630ad8
+#EXTINF:-1 tvg-name="东森洋片台" tvg-logo="https://epg.112114.eu.org/logo/东森洋片台.png" group-title="晴天源_台湾",东森洋片台
+p2p://generationnexxxt.com:19806/0159d2f949ee4f0789fbebd83511c029
+#EXTINF:-1 tvg-name="东森幼幼台" tvg-logo="https://epg.112114.eu.org/logo/东森幼幼台.png" group-title="晴天源_台湾",东森幼幼台
+p2p://generationnexxxt.com:19806/117d1e6a6f074d72bf06662f2526810d
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="https://epg.112114.eu.org/logo/东森综合台.png" group-title="晴天源_台湾",东森综合台
+p2p://generationnexxxt.com:19806/66c9adfc000a37ef5413420e1b5919df
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://epg.112114.eu.org/logo/动物星球.png" group-title="晴天源_台湾",动物星球
+p2p://generationnexxxt.com:19806/d0c346c10e1546efa18a7b43324385fb
+#EXTINF:-1 tvg-name="非凡商业台" tvg-logo="https://epg.112114.eu.org/logo/非凡商业台.png" group-title="晴天源_台湾",非凡商业台
+p2p://generationnexxxt.com:19806/75d635caf96142a3807ed6c5f7e6240d
+#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://epg.112114.eu.org/logo/非凡新闻台.png" group-title="晴天源_台湾",非凡新闻台
+p2p://generationnexxxt.com:19806/a9e59cdcc4b34963950e410282b0cc5a
+#EXTINF:-1 tvg-name="佛卫慈悲台" tvg-logo="https://epg.112114.eu.org/logo/佛卫慈悲台.png" group-title="晴天源_台湾",佛卫慈悲台
+p2p://generationnexxxt.com:19806/66dffac200024938ab2f2f3f093b4fe3
+#EXTINF:-1 tvg-name="高点综合台" tvg-logo="https://epg.112114.eu.org/logo/高点综合台.png" group-title="晴天源_台湾",高点综合台
+p2p://generationnexxxt.com:19806/87ef49531c3c4f70b86874445d32ff0d
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.112114.eu.org/logo/公视.png" group-title="晴天源_台湾",公视
+p2p://generationnexxxt.com:19806/345c7e0b5a7545cfacafed5319da0351
+#EXTINF:-1 tvg-name="公视3台" tvg-logo="https://epg.112114.eu.org/logo/公视3台.png" group-title="晴天源_台湾",公视3台
+p2p://generationnexxxt.com:19806/f422804414034f0197cd5c19aa3b3a56
+#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://epg.112114.eu.org/logo/公视台语台.png" group-title="晴天源_台湾",公视台语台
+p2p://generationnexxxt.com:19806/dcc80b82d3f041d49d62d3848eb55cfc
+#EXTINF:-1 tvg-name="国兴卫视" tvg-logo="https://epg.112114.eu.org/logo/国兴卫视.png" group-title="晴天源_台湾",国兴卫视
+p2p://generationnexxxt.com:19806/d7e6ca7abdd1412cb8707580d81dc8e4
+#EXTINF:-1 tvg-name="韩国娱乐台" tvg-logo="https://epg.112114.eu.org/logo/韩国娱乐台.png" group-title="晴天源_台湾",韩国娱乐台
+p2p://generationnexxxt.com:19806/c54fd41bb23d4e3db72036337f34d759
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.eu.org/logo/好莱坞电影台.png" group-title="晴天源_台湾",好莱坞电影台
+p2p://generationnexxxt.com:19806/b68985624da8461ab44550d4895a027f
+#EXTINF:-1 tvg-name="好消息" tvg-logo="https://epg.112114.eu.org/logo/好消息.png" group-title="晴天源_台湾",好消息
+p2p://generationnexxxt.com:19806/1a30100fbcbd4eefba5e050dbe0a1e46
+#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://epg.112114.eu.org/logo/好消息2台.png" group-title="晴天源_台湾",好消息2台
+p2p://generationnexxxt.com:19806/72bb041b67d54a9eaea10f25b744498d
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="晴天源_台湾",华视
+p2p://generationnexxxt.com:19806/c507160e44d04f1aa6e2c60e22c441a2
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://epg.112114.eu.org/logo/华视新闻.png" group-title="晴天源_台湾",华视新闻
+p2p://generationnexxxt.com:19806/f67cc48897964d8984e9689aae66ab2b
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻台.png" group-title="晴天源_台湾",寰宇新闻台
+p2p://generationnexxxt.com:19806/85339712438544e39f8e1adc29e709cb
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻台湾台.png" group-title="晴天源_台湾",寰宇新闻台湾台
+p2p://generationnexxxt.com:19806/b344d0090d85440c9a415556276c6385
+#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://epg.112114.eu.org/logo/靖天电影台.png" group-title="晴天源_台湾",靖天电影台
+p2p://generationnexxxt.com:19806/322729d3e8b4423aa33c43960d73c772
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖天卡通台.png" group-title="晴天源_台湾",靖天卡通台
+p2p://generationnexxxt.com:19806/f7c80afa22084494905fe5b78aef269d
+#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://epg.112114.eu.org/logo/靖天日本台.png" group-title="晴天源_台湾",靖天日本台
+p2p://generationnexxxt.com:19806/4a9b159a879041ea9793ab44759a6115
+#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://epg.112114.eu.org/logo/靖天戏剧台.png" group-title="晴天源_台湾",靖天戏剧台
+p2p://generationnexxxt.com:19806/11ee7c52b96b498f8d7b904e3fdfd116
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://epg.112114.eu.org/logo/靖天映画.png" group-title="晴天源_台湾",靖天映画
+p2p://generationnexxxt.com:19806/f7252ddcc10f4c1aa7eeba1e076fa391
+#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://epg.112114.eu.org/logo/靖天育乐台.png" group-title="晴天源_台湾",靖天育乐台
+p2p://generationnexxxt.com:19806/210977f16a5440aeab1d8d9a4b656320
+#EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://epg.112114.eu.org/logo/靖天资讯台.png" group-title="晴天源_台湾",靖天资讯台
+p2p://generationnexxxt.com:19806/cd8910ee348c41169783c521b48cc0d4
+#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://epg.112114.eu.org/logo/靖天综合台.png" group-title="晴天源_台湾",靖天综合台
+p2p://generationnexxxt.com:19806/243c040034614eacbbba9a6ef069e8cc
+#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://epg.112114.eu.org/logo/靖洋卡通Nice Bingo.png" group-title="晴天源_台湾",靖洋卡通Nice Bingo
+p2p://generationnexxxt.com:19806/0a4cf42c9f7743dbaa9bf0cdfe7de254
+#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.eu.org/logo/靖洋戏剧台.png" group-title="晴天源_台湾",靖洋戏剧台
+p2p://generationnexxxt.com:19806/71d61e78b1bf41c98a302d886654ff4b
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://epg.112114.eu.org/logo/镜新闻.png" group-title="晴天源_台湾",镜新闻
+p2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
+#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://epg.112114.eu.org/logo/客家电视台.png" group-title="晴天源_台湾",客家电视台
+p2p://generationnexxxt.com:19806/b923bc30313541b98c92f5c65f5a5cc6
+#EXTINF:-1 tvg-name="历史频道" tvg-logo="https://epg.112114.eu.org/logo/历史频道.png" group-title="晴天源_台湾",历史频道
+p2p://generationnexxxt.com:19806/00e210433760435d8f35de74e1a47522
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://epg.112114.eu.org/logo/龙华电影.png" group-title="晴天源_台湾",龙华电影
+p2p://generationnexxxt.com:19806/3351dd272f0b41d3bc376372fe35d7c6
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://epg.112114.eu.org/logo/龙华偶像.png" group-title="晴天源_台湾",龙华偶像
+p2p://generationnexxxt.com:19806/a7b822eb3c86487b960d27a273d5e0b6
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://epg.112114.eu.org/logo/龙华戏剧.png" group-title="晴天源_台湾",龙华戏剧
+p2p://generationnexxxt.com:19806/57cd38447bf54bb194b50b519de2e928
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://epg.112114.eu.org/logo/龙祥电影.png" group-title="晴天源_台湾",龙祥电影
+p2p://generationnexxxt.com:19806/de1564b31a434a6db767c896264c8117
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://epg.112114.eu.org/logo/美食星球.png" group-title="晴天源_台湾",美食星球
+p2p://generationnexxxt.com:19806/505e9e8d5e23415dbf20f648ce550451
+#EXTINF:-1 tvg-name="美亚电影台HD" tvg-logo="https://epg.112114.eu.org/logo/美亚电影台HD.png" group-title="晴天源_台湾",美亚电影台HD
+p2p://generationnexxxt.com:19806/47fee7fd5aca4f949b6e265a28870b23
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="晴天源_台湾",民视
+p2p://generationnexxxt.com:19806/7ec1361b3be64f8881152c39785f043e
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.112114.eu.org/logo/民视第一台.png" group-title="晴天源_台湾",民视第一台
+p2p://generationnexxxt.com:19806/36848de07694409e93dcc4f49171d87a
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://epg.112114.eu.org/logo/民视台湾台.png" group-title="晴天源_台湾",民视台湾台
+p2p://generationnexxxt.com:19806/670a82e5000bf5b351530257021e12c8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.112114.eu.org/logo/民视新闻台.png" group-title="晴天源_台湾",民视新闻台
+p2p://generationnexxxt.com:19806/66d03c9100015ae66db035d4078f5fae
+#EXTINF:-1 tvg-name="尼克儿童频道" tvg-logo="https://epg.112114.eu.org/logo/尼克儿童频道.png" group-title="晴天源_台湾",尼克儿童频道
+p2p://generationnexxxt.com:19806/5696628c865c4418bec1458632cb9fc5
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.112114.eu.org/logo/年代新闻.png" group-title="晴天源_台湾",年代新闻
+p2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
+#EXTINF:-1 tvg-name="霹雳台湾台" tvg-logo="https://epg.112114.eu.org/logo/霹雳台湾台.png" group-title="晴天源_台湾",霹雳台湾台
+p2p://generationnexxxt.com:19806/0e3ab414dfb34fccb76d20665cd03da4
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://epg.112114.eu.org/logo/人间卫视.png" group-title="晴天源_台湾",人间卫视
+p2p://generationnexxxt.com:19806/f1d847758dca4be38a7a5d726548bef8
+#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://epg.112114.eu.org/logo/三立iNEWS.png" group-title="晴天源_台湾",三立iNEWS
+p2p://generationnexxxt.com:19806/6ec25b8c951a47cfb921435fb1968c16
+#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://epg.112114.eu.org/logo/三立都会台.png" group-title="晴天源_台湾",三立都会台
+p2p://generationnexxxt.com:19806/800e74187ad64845b62e4776bcfb4984
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://epg.112114.eu.org/logo/三立台湾台.png" group-title="晴天源_台湾",三立台湾台
+p2p://generationnexxxt.com:19806/0b9dde5b62bc4b72909c67a3914db4d5
+#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://epg.112114.eu.org/logo/三立戏剧台.png" group-title="晴天源_台湾",三立戏剧台
+p2p://generationnexxxt.com:19806/1dd5c258f8bd40f99e89659a2a4cea74
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="晴天源_台湾",三立新闻台
+p2p://generationnexxxt.com:19806/4b28a89f9c8545f289f45572a3f6211c
+#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://epg.112114.eu.org/logo/三立综合台.png" group-title="晴天源_台湾",三立综合台
+p2p://generationnexxxt.com:19806/9242d668e2d940b788b6ebd710a6859a
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="晴天源_台湾",台视
+p2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
+#EXTINF:-1 tvg-name="台视财经台" tvg-logo="https://epg.112114.eu.org/logo/台视财经台.png" group-title="晴天源_台湾",台视财经台
+p2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
+#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://epg.112114.eu.org/logo/台视新闻台.png" group-title="晴天源_台湾",台视新闻台
+p2p://generationnexxxt.com:19806/c8ba55c46bbe45a59ce08958fa2e32eb
+#EXTINF:-1 tvg-name="台视综合台" tvg-logo="https://epg.112114.eu.org/logo/台视综合台.png" group-title="晴天源_台湾",台视综合台
+p2p://generationnexxxt.com:19806/ace41b53448e4e41947dd3117f5c5e3d
+#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://epg.112114.eu.org/logo/探索频道.png" group-title="晴天源_台湾",探索频道
+p2p://generationnexxxt.com:19806/105b21bae21944ad843946935d31e686
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="https://epg.112114.eu.org/logo/纬来电影台.png" group-title="晴天源_台湾",纬来电影台
+p2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983
+#EXTINF:-1 tvg-name="纬来精采" tvg-logo="https://epg.112114.eu.org/logo/纬来精采.png" group-title="晴天源_台湾",纬来精采
+p2p://generationnexxxt.com:19806/48897e6ffe254f23ba72a215dfbf5068
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://epg.112114.eu.org/logo/纬来日本.png" group-title="晴天源_台湾",纬来日本
+p2p://generationnexxxt.com:19806/8cece7da581146cd97d5028406bb058d
+#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="https://epg.112114.eu.org/logo/纬来戏剧台.png" group-title="晴天源_台湾",纬来戏剧台
+p2p://generationnexxxt.com:19806/ad811f2756d24592b955384d4615c668
+#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="https://epg.112114.eu.org/logo/纬来综合台.png" group-title="晴天源_台湾",纬来综合台
+p2p://generationnexxxt.com:19806/d6f4bacf0bfa46db926c4d9d68bc92e6
+#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.eu.org/logo/亚洲旅游台.png" group-title="晴天源_台湾",亚洲旅游台
+p2p://generationnexxxt.com:19806/409459f958a04a5fa3609250df421445
+#EXTINF:-1 tvg-name="亚洲美食频道" tvg-logo="https://epg.112114.eu.org/logo/亚洲美食频道.png" group-title="晴天源_台湾",亚洲美食频道
+p2p://generationnexxxt.com:19806/c15e0431e20c41f897012bd5a9448642
+#EXTINF:-1 tvg-name="壹电视电影台" tvg-logo="https://epg.112114.eu.org/logo/壹电视电影台.png" group-title="晴天源_台湾",壹电视电影台
+p2p://generationnexxxt.com:19806/aec3251d6dcc4f29bef994c90adc1249
+#EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="https://epg.112114.eu.org/logo/壹电视新闻台.png" group-title="晴天源_台湾",壹电视新闻台
+p2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
+#EXTINF:-1 tvg-name="壹电视综合" tvg-logo="https://epg.112114.eu.org/logo/壹电视综合.png" group-title="晴天源_台湾",壹电视综合
+p2p://generationnexxxt.com:19806/1854778028c04ac7a04c44b0811a4a23
+#EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://epg.112114.eu.org/logo/影迷数位电影台.png" group-title="晴天源_台湾",影迷数位电影台
+p2p://generationnexxxt.com:19806/484e5b93b4454bf9910dc423210a717f
+#EXTINF:-1 tvg-name="原住民电视台" tvg-logo="https://epg.112114.eu.org/logo/原住民电视台.png" group-title="晴天源_台湾",原住民电视台
+p2p://generationnexxxt.com:19806/cc83139680b54cc8a9409db178e18970
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="晴天源_台湾",中视
+p2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac
+#EXTINF:-1 tvg-name="中视经典台" tvg-logo="https://epg.112114.eu.org/logo/中视经典台.png" group-title="晴天源_台湾",中视经典台
+p2p://generationnexxxt.com:19806/0af2489f1229430f98b9b5839b30f023
+#EXTINF:-1 tvg-name="中视菁采台" tvg-logo="https://epg.112114.eu.org/logo/中视菁采台.png" group-title="晴天源_台湾",中视菁采台
+p2p://generationnexxxt.com:19806/abf4b02e6c7d408ebc9947ae5b2e11c3
+#EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://epg.112114.eu.org/logo/中视新闻台.png" group-title="晴天源_台湾",中视新闻台
+p2p://generationnexxxt.com:19806/55478ce7e701439081fa58bd7484ed61
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.eu.org/logo/中天新闻台.png" group-title="晴天源_台湾",中天新闻台
+p2p://generationnexxxt.com:19806/bd888b687e3347c3877aef741b187b33
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://epg.112114.eu.org/logo/中天娱乐台.png" group-title="晴天源_台湾",中天娱乐台
+p2p://generationnexxxt.com:19806/41ddd02185bd4c94bedd9e65f8417c93
+#EXTINF:-1 tvg-name="中天综合台" tvg-logo="https://epg.112114.eu.org/logo/中天综合台.png" group-title="晴天源_台湾",中天综合台
+p2p://generationnexxxt.com:19806/d07c7ed033fa4d66901af75caab59e06
+#EXTINF:-1 tvg-name="罪案侦缉频道" tvg-logo="https://epg.112114.eu.org/logo/罪案侦缉频道.png" group-title="晴天源_台湾",罪案侦缉频道
+p2p://generationnexxxt.com:19806/95625d26452949c1a6ee4f6dbc71d230
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.112114.eu.org/logo/广东影视.png" group-title="晴天源_大陆",广东影视
+p2p://generationnexxxt.com:19806/b1137b642b2b4db686e7a604473a2b73
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://epg.112114.eu.org/logo/广州综合.png" group-title="晴天源_大陆",广州综合
+p2p://generationnexxxt.com:19806/07806c412a664a2e9da0c3b8d49f453b
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://epg.112114.eu.org/logo/广州新闻.png" group-title="晴天源_大陆",广州新闻
+p2p://generationnexxxt.com:19806/61e6fce7eed54ba3957ed11ee31a1d3b
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://epg.112114.eu.org/logo/深圳都市.png" group-title="晴天源_大陆",深圳都市
+p2p://generationnexxxt.com:19806/4e677069231b4e0c9d59dcf735db0e3b
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://epg.112114.eu.org/logo/深圳电视剧.png" group-title="晴天源_大陆",深圳电视剧
+p2p://generationnexxxt.com:19806/092f41e3020b4eb4ac134490718e92c4
+#EXTINF:-1 tvg-name="Channel [V]" tvg-logo="https://epg.112114.eu.org/logo/Channel [V].png" group-title="晴天源_大陆",Channel [V]
+p2p://generationnexxxt.com:19806/16abb0afc9da4c2881dfdea4413f7113
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="晴天源_大陆",CHC影迷电影
+p2p://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="晴天源_大陆",CHC家庭影院
+p2p://generationnexxxt.com:19806/e7f90edc322741f287552aa590e09e1c
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="晴天源_大陆",CHC动作电影
+p2p://generationnexxxt.com:19806/23a059c18cc44c9780ed70e3ab593e2d
+#EXTINF:-1 tvg-name="私人影院" tvg-logo="https://epg.112114.eu.org/logo/私人影院.png" group-title="晴天源_大陆",私人影院
+p2p://generationnexxxt.com:19806/50d6042be3794a90816ee9b507ce93fa
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="晴天源_大陆",重温经典
+p2p://generationnexxxt.com:19806/194320a4cee24e44b14a2980150a3151
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="晴天源_大陆",星空卫视
+p2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
