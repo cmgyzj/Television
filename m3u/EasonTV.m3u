@@ -8646,7 +8646,7 @@ http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
 http://58.59.47.242:8180/TV00000000000000000031@HHZT
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
-http://202.103.213.10:8888/udp/239.81.0.240:4056
+http://113.13.173.96:58888/udp/239.81.0.240:4056
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐频道",CHC影迷电影
@@ -8682,7 +8682,7 @@ http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
 http://58.59.47.242:8180/TV00000000000000000029@HHZT
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
-http://202.103.213.10:8888/udp/239.81.0.238:4056
+http://113.13.173.96:58888/udp/239.81.0.238:4056
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐频道",CHC家庭影院
@@ -8716,7 +8716,7 @@ http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
 http://58.59.47.242:8180/TV00000000000000000030@HHZT
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
-http://202.103.213.10:8888/udp/239.81.0.239:4056
+http://113.13.173.96:58888/udp/239.81.0.239:4056
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐频道",CHC动作电影
@@ -10964,7 +10964,7 @@ http://[2409:8087:5e01:24::21]:6610/000000001000/5359008697329269813/1.m3u8?chan
 #EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://epg.112114.eu.org/logo/戏曲精选.png" group-title="娱乐频道",戏曲精选
 http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://epg.112114.eu.org/logo/新动漫.png" group-title="娱乐频道",新动漫
-http://202.103.213.10:8888/udp/239.81.0.235:4056
+http://113.13.173.96:58888/udp/239.81.0.235:4056
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://epg.112114.eu.org/logo/新动漫.png" group-title="娱乐频道",新动漫
 http://php.jdshipin.com/cqyx.php?id=dongman
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://epg.112114.eu.org/logo/新动漫.png" group-title="娱乐频道",新动漫
@@ -11078,7 +11078,7 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐频道",中国天气
 http://home.nuaa.us.to:4000/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐频道",中国天气
-http://202.103.213.10:8888/udp/239.81.0.63:4056
+http://113.13.173.96:58888/udp/239.81.0.63:4056
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐频道",中国天气
 http://116.227.10.196:2048/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐频道",中国天气
@@ -11896,9 +11896,9 @@ http://gongjin.x3322.net:8686/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://home.nuaa.us.to:4000/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
-http://202.103.213.10:8888/udp/239.81.0.62:4056
+http://113.13.173.96:58888/udp/239.81.0.62:4056
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
-http://202.103.213.10:8888/udp/239.81.0.64:4056
+http://113.13.173.96:58888/udp/239.81.0.64:4056
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://116.227.10.196:2048/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
@@ -14076,67 +14076,67 @@ http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
 #EXTINF:-1 tvg-name="潮州公共" tvg-logo="https://live.fanmingming.com/tv/潮州公共.png" group-title="广东频道",潮州公共
 http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.eu.org/logo/广西综艺旅游.png" group-title="广西频道",广西综艺旅游
-http://202.103.213.10:8888/udp/239.81.0.3:4056
+http://113.13.173.96:58888/udp/239.81.0.3:4056
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.eu.org/logo/广西综艺旅游.png" group-title="广西频道",广西综艺旅游
 http://202.103.213.75:8888/udp/239.81.0.3:4056
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.eu.org/logo/广西综艺旅游.png" group-title="广西频道",广西综艺旅游
 http://171.110.55.49:4200/udp/239.81.0.3:4056
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.eu.org/logo/广西综艺旅游.png" group-title="广西频道",广西综艺旅游
-http://202.103.213.10:8888/udp/239.81.0.214:4056
+http://113.13.173.96:58888/udp/239.81.0.214:4056
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.eu.org/logo/广西综艺旅游.png" group-title="广西频道",广西综艺旅游
 http://202.103.213.75:8888/udp/239.81.0.214:4056
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.eu.org/logo/广西综艺旅游.png" group-title="广西频道",广西综艺旅游
 http://171.110.55.49:4200/udp/239.81.0.214:4056
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.112114.eu.org/logo/广西都市.png" group-title="广西频道",广西都市
-http://202.103.213.10:8888/udp/239.81.0.4:4056
+http://113.13.173.96:58888/udp/239.81.0.4:4056
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.112114.eu.org/logo/广西都市.png" group-title="广西频道",广西都市
 http://202.103.213.75:8888/udp/239.81.0.4:4056
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.112114.eu.org/logo/广西都市.png" group-title="广西频道",广西都市
 http://171.110.55.49:4200/udp/239.81.0.4:4056
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.112114.eu.org/logo/广西都市.png" group-title="广西频道",广西都市
-http://202.103.213.10:8888/udp/239.81.0.247:4056
+http://113.13.173.96:58888/udp/239.81.0.247:4056
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.112114.eu.org/logo/广西都市.png" group-title="广西频道",广西都市
 http://202.103.213.75:8888/udp/239.81.0.247:4056
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.112114.eu.org/logo/广西都市.png" group-title="广西频道",广西都市
 http://171.110.55.49:4200/udp/239.81.0.247:4056
 #EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.112114.eu.org/logo/广西影视.png" group-title="广西频道",广西影视
-http://202.103.213.10:8888/udp/239.81.0.7:4056
+http://113.13.173.96:58888/udp/239.81.0.7:4056
 #EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.112114.eu.org/logo/广西影视.png" group-title="广西频道",广西影视
 http://202.103.213.75:8888/udp/239.81.0.7:4056
 #EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.112114.eu.org/logo/广西影视.png" group-title="广西频道",广西影视
 http://171.110.55.49:4200/udp/239.81.0.7:4056
 #EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.112114.eu.org/logo/广西影视.png" group-title="广西频道",广西影视
-http://202.103.213.10:8888/udp/239.81.0.250:4056
+http://113.13.173.96:58888/udp/239.81.0.250:4056
 #EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.112114.eu.org/logo/广西影视.png" group-title="广西频道",广西影视
 http://202.103.213.75:8888/udp/239.81.0.250:4056
 #EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.112114.eu.org/logo/广西影视.png" group-title="广西频道",广西影视
 http://171.110.55.49:4200/udp/239.81.0.250:4056
 #EXTINF:-1 tvg-name="广西乐思购" tvg-logo="https://epg.112114.eu.org/logo/广西乐思购.png" group-title="广西频道",广西乐思购
-http://202.103.213.10:8888/udp/239.81.0.9:4056
+http://113.13.173.96:58888/udp/239.81.0.9:4056
 #EXTINF:-1 tvg-name="广西乐思购" tvg-logo="https://epg.112114.eu.org/logo/广西乐思购.png" group-title="广西频道",广西乐思购
 http://202.103.213.75:8888/udp/239.81.0.9:4056
 #EXTINF:-1 tvg-name="广西乐思购" tvg-logo="https://epg.112114.eu.org/logo/广西乐思购.png" group-title="广西频道",广西乐思购
 http://171.110.55.49:4200/udp/239.81.0.9:4056
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.112114.eu.org/logo/广西新闻.png" group-title="广西频道",广西新闻
-http://202.103.213.10:8888/udp/239.81.0.5:4056
+http://113.13.173.96:58888/udp/239.81.0.5:4056
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.112114.eu.org/logo/广西新闻.png" group-title="广西频道",广西新闻
 http://202.103.213.75:8888/udp/239.81.0.5:4056
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.112114.eu.org/logo/广西新闻.png" group-title="广西频道",广西新闻
 http://171.110.55.49:4200/udp/239.81.0.5:4056
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.112114.eu.org/logo/广西新闻.png" group-title="广西频道",广西新闻
-http://202.103.213.10:8888/udp/239.81.0.248:4056
+http://113.13.173.96:58888/udp/239.81.0.248:4056
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.112114.eu.org/logo/广西新闻.png" group-title="广西频道",广西新闻
 http://202.103.213.75:8888/udp/239.81.0.248:4056
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.112114.eu.org/logo/广西新闻.png" group-title="广西频道",广西新闻
 http://171.110.55.49:4200/udp/239.81.0.248:4056
 #EXTINF:-1 tvg-name="广西国际" tvg-logo="https://epg.112114.eu.org/logo/广西国际.png" group-title="广西频道",广西国际
-http://202.103.213.10:8888/udp/239.81.0.8:4056
+http://113.13.173.96:58888/udp/239.81.0.8:4056
 #EXTINF:-1 tvg-name="广西国际" tvg-logo="https://epg.112114.eu.org/logo/广西国际.png" group-title="广西频道",广西国际
 http://202.103.213.75:8888/udp/239.81.0.8:4056
 #EXTINF:-1 tvg-name="广西国际" tvg-logo="https://epg.112114.eu.org/logo/广西国际.png" group-title="广西频道",广西国际
 http://171.110.55.49:4200/udp/239.81.0.8:4056
 #EXTINF:-1 tvg-name="广西移动电视" tvg-logo="https://epg.112114.eu.org/logo/广西移动电视.png" group-title="广西频道",广西移动电视
-http://202.103.213.10:8888/udp/239.81.0.10:4056
+http://113.13.173.96:58888/udp/239.81.0.10:4056
 #EXTINF:-1 tvg-name="广西移动电视" tvg-logo="https://epg.112114.eu.org/logo/广西移动电视.png" group-title="广西频道",广西移动电视
 http://202.103.213.75:8888/udp/239.81.0.10:4056
 #EXTINF:-1 tvg-name="广西移动电视" tvg-logo="https://epg.112114.eu.org/logo/广西移动电视.png" group-title="广西频道",广西移动电视
@@ -14144,9 +14144,9 @@ http://171.110.55.49:4200/udp/239.81.0.10:4056
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南宁新闻综合.png" group-title="广西频道",南宁新闻综合
 http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南宁新闻综合.png" group-title="广西频道",南宁新闻综合
-http://202.103.213.10:8888/udp/239.81.0.126:4056
+http://113.13.173.96:58888/udp/239.81.0.126:4056
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南宁新闻综合.png" group-title="广西频道",南宁新闻综合
-http://202.103.213.10:8888/udp/239.81.0.241:4056
+http://113.13.173.96:58888/udp/239.81.0.241:4056
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南宁新闻综合.png" group-title="广西频道",南宁新闻综合
 http://202.103.213.75:8888/udp/239.81.0.126:4056
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南宁新闻综合.png" group-title="广西频道",南宁新闻综合
@@ -14158,9 +14158,9 @@ http://171.110.55.49:4200/udp/239.81.0.241:4056
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://epg.112114.eu.org/logo/南宁公共.png" group-title="广西频道",南宁公共
 http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://epg.112114.eu.org/logo/南宁公共.png" group-title="广西频道",南宁公共
-http://202.103.213.10:8888/udp/239.81.0.129:4056
+http://113.13.173.96:58888/udp/239.81.0.129:4056
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://epg.112114.eu.org/logo/南宁公共.png" group-title="广西频道",南宁公共
-http://202.103.213.10:8888/udp/239.81.0.141:4056
+http://113.13.173.96:58888/udp/239.81.0.141:4056
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://epg.112114.eu.org/logo/南宁公共.png" group-title="广西频道",南宁公共
 http://202.103.213.75:8888/udp/239.81.0.141:4056
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://epg.112114.eu.org/logo/南宁公共.png" group-title="广西频道",南宁公共
@@ -14170,9 +14170,9 @@ http://171.110.55.49:4200/udp/239.81.0.141:4056
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://epg.112114.eu.org/logo/南宁文旅生活.png" group-title="广西频道",南宁文旅生活
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://epg.112114.eu.org/logo/南宁文旅生活.png" group-title="广西频道",南宁文旅生活
-http://202.103.213.10:8888/udp/239.81.0.127:4056
+http://113.13.173.96:58888/udp/239.81.0.127:4056
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://epg.112114.eu.org/logo/南宁文旅生活.png" group-title="广西频道",南宁文旅生活
-http://202.103.213.10:8888/udp/239.81.0.139:4056
+http://113.13.173.96:58888/udp/239.81.0.139:4056
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://epg.112114.eu.org/logo/南宁文旅生活.png" group-title="广西频道",南宁文旅生活
 http://202.103.213.75:8888/udp/239.81.0.127:4056
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://epg.112114.eu.org/logo/南宁文旅生活.png" group-title="广西频道",南宁文旅生活
@@ -14184,9 +14184,9 @@ http://171.110.55.49:4200/udp/239.81.0.139:4056
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/南宁影视娱乐.png" group-title="广西频道",南宁影视娱乐
 https://hls.nntv.cn/nnlive/YSYL_24.m3u8
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/南宁影视娱乐.png" group-title="广西频道",南宁影视娱乐
-http://202.103.213.10:8888/udp/239.81.0.128:4056
+http://113.13.173.96:58888/udp/239.81.0.128:4056
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/南宁影视娱乐.png" group-title="广西频道",南宁影视娱乐
-http://202.103.213.10:8888/udp/239.81.0.140:4056
+http://113.13.173.96:58888/udp/239.81.0.140:4056
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/南宁影视娱乐.png" group-title="广西频道",南宁影视娱乐
 http://202.103.213.75:8888/udp/239.81.0.128:4056
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/南宁影视娱乐.png" group-title="广西频道",南宁影视娱乐
@@ -14196,9 +14196,9 @@ http://171.110.55.49:4200/udp/239.81.0.128:4056
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/南宁影视娱乐.png" group-title="广西频道",南宁影视娱乐
 http://171.110.55.49:4200/udp/239.81.0.140:4056
 #EXTINF:-1 tvg-name="柳州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/柳州新闻综合.png" group-title="广西频道",柳州新闻综合
-http://202.103.213.10:8888/udp/239.81.0.134:4056
+http://113.13.173.96:58888/udp/239.81.0.134:4056
 #EXTINF:-1 tvg-name="柳州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/柳州新闻综合.png" group-title="广西频道",柳州新闻综合
-http://202.103.213.10:8888/udp/239.81.0.175:4056
+http://113.13.173.96:58888/udp/239.81.0.175:4056
 #EXTINF:-1 tvg-name="柳州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/柳州新闻综合.png" group-title="广西频道",柳州新闻综合
 http://202.103.213.75:8888/udp/239.81.0.134:4056
 #EXTINF:-1 tvg-name="柳州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/柳州新闻综合.png" group-title="广西频道",柳州新闻综合
@@ -14222,9 +14222,9 @@ http://171.110.55.49:4200/udp/239.81.0.149:4056
 #EXTINF:-1 tvg-name="百色综合" tvg-logo="https://epg.112114.eu.org/logo/百色综合.png" group-title="广西频道",百色综合
 http://171.110.55.49:4200/udp/239.81.0.150:4056
 #EXTINF:-1 tvg-name="北海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/北海新闻综合.png" group-title="广西频道",北海新闻综合
-http://202.103.213.10:8888/udp/239.81.0.136:4056
+http://113.13.173.96:58888/udp/239.81.0.136:4056
 #EXTINF:-1 tvg-name="北海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/北海新闻综合.png" group-title="广西频道",北海新闻综合
-http://202.103.213.10:8888/udp/239.81.0.154:4056
+http://113.13.173.96:58888/udp/239.81.0.154:4056
 #EXTINF:-1 tvg-name="北海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/北海新闻综合.png" group-title="广西频道",北海新闻综合
 http://202.103.213.75:8888/udp/239.81.0.136:4056
 #EXTINF:-1 tvg-name="北海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/北海新闻综合.png" group-title="广西频道",北海新闻综合
@@ -14248,7 +14248,7 @@ http://rtmp.gdlive.gdmain.com/live/lgmzjyml.m3u8
 #EXTINF:-1 tvg-name="岑溪频道" tvg-logo="https://epg.112114.eu.org/logo/岑溪频道.png" group-title="广西频道",岑溪频道
 http://pulls.myun.tv/live/lnvz16z5.m3u8
 #EXTINF:-1 tvg-name="崇左综合" tvg-logo="https://epg.112114.eu.org/logo/崇左综合.png" group-title="广西频道",崇左综合
-http://202.103.213.10:8888/udp/239.81.0.171:4056
+http://113.13.173.96:58888/udp/239.81.0.171:4056
 #EXTINF:-1 tvg-name="崇左综合" tvg-logo="https://epg.112114.eu.org/logo/崇左综合.png" group-title="广西频道",崇左综合
 http://202.103.213.75:8888/udp/239.81.0.171:4056
 #EXTINF:-1 tvg-name="崇左综合" tvg-logo="https://epg.112114.eu.org/logo/崇左综合.png" group-title="广西频道",崇左综合
@@ -14270,7 +14270,7 @@ http://pulls.myun.tv/live/09em42ol.m3u8
 #EXTINF:-1 tvg-name="都安频道" tvg-logo="https://epg.112114.eu.org/logo/都安频道.png" group-title="广西频道",都安频道
 http://rtmp.gdlive.gdmain.com/live/09em42ol.m3u8
 #EXTINF:-1 tvg-name="防城港新闻" tvg-logo="https://epg.112114.eu.org/logo/防城港新闻.png" group-title="广西频道",防城港新闻
-http://202.103.213.10:8888/udp/239.81.0.151:4056
+http://113.13.173.96:58888/udp/239.81.0.151:4056
 #EXTINF:-1 tvg-name="防城港新闻" tvg-logo="https://epg.112114.eu.org/logo/防城港新闻.png" group-title="广西频道",防城港新闻
 http://202.103.213.75:8888/udp/239.81.0.151:4056
 #EXTINF:-1 tvg-name="防城港新闻" tvg-logo="https://epg.112114.eu.org/logo/防城港新闻.png" group-title="广西频道",防城港新闻
@@ -14282,13 +14282,13 @@ http://pull0503gxd.myun.tv/live/0mdrvoo0.m3u8
 #EXTINF:-1 tvg-name="灌阳综合频道" tvg-logo="https://epg.112114.eu.org/logo/灌阳综合频道.png" group-title="广西频道",灌阳综合频道
 http://rtmp.gdlive.gdmain.com/live/0mdrvoo0.m3u8
 #EXTINF:-1 tvg-name="贵港新闻综合" tvg-logo="https://epg.112114.eu.org/logo/贵港新闻综合.png" group-title="广西频道",贵港新闻综合
-http://202.103.213.10:8888/udp/239.81.0.169:4056
+http://113.13.173.96:58888/udp/239.81.0.169:4056
 #EXTINF:-1 tvg-name="贵港新闻综合" tvg-logo="https://epg.112114.eu.org/logo/贵港新闻综合.png" group-title="广西频道",贵港新闻综合
 http://202.103.213.75:8888/udp/239.81.0.169:4056
 #EXTINF:-1 tvg-name="贵港新闻综合" tvg-logo="https://epg.112114.eu.org/logo/贵港新闻综合.png" group-title="广西频道",贵港新闻综合
 http://171.110.55.49:4200/udp/239.81.0.169:4056
 #EXTINF:-1 tvg-name="桂林新闻综合" tvg-logo="https://epg.112114.eu.org/logo/桂林新闻综合.png" group-title="广西频道",桂林新闻综合
-http://202.103.213.10:8888/udp/239.81.0.135:4056
+http://113.13.173.96:58888/udp/239.81.0.135:4056
 #EXTINF:-1 tvg-name="桂林新闻综合" tvg-logo="https://epg.112114.eu.org/logo/桂林新闻综合.png" group-title="广西频道",桂林新闻综合
 http://202.103.213.75:8888/udp/239.81.0.135:4056
 #EXTINF:-1 tvg-name="桂林新闻综合" tvg-logo="https://epg.112114.eu.org/logo/桂林新闻综合.png" group-title="广西频道",桂林新闻综合
@@ -14300,9 +14300,9 @@ https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e
 #EXTINF:-1 tvg-name="桂林科教旅游" tvg-logo="https://epg.112114.eu.org/logo/桂林科教旅游.png" group-title="广西频道",桂林科教旅游
 https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
 #EXTINF:-1 tvg-name="河池新闻" tvg-logo="https://epg.112114.eu.org/logo/河池新闻.png" group-title="广西频道",河池新闻
-http://202.103.213.10:8888/udp/239.81.0.167:4056
+http://113.13.173.96:58888/udp/239.81.0.167:4056
 #EXTINF:-1 tvg-name="河池新闻" tvg-logo="https://epg.112114.eu.org/logo/河池新闻.png" group-title="广西频道",河池新闻
-http://202.103.213.10:8888/udp/239.81.0.168:4056
+http://113.13.173.96:58888/udp/239.81.0.168:4056
 #EXTINF:-1 tvg-name="河池新闻" tvg-logo="https://epg.112114.eu.org/logo/河池新闻.png" group-title="广西频道",河池新闻
 http://202.103.213.75:8888/udp/239.81.0.167:4056
 #EXTINF:-1 tvg-name="河池新闻" tvg-logo="https://epg.112114.eu.org/logo/河池新闻.png" group-title="广西频道",河池新闻
@@ -14312,9 +14312,9 @@ http://171.110.55.49:4200/udp/239.81.0.167:4056
 #EXTINF:-1 tvg-name="河池新闻" tvg-logo="https://epg.112114.eu.org/logo/河池新闻.png" group-title="广西频道",河池新闻
 http://171.110.55.49:4200/udp/239.81.0.168:4056
 #EXTINF:-1 tvg-name="贺州综合" tvg-logo="https://epg.112114.eu.org/logo/贺州综合.png" group-title="广西频道",贺州综合
-http://202.103.213.10:8888/udp/239.81.0.137:4056
+http://113.13.173.96:58888/udp/239.81.0.137:4056
 #EXTINF:-1 tvg-name="贺州综合" tvg-logo="https://epg.112114.eu.org/logo/贺州综合.png" group-title="广西频道",贺州综合
-http://202.103.213.10:8888/udp/239.81.0.163:4056
+http://113.13.173.96:58888/udp/239.81.0.163:4056
 #EXTINF:-1 tvg-name="贺州综合" tvg-logo="https://epg.112114.eu.org/logo/贺州综合.png" group-title="广西频道",贺州综合
 http://202.103.213.75:8888/udp/239.81.0.137:4056
 #EXTINF:-1 tvg-name="贺州综合" tvg-logo="https://epg.112114.eu.org/logo/贺州综合.png" group-title="广西频道",贺州综合
@@ -14330,9 +14330,9 @@ http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
 #EXTINF:-1 tvg-name="来宾综合" tvg-logo="https://epg.112114.eu.org/logo/来宾综合.png" group-title="广西频道",来宾综合
 http://zb.gxlbamc.com:1935/live/xwhc.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="来宾综合" tvg-logo="https://epg.112114.eu.org/logo/来宾综合.png" group-title="广西频道",来宾综合
-http://202.103.213.10:8888/udp/239.81.0.170:4056
+http://113.13.173.96:58888/udp/239.81.0.170:4056
 #EXTINF:-1 tvg-name="来宾综合" tvg-logo="https://epg.112114.eu.org/logo/来宾综合.png" group-title="广西频道",来宾综合
-http://202.103.213.10:8888/udp/239.81.0.173:4056
+http://113.13.173.96:58888/udp/239.81.0.173:4056
 #EXTINF:-1 tvg-name="来宾综合" tvg-logo="https://epg.112114.eu.org/logo/来宾综合.png" group-title="广西频道",来宾综合
 http://202.103.213.75:8888/udp/239.81.0.173:4056
 #EXTINF:-1 tvg-name="来宾综合" tvg-logo="https://epg.112114.eu.org/logo/来宾综合.png" group-title="广西频道",来宾综合
@@ -14366,9 +14366,9 @@ http://pulls.myun.tv/live/02vy7x7l.m3u8
 #EXTINF:-1 tvg-name="那坡频道" tvg-logo="https://epg.112114.eu.org/logo/那坡频道.png" group-title="广西频道",那坡频道
 http://rtmp.gdlive.gdmain.com/live/02vy7x7l.m3u8
 #EXTINF:-1 tvg-name="钦州综合" tvg-logo="https://epg.112114.eu.org/logo/钦州综合.png" group-title="广西频道",钦州综合
-http://202.103.213.10:8888/udp/239.81.0.164:4056
+http://113.13.173.96:58888/udp/239.81.0.164:4056
 #EXTINF:-1 tvg-name="钦州综合" tvg-logo="https://epg.112114.eu.org/logo/钦州综合.png" group-title="广西频道",钦州综合
-http://202.103.213.10:8888/udp/239.81.0.165:4056
+http://113.13.173.96:58888/udp/239.81.0.165:4056
 #EXTINF:-1 tvg-name="钦州综合" tvg-logo="https://epg.112114.eu.org/logo/钦州综合.png" group-title="广西频道",钦州综合
 http://202.103.213.75:8888/udp/239.81.0.164:4056
 #EXTINF:-1 tvg-name="钦州综合" tvg-logo="https://epg.112114.eu.org/logo/钦州综合.png" group-title="广西频道",钦州综合
@@ -14396,9 +14396,9 @@ http://pulls.myun.tv/live/0dkp33j5.m3u8
 #EXTINF:-1 tvg-name="田东综合" tvg-logo="https://epg.112114.eu.org/logo/田东综合.png" group-title="广西频道",田东综合
 http://rtmp.gdlive.gdmain.com/live/0dkp33j5.m3u8
 #EXTINF:-1 tvg-name="梧州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/梧州新闻综合.png" group-title="广西频道",梧州新闻综合
-http://202.103.213.10:8888/udp/239.81.0.176:4056
+http://113.13.173.96:58888/udp/239.81.0.176:4056
 #EXTINF:-1 tvg-name="梧州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/梧州新闻综合.png" group-title="广西频道",梧州新闻综合
-http://202.103.213.10:8888/udp/239.81.0.244:4056
+http://113.13.173.96:58888/udp/239.81.0.244:4056
 #EXTINF:-1 tvg-name="梧州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/梧州新闻综合.png" group-title="广西频道",梧州新闻综合
 http://202.103.213.75:8888/udp/239.81.0.176:4056
 #EXTINF:-1 tvg-name="梧州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/梧州新闻综合.png" group-title="广西频道",梧州新闻综合
@@ -14410,9 +14410,9 @@ http://171.110.55.49:4200/udp/239.81.0.244:4056
 #EXTINF:-1 tvg-name="玉林新闻综合" tvg-logo="https://epg.112114.eu.org/logo/玉林新闻综合.png" group-title="广西频道",玉林新闻综合
 http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3289.m3u8?auth_key=4846965841-0-0-9764667fa15da8675d9343a9d685e93b&extra_key=3G7phQNujucfjDfVZX7XtFsfMjeELWIZpjNRADdYpRWOUdAykIw7RkxbAmiF9U934MKf8LNlRPUVp9ooT4UEvKJQlaJrZuMqJnw-UvayII5G4kw7jFgAqhhjpD4DC7gyZEtynT7zMnF8xzE3J1g6soaagSkmkag_tsjqRTH1zeM
 #EXTINF:-1 tvg-name="玉林新闻综合" tvg-logo="https://epg.112114.eu.org/logo/玉林新闻综合.png" group-title="广西频道",玉林新闻综合
-http://202.103.213.10:8888/udp/239.81.0.138:4056
+http://113.13.173.96:58888/udp/239.81.0.138:4056
 #EXTINF:-1 tvg-name="玉林新闻综合" tvg-logo="https://epg.112114.eu.org/logo/玉林新闻综合.png" group-title="广西频道",玉林新闻综合
-http://202.103.213.10:8888/udp/239.81.0.177:4056
+http://113.13.173.96:58888/udp/239.81.0.177:4056
 #EXTINF:-1 tvg-name="玉林新闻综合" tvg-logo="https://epg.112114.eu.org/logo/玉林新闻综合.png" group-title="广西频道",玉林新闻综合
 http://202.103.213.75:8888/udp/239.81.0.138:4056
 #EXTINF:-1 tvg-name="玉林新闻综合" tvg-logo="https://epg.112114.eu.org/logo/玉林新闻综合.png" group-title="广西频道",玉林新闻综合
@@ -17404,7 +17404,7 @@ http://[2409:8087:5e01:24::21]:6610/000000001000/5201381050640253101/1.m3u8?chan
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
 http://[2409:8087:5e01:24::21]:6610/000000001000/6000000003000016791/1.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
-http://202.103.213.10:8888/udp/239.81.0.61:4056
+http://113.13.173.96:58888/udp/239.81.0.61:4056
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
 http://202.103.213.75:8888/udp/239.81.0.61:4056
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
@@ -17474,7 +17474,7 @@ http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=4886720949268374180
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南频道",湖南先锋乒羽
 http://171.110.55.49:4200/udp/239.81.0.236:4056
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南频道",湖南先锋乒羽
-http://202.103.213.10:8888/udp/239.81.0.236:4056
+http://113.13.173.96:58888/udp/239.81.0.236:4056
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南频道",湖南先锋乒羽
 http://202.103.213.75:8888/udp/239.81.0.236:4056
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南频道",湖南先锋乒羽
