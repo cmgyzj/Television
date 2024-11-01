@@ -16023,6 +16023,23 @@ http://xuys.top:8888/udp/225.1.2.104:5002
 http://php.jdshipin.com:8880/hntv.php?id=hnly
 #EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南频道",河南梨园频道
 http://php.jdshipin.com/hntv.php?id=hnly
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://chr.460513.xyz:8800/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://www.zhantong.tech:8800/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://sz.seala.top:4022/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://sz.seala.uk:4022/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://chr.460513.xyz:8800/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
+http://www.zhantong.tech:8800/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://106.42.108.91:2002/rtp/239.16.20.173:11730
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
@@ -16036,9 +16053,24 @@ http://111.61.236.247:9081/hls/60/index.m3u8
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://php.jdshipin.com:8880/hntv.php?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
-http://php.jdshipin.com/hntv.php?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.112114.eu.org/logo/河南武术世界.png" group-title="河南频道",河南武术世界
 http://php.jdshipin.com/hntv.php?id=wspd
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://sz.seala.top:4022/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://sz.seala.uk:4022/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://chr.460513.xyz:8800/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://www.zhantong.tech:8800/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
+http://sz.seala.top:4022/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
 http://106.42.108.91:2002/rtp/239.16.20.172:11720
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.112114.eu.org/logo/河南文物宝库.png" group-title="河南频道",河南文物宝库
@@ -18441,17 +18473,17 @@ http://sz.seala.uk:4022/rtp/239.49.0.26:8200
 http://chr.460513.xyz:8800/rtp/239.49.0.26:8200
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://epg.112114.eu.org/logo/南京十八生活.png" group-title="江苏频道",南京十八生活
 http://www.zhantong.tech:8800/rtp/239.49.0.26:8200
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅记录.png" group-title="江苏频道",南京文旅纪录
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅纪录.png" group-title="江苏频道",南京文旅纪录
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.38:8000
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅记录.png" group-title="江苏频道",南京文旅纪录
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅纪录.png" group-title="江苏频道",南京文旅纪录
 http://sz.seala.top:4022/rtp/239.49.0.38:8000
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅记录.png" group-title="江苏频道",南京文旅纪录
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅纪录.png" group-title="江苏频道",南京文旅纪录
 http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.38:8000
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅记录.png" group-title="江苏频道",南京文旅纪录
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅纪录.png" group-title="江苏频道",南京文旅纪录
 http://sz.seala.uk:4022/rtp/239.49.0.38:8000
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅记录.png" group-title="江苏频道",南京文旅纪录
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅纪录.png" group-title="江苏频道",南京文旅纪录
 http://chr.460513.xyz:8800/rtp/239.49.0.38:8000
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅记录.png" group-title="江苏频道",南京文旅纪录
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.112114.eu.org/logo/南京文旅纪录.png" group-title="江苏频道",南京文旅纪录
 http://www.zhantong.tech:8800/rtp/239.49.0.38:8000
 #EXTINF:-1 tvg-name="南京NBS23" tvg-logo="https://epg.112114.eu.org/logo/南京NBS23.png" group-title="江苏频道",南京NBS23
 https://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
@@ -18464,23 +18496,23 @@ http://61.155.203.93:5021/live_hls/2/.m3u8
 #EXTINF:-1 tvg-name="苏州社会经济" tvg-logo="https://epg.112114.eu.org/logo/苏州社会经济.png" group-title="江苏频道",苏州社会经济
 http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
-http://xiazaiji.f3322.org:8800/rtp/239.49.8.116:8000
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
-http://sz.seala.top:4022/rtp/239.49.8.116:8000
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
-http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.116:8000
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
-http://sz.seala.uk:4022/rtp/239.49.8.116:8000
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
-http://chr.460513.xyz:8800/rtp/239.49.8.116:8000
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
-http://www.zhantong.tech:8800/rtp/239.49.8.116:8000
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
 http://61.155.203.93:5021/live_hls/3/.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://epg.112114.eu.org/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
 http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 #EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.eu.org/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
 http://61.155.203.93:5021/live_hls/4/.m3u8
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.eu.org/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
+http://xiazaiji.f3322.org:8800/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.eu.org/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
+http://sz.seala.top:4022/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.eu.org/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.eu.org/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
+http://sz.seala.uk:4022/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.eu.org/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
+http://chr.460513.xyz:8800/rtp/239.49.8.116:8000
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.eu.org/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
+http://www.zhantong.tech:8800/rtp/239.49.8.116:8000
 #EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.eu.org/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
 http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-name="苏州4K频道" tvg-logo="https://epg.112114.eu.org/logo/苏州4K频道.png" group-title="江苏频道",苏州4K频道
@@ -18517,17 +18549,17 @@ http://stream.thmz.com/wxtv5/sd/live.m3u8
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡移动电视" tvg-logo="https://epg.112114.eu.org/logo/无锡移动电视.png" group-title="江苏频道",无锡移动电视
 http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏频道",常州新闻综合
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏频道",常州新闻综合
 http://sz.seala.top:4022/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏频道",常州新闻综合
 http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏频道",常州新闻综合
 http://sz.seala.uk:4022/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏频道",常州新闻综合
 http://chr.460513.xyz:8800/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏频道",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏频道",常州新闻综合
 http://www.zhantong.tech:8800/rtp/239.49.0.221:9594
 #EXTINF:-1 tvg-name="常州都市" tvg-logo="https://epg.112114.eu.org/logo/常州都市.png" group-title="江苏频道",常州都市
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.220:9590
@@ -18577,8 +18609,60 @@ https://live.wjyanghu.com/live/CH2.m3u8
 https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="武进生活" tvg-logo="https://epg.112114.eu.org/logo/武进生活.png" group-title="江苏频道",武进生活
 https://live.wjyanghu.com:443/live/CH2.m3u8
+#EXTINF:-1 tvg-name="金坛综合" tvg-logo="https://epg.112114.eu.org/logo/金坛综合.png" group-title="江苏频道",金坛综合
+https://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 #EXTINF:-1 tvg-name="丹阳新闻综合" tvg-logo="https://epg.112114.eu.org/logo/丹阳新闻综合.png" group-title="江苏频道",丹阳新闻综合
 http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏频道",泰州新闻综合
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.215:8000
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏频道",泰州新闻综合
+http://sz.seala.top:4022/rtp/239.49.0.215:8000
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏频道",泰州新闻综合
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.215:8000
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏频道",泰州新闻综合
+http://sz.seala.uk:4022/rtp/239.49.0.215:8000
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏频道",泰州新闻综合
+http://chr.460513.xyz:8800/rtp/239.49.0.215:8000
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏频道",泰州新闻综合
+http://www.zhantong.tech:8800/rtp/239.49.0.215:8000
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏频道",泰州新闻综合
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.215:8000
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏频道",泰州新闻综合
+http://sz.seala.top:4022/rtp/239.49.0.215:8000
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.217:8000
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
+http://chr.460513.xyz:8800/rtp/239.49.0.217:8000
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
+http://www.zhantong.tech:8800/rtp/239.49.0.217:8000
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.217:8000
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
+http://sz.seala.top:4022/rtp/239.49.0.217:8000
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.217:8000
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
+http://sz.seala.uk:4022/rtp/239.49.0.217:8000
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
+http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://chr.460513.xyz:8800/rtp/239.49.0.222:8000
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://www.zhantong.tech:8800/rtp/239.49.0.222:8000
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.222:8000
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://sz.seala.top:4022/rtp/239.49.0.222:8000
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.222:8000
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://sz.seala.uk:4022/rtp/239.49.0.222:8000
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://sz.seala.uk:4022/rtp/239.49.0.222:8000
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://chr.460513.xyz:8800/rtp/239.49.0.222:8000
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
+http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://epg.112114.eu.org/logo/镇江新闻综合.png" group-title="江苏频道",镇江新闻综合
 http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://epg.112114.eu.org/logo/镇江新闻综合.png" group-title="江苏频道",镇江新闻综合
@@ -18597,14 +18681,16 @@ http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
 http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
 #EXTINF:-1 tvg-name="张家港民生频道" tvg-logo="https://epg.112114.eu.org/logo/张家港民生频道.png" group-title="江苏频道",张家港民生频道
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻综合.png" group-title="江苏频道",宜兴新闻综合
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻频道.png" group-title="江苏频道",宜兴新闻频道
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1 tvg-name="宜兴紫砂频道" tvg-logo="https://epg.112114.eu.org/logo/宜兴紫砂频道.png" group-title="江苏频道",宜兴紫砂频道
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 #EXTINF:-1 tvg-name="宜兴紫砂频道" tvg-logo="https://epg.112114.eu.org/logo/宜兴紫砂频道.png" group-title="江苏频道",宜兴紫砂频道
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻综合.png" group-title="江苏频道",宜兴新闻综合
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻综合.png" group-title="江苏频道",宜兴新闻综合
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻综合.png" group-title="江苏频道",宜兴新闻综合
+https://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1 tvg-name="扬州生活频道" tvg-logo="https://epg.112114.eu.org/logo/扬州生活频道.png" group-title="江苏频道",扬州生活频道
 http://cm.wshls.homecdn.com/live/8bf.m3u8
 #EXTINF:-1 tvg-name="扬州江都频道" tvg-logo="https://epg.112114.eu.org/logo/扬州江都频道.png" group-title="江苏频道",扬州江都频道
@@ -18621,6 +18707,8 @@ http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 #EXTINF:-1 tvg-name="徐州公共频道" tvg-logo="https://epg.112114.eu.org/logo/徐州公共频道.png" group-title="江苏频道",徐州公共频道
 http://stream3.huaihai.tv/xz4t/sd/live.m3u8
+#EXTINF:-1 tvg-name="宿豫综合" tvg-logo="https://epg.112114.eu.org/logo/宿豫综合.png" group-title="江苏频道",宿豫综合
+https://suyu-tv-replay.cm.jstv.com/suyu-tv/syzhpd.m3u8
 #EXTINF:-1 tvg-name="新沂新闻频道" tvg-logo="https://epg.112114.eu.org/logo/新沂新闻频道.png" group-title="江苏频道",新沂新闻频道
 http://live.xysrmt.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="新沂生活频道" tvg-logo="https://epg.112114.eu.org/logo/新沂生活频道.png" group-title="江苏频道",新沂生活频道
@@ -18629,16 +18717,14 @@ http://live.xysrmt.cn/shpd/sd/live.m3u8
 http://xiangshui-tv-hls.cm.jstv.com/xiangshui-tv/xiangshuizh.m3u8
 #EXTINF:-1 tvg-name="吴江新闻综合" tvg-logo="https://epg.112114.eu.org/logo/吴江新闻综合.png" group-title="江苏频道",吴江新闻综合
 https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
-#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.112114.eu.org/logo/泰州经济生活.png" group-title="江苏频道",泰州经济生活
-http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
-#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/泰州影视娱乐.png" group-title="江苏频道",泰州影视娱乐
-http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 #EXTINF:-1 tvg-name="睢宁综合频道" tvg-logo="https://epg.112114.eu.org/logo/睢宁综合频道.png" group-title="江苏频道",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 #EXTINF:-1 tvg-name="睢宁综合频道" tvg-logo="https://epg.112114.eu.org/logo/睢宁综合频道.png" group-title="江苏频道",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 #EXTINF:-1 tvg-name="睢宁综合频道" tvg-logo="https://epg.112114.eu.org/logo/睢宁综合频道.png" group-title="江苏频道",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="睢宁综合频道" tvg-logo="https://epg.112114.eu.org/logo/睢宁综合频道.png" group-title="江苏频道",睢宁综合频道
+https://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 #EXTINF:-1 tvg-name="睢宁资讯频道" tvg-logo="https://epg.112114.eu.org/logo/睢宁资讯频道.png" group-title="江苏频道",睢宁资讯频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8
 #EXTINF:-1 tvg-name="睢宁资讯频道" tvg-logo="https://epg.112114.eu.org/logo/睢宁资讯频道.png" group-title="江苏频道",睢宁资讯频道
@@ -18659,6 +18745,8 @@ http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="泗阳资讯频道" tvg-logo="https://epg.112114.eu.org/logo/泗阳资讯频道.png" group-title="江苏频道",泗阳资讯频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+#EXTINF:-1 tvg-name="泗洪综合" tvg-logo="https://epg.112114.eu.org/logo/泗洪综合.png" group-title="江苏频道",泗洪综合
+https://sihong-tv-replay.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
 #EXTINF:-1 tvg-name="泗洪新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泗洪新闻综合.png" group-title="江苏频道",泗洪新闻综合
 http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="泗洪新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泗洪新闻综合.png" group-title="江苏频道",泗洪新闻综合
@@ -18667,20 +18755,84 @@ http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="沭阳综合频道" tvg-logo="https://epg.112114.eu.org/logo/沭阳综合频道.png" group-title="江苏频道",沭阳综合频道
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1 tvg-name="沭阳综合" tvg-logo="https://epg.112114.eu.org/logo/沭阳综合.png" group-title="江苏频道",沭阳综合
+https://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1 tvg-name="如东一套" tvg-logo="https://epg.112114.eu.org/logo/如东一套.png" group-title="江苏频道",如东一套
+https://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 #EXTINF:-1 tvg-name="如东新闻综合" tvg-logo="https://epg.112114.eu.org/logo/如东新闻综合.png" group-title="江苏频道",如东新闻综合
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="如东新闻综合" tvg-logo="https://epg.112114.eu.org/logo/如东新闻综合.png" group-title="江苏频道",如东新闻综合
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.182:8000
+#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
+http://sz.seala.top:4022/rtp/239.49.0.182:8000
+#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.182:8000
+#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
+http://sz.seala.uk:4022/rtp/239.49.0.182:8000
+#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
+http://chr.460513.xyz:8800/rtp/239.49.0.182:8000
+#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
+http://www.zhantong.tech:8800/rtp/239.49.0.182:8000
 #EXTINF:-1 tvg-name="沛县新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沛县新闻综合.png" group-title="江苏频道",沛县新闻综合
 http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="沛县新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沛县新闻综合.png" group-title="江苏频道",沛县新闻综合
 http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+#EXTINF:-1 tvg-name="沛县新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沛县新闻综合.png" group-title="江苏频道",沛县新闻综合
+https://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
 https://cm-live.ntjoy.com/live/4f1.flv
-#EXTINF:-1 tvg-name="南通都市生活" tvg-logo="https://epg.112114.eu.org/logo/南通都市生活.png" group-title="江苏频道",南通都市生活
-https://cm-live.ntjoy.com/live/4f3.flv
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
+http://www.zhantong.tech:8800/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
+http://sz.seala.top:4022/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
+http://sz.seala.uk:4022/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
+http://chr.460513.xyz:8800/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
+http://www.zhantong.tech:8800/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏频道",南通社教
+http://sz.seala.top:4022/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏频道",南通社教
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏频道",南通社教
+http://sz.seala.uk:4022/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏频道",南通社教
+http://chr.460513.xyz:8800/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏频道",南通社教
+http://www.zhantong.tech:8800/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏频道",南通社教
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏频道",南通社教
+http://sz.seala.top:4022/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏频道",南通社教
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.224:8000
 #EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏频道",南通公共崇川
 https://cm-live.ntjoy.com/live/4f5.flv
+#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏频道",南通公共崇川
+http://sz.seala.uk:4022/rtp/239.49.0.197:8000
+#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏频道",南通公共崇川
+http://chr.460513.xyz:8800/rtp/239.49.0.197:8000
+#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏频道",南通公共崇川
+http://www.zhantong.tech:8800/rtp/239.49.0.197:8000
+#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏频道",南通公共崇川
+http://xiazaiji.f3322.org:8800/rtp/239.49.0.197:8000
+#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏频道",南通公共崇川
+http://sz.seala.top:4022/rtp/239.49.0.197:8000
+#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏频道",南通公共崇川
+http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.197:8000
+#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏频道",南通公共崇川
+http://sz.seala.uk:4022/rtp/239.49.0.197:8000
+#EXTINF:-1 tvg-name="南通都市生活" tvg-logo="https://epg.112114.eu.org/logo/南通都市生活.png" group-title="江苏频道",南通都市生活
+https://cm-live.ntjoy.com/live/4f3.flv
 #EXTINF:-1 tvg-name="六合新闻综合" tvg-logo="https://epg.112114.eu.org/logo/六合新闻综合.png" group-title="江苏频道",六合新闻综合
 http://p2hs.vzan.com/720020/432453820030502236/live.m3u8
 #EXTINF:-1 tvg-name="六合影视生活" tvg-logo="https://epg.112114.eu.org/logo/六合影视生活.png" group-title="江苏频道",六合影视生活
@@ -18689,12 +18841,16 @@ http://p2hs.vzan.com/720020/925821766717429565/live.m3u8
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="涟水综合频道" tvg-logo="https://epg.112114.eu.org/logo/涟水综合频道.png" group-title="江苏频道",涟水综合频道
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+#EXTINF:-1 tvg-name="涟水综合" tvg-logo="https://epg.112114.eu.org/logo/涟水综合.png" group-title="江苏频道",涟水综合
+https://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://epg.112114.eu.org/logo/连云港新闻综合.png" group-title="江苏频道",连云港新闻综合
 http://live.lyg1.com/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="连云港公共频道" tvg-logo="https://epg.112114.eu.org/logo/连云港公共频道.png" group-title="江苏频道",连云港公共频道
 http://live.lyg1.com/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="溧阳新闻综合" tvg-logo="https://epg.112114.eu.org/logo/溧阳新闻综合.png" group-title="江苏频道",溧阳新闻综合
 http://tvlive.cxzly.com/live/tv.m3u8
+#EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="https://epg.112114.eu.org/logo/溧水新闻综合.png" group-title="江苏频道",溧水新闻综合
+https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 #EXTINF:-1 tvg-name="句容新闻综合" tvg-logo="https://epg.112114.eu.org/logo/句容新闻综合.png" group-title="江苏频道",句容新闻综合
 http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
 #EXTINF:-1 tvg-name="句容新闻综合" tvg-logo="https://epg.112114.eu.org/logo/句容新闻综合.png" group-title="江苏频道",句容新闻综合
@@ -18727,12 +18883,20 @@ http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.112114.eu.org/logo/金湖新闻综合.png" group-title="江苏频道",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+#EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.112114.eu.org/logo/金湖新闻综合.png" group-title="江苏频道",金湖新闻综合
+https://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
 #EXTINF:-1 tvg-name="江阴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/江阴新闻综合.png" group-title="江苏频道",江阴新闻综合
 http://221.228.70.101:8080/live/xinwen.m3u8
+#EXTINF:-1 tvg-name="江宁综合" tvg-logo="https://epg.112114.eu.org/logo/江宁综合.png" group-title="江苏频道",江宁综合
+https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+#EXTINF:-1 tvg-name="淮阴综合" tvg-logo="https://epg.112114.eu.org/logo/淮阴综合.png" group-title="江苏频道",淮阴综合
+https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 #EXTINF:-1 tvg-name="淮安影院娱乐" tvg-logo="https://epg.112114.eu.org/logo/淮安影院娱乐.png" group-title="江苏频道",淮安影院娱乐
 http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="淮安公共频道" tvg-logo="https://epg.112114.eu.org/logo/淮安公共频道.png" group-title="江苏频道",淮安公共频道
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="海门新闻综合" tvg-logo="https://epg.112114.eu.org/logo/海门新闻综合.png" group-title="江苏频道",海门新闻综合
+https://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 #EXTINF:-1 tvg-name="海安新闻综合" tvg-logo="https://epg.112114.eu.org/logo/海安新闻综合.png" group-title="江苏频道",海安新闻综合
 http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="海安新闻综合" tvg-logo="https://epg.112114.eu.org/logo/海安新闻综合.png" group-title="江苏频道",海安新闻综合
@@ -18741,26 +18905,24 @@ http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="高邮综合频道" tvg-logo="https://epg.112114.eu.org/logo/高邮综合频道.png" group-title="江苏频道",高邮综合频道
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+#EXTINF:-1 tvg-name="高邮综合频道" tvg-logo="https://epg.112114.eu.org/logo/高邮综合频道.png" group-title="江苏频道",高邮综合频道
+https://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 #EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://epg.112114.eu.org/logo/赣榆新闻综合.png" group-title="江苏频道",赣榆新闻综合
 http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://epg.112114.eu.org/logo/赣榆新闻综合.png" group-title="江苏频道",赣榆新闻综合
 http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
+#EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://epg.112114.eu.org/logo/赣榆新闻综合.png" group-title="江苏频道",赣榆新闻综合
+https://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
+#EXTINF:-1 tvg-name="东台综合" tvg-logo="https://epg.112114.eu.org/logo/东台综合.png" group-title="江苏频道",东台综合
+https://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
+#EXTINF:-1 tvg-name="大丰一套" tvg-logo="https://epg.112114.eu.org/logo/大丰一套.png" group-title="江苏频道",大丰一套
+https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 #EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://epg.112114.eu.org/logo/常熟综合.png" group-title="江苏频道",常熟综合
 http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 #EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.112114.eu.org/logo/常熟民生经济.png" group-title="江苏频道",常熟民生经济
 http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
-#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
-http://xiazaiji.f3322.org:8800/rtp/239.49.0.182:8000
-#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
-http://sz.seala.top:4022/rtp/239.49.0.182:8000
-#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
-http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.182:8000
-#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
-http://sz.seala.uk:4022/rtp/239.49.0.182:8000
-#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
-http://chr.460513.xyz:8800/rtp/239.49.0.182:8000
-#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://epg.112114.eu.org/logo/邳州综合.png" group-title="江苏频道",邳州综合
-http://www.zhantong.tech:8800/rtp/239.49.0.182:8000
+#EXTINF:-1 tvg-name="滨海新闻综合" tvg-logo="https://epg.112114.eu.org/logo/滨海新闻综合.png" group-title="江苏频道",滨海新闻综合
+https://binhai-tv-hls.cm.jstv.com/binhai-tv/news.m3u8
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://epg.112114.eu.org/logo/江西都市.png" group-title="江西频道",江西都市
 http://www.lizhinas.top:8688/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://epg.112114.eu.org/logo/江西都市.png" group-title="江西频道",江西都市
