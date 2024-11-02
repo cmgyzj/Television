@@ -7273,7 +7273,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 贵阳二套,http://www.akw323.com:9527/rtp/238.255.2.20:5999
 贵阳三套,http://www.akw323.com:9527/rtp/238.255.2.22:5999
 安顺新闻综合,http://www.akw323.com:9527/rtp/238.255.2.157:5999
-安顺新闻频道,http://hplayer1.juyun.tv/camera/154379194.m3u8
+安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
 安顺公共频道,http://www.akw323.com:9527/rtp/238.255.2.158:5999
 安顺公共频道,http://hplayer1.juyun.tv/camera/154526164.m3u8
 毕节一套,http://www.akw323.com:9527/rtp/238.255.2.131:5999
