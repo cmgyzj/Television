@@ -1916,11 +1916,11 @@ http://116.231.244.25:8888/udp/239.45.1.52:5140
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.112114.eu.org/logo/CETV2.png" group-title="央视频道",CETV-2
 http://yuancw.eu.org:8088/udp/239.45.1.52:5140
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://epg.112114.eu.org/logo/CETV3.png" group-title="央视频道",CETV-3
-http://111.196.131.46:20000/rtp/239.3.1.55:4120
+http://115.171.216.91:4000/udp/225.1.8.194:4120
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://epg.112114.eu.org/logo/CETV3.png" group-title="央视频道",CETV-3
-http://123.112.212.132:4022/rtp/239.3.1.55:4120
+http://106.120.14.74:2333/udp/225.1.8.194:4120
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://epg.112114.eu.org/logo/CETV3.png" group-title="央视频道",CETV-3
-http://123.113.180.246:9000/rtp/239.3.1.55:4120
+http://1.203.110.68:8686/udp/225.1.8.194:4120
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://epg.112114.eu.org/logo/CETV3.png" group-title="央视频道",CETV-3
 http://bjlive.u.domybox.com:91/live/CETV3-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://epg.112114.eu.org/logo/CETV3.png" group-title="央视频道",CETV-3
@@ -11660,11 +11660,11 @@ http://39.134.135.82:80/000000002001/PLTV/88888888/224/3221279778/index.m3u8?Hls
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.112114.eu.org/logo/北京文艺.png" group-title="北京频道",北京文艺
 http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221279778
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.112114.eu.org/logo/北京文艺.png" group-title="北京频道",北京文艺
-http://111.196.131.46:20000/rtp/239.3.1.242:8000
+http://111.193.239.253:8888/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.112114.eu.org/logo/北京文艺.png" group-title="北京频道",北京文艺
-http://123.112.212.132:4022/rtp/239.3.1.242:8000
+http://222.130.83.82:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.112114.eu.org/logo/北京文艺.png" group-title="北京频道",北京文艺
-http://123.113.180.246:9000/rtp/239.3.1.242:8000
+http://221.221.155.31:8888/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
@@ -11748,11 +11748,11 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000065/index.m3u8?
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
-http://111.196.131.46:20000/rtp/239.3.1.115:8000
+http://111.193.239.253:8888/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
-http://123.112.212.132:4022/rtp/239.3.1.115:8000
+http://222.130.83.82:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
-http://123.113.180.246:9000/rtp/239.3.1.115:8000
+http://221.221.155.31:8888/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://bjlive.u.domybox.com:91/live/BTVKJhd-5M/live.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
@@ -11778,11 +11778,11 @@ http://39.134.135.82:80/000000002001/PLTV/88888888/224/3221279788/index.m3u8?Hls
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
 http://mmitv.top:80/pltv/livetb2d5b/bjyd_ipv6.php?id=3221279788
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://111.196.131.46:20000/rtp/239.3.1.158:8000
+http://111.193.239.253:8888/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://123.112.212.132:4022/rtp/239.3.1.158:8000
+http://222.130.83.82:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京频道",北京影视
-http://123.113.180.246:9000/rtp/239.3.1.158:8000
+http://221.221.155.31:8888/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
 http://39.134.134.44:80/000000000001/PLTV/88888888/224/3221282970/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
@@ -11792,11 +11792,11 @@ http://39.134.134.44:80/000000002001/PLTV/88888888/224/3221282970/index.m3u8?Hls
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
 http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221282970
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://111.196.131.46:20000/rtp/239.3.1.116:8000
+http://111.193.239.253:8888/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://123.112.212.132:4022/rtp/239.3.1.116:8000
+http://222.130.83.82:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京频道",北京财经
-http://123.113.180.246:9000/rtp/239.3.1.116:8000
+http://221.221.155.31:8888/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
 http://39.134.135.82:80/000000000001/PLTV/88888888/224/3221279780/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
@@ -11806,11 +11806,11 @@ http://39.134.135.83:80/000000002001/PLTV/88888888/224/3221279780/index.m3u8?Hls
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
 http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221279780
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
-http://111.196.131.46:20000/rtp/239.3.1.243:8000
+http://111.193.239.253:8888/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
-http://123.112.212.132:4022/rtp/239.3.1.243:8000
+http://222.130.83.82:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
-http://123.113.180.246:9000/rtp/239.3.1.243:8000
+http://221.221.155.31:8888/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
 http://39.134.134.43:80/000000000001/PLTV/88888888/224/3221283599/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
@@ -11820,11 +11820,11 @@ http://39.134.134.43:80/000000002001/PLTV/88888888/224/3221283599/index.m3u8?Hls
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
 http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221283599
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://111.196.131.46:20000/rtp/239.3.1.117:8000
+http://111.193.239.253:8888/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://123.112.212.132:4022/rtp/239.3.1.117:8000
+http://222.130.83.82:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京频道",北京生活
-http://123.113.180.246:9000/rtp/239.3.1.117:8000
+http://221.221.155.31:8888/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
 http://39.134.135.84:80/000000000001/PLTV/88888888/224/3221280389/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
@@ -11834,11 +11834,11 @@ http://39.134.135.84:80/000000002001/PLTV/88888888/224/3221280389/index.m3u8?Hls
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
 http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221280389
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://111.196.131.46:20000/rtp/239.3.1.159:8000
+http://111.193.239.253:8888/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://123.112.212.132:4022/rtp/239.3.1.159:8000
+http://222.130.83.82:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京频道",北京新闻
-http://123.113.180.246:9000/rtp/239.3.1.159:8000
+http://221.221.155.31:8888/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7851974109718180595
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
@@ -11932,11 +11932,11 @@ http://xuys.top:8888/udp/225.1.1.58:5002
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 http://yuancw.eu.org:8088/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
-http://111.196.131.46:20000/rtp/239.3.1.189:8000
+http://111.193.239.253:8888/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
-http://123.112.212.132:4022/rtp/239.3.1.189:8000
+http://222.130.83.82:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
-http://123.113.180.246:9000/rtp/239.3.1.189:8000
+http://221.221.155.31:8888/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
 http://39.134.134.82:80/000000000001/PLTV/88888888/224/3221280405/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
@@ -11946,11 +11946,11 @@ http://39.134.134.82:80/000000002001/PLTV/88888888/224/3221280405/index.m3u8?Hls
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
 http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221280405
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
-http://111.196.131.46:20000/rtp/239.3.1.235:8000
+http://111.193.239.253:8888/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
-http://123.112.212.132:4022/rtp/239.3.1.235:8000
+http://222.130.83.82:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京频道",北京国际
-http://123.113.180.246:9000/rtp/239.3.1.235:8000
+http://221.221.155.31:8888/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://epg.112114.eu.org/logo/北京IPTV4K.png" group-title="北京频道",北京IPTV4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=bj4k
 #EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://epg.112114.eu.org/logo/延庆电视台.png" group-title="北京频道",延庆电视台
@@ -11960,41 +11960,41 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-name="顺义电视" tvg-logo="https://epg.112114.eu.org/logo/顺义电视.png" group-title="北京频道",顺义电视
 https://livebjsy.chinamcache.com/live/zb02.m3u8
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://epg.112114.eu.org/logo/朝阳融媒.png" group-title="北京频道",朝阳融媒
-http://111.196.131.46:20000/rtp/239.3.1.163:8001
+http://111.193.239.253:8888/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://epg.112114.eu.org/logo/朝阳融媒.png" group-title="北京频道",朝阳融媒
-http://123.112.212.132:4022/rtp/239.3.1.163:8001
+http://222.130.83.82:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://epg.112114.eu.org/logo/朝阳融媒.png" group-title="北京频道",朝阳融媒
-http://123.113.180.246:9000/rtp/239.3.1.163:8001
+http://221.221.155.31:8888/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="通州融媒" tvg-logo="https://epg.112114.eu.org/logo/通州融媒.png" group-title="北京频道",通州融媒
-http://111.196.131.46:20000/rtp/239.3.1.221:8001
+http://111.193.239.253:8888/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="通州融媒" tvg-logo="https://epg.112114.eu.org/logo/通州融媒.png" group-title="北京频道",通州融媒
-http://123.112.212.132:4022/rtp/239.3.1.221:8001
+http://222.130.83.82:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="通州融媒" tvg-logo="https://epg.112114.eu.org/logo/通州融媒.png" group-title="北京频道",通州融媒
-http://123.113.180.246:9000/rtp/239.3.1.221:8001
+http://221.221.155.31:8888/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://epg.112114.eu.org/logo/密云电视台.png" group-title="北京频道",密云电视台
-http://111.196.131.46:20000/rtp/239.3.1.154:8001
+http://111.193.239.253:8888/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://epg.112114.eu.org/logo/密云电视台.png" group-title="北京频道",密云电视台
-http://123.112.212.132:4022/rtp/239.3.1.154:8001
+http://222.130.83.82:4022/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://epg.112114.eu.org/logo/密云电视台.png" group-title="北京频道",密云电视台
-http://123.113.180.246:9000/rtp/239.3.1.154:8001
+http://221.221.155.31:8888/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://epg.112114.eu.org/logo/延庆电视台.png" group-title="北京频道",延庆电视台
-http://111.196.131.46:20000/rtp/239.3.1.187:8001
+http://111.193.239.253:8888/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://epg.112114.eu.org/logo/延庆电视台.png" group-title="北京频道",延庆电视台
-http://123.112.212.132:4022/rtp/239.3.1.187:8001
+http://222.130.83.82:4022/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://epg.112114.eu.org/logo/延庆电视台.png" group-title="北京频道",延庆电视台
-http://123.113.180.246:9000/rtp/239.3.1.187:8001
+http://221.221.155.31:8888/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="房山电视台" tvg-logo="https://epg.112114.eu.org/logo/房山电视台.png" group-title="北京频道",房山电视台
-http://111.196.131.46:20000/rtp/239.3.1.96:8001
+http://111.193.239.253:8888/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="房山电视台" tvg-logo="https://epg.112114.eu.org/logo/房山电视台.png" group-title="北京频道",房山电视台
-http://123.112.212.132:4022/rtp/239.3.1.96:8001
+http://222.130.83.82:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="房山电视台" tvg-logo="https://epg.112114.eu.org/logo/房山电视台.png" group-title="北京频道",房山电视台
-http://123.113.180.246:9000/rtp/239.3.1.96:8001
+http://221.221.155.31:8888/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://epg.112114.eu.org/logo/大健康.png" group-title="北京频道",大健康
-http://111.196.131.46:20000/rtp/239.3.1.251:8001
+http://111.193.239.253:8888/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://epg.112114.eu.org/logo/大健康.png" group-title="北京频道",大健康
-http://123.112.212.132:4022/rtp/239.3.1.251:8001
+http://222.130.83.82:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://epg.112114.eu.org/logo/大健康.png" group-title="北京频道",大健康
-http://123.113.180.246:9000/rtp/239.3.1.251:8001
+http://221.221.155.31:8888/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆频道",重庆影视
 http://113.248.167.107:9999/rtp/235.254.198.180:7980
 #EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆频道",重庆影视
