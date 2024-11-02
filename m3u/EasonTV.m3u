@@ -27835,26 +27835,49 @@ http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 tvg-name="中旺电视" tvg-logo="https://epg.112114.eu.org/logo/中旺电视.png" group-title="港澳台频道",中旺电视
 http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.112114.eu.org/logo/纬来体育.png" group-title="RTMP源",纬来体育
+rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.112114.eu.org/logo/纬来体育.png" group-title="RTMP源",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.112114.eu.org/logo/纬来育乐.png" group-title="RTMP源",纬来育乐
+rtmp://f13h.mine.nu:1935/sat/tv701
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.112114.eu.org/logo/纬来育乐.png" group-title="RTMP源",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://epg.112114.eu.org/logo/纬来日本.png" group-title="RTMP源",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://epg.112114.eu.org/logo/纬来日本.png" group-title="RTMP源",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-name="ELEVEN体育1台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN体育1台.png" group-title="RTMP源",ELEVEN体育1台
+rtmp://f13h.mine.nu:1935/sat/tv731
 #EXTINF:-1 tvg-name="ELEVEN体育1台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN体育1台.png" group-title="RTMP源",ELEVEN体育1台
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="ELEVEN体育2台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN体育2台.png" group-title="RTMP源",ELEVEN体育2台
+rtmp://f13h.mine.nu:1935/sat/tv741
+#EXTINF:-1 tvg-name="ELEVEN体育2台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN体育2台.png" group-title="RTMP源",ELEVEN体育2台
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="RTMP源",中视
+rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="RTMP源",中视
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="RTMP源",台视
+rtmp://f13h.mine.nu:1935/sat/tv071
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="RTMP源",台视
 rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="華视" tvg-logo="https://epg.112114.eu.org/logo/華视.png" group-title="RTMP源",華视
+rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="RTMP源",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="RTMP源",民视
+rtmp://f13h.mine.nu:1935/sat/tv051
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="RTMP源",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.112114.eu.org/logo/东森超视.png" group-title="RTMP源",东森超视
+rtmp://f13h.mine.nu:1935/sat/tv331
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.112114.eu.org/logo/东森超视.png" group-title="RTMP源",东森超视
 rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="MoMo综合" tvg-logo="https://epg.112114.eu.org/logo/MoMo综合.png" group-title="RTMP源",MoMo综合
+rtmp://f13h.mine.nu:1935/sat/tv761
 #EXTINF:-1 tvg-name="MoMo综合" tvg-logo="https://epg.112114.eu.org/logo/MoMo综合.png" group-title="RTMP源",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-name="安徽|宿松新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宿松新闻综合.png" group-title="RTMP源",安徽|宿松新闻综合
