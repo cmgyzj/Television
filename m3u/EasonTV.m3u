@@ -19894,49 +19894,49 @@ http://122.4.30.168:8688/udp/239.21.1.119:5002
 #EXTINF:-1 tvg-name="安丘新闻" tvg-logo="https://epg.112114.eu.org/logo/安丘新闻.png" group-title="山东频道",安丘新闻
 http://122.4.30.168:8688/udp/239.21.2.13:5002
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西频道",黄河电视台
-http://171.117.70.245:8082/rtp/226.0.2.12:8008
+http://221.205.92.72:8085/rtp/226.0.2.12:8008
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西频道",黄河电视台
-http://171.117.70.245:8082/rtp/226.0.2.235:9792
+http://221.205.92.72:8085/rtp/226.0.2.235:9792
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西频道",黄河电视台
-http://61.134.255.131:8082/rtp/226.0.2.12:8008
+http://171.117.3.37:8083/rtp/226.0.2.12:8008
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西频道",黄河电视台
-http://61.134.255.131:8082/rtp/226.0.2.235:9792
+http://171.117.3.37:8083/rtp/226.0.2.235:9792
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西频道",黄河电视台
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西频道",山西经济与科技
-http://171.117.70.245:8082/rtp/226.0.2.13:8016
+http://221.205.92.72:8085/rtp/226.0.2.13:8016
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西频道",山西经济与科技
-http://171.117.70.245:8082/rtp/226.0.2.236:9800
+http://221.205.92.72:8085/rtp/226.0.2.236:9800
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西频道",山西经济与科技
-http://61.134.255.131:8082/rtp/226.0.2.13:8016
+http://171.117.3.37:8083/rtp/226.0.2.13:8016
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西频道",山西经济与科技
-http://61.134.255.131:8082/rtp/226.0.2.236:9800
+http://171.117.3.37:8083/rtp/226.0.2.236:9800
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西频道",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西频道",山西影视
-http://171.117.70.245:8082/rtp/226.0.2.14:8024
+http://221.205.92.72:8085/rtp/226.0.2.14:8024
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西频道",山西影视
-http://171.117.70.245:8082/rtp/226.0.2.237:9808
+http://221.205.92.72:8085/rtp/226.0.2.237:9808
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西频道",山西影视
-http://61.134.255.131:8082/rtp/226.0.2.14:8024
+http://171.117.3.37:8083/rtp/226.0.2.14:8024
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西频道",山西影视
-http://61.134.255.131:8082/rtp/226.0.2.237:9808
+http://171.117.3.37:8083/rtp/226.0.2.237:9808
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西频道",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西频道",山西社会与法治
-http://171.117.70.245:8082/rtp/226.0.2.15:8032
+http://221.205.92.72:8085/rtp/226.0.2.15:8032
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西频道",山西社会与法治
-http://171.117.70.245:8082/rtp/226.0.2.238:9816
+http://221.205.92.72:8085/rtp/226.0.2.238:9816
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西频道",山西社会与法治
-http://61.134.255.131:8082/rtp/226.0.2.15:8032
+http://171.117.3.37:8083/rtp/226.0.2.15:8032
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西频道",山西社会与法治
-http://61.134.255.131:8082/rtp/226.0.2.238:9816
+http://171.117.3.37:8083/rtp/226.0.2.238:9816
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西频道",山西社会与法治
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西频道",山西文体生活
-http://171.117.70.245:8082/rtp/226.0.2.16:8040
+http://221.205.92.72:8085/rtp/226.0.2.16:8040
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西频道",山西文体生活
-http://61.134.255.131:8082/rtp/226.0.2.16:8040
+http://171.117.3.37:8083/rtp/226.0.2.16:8040
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西频道",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西频道",山西文体生活
