@@ -19125,19 +19125,19 @@ http://175.173.204.245:9001/rtp/232.0.0.150:1234
 http://175.173.204.245:9007/rtp/232.0.0.150:1234
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://epg.112114.eu.org/logo/辽宁生活.png" group-title="辽宁频道",辽宁生活
 http://175.173.204.245:9006/rtp/232.0.0.150:1234
-#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
+#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育.png" group-title="辽宁频道",辽宁体育休闲
 http://175.173.204.245:9001/rtp/232.0.0.164:1234
-#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
+#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育.png" group-title="辽宁频道",辽宁体育休闲
 http://175.173.204.245:9007/rtp/232.0.0.164:1234
-#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
+#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育.png" group-title="辽宁频道",辽宁体育休闲
 http://175.173.204.245:9006/rtp/232.0.0.164:1234
-#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
+#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育.png" group-title="辽宁频道",辽宁体育休闲
 http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
+#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育.png" group-title="辽宁频道",辽宁体育休闲
 http://124.94.193.136:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
+#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育.png" group-title="辽宁频道",辽宁体育休闲
 http://123.189.36.155:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
+#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://epg.112114.eu.org/logo/辽宁体育.png" group-title="辽宁频道",辽宁体育休闲
 http://120.76.248.139/live/bfgd/4200000611.m3u8
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://epg.112114.eu.org/logo/辽宁教育青少.png" group-title="辽宁频道",辽宁教育青少
 http://175.173.204.245:9001/rtp/232.0.0.241:1234
@@ -19189,7 +19189,7 @@ http://175.173.204.245:9001/rtp/232.0.0.145:1234
 http://175.173.204.245:9007/rtp/232.0.0.145:1234
 #EXTINF:-1 tvg-name="抚顺教育" tvg-logo="https://epg.112114.eu.org/logo/抚顺教育.png" group-title="辽宁频道",抚顺教育
 http://175.173.204.245:9006/rtp/232.0.0.145:1234
-#EXTINF:-1 tvg-name="大洼综合" tvg-logo="https://epg.112114.eu.org/logo/大洼综合.png" group-title="辽宁频道",大洼综合
+#EXTINF:-1 tvg-name="大洼综合频道" tvg-logo="https://epg.112114.eu.org/logo/大洼综合频道.png" group-title="辽宁频道",大洼综合频道
 http://175.173.204.245:9001/rtp/232.0.0.146:1234
 #EXTINF:-1 tvg-name="大洼综合频道" tvg-logo="https://epg.112114.eu.org/logo/大洼综合频道.png" group-title="辽宁频道",大洼综合频道
 http://175.173.204.245:9007/rtp/232.0.0.146:1234
