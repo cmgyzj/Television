@@ -18460,7 +18460,11 @@ http://106.45.11.192:8888/rtp/239.121.4.22:8106
 #EXTINF:-1 tvg-name="银川文体" tvg-logo="https://epg.112114.eu.org/logo/银川文体.png" group-title="宁夏频道",银川文体
 http://14.135.72.70:8888/rtp/239.121.4.22:8106
 #EXTINF:-1 tvg-name="吴忠综合" tvg-logo="https://epg.112114.eu.org/logo/吴忠综合.png" group-title="宁夏频道",吴忠综合
+http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
+#EXTINF:-1 tvg-name="吴忠综合" tvg-logo="https://epg.112114.eu.org/logo/吴忠综合.png" group-title="宁夏频道",吴忠综合
 http://live.kanwz.net/zhpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="吴忠公共" tvg-logo="https://epg.112114.eu.org/logo/吴忠公共.png" group-title="宁夏频道",吴忠公共
+http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 #EXTINF:-1 tvg-name="吴忠公共" tvg-logo="https://epg.112114.eu.org/logo/吴忠公共.png" group-title="宁夏频道",吴忠公共
 http://live.kanwz.net/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://epg.112114.eu.org/logo/青海经视.png" group-title="青海频道",青海经视

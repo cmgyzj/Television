@@ -9277,7 +9277,9 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 银川文体,http://106.45.11.192:8888/rtp/239.121.4.22:8106
 银川文体,http://14.135.72.70:8888/rtp/239.121.4.22:8106
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
+吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
+吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 
 青海频道,#genre#
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
