@@ -53,4 +53,15 @@ IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u
 测试,#genre#
 新视觉,http://cdn.1678520.xyz/bst5.php?id=xsjhd/4000000
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
+新视觉,http://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+新视觉,http://159.75.85.63:5681/sxg.php?id=ycxsjH265_4000
+新视觉,https://db.xxray.cc/sxg.php?id=ycxsjH265_4000
+新视觉,https://sgx.xxray.cc/IPTV/xsxg.php?id=ycxsjH265_4000
+新视觉,https://php.61073736.repl.co/sxg.php?id=ycxsjH265_4000
+新视觉,http://222.85.207.79:9901/hls/49/index.m3u8
+新视觉,http://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
+新视觉,http://jiandjh.51vip.biz:5678/bestv.php?id=xsjhd8m/8000000
+新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+新视觉,http://49.235.110.121:9090/123/php/bestv.php?id=xsjhd8m/8000000
 新视觉,http://159.75.85.63:5680/d/ad/roomad/playlist.m3u8
