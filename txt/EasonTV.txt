@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视,#genre#
 CCTV-1,http://[2409:8087:5e01:24::03]:6610/000000001000/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV-1,http://[2409:8087:5e01:24::05]:6610/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
 CCTV-1,http://[2409:8087:5e01:24::07]:6610/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
@@ -514,7 +514,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 中学生,http://113.109.251.4:9999/udp/239.77.1.195:5146$广东电信
 中学生,http://113.102.162.206:4022/udp/239.77.1.195:5146$广东电信
 
-上海频道,#genre#
+上海,#genre#
 东方卫视,http://[2409:8087:5e01:24::03]:6610/000000001000/1000000001000005866/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
 东方卫视,http://[2409:8087:5e01:24::05]:6610/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
 东方卫视,http://[2409:8087:5e01:24::07]:6610/000000001000/1000000005000265018/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
@@ -778,7 +778,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 金山电视台,https://livesec.mudu.tv/watch/uwosup.m3u8?auth_key=1721632510-401338-0-565ccfec7c2f372f280e04eb6852e066%E9%87%91%E5%B1%B1
 浦东电视台,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
 
-体育频道,#genre#
+体育,#genre#
 睛彩竞技,http://[2409:8087:5e01:24::03]:6610/000000001000/3000000020000011530/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 睛彩竞技,http://[2409:8087:5e01:24::05]:6610/000000001000/2000000003000000060/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=3
 睛彩竞技,http://[2409:8087:5e01:24::07]:6610/000000001000/1000000006000270001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=3
@@ -1256,7 +1256,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 百视通体育直播-24,http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000026930/1.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
 百视通体育直播-24,http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000026930/1.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
 
-卫视频道,#genre#
+卫视,#genre#
 安多卫视,http://[2409:8087:5e01:24::03]:6610/000000001000/1000000005000266001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=3
 安多卫视,http://[2409:8087:5e01:24::05]:6610/000000001000/5000000006000022124/1.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
 安多卫视,http://[2409:8087:5e01:24::07]:6610/000000001000/7248678452522064966/1.m3u8?channel-id=ystenlive&Contentid=7248678452522064966&livemode=1&stbId=3
@@ -1716,7 +1716,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 浙江卫视,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010070/
 浙江卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000531
 
-娱乐频道,#genre#
+娱乐,#genre#
 4KUHD,http://[2409:8087:5e01:24::03]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4KUHD,http://[2409:8087:5e01:24::07]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4KUHD,http://[2409:8087:5e01:24::08]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -2513,7 +2513,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 中国交通,http://113.109.251.4:9999/udp/239.77.1.249:5146
 中国交通,http://113.102.162.206:4022/udp/239.77.1.249:5146
 
-安徽电信,#genre#
+安徽,#genre#
 安徽经济生活,http://183.166.118.96:8888/rtp/238.1.79.44:4464
 安徽经济生活,http://183.164.62.53:5000/rtp/238.1.79.44:4464
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
@@ -2750,7 +2750,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 安庆公共,http://183.164.62.53:5000/rtp/238.1.78.118:6816
 安庆公共,http://183.166.118.96:8888/rtp/238.1.78.118:6816
 
-北京联通,#genre#
+北京,#genre#
 北京文艺,http://39.134.135.82:80/000000000001/PLTV/88888888/224/3221279778/index.m3u8?HlsProfileId=
 北京文艺,http://39.134.135.82:80/000000001001/PLTV/88888888/224/3221279778/index.m3u8?HlsProfileId=
 北京文艺,http://39.134.135.82:80/000000002001/PLTV/88888888/224/3221279778/index.m3u8?HlsProfileId=
@@ -2846,7 +2846,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 大健康,http://123.113.185.113:9000/rtp/239.3.1.251:8001
 大健康,http://114.243.97.136:8888/rtp/239.3.1.251:8001
 
-重庆电信,#genre#
+重庆,#genre#
 重庆影视,http://113.251.66.27:8888/rtp/235.254.198.180:7980
 重庆影视,http://119.84.193.20:7777/rtp/235.254.198.180:7980
 重庆影视,http://14.108.98.116:4022/rtp/235.254.198.180:7980
@@ -2927,7 +2927,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 巴南综合频道,http://live.cqbntv.com/bnmc/tv0709.m3u8
 
-福建电信,#genre#
+福建,#genre#
 福建综合,http://php.jdshipin.com:8880/fujian.php?id=0
 福建综合,http://php.jdshipin.com/fujian.php?id=0
 福建综合,http://cdn.1678520.xyz/fujian.php?id=0
@@ -2991,7 +2991,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 南平新闻综合,http://117.27.190.42:85/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0
 大田综合,http://84y6jdxz.live2.danghongyun.com/live/hls/f42fd56e10624950999cd47dd87691be/498d5919ec4843178fbf7e7a153414ef.m3u8
 
-甘肃电信,#genre#
+甘肃,#genre#
 甘肃经济,http://60.164.128.167:8029/udp/239.255.30.253:8231
 甘肃经济,http://www.lebaobei.top:6868/udp/239.255.30.253:8231
 甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
@@ -3026,7 +3026,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 陇上生活,http://60.164.128.167:8029/udp/239.255.30.73:8231
 陇上生活,http://www.lebaobei.top:6868/udp/239.255.30.73:8231
 
-广东电信,#genre#
+广东,#genre#
 广东珠江,http://[2409:8087:5e01:24::03]:6610/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://[2409:8087:5e01:24::07]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
@@ -3520,7 +3520,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 潮州综合,http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州公共,http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8
 
-广西电信,#genre#
+广西,#genre#
 广西综艺旅游,http://113.13.243.53:4161/udp/239.81.0.3:4056
 广西综艺旅游,http://220.173.25.163:2410/udp/239.81.0.3:4056
 广西综艺旅游,http://113.13.243.53:4161/udp/239.81.0.214:4056
@@ -3660,7 +3660,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 资源综合,http://rtmp.gdlive.gdmain.com/live/5z4yjgm0.m3u8
 藤县综合,http://srs.txdst.cn/live/txtv.m3u8
 
-贵州电信,#genre#
+贵州,#genre#
 贵州公共,http://www.akw323.com:9527/rtp/238.255.2.2:5999
 贵州公共,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
 贵州影视文艺,http://www.akw323.com:9527/rtp/238.255.2.3:5999
@@ -3716,7 +3716,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 遵义都市,http://www.akw323.com:9527/rtp/238.255.2.154:5999
 遵义公共,http://www.akw323.com:9527/rtp/238.255.2.152:5999
 
-海南易视腾,#genre#
+海南,#genre#
 海南自贸,http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000116/
 海南自贸,http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000116/
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/
@@ -3737,7 +3737,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/
 儋州台,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3
 
-河北联通,#genre#
+河北,#genre#
 河北经济生活,http://101.31.56.138:4022/rtp/239.253.92.171:6001
 河北经济生活,http://61.55.46.35:4022/rtp/239.253.92.171:6001
 河北经济生活,http://61.55.13.136:4000/rtp/239.253.92.171:6001
@@ -4235,7 +4235,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 安平电视,http://61.55.13.136:4000/rtp/239.253.93.36:6189
 安平电视,http://101.31.56.138:4022/rtp/239.253.93.36:6189
 
-河南电信,#genre#
+河南,#genre#
 河南都市,http://106.42.108.91:2002/rtp/239.16.20.164:11640
 河南都市,http://171.8.83.186:9639/rtp/239.16.10.120:2000
 河南都市,http://106.42.108.91:2002/rtp/239.16.10.120:2000
@@ -4755,7 +4755,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 安阳科教,http://106.42.108.91:2002/rtp/239.16.20.193:11930
 安阳科教,http://171.8.83.186:9639/rtp/239.16.20.193:11930
 
-黑龙江移动,#genre#
+黑龙江,#genre#
 黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
@@ -4787,7 +4787,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 黑河新闻综合,https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
 
-湖北电信,#genre#
+湖北,#genre#
 湖北综合,http://111.175.164.168:8888/rtp/239.69.1.42:9892
 湖北综合,http://www.furymax.top:85/rtp/239.69.1.42:9892
 湖北综合,http://119.98.133.10:6555/rtp/239.69.1.42:9892
@@ -4907,7 +4907,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 阳新综合,http://111.175.164.168:8888/rtp/239.69.1.34:9844
 阳新综合,http://www.furymax.top:85/rtp/239.69.1.34:9844
 
-湖南频道,#genre#
+湖南,#genre#
 湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
 湖南经视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
 湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
@@ -5075,7 +5075,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南岳综合频道,https://liveplay-nanyue.rednet.cn/live/nanyue_03f74.m3u8
 沅陵新闻综合,http://113.245.166.13:8235/hls/hd-live.m3u8
 
-吉林电信,#genre#
+吉林,#genre#
 吉林都市,http://36.49.51.252:30007/rtp/239.37.1.2:5540
 吉林生活,http://36.49.51.252:30007/rtp/239.37.1.4:5540
 吉林影视,http://36.49.51.252:30007/rtp/239.37.1.3:5540
@@ -5161,7 +5161,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 白城新闻综合,http://36.49.51.252:30007/rtp/239.37.0.135:5540
 白城公共,http://36.49.51.252:30007/rtp/239.37.0.136:5540
 
-江苏电信,#genre#
+江苏,#genre#
 江苏城市,http://cdn.jdshipin.com:8880/jstv.php?id=jscs
 江苏城市,http://cdn.jdshipin.com/jstv.php?id=jscs
 江苏城市,http://xiazaiji.f3322.org:8800/rtp/239.49.0.17:8128
@@ -5495,7 +5495,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 常熟民生经济,http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
 滨海新闻综合,https://binhai-tv-hls.cm.jstv.com/binhai-tv/news.m3u8
 
-江西电信,#genre#
+江西,#genre#
 江西都市,http://php.jdshipin.com/TVOD/iptv.php?id=jxds
 江西都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxds
 江西都市,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
@@ -5573,7 +5573,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 东乡区综合频道,http://zhibo.jxxw.com.cn/live/dongxtv.m3u8?txSecret=f6fa6e2ad5a6ac2fa3acf1a6ea2280a0&txTime=69F30A71
 崇仁综合频道,http://zhibo.jxxw.com.cn/live/chongrtv.m3u8?txSecret=0888cc0a0492280b6ba6c551cb40e6db&txTime=69F30AD9
 
-辽宁联通,#genre#
+辽宁,#genre#
 辽宁都市,http://42.57.170.12:7112/rtp/232.0.0.154:1234
 辽宁都市,http://175.169.248.70:8268/rtp/232.0.0.154:1234
 辽宁都市,http://42.57.170.12:5694/rtp/232.0.0.154:1234
@@ -5629,7 +5629,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 辽河文化生活,http://175.169.248.70:8268/rtp/232.0.0.215:1234
 辽河文化生活,http://42.57.170.12:5694/rtp/232.0.0.215:1234
 
-内蒙古酒店联通,#genre#
+内蒙古,#genre#
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古新闻综合,http://1.24.190.98:10089/hls/32/index.m3u8
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
@@ -5671,7 +5671,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 元宝山综合,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
 准格尔旗电视台,http://pili-live-hls-nmgapp12019.sobeylive.com/nmgapp12019/live170312713456494.m3u8
 
-宁夏电信,#genre#
+宁夏,#genre#
 宁夏公共,http://106.45.11.192:8888/rtp/239.121.4.97:8556
 宁夏公共,http://14.135.72.70:8888/rtp/239.121.4.97:8556
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
@@ -5699,7 +5699,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 
-青海频道,#genre#
+青海,#genre#
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
@@ -5720,7 +5720,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 互助综合,http://livecdn.dmqhyadmin.com/hls/xjhuzhu.m3u8
 民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
 
-陕西酒店电信,#genre#
+陕西,#genre#
 陕西新闻资讯,http://113.140.86.162:8009/hls/18/index.m3u8
 陕西新闻资讯,http://120.192.226.35:8009/hls/18/index.m3u8
 陕西新闻资讯,http://112.46.85.60:8009/hls/18/index.m3u8
@@ -5755,7 +5755,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 咸阳公共频道,http://hplayer1.juyun.tv/camera/129041160.m3u8
 延安公共频道,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 
-山东联通,#genre#
+山东,#genre#
 山东齐鲁,http://182.46.8.160:8018/hls/17/index.m3u8
 山东齐鲁,http://119.166.159.120:6666/udp/239.253.254.114:8000
 山东齐鲁,http://124.129.78.38:3333/udp/239.253.254.114:8000
@@ -5850,7 +5850,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd
 东营公共,http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
 
-山西联通,#genre#
+山西,#genre#
 黄河电视台,http://221.205.92.72:8085/rtp/226.0.2.12:8008
 黄河电视台,http://221.205.92.72:8085/rtp/226.0.2.235:9792
 黄河电视台,http://171.117.3.37:8083/rtp/226.0.2.12:8008
@@ -5913,7 +5913,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 
-四川电信,#genre#
+四川,#genre#
 四川经济,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.101:5140
 四川经济,http://www.iwumei.cc:9527/udp/239.93.1.101:5140
 四川文化旅游,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.102:5140
@@ -6065,7 +6065,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 巴中巴州电视,http://30814.hlsplay.aodianyun.com/tv_radio_30814/tv_channel_1839.flv
 巴中巴州电视,http://30814.hlsplay.aodianyun.com/tv_radio_30814/tv_channel_1839.m3u8
 
-天津联通,#genre#
+天津,#genre#
 天津新闻,http://221.196.136.66:1/udp/225.1.1.130:5002
 天津新闻,http://111.167.220.37:4109/udp/225.1.1.130:5002
 天津文艺,http://221.196.136.66:1/udp/225.1.1.131:5002
@@ -6099,12 +6099,12 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
 武清综合频道,http://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 
-西藏频道,#genre#
+西藏,#genre#
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 西藏影视文化,http://php.jdshipin.com/xztv.php?id=ys
 察隅电视台,http://file.chayutv.com/nmip-media/channellive/channel105276/playlist.m3u8
 
-新疆电信,#genre#
+新疆,#genre#
 新疆维吾尔语新闻综合,http://222.80.12.231:4022/udp/238.125.0.211:5140
 新疆维吾尔语新闻综合,http://222.80.12.231:4022/udp/238.125.4.211:5140
 新疆维吾尔语新闻综合,http://222.80.12.231:4022/udp/238.125.3.175:5140
@@ -6542,7 +6542,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 阿合奇一套,http://222.80.12.231:4022/udp/238.125.3.189:5140
 阿合奇二套,http://222.80.12.231:4022/udp/238.125.3.190:5140
 
-云南酒店电信,#genre#
+云南,#genre#
 云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8
 云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8
 云南影视,http://220.164.192.48:50085/tsfile/live/1001_1.m3u8
@@ -6580,7 +6580,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 保山二套,https://livetxynbsdst.chinamcache.com/live/zb03.m3u8?txSecret=d93358689f07ff61f63838c3a0c180bc&txTime=67847DB6
 保山三套,https://livetxynbsdst.chinamcache.com/live/zb02.m3u8?txSecret=cea94501be7015643d1c8ad49d50fe81&txTime=67847DB6
 
-浙江电信,#genre#
+浙江,#genre#
 浙江钱江,http://183.130.30.174:8808/rtp/233.50.201.132:5140
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -7450,7 +7450,7 @@ oh我的鬼神大人-韩剧,http://11.xmyxc.cn/api/php/yy.php?id=1354936160
 10年没洗的地毯,http://11.xmyxc.cn/api/php/yy.php?id=1354931585
 相声相声搜38528频道,http://11.xmyxc.cn/api/php/yy.php?id=34025318
 
-海外频道,#genre#
+海外,#genre#
 InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -9674,7 +9674,7 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 巴西 TV Pai Eterno,https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 巴西 TV Santa Cruz,https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 
-港澳台频道,#genre#
+港澳台,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/jydx.php?id=37
@@ -9837,7 +9837,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
 
-RTMP源,#genre#
+RTMP,#genre#
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu:1935/sat/tv701
@@ -9879,7 +9879,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 深圳龙岗,rtmp://lglivepull.sznews.com/live/2647
 深圳众创TV,rtmp://lglivepull.sznews.com/live/2645
 
-晴天体育源,#genre#
+晴天体育,#genre#
 Astro Arena,P2p://generationnexxxt.com:19806/0bcdb6af8ec84dbabe58277e6a276219
 Astro Arena 2,P2p://generationnexxxt.com:19806/09d26ac8e0414694ad8285a9d7289dc3
 Astro SuperSport,P2p://generationnexxxt.com:19806/66c9a1c30009852153e38337084f562b
@@ -9941,7 +9941,7 @@ Z频道,P2p://generationnexxxt.com:19806/a8b5b0745cf742eea2e1b8ef696a7574
 新视觉,P2p://generationnexxxt.com:19806/0e5b07aee4ed413fbafd4e6d1816cef6
 智林体育台,P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118
 
-晴天台湾源,#genre#
+晴天台湾,#genre#
 amc电影台,P2p://generationnexxxt.com:19806/0091215ed2cc4975abfd580dc83a2af1
 Animax,P2p://generationnexxxt.com:19806/cb00c0c9bd7547aeb88abef70afd4981
 AXN,P2p://generationnexxxt.com:19806/0de5c98575a9438ab79941da02cdd289
@@ -10083,7 +10083,7 @@ WARNER TV,P2p://generationnexxxt.com:19806/89989aef89064df6af80054d37dae64d
 中天综合台,P2p://generationnexxxt.com:19806/d07c7ed033fa4d66901af75caab59e06
 罪案侦缉频道,P2p://generationnexxxt.com:19806/95625d26452949c1a6ee4f6dbc71d230
 
-晴天大陆源,#genre#
+晴天大陆,#genre#
 广东影视,P2p://generationnexxxt.com:19806/b1137b642b2b4db686e7a604473a2b73
 广州综合,P2p://generationnexxxt.com:19806/07806c412a664a2e9da0c3b8d49f453b
 广州新闻,P2p://generationnexxxt.com:19806/61e6fce7eed54ba3957ed11ee31a1d3b
