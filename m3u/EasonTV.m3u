@@ -7377,18 +7377,42 @@ http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000116/
 http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000116/
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.112114.eu.org/logo/海南自贸.png" group-title="海南",海南自贸
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.112114.eu.org/logo/海南自贸.png" group-title="海南",海南自贸
+http://220.174.46.117:8888/rtp/239.253.64.119:5140
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.112114.eu.org/logo/海南自贸.png" group-title="海南",海南自贸
+http://220.174.46.50:8888/rtp/239.253.64.119:5140
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.112114.eu.org/logo/海南自贸.png" group-title="海南",海南自贸
+http://220.174.46.117:8888/rtp/239.253.64.1:5140
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.112114.eu.org/logo/海南自贸.png" group-title="海南",海南自贸
+http://220.174.46.50:8888/rtp/239.253.64.1:5140
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.112114.eu.org/logo/海南公共.png" group-title="海南",海南公共
 http://[2409:8087:5e00:24::10]:6060/000000001000/460000100000000057/
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.112114.eu.org/logo/海南公共.png" group-title="海南",海南公共
 http://[2409:8087:5e00:24::11]:6060/000000001000/460000100000000057/
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.112114.eu.org/logo/海南公共.png" group-title="海南",海南公共
 http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.112114.eu.org/logo/海南公共.png" group-title="海南",海南公共
+http://220.174.46.117:8888/rtp/239.253.64.14:5140
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.112114.eu.org/logo/海南公共.png" group-title="海南",海南公共
+http://220.174.46.50:8888/rtp/239.253.64.14:5140
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.112114.eu.org/logo/海南公共.png" group-title="海南",海南公共
+http://220.174.46.117:8888/rtp/239.253.64.2:5140
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.112114.eu.org/logo/海南公共.png" group-title="海南",海南公共
+http://220.174.46.50:8888/rtp/239.253.64.2:5140
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.112114.eu.org/logo/海南文旅.png" group-title="海南",海南文旅
 http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000113/
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.112114.eu.org/logo/海南文旅.png" group-title="海南",海南文旅
 http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000113/
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.112114.eu.org/logo/海南文旅.png" group-title="海南",海南文旅
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.112114.eu.org/logo/海南文旅.png" group-title="海南",海南文旅
+http://220.174.46.117:8888/rtp/239.253.64.122:5140
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.112114.eu.org/logo/海南文旅.png" group-title="海南",海南文旅
+http://220.174.46.50:8888/rtp/239.253.64.122:5140
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.112114.eu.org/logo/海南文旅.png" group-title="海南",海南文旅
+http://220.174.46.117:8888/rtp/239.253.64.3:5140
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.112114.eu.org/logo/海南文旅.png" group-title="海南",海南文旅
+http://220.174.46.50:8888/rtp/239.253.64.3:5140
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.112114.eu.org/logo/海南少儿.png" group-title="海南",海南少儿
 http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000110/
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.112114.eu.org/logo/海南少儿.png" group-title="海南",海南少儿
@@ -7401,14 +7425,106 @@ http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000112/
 http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000112/
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.112114.eu.org/logo/海南少儿.png" group-title="海南",海南少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.112114.eu.org/logo/海南少儿.png" group-title="海南",海南少儿
+http://220.174.46.117:8888/rtp/239.253.64.124:5140
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.112114.eu.org/logo/海南少儿.png" group-title="海南",海南少儿
+http://220.174.46.50:8888/rtp/239.253.64.124:5140
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.112114.eu.org/logo/海南少儿.png" group-title="海南",海南少儿
+http://220.174.46.117:8888/rtp/239.253.64.4:5140
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.112114.eu.org/logo/海南少儿.png" group-title="海南",海南少儿
+http://220.174.46.50:8888/rtp/239.253.64.4:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.112114.eu.org/logo/海南新闻.png" group-title="海南",海南新闻
 http://[2409:8087:5e00:24::10]:6060/000000001000/4600001000000000111/
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.112114.eu.org/logo/海南新闻.png" group-title="海南",海南新闻
 http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000111/
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.112114.eu.org/logo/海南新闻.png" group-title="海南",海南新闻
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.112114.eu.org/logo/海南新闻.png" group-title="海南",海南新闻
+http://220.174.46.117:8888/rtp/239.253.64.121:5140
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.112114.eu.org/logo/海南新闻.png" group-title="海南",海南新闻
+http://220.174.46.50:8888/rtp/239.253.64.121:5140
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.112114.eu.org/logo/海南新闻.png" group-title="海南",海南新闻
+http://220.174.46.117:8888/rtp/239.253.64.11:5140
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.112114.eu.org/logo/海南新闻.png" group-title="海南",海南新闻
+http://220.174.46.50:8888/rtp/239.253.64.11:5140
+#EXTINF:-1 tvg-name="海口一台" tvg-logo="https://epg.112114.eu.org/logo/海口一台.png" group-title="海南",海口一台
+http://220.174.46.117:8888/rtp/239.253.64.80:5140
+#EXTINF:-1 tvg-name="海口一台" tvg-logo="https://epg.112114.eu.org/logo/海口一台.png" group-title="海南",海口一台
+http://220.174.46.50:8888/rtp/239.253.64.80:5140
+#EXTINF:-1 tvg-name="海口二台" tvg-logo="https://epg.112114.eu.org/logo/海口二台.png" group-title="海南",海口二台
+http://220.174.46.117:8888/rtp/239.253.64.82:5140
+#EXTINF:-1 tvg-name="海口二台" tvg-logo="https://epg.112114.eu.org/logo/海口二台.png" group-title="海南",海口二台
+http://220.174.46.50:8888/rtp/239.253.64.82:5140
+#EXTINF:-1 tvg-name="海口三台" tvg-logo="https://epg.112114.eu.org/logo/海口三台.png" group-title="海南",海口三台
+http://220.174.46.117:8888/rtp/239.253.64.83:5140
+#EXTINF:-1 tvg-name="海口三台" tvg-logo="https://epg.112114.eu.org/logo/海口三台.png" group-title="海南",海口三台
+http://220.174.46.50:8888/rtp/239.253.64.83:5140
+#EXTINF:-1 tvg-name="海南风景欣赏" tvg-logo="https://epg.112114.eu.org/logo/海南风景欣赏.png" group-title="海南",海南风景欣赏
+http://220.174.46.117:8888/rtp/239.253.64.52:5140
+#EXTINF:-1 tvg-name="海南风景欣赏" tvg-logo="https://epg.112114.eu.org/logo/海南风景欣赏.png" group-title="海南",海南风景欣赏
+http://220.174.46.50:8888/rtp/239.253.64.52:5140
 #EXTINF:-1 tvg-name="儋州台" tvg-logo="https://epg.112114.eu.org/logo/儋州台.png" group-title="海南",儋州台
 http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3
+#EXTINF:-1 tvg-name="儋州台" tvg-logo="https://epg.112114.eu.org/logo/儋州台.png" group-title="海南",儋州台
+http://220.174.46.117:8888/rtp/239.253.64.107:5140
+#EXTINF:-1 tvg-name="儋州台" tvg-logo="https://epg.112114.eu.org/logo/儋州台.png" group-title="海南",儋州台
+http://220.174.46.50:8888/rtp/239.253.64.107:5140
+#EXTINF:-1 tvg-name="白沙台" tvg-logo="https://epg.112114.eu.org/logo/白沙台.png" group-title="海南",白沙台
+http://220.174.46.117:8888/rtp/239.253.64.118:5140
+#EXTINF:-1 tvg-name="白沙台" tvg-logo="https://epg.112114.eu.org/logo/白沙台.png" group-title="海南",白沙台
+http://220.174.46.50:8888/rtp/239.253.64.118:5140
+#EXTINF:-1 tvg-name="保亭台" tvg-logo="https://epg.112114.eu.org/logo/保亭台.png" group-title="海南",保亭台
+http://220.174.46.117:8888/rtp/239.253.64.159:5140
+#EXTINF:-1 tvg-name="保亭台" tvg-logo="https://epg.112114.eu.org/logo/保亭台.png" group-title="海南",保亭台
+http://220.174.46.50:8888/rtp/239.253.64.159:5140
+#EXTINF:-1 tvg-name="澄迈台" tvg-logo="https://epg.112114.eu.org/logo/澄迈台.png" group-title="海南",澄迈台
+http://220.174.46.117:8888/rtp/239.253.64.109:5140
+#EXTINF:-1 tvg-name="澄迈台" tvg-logo="https://epg.112114.eu.org/logo/澄迈台.png" group-title="海南",澄迈台
+http://220.174.46.50:8888/rtp/239.253.64.109:5140
+#EXTINF:-1 tvg-name="定安台" tvg-logo="https://epg.112114.eu.org/logo/定安台.png" group-title="海南",定安台
+http://220.174.46.117:8888/rtp/239.253.64.110:5140
+#EXTINF:-1 tvg-name="定安台" tvg-logo="https://epg.112114.eu.org/logo/定安台.png" group-title="海南",定安台
+http://220.174.46.50:8888/rtp/239.253.64.110:5140
+#EXTINF:-1 tvg-name="东方台" tvg-logo="https://epg.112114.eu.org/logo/东方台.png" group-title="海南",东方台
+http://220.174.46.117:8888/rtp/239.253.64.111:5140
+#EXTINF:-1 tvg-name="东方台" tvg-logo="https://epg.112114.eu.org/logo/东方台.png" group-title="海南",东方台
+http://220.174.46.50:8888/rtp/239.253.64.111:5140
+#EXTINF:-1 tvg-name="临高台" tvg-logo="https://epg.112114.eu.org/logo/临高台.png" group-title="海南",临高台
+http://220.174.46.117:8888/rtp/239.253.64.155:5140
+#EXTINF:-1 tvg-name="临高台" tvg-logo="https://epg.112114.eu.org/logo/临高台.png" group-title="海南",临高台
+http://220.174.46.50:8888/rtp/239.253.64.155:5140
+#EXTINF:-1 tvg-name="陵水台" tvg-logo="https://epg.112114.eu.org/logo/陵水台.png" group-title="海南",陵水台
+http://220.174.46.117:8888/rtp/239.253.64.116:5140
+#EXTINF:-1 tvg-name="陵水台" tvg-logo="https://epg.112114.eu.org/logo/陵水台.png" group-title="海南",陵水台
+http://220.174.46.50:8888/rtp/239.253.64.116:5140
+#EXTINF:-1 tvg-name="琼海台" tvg-logo="https://epg.112114.eu.org/logo/琼海台.png" group-title="海南",琼海台
+http://220.174.46.117:8888/rtp/239.253.64.106:5140
+#EXTINF:-1 tvg-name="琼海台" tvg-logo="https://epg.112114.eu.org/logo/琼海台.png" group-title="海南",琼海台
+http://220.174.46.50:8888/rtp/239.253.64.106:5140
+#EXTINF:-1 tvg-name="琼中台" tvg-logo="https://epg.112114.eu.org/logo/琼中台.png" group-title="海南",琼中台
+http://220.174.46.117:8888/rtp/239.253.64.165:5140
+#EXTINF:-1 tvg-name="琼中台" tvg-logo="https://epg.112114.eu.org/logo/琼中台.png" group-title="海南",琼中台
+http://220.174.46.50:8888/rtp/239.253.64.165:5140
+#EXTINF:-1 tvg-name="昌江台" tvg-logo="https://epg.112114.eu.org/logo/昌江台.png" group-title="海南",昌江台
+http://220.174.46.117:8888/rtp/239.253.64.108:5140
+#EXTINF:-1 tvg-name="昌江台" tvg-logo="https://epg.112114.eu.org/logo/昌江台.png" group-title="海南",昌江台
+http://220.174.46.50:8888/rtp/239.253.64.108:5140
+#EXTINF:-1 tvg-name="屯昌台" tvg-logo="https://epg.112114.eu.org/logo/屯昌台.png" group-title="海南",屯昌台
+http://220.174.46.117:8888/rtp/239.253.64.117:5140
+#EXTINF:-1 tvg-name="屯昌台" tvg-logo="https://epg.112114.eu.org/logo/屯昌台.png" group-title="海南",屯昌台
+http://220.174.46.50:8888/rtp/239.253.64.117:5140
+#EXTINF:-1 tvg-name="万宁综合" tvg-logo="https://epg.112114.eu.org/logo/万宁综合.png" group-title="海南",万宁综合
+http://220.174.46.117:8888/rtp/239.253.64.167:5140
+#EXTINF:-1 tvg-name="万宁综合" tvg-logo="https://epg.112114.eu.org/logo/万宁综合.png" group-title="海南",万宁综合
+http://220.174.46.50:8888/rtp/239.253.64.167:5140
+#EXTINF:-1 tvg-name="文昌台" tvg-logo="https://epg.112114.eu.org/logo/文昌台.png" group-title="海南",文昌台
+http://220.174.46.117:8888/rtp/239.253.64.105:5140
+#EXTINF:-1 tvg-name="文昌台" tvg-logo="https://epg.112114.eu.org/logo/文昌台.png" group-title="海南",文昌台
+http://220.174.46.50:8888/rtp/239.253.64.105:5140
+#EXTINF:-1 tvg-name="五指山台" tvg-logo="https://epg.112114.eu.org/logo/五指山台.png" group-title="海南",五指山台
+http://220.174.46.117:8888/rtp/239.253.64.69:5140
+#EXTINF:-1 tvg-name="五指山台" tvg-logo="https://epg.112114.eu.org/logo/五指山台.png" group-title="海南",五指山台
+http://220.174.46.50:8888/rtp/239.253.64.69:5140
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
 http://101.31.56.138:4022/rtp/239.253.92.171:6001
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
@@ -9413,7 +9529,7 @@ http://106.42.108.91:2002/rtp/239.16.20.217:12170
 http://171.8.83.186:9639/rtp/239.16.20.29:10290
 #EXTINF:-1 tvg-name="大剧院" tvg-logo="https://epg.112114.eu.org/logo/大剧院.png" group-title="河南",大剧院
 http://171.8.83.186:9639/rtp/239.16.20.217:12170
-#EXTINF:-1 tvg-name="宝丰综合" tvg-logo="https://epg.112114.eu.org/logo/宝丰综合.png" group-title="河南",宝丰综合
+#EXTINF:-1 tvg-name="宝丰电视台" tvg-logo="https://epg.112114.eu.org/logo/宝丰电视台.png" group-title="河南",宝丰电视台
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 #EXTINF:-1 tvg-name="宝丰电视台" tvg-logo="https://epg.112114.eu.org/logo/宝丰电视台.png" group-title="河南",宝丰电视台
 http://106.42.108.91:2002/rtp/239.16.20.63:10630
@@ -9443,6 +9559,10 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
+http://1.58.246.94:891/rtp/229.58.190.14:5000
+#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
+http://1.58.246.94:891/rtp/229.58.190.126:5000
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
@@ -9451,6 +9571,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
+http://1.58.246.94:891/rtp/229.58.190.116:5000
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
@@ -9459,12 +9581,18 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
+http://1.58.246.94:891/rtp/229.58.190.121:5000
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
+http://1.58.246.94:891/rtp/229.58.190.16:5000
+#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
+http://1.58.246.94:891/rtp/229.58.190.122:5000
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
@@ -9473,12 +9601,18 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
+http://1.58.246.94:891/rtp/229.58.190.123:5000
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
+http://1.58.246.94:891/rtp/229.58.190.39:5000
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
+http://1.58.246.94:891/rtp/229.58.190.124:5000
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.112114.eu.org/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="https://epg.112114.eu.org/logo/哈尔滨生活.png" group-title="黑龙江",哈尔滨生活
@@ -9489,7 +9623,7 @@ http://stream.hrbtv.net/yspd/sd/live.m3u8
 https://play-hsbj.vzan.com/201041892/650315866095242467/live.m3u8
 #EXTINF:-1 tvg-name="绥化综合" tvg-logo="https://epg.112114.eu.org/logo/绥化综合.png" group-title="黑龙江",绥化综合
 https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
-#EXTINF:-1 tvg-name="伊春综合" tvg-logo="https://epg.112114.eu.org/logo/伊春综合频道.png" group-title="黑龙江",伊春综合频道
+#EXTINF:-1 tvg-name="伊春综合频道" tvg-logo="https://epg.112114.eu.org/logo/伊春综合频道.png" group-title="黑龙江",伊春综合频道
 https://liveplaysr.dbw.cn/lsdream/pkHc359/2000/live.m3u8
 #EXTINF:-1 tvg-name="伊春绿色林都" tvg-logo="https://epg.112114.eu.org/logo/伊春绿色林都.png" group-title="黑龙江",伊春绿色林都
 https://liveplaysr.dbw.cn/lsdream/6i4bn74/2000/live.m3u8
@@ -9497,6 +9631,14 @@ https://liveplaysr.dbw.cn/lsdream/6i4bn74/2000/live.m3u8
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="黑河新闻综合" tvg-logo="https://epg.112114.eu.org/logo/黑河新闻综合.png" group-title="黑龙江",黑河新闻综合
 https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
+#EXTINF:-1 tvg-name="齐齐哈尔新闻" tvg-logo="https://epg.112114.eu.org/logo/齐齐哈尔新闻.png" group-title="黑龙江",齐齐哈尔新闻
+http://1.58.246.94:891/rtp/229.58.190.164:5000
+#EXTINF:-1 tvg-name="齐齐哈尔经济" tvg-logo="https://epg.112114.eu.org/logo/齐齐哈尔经济.png" group-title="黑龙江",齐齐哈尔经济
+http://1.58.246.94:891/rtp/229.58.190.192:5000
+#EXTINF:-1 tvg-name="齐齐哈尔公共" tvg-logo="https://epg.112114.eu.org/logo/齐齐哈尔公共.png" group-title="黑龙江",齐齐哈尔公共
+http://1.58.246.94:891/rtp/229.58.190.4:5000
+#EXTINF:-1 tvg-name="佳木斯新闻" tvg-logo="https://epg.112114.eu.org/logo/佳木斯新闻.png" group-title="黑龙江",佳木斯新闻
+http://1.58.246.94:891/rtp/229.58.190.163:5000
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://epg.112114.eu.org/logo/湖北综合.png" group-title="湖北",湖北综合
 http://111.175.164.168:8888/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://epg.112114.eu.org/logo/湖北综合.png" group-title="湖北",湖北综合
@@ -9740,7 +9882,15 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.112114.eu.org/logo/湖南经视.png" group-title="湖南",湖南经视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.112114.eu.org/logo/湖南经视.png" group-title="湖南",湖南经视
-http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+http://124.230.56.109:55555/udp/239.76.245.116:1234
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.112114.eu.org/logo/湖南经视.png" group-title="湖南",湖南经视
+http://124.230.56.109:55555/udp/239.76.246.103:1234
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.112114.eu.org/logo/湖南经视.png" group-title="湖南",湖南经视
+http://124.230.56.109:55555/udp/239.76.253.103:9000
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.112114.eu.org/logo/湖南经视.png" group-title="湖南",湖南经视
+http://124.230.56.109:55555/udp/239.76.252.116:9000
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.112114.eu.org/logo/湖南经视.png" group-title="湖南",湖南经视
+http://php.jdshipin.com/iptv.php?id=hnjs
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.112114.eu.org/logo/湖南经视.png" group-title="湖南",湖南经视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6306119848317438256
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.112114.eu.org/logo/湖南经视.png" group-title="湖南",湖南经视
@@ -9752,7 +9902,15 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.112114.eu.org/logo/湖南都市.png" group-title="湖南",湖南都市
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.112114.eu.org/logo/湖南都市.png" group-title="湖南",湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+http://124.230.56.109:55555/udp/239.76.245.117:1234
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.112114.eu.org/logo/湖南都市.png" group-title="湖南",湖南都市
+http://124.230.56.109:55555/udp/239.76.246.104:1234
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.112114.eu.org/logo/湖南都市.png" group-title="湖南",湖南都市
+http://124.230.56.109:55555/udp/239.76.253.104:9000
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.112114.eu.org/logo/湖南都市.png" group-title="湖南",湖南都市
+http://124.230.56.109:55555/udp/239.76.252.117:9000
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.112114.eu.org/logo/湖南都市.png" group-title="湖南",湖南都市
+http://php.jdshipin.com/iptv.php?id=hnds
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.112114.eu.org/logo/湖南都市.png" group-title="湖南",湖南都市
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=4682579636905393407
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.112114.eu.org/logo/湖南都市.png" group-title="湖南",湖南都市
@@ -9764,11 +9922,19 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://124.230.56.109:55555/udp/239.76.245.118:1234
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://124.230.56.109:55555/udp/239.76.246.108:1234
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://124.230.56.109:55555/udp/239.76.253.108:9000
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://124.230.56.109:55555/udp/239.76.252.118:9000
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://php.jdshipin.com/iptv.php?id=hndsj
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=8765482907954673867
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://php.jdshipin.com/TVOD/iptv.php?id=hndsj
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.112114.eu.org/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
 http://php.jdshipin.com:8880/iptv.php?id=hndy
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
@@ -9776,7 +9942,15 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+http://124.230.56.109:55555/udp/239.76.245.119:1234
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
+http://124.230.56.109:55555/udp/239.76.246.106:1234
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
+http://124.230.56.109:55555/udp/239.76.253.106:9000
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
+http://124.230.56.109:55555/udp/239.76.252.119:9000
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
+http://php.jdshipin.com/iptv.php?id=hndy
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7884242846753128038
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.112114.eu.org/logo/湖南电影.png" group-title="湖南",湖南电影
@@ -9786,9 +9960,15 @@ http://php.jdshipin.com:8880/iptv.php?id=hngg
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.112114.eu.org/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.112114.eu.org/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.112114.eu.org/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://php.jdshipin.com/TVOD/iptv.php?id=hngg
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.112114.eu.org/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://124.230.56.109:55555/udp/239.76.245.123:1234
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.112114.eu.org/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://124.230.56.109:55555/udp/239.76.246.109:1234
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.112114.eu.org/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://124.230.56.109:55555/udp/239.76.253.109:9000
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.112114.eu.org/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://124.230.56.109:55555/udp/239.76.252.123:9000
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://php.jdshipin.com:8880/iptv.php?id=hnyl
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
@@ -9796,125 +9976,55 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+http://124.230.56.109:55555/udp/239.76.245.121:1234
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://124.230.56.109:55555/udp/239.76.246.105:1234
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://124.230.56.109:55555/udp/239.76.253.105:9000
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://124.230.56.109:55555/udp/239.76.252.121:9000
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://php.jdshipin.com/iptv.php?id=hnyl
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6427893650335440392
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.112114.eu.org/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://php.jdshipin.com/TVOD/iptv.php?id=hnyl
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010106/
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010106/
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011724/
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010106/
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e01:24::03]:6610/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e01:24::03]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://[2409:8087:5e01:24::07]:6610/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e01:24::07]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e01:24::08]:6610/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://[2409:8087:5e01:24::14]:6610/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e01:24::14]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5e01:24::21]:6610/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://28901.noip.us.to:4000/udp/239.45.1.45:5140
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010106/
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://gongjin.x3322.net:8686/udp/239.45.1.45:5140
+http://124.230.56.109:55555/udp/239.76.245.122:1234
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
+http://124.230.56.109:55555/udp/239.76.246.110:1234
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://home.nuaa.us.to:4000/udp/239.45.1.45:5140
+http://124.230.56.109:55555/udp/239.76.253.110:9000
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://101.229.186.82:4022/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://222.64.125.110:58888/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://origin.lean.org.cn:4000/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://sh1.enjoymoe.com:8001/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://58.37.133.132:8888/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://101.229.186.82:4022/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://58.37.133.132:8888/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://xuys.top:8888/udp/225.1.1.124:5002
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://yuancw.eu.org:8088/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010107/
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010107/
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016601/
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/
+http://124.230.56.109:55555/udp/239.76.252.122:9000
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://[2409:8087:5e01:24::03]:6610/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::03]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+http://[2409:8087:5e01:24::05]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::03]:6610/000000001000/5201381050640253101/1.m3u8?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=3
+http://[2409:8087:5e01:24::06]:6610/000000001000/5201381050640253101/1.m3u8?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::03]:6610/000000001000/6000000003000016791/1.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3
+http://[2409:8087:5e01:24::09]:6610/000000001000/6000000003000016791/1.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::07]:6610/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010107/
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::07]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+http://124.230.56.109:55555/udp/239.76.245.120:1234
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::07]:6610/000000001000/5201381050640253101/1.m3u8?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=3
+http://124.230.56.109:55555/udp/239.76.246.107:1234
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::07]:6610/000000001000/6000000003000016791/1.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3
+http://124.230.56.109:55555/udp/239.76.253.107:9000
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::08]:6610/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::08]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::08]:6610/000000001000/5201381050640253101/1.m3u8?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::08]:6610/000000001000/6000000003000016791/1.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::14]:6610/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::14]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::14]:6610/000000001000/5201381050640253101/1.m3u8?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::14]:6610/000000001000/6000000003000016791/1.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::21]:6610/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::21]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::21]:6610/000000001000/5201381050640253101/1.m3u8?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:5e01:24::21]:6610/000000001000/6000000003000016791/1.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://113.13.243.53:4161/udp/239.81.0.61:4056
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://220.173.25.163:2410/udp/239.81.0.61:4056
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://171.110.55.49:4200/udp/239.81.0.61:4056
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.eu.org/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://xuys.top:8888/udp/225.1.2.236:5002
+http://124.230.56.109:55555/udp/239.76.252.120:9000
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
 http://php.jdshipin.com:8880/iptv.php?id=hngj
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
@@ -9922,135 +10032,97 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
-http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+http://124.230.56.109:55555/udp/239.76.245.124:1234
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
+http://124.230.56.109:55555/udp/239.76.246.102:1234
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
+http://124.230.56.109:55555/udp/239.76.253.102:9000
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
+http://124.230.56.109:55555/udp/239.76.252.124:9000
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
+http://php.jdshipin.com/iptv.php?id=hngj
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=5015828848322021526
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.112114.eu.org/logo/湖南国际.png" group-title="湖南",湖南国际
 http://php.jdshipin.com/TVOD/iptv.php?id=hngj
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://[2409:8087:5e01:24::03]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+http://[2409:8087:5e01:24::05]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://[2409:8087:5e01:24::07]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://[2409:8087:5e01:24::14]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://[2409:8087:5e01:24::21]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000067/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000067&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+http://124.230.56.109:55555/udp/239.76.246.5:1234
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
+http://124.230.56.109:55555/udp/239.76.245.127:1234
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
+http://124.230.56.109:55555/udp/239.76.253.5:9000
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
+http://124.230.56.109:55555/udp/239.76.252.127:9000
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031206
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://www.iwumei.cc:9527/udp/239.93.1.151:5140
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://183.130.30.174:8808/rtp/233.50.201.109:5140
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://www.tico2.eu.org:4022/rtp/239.69.1.142:10488
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://xuys.top:8888/udp/225.1.2.18:5002
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://xuys.top:8888/udp/225.1.2.20:5002
-#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.112114.eu.org/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://zhyfans.mycloudnas.com:8000/udp/239.93.1.151:5140
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
 http://php.jdshipin.com:8880/itv6s.php?cid=hnbblive&id=4886720949268374180
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
 http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=4886720949268374180
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://171.110.55.49:4200/udp/239.81.0.236:4056
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://113.13.243.53:4161/udp/239.81.0.236:4056
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://220.173.25.163:2410/udp/239.81.0.236:4056
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://xuys.top:8888/udp/225.1.1.219:5002
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://101.229.186.82:4022/udp/239.45.3.43:5140
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://222.64.125.110:58888/udp/239.45.3.43:5140
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://58.37.133.132:8888/udp/239.45.3.43:5140
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
 http://101.229.186.82:4022/udp/239.45.3.43:5140
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
 http://58.37.133.132:8888/udp/239.45.3.43:5140
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://yuancw.eu.org:8088/udp/239.45.3.43:5140
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://sh1.enjoymoe.com:8001/udp/239.45.3.43:5140
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://gongjin.x3322.net:8686/udp/239.45.3.43:5140
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://zhyfans.mycloudnas.com:8000/udp/239.93.42.56:5140
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.112114.eu.org/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://www.iwumei.cc:9527/udp/239.93.42.56:5140
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000070/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://[2409:8087:5e01:24::03]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+http://[2409:8087:5e01:24::05]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
 http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000070/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://[2409:8087:5e01:24::07]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000070/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
 http://[2409:8087:5e01:24::08]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000070/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://[2409:8087:5e01:24::14]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000070/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://[2409:8087:5e01:24::21]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+http://[2409:8087:5e01:24::10]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000070/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000070&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+http://124.230.56.109:55555/udp/239.76.245.239:1234
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000070
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://www.hiliu.myds.me:8088/rtp/239.69.1.144:10500
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://www.iwumei.cc:9527/udp/239.93.0.114:5140
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://183.130.30.174:8808/rtp/233.50.201.188:5140
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://www.tico2.eu.org:4022/rtp/239.69.1.144:10500
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://xuys.top:8888/udp/225.1.2.19:5002
-#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://zhyfans.mycloudnas.com:8000/udp/239.93.0.114:5140
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.112114.eu.org/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
 #EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://epg.112114.eu.org/logo/湖南教育.png" group-title="湖南",湖南教育
-http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+http://124.230.56.109:55555/udp/239.76.245.233:1234
+#EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://epg.112114.eu.org/logo/湖南教育.png" group-title="湖南",湖南教育
+http://124.230.56.109:55555/udp/239.76.252.233:9000
+#EXTINF:-1 tvg-name="芒果乐搜" tvg-logo="https://epg.112114.eu.org/logo/芒果乐搜.png" group-title="湖南",芒果乐搜
+http://124.230.56.109:55555/udp/239.76.245.200:1234
+#EXTINF:-1 tvg-name="芒果乐活" tvg-logo="https://epg.112114.eu.org/logo/芒果乐活.png" group-title="湖南",芒果乐活
+http://124.230.56.109:55555/udp/239.76.245.201:1234
+#EXTINF:-1 tvg-name="芒果乐淘" tvg-logo="https://epg.112114.eu.org/logo/芒果乐淘.png" group-title="湖南",芒果乐淘
+http://124.230.56.109:55555/udp/239.76.245.215:1234
+#EXTINF:-1 tvg-name="芒果汽车" tvg-logo="https://epg.112114.eu.org/logo/芒果汽车.png" group-title="湖南",芒果汽车
+http://124.230.56.109:55555/udp/239.76.253.123:9000
+#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://epg.112114.eu.org/logo/长沙新闻.png" group-title="湖南",长沙新闻
+http://124.230.56.109:55555/udp/239.76.253.121:9000
+#EXTINF:-1 tvg-name="长沙影视" tvg-logo="https://epg.112114.eu.org/logo/长沙影视.png" group-title="湖南",长沙影视
+http://124.230.56.109:55555/udp/239.76.245.204:1234
+#EXTINF:-1 tvg-name="长沙影视" tvg-logo="https://epg.112114.eu.org/logo/长沙影视.png" group-title="湖南",长沙影视
+http://124.230.56.109:55555/udp/239.76.252.204:9000
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://epg.112114.eu.org/logo/长沙政法.png" group-title="湖南",长沙政法
+http://124.230.56.109:55555/udp/239.76.253.122:9000
+#EXTINF:-1 tvg-name="长沙女姓" tvg-logo="https://epg.112114.eu.org/logo/长沙女姓.png" group-title="湖南",长沙女姓
+http://124.230.56.109:55555/udp/239.76.245.23:1234
+#EXTINF:-1 tvg-name="长沙女姓" tvg-logo="https://epg.112114.eu.org/logo/长沙女姓.png" group-title="湖南",长沙女姓
+http://124.230.56.109:55555/udp/239.76.252.23:9000
 #EXTINF:-1 tvg-name="益阳新闻综合" tvg-logo="https://epg.112114.eu.org/logo/益阳新闻综合.png" group-title="湖南",益阳新闻综合
 http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxwhd231205.m3u8
 #EXTINF:-1 tvg-name="益阳公共" tvg-logo="https://epg.112114.eu.org/logo/益阳公共.png" group-title="湖南",益阳公共
@@ -10061,10 +10133,52 @@ http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy231205.m3u8
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="云溪新闻综合" tvg-logo="https://epg.112114.eu.org/logo/云溪新闻综合.png" group-title="湖南",云溪新闻综合
 http://liveplay-yxq.rednet.cn/live/yxq2024tv.m3u8
-#EXTINF:-1 tvg-name="南岳综合" tvg-logo="https://epg.112114.eu.org/logo/南岳综合频道.png" group-title="湖南",南岳综合频道
+#EXTINF:-1 tvg-name="南岳综合频道" tvg-logo="https://epg.112114.eu.org/logo/南岳综合频道.png" group-title="湖南",南岳综合频道
 https://liveplay-nanyue.rednet.cn/live/nanyue_03f74.m3u8
 #EXTINF:-1 tvg-name="沅陵新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沅陵新闻综合.png" group-title="湖南",沅陵新闻综合
 http://113.245.166.13:8235/hls/hd-live.m3u8
+#EXTINF:-1 tvg-name="湘西新闻综合" tvg-logo="https://epg.112114.eu.org/logo/湘西新闻综合.png" group-title="湖南",湘西新闻综合
+http://124.230.56.109:55555/udp/239.76.245.208:1234
+#EXTINF:-1 tvg-name="湘西新闻综合" tvg-logo="https://epg.112114.eu.org/logo/湘西新闻综合.png" group-title="湖南",湘西新闻综合
+http://124.230.56.109:55555/udp/239.76.245.209:1234
+#EXTINF:-1 tvg-name="湘西新闻综合" tvg-logo="https://epg.112114.eu.org/logo/湘西新闻综合.png" group-title="湖南",湘西新闻综合
+http://124.230.56.109:55555/udp/239.76.252.208:9000
+#EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://epg.112114.eu.org/logo/湘西公共.png" group-title="湖南",湘西公共
+http://124.230.56.109:55555/udp/239.76.252.209:9000
+#EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://epg.112114.eu.org/logo/湘西公共.png" group-title="湖南",湘西公共
+http://124.230.56.109:55555/udp/239.76.252.210:9000
+#EXTINF:-1 tvg-name="张家界新闻综合" tvg-logo="https://epg.112114.eu.org/logo/张家界新闻综合.png" group-title="湖南",张家界新闻综合
+http://124.230.56.109:55555/udp/239.76.245.234:1234
+#EXTINF:-1 tvg-name="张家界新闻综合" tvg-logo="https://epg.112114.eu.org/logo/张家界新闻综合.png" group-title="湖南",张家界新闻综合
+http://124.230.56.109:55555/udp/239.76.252.234:9000
+#EXTINF:-1 tvg-name="张家界公共" tvg-logo="https://epg.112114.eu.org/logo/张家界公共.png" group-title="湖南",张家界公共
+http://124.230.56.109:55555/udp/239.76.245.235:1234
+#EXTINF:-1 tvg-name="张家界公共" tvg-logo="https://epg.112114.eu.org/logo/张家界公共.png" group-title="湖南",张家界公共
+http://124.230.56.109:55555/udp/239.76.252.235:9000
+#EXTINF:-1 tvg-name="浏阳" tvg-logo="https://epg.112114.eu.org/logo/浏阳.png" group-title="湖南",浏阳
+http://124.230.56.109:55555/udp/239.76.248.6:1234
+#EXTINF:-1 tvg-name="常德综合" tvg-logo="https://epg.112114.eu.org/logo/常德综合.png" group-title="湖南",常德综合
+http://124.230.56.109:55555/udp/239.76.248.10:1234
+#EXTINF:-1 tvg-name="常德公共" tvg-logo="https://epg.112114.eu.org/logo/常德公共.png" group-title="湖南",常德公共
+http://124.230.56.109:55555/udp/239.76.248.11:1234
+#EXTINF:-1 tvg-name="衡阳综合" tvg-logo="https://epg.112114.eu.org/logo/衡阳综合.png" group-title="湖南",衡阳综合
+http://124.230.56.109:55555/udp/239.76.248.13:1234
+#EXTINF:-1 tvg-name="衡阳公共" tvg-logo="https://epg.112114.eu.org/logo/衡阳公共.png" group-title="湖南",衡阳公共
+http://124.230.56.109:55555/udp/239.76.248.14:1234
+#EXTINF:-1 tvg-name="娄底综合" tvg-logo="https://epg.112114.eu.org/logo/娄底综合.png" group-title="湖南",娄底综合
+http://124.230.56.109:55555/udp/239.76.248.18:1234
+#EXTINF:-1 tvg-name="娄底公共" tvg-logo="https://epg.112114.eu.org/logo/娄底公共.png" group-title="湖南",娄底公共
+http://124.230.56.109:55555/udp/239.76.248.19:1234
+#EXTINF:-1 tvg-name="娄底TV" tvg-logo="https://epg.112114.eu.org/logo/娄底TV.png" group-title="湖南",娄底TV
+http://124.230.56.109:55555/udp/239.76.248.20:1234
+#EXTINF:-1 tvg-name="湘南新闻" tvg-logo="https://epg.112114.eu.org/logo/湘南新闻.png" group-title="湖南",湘南新闻
+http://124.230.56.109:55555/udp/239.76.248.21:1234
+#EXTINF:-1 tvg-name="邵阳新闻" tvg-logo="https://epg.112114.eu.org/logo/邵阳新闻.png" group-title="湖南",邵阳新闻
+http://124.230.56.109:55555/udp/239.76.248.23:1234
+#EXTINF:-1 tvg-name="永州新闻" tvg-logo="https://epg.112114.eu.org/logo/永州新闻.png" group-title="湖南",永州新闻
+http://124.230.56.109:55555/udp/239.76.248.57:1234
+#EXTINF:-1 tvg-name="怀化综合" tvg-logo="https://epg.112114.eu.org/logo/怀化综合.png" group-title="湖南",怀化综合
+http://124.230.56.109:55555/udp/239.76.255.12:9000
 #EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://epg.112114.eu.org/logo/吉林都市.png" group-title="吉林",吉林都市
 http://36.49.51.252:30007/rtp/239.37.1.2:5540
 #EXTINF:-1 tvg-name="吉林生活" tvg-logo="https://epg.112114.eu.org/logo/吉林生活.png" group-title="吉林",吉林生活
@@ -11293,16 +11407,36 @@ http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 http://stream.qhbtv.com/qhsh/sd/live.m3u8
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://epg.112114.eu.org/logo/青海经视.png" group-title="青海",青海经视
 http://stream.qhbtv.com/qhsh/playlist.m3u8
+#EXTINF:-1 tvg-name="青海经视" tvg-logo="https://epg.112114.eu.org/logo/青海经视.png" group-title="青海",青海经视
+http://139.170.104.58:8000/rtp/239.120.2.161:5141
+#EXTINF:-1 tvg-name="青海经视" tvg-logo="https://epg.112114.eu.org/logo/青海经视.png" group-title="青海",青海经视
+http://139.170.104.58:8000/rtp/239.120.1.42:8226
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://epg.112114.eu.org/logo/青海都市.png" group-title="青海",青海都市
 http://stream.qhbtv.com/qhds/sd/live.m3u8
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://epg.112114.eu.org/logo/青海都市.png" group-title="青海",青海都市
 http://stream.qhbtv.com/qhds/playlist.m3u8
+#EXTINF:-1 tvg-name="青海都市" tvg-logo="https://epg.112114.eu.org/logo/青海都市.png" group-title="青海",青海都市
+http://139.170.104.58:8000/rtp/239.120.2.156:5141
+#EXTINF:-1 tvg-name="青海都市" tvg-logo="https://epg.112114.eu.org/logo/青海都市.png" group-title="青海",青海都市
+http://139.170.104.58:8000/rtp/239.120.1.41:8220
+#EXTINF:-1 tvg-name="青海油田" tvg-logo="https://epg.112114.eu.org/logo/青海油田.png" group-title="青海",青海油田
+http://139.170.104.58:8000/rtp/239.120.1.144:8416
 #EXTINF:-1 tvg-name="西宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/西宁新闻综合.png" group-title="青海",西宁新闻综合
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-name="西宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/西宁新闻综合.png" group-title="青海",西宁新闻综合
+http://139.170.104.58:8000/rtp/239.120.1.249:9444
+#EXTINF:-1 tvg-name="西宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/西宁新闻综合.png" group-title="青海",西宁新闻综合
+http://139.170.104.58:8000/rtp/239.120.2.172:5141
 #EXTINF:-1 tvg-name="西宁生活服务" tvg-logo="https://epg.112114.eu.org/logo/西宁生活服务.png" group-title="青海",西宁生活服务
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 tvg-name="西宁生活服务" tvg-logo="https://epg.112114.eu.org/logo/西宁生活服务.png" group-title="青海",西宁生活服务
+http://139.170.104.58:8000/rtp/239.120.1.248:9440
+#EXTINF:-1 tvg-name="西宁生活服务" tvg-logo="https://epg.112114.eu.org/logo/西宁生活服务.png" group-title="青海",西宁生活服务
+http://139.170.104.58:8000/rtp/239.120.2.171:5141
 #EXTINF:-1 tvg-name="果洛综合" tvg-logo="https://epg.112114.eu.org/logo/果洛综合.png" group-title="青海",果洛综合
 http://111.44.214.34:8066/0.m3u8
+#EXTINF:-1 tvg-name="果洛综合" tvg-logo="https://epg.112114.eu.org/logo/果洛综合.png" group-title="青海",果洛综合
+http://139.170.104.58:8000/rtp/239.120.1.92:8218
 #EXTINF:-1 tvg-name="囊谦综合" tvg-logo="https://epg.112114.eu.org/logo/囊谦综合.png" group-title="青海",囊谦综合
 http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
 #EXTINF:-1 tvg-name="大通综合" tvg-logo="https://epg.112114.eu.org/logo/大通综合.png" group-title="青海",大通综合
@@ -11327,6 +11461,14 @@ http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 http://livecdn.dmqhyadmin.com/hls/xjhuzhu.m3u8
 #EXTINF:-1 tvg-name="民和综合" tvg-logo="https://epg.112114.eu.org/logo/民和综合.png" group-title="青海",民和综合
 http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+#EXTINF:-1 tvg-name="海东综合" tvg-logo="https://epg.112114.eu.org/logo/海东综合.png" group-title="青海",海东综合
+http://139.170.104.58:8000/rtp/239.120.2.198:5141
+#EXTINF:-1 tvg-name="海北综合" tvg-logo="https://epg.112114.eu.org/logo/海北综合.png" group-title="青海",海北综合
+http://139.170.104.58:8000/rtp/239.120.2.234:5141
+#EXTINF:-1 tvg-name="黄南综合" tvg-logo="https://epg.112114.eu.org/logo/黄南综合.png" group-title="青海",黄南综合
+http://139.170.104.58:8000/rtp/239.120.1.100:9128
+#EXTINF:-1 tvg-name="矿区生活" tvg-logo="https://epg.112114.eu.org/logo/矿区生活.png" group-title="青海",矿区生活
+http://139.170.104.58:8000/rtp/239.120.1.145:8420
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://epg.112114.eu.org/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://113.140.86.162:8009/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://epg.112114.eu.org/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
