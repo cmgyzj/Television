@@ -476,7 +476,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 央视台球,http://www.akw323.com:9527/udp/238.255.2.224:5999
 央视台球,http://www.furymax.top:85/rtp/239.69.1.98:10224
 央视台球,http://www.tico2.eu.org:4022/rtp/239.69.1.98:10224
-央视台球,http://xeace.cn:8888/udp/239.93.0.218:5140
+央视台球,http://xeace.cn:8888/udp/239.93.0.218:5140$四川电信
 央视台球,http://101.229.186.82:4022/udp/239.45.0.44:5140$上海电信
 央视台球,http://58.37.133.132:8888/udp/239.45.0.44:5140$上海电信
 央视台球,http://116.25.243.4:18888/udp/239.253.43.11:5146$广东电信
@@ -9687,6 +9687,7 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+凤凰中文,http://xeace.cn:8888/udp/239.93.1.9:2192
 凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -9699,6 +9700,7 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
+凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
 凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/jydx.php?id=38
