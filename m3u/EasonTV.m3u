@@ -9560,9 +9560,9 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
-http://1.58.246.94:891/rtp/229.58.190.14:5000
+http://1.58.246.94:4001/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
-http://1.58.246.94:891/rtp/229.58.190.126:5000
+http://1.58.246.94:4001/rtp/229.58.190.126:5000
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
@@ -9572,7 +9572,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://epg.112114.eu.org/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
-http://1.58.246.94:891/rtp/229.58.190.116:5000
+http://1.58.246.94:4001/rtp/229.58.190.116:5000
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
@@ -9582,7 +9582,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://epg.112114.eu.org/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
-http://1.58.246.94:891/rtp/229.58.190.121:5000
+http://1.58.246.94:4001/rtp/229.58.190.121:5000
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
@@ -9590,9 +9590,9 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
-http://1.58.246.94:891/rtp/229.58.190.16:5000
+http://1.58.246.94:4001/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.eu.org/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
-http://1.58.246.94:891/rtp/229.58.190.122:5000
+http://1.58.246.94:4001/rtp/229.58.190.122:5000
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
@@ -9602,7 +9602,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://epg.112114.eu.org/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
-http://1.58.246.94:891/rtp/229.58.190.123:5000
+http://1.58.246.94:4001/rtp/229.58.190.123:5000
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
@@ -9610,9 +9610,9 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
-http://1.58.246.94:891/rtp/229.58.190.39:5000
+http://1.58.246.94:4001/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.eu.org/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
-http://1.58.246.94:891/rtp/229.58.190.124:5000
+http://1.58.246.94:4001/rtp/229.58.190.124:5000
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.112114.eu.org/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="https://epg.112114.eu.org/logo/哈尔滨生活.png" group-title="黑龙江",哈尔滨生活
@@ -9632,13 +9632,13 @@ http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="黑河新闻综合" tvg-logo="https://epg.112114.eu.org/logo/黑河新闻综合.png" group-title="黑龙江",黑河新闻综合
 https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
 #EXTINF:-1 tvg-name="齐齐哈尔新闻" tvg-logo="https://epg.112114.eu.org/logo/齐齐哈尔新闻.png" group-title="黑龙江",齐齐哈尔新闻
-http://1.58.246.94:891/rtp/229.58.190.164:5000
+http://1.58.246.94:4001/rtp/229.58.190.164:5000
 #EXTINF:-1 tvg-name="齐齐哈尔经济" tvg-logo="https://epg.112114.eu.org/logo/齐齐哈尔经济.png" group-title="黑龙江",齐齐哈尔经济
-http://1.58.246.94:891/rtp/229.58.190.192:5000
+http://1.58.246.94:4001/rtp/229.58.190.192:5000
 #EXTINF:-1 tvg-name="齐齐哈尔公共" tvg-logo="https://epg.112114.eu.org/logo/齐齐哈尔公共.png" group-title="黑龙江",齐齐哈尔公共
-http://1.58.246.94:891/rtp/229.58.190.4:5000
+http://1.58.246.94:4001/rtp/229.58.190.4:5000
 #EXTINF:-1 tvg-name="佳木斯新闻" tvg-logo="https://epg.112114.eu.org/logo/佳木斯新闻.png" group-title="黑龙江",佳木斯新闻
-http://1.58.246.94:891/rtp/229.58.190.163:5000
+http://1.58.246.94:4001/rtp/229.58.190.163:5000
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://epg.112114.eu.org/logo/湖北综合.png" group-title="湖北",湖北综合
 http://111.175.164.168:8888/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://epg.112114.eu.org/logo/湖北综合.png" group-title="湖北",湖北综合
@@ -10169,7 +10169,7 @@ http://124.230.56.109:55555/udp/239.76.248.14:1234
 http://124.230.56.109:55555/udp/239.76.248.18:1234
 #EXTINF:-1 tvg-name="娄底公共" tvg-logo="https://epg.112114.eu.org/logo/娄底公共.png" group-title="湖南",娄底公共
 http://124.230.56.109:55555/udp/239.76.248.19:1234
-#EXTINF:-1 tvg-name="娄底TV" tvg-logo="https://epg.112114.eu.org/logo/娄底TV.png" group-title="湖南",娄底TV
+#EXTINF:-1 tvg-name="娄底教育" tvg-logo="https://epg.112114.eu.org/logo/娄底教育.png" group-title="湖南",娄底教育
 http://124.230.56.109:55555/udp/239.76.248.20:1234
 #EXTINF:-1 tvg-name="湘南新闻" tvg-logo="https://epg.112114.eu.org/logo/湘南新闻.png" group-title="湖南",湘南新闻
 http://124.230.56.109:55555/udp/239.76.248.21:1234
@@ -10180,59 +10180,59 @@ http://124.230.56.109:55555/udp/239.76.248.57:1234
 #EXTINF:-1 tvg-name="怀化综合" tvg-logo="https://epg.112114.eu.org/logo/怀化综合.png" group-title="湖南",怀化综合
 http://124.230.56.109:55555/udp/239.76.255.12:9000
 #EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://epg.112114.eu.org/logo/吉林都市.png" group-title="吉林",吉林都市
-http://36.49.51.252:30007/rtp/239.37.1.2:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.1.2:5540
 #EXTINF:-1 tvg-name="吉林生活" tvg-logo="https://epg.112114.eu.org/logo/吉林生活.png" group-title="吉林",吉林生活
-http://36.49.51.252:30007/rtp/239.37.1.4:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.1.4:5540
 #EXTINF:-1 tvg-name="吉林影视" tvg-logo="https://epg.112114.eu.org/logo/吉林影视.png" group-title="吉林",吉林影视
-http://36.49.51.252:30007/rtp/239.37.1.3:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.1.3:5540
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://epg.112114.eu.org/logo/吉林乡村.png" group-title="吉林",吉林乡村
-http://36.49.51.252:30007/rtp/239.37.1.5:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.1.5:5540
 #EXTINF:-1 tvg-name="吉林公共新闻" tvg-logo="https://epg.112114.eu.org/logo/吉林公共新闻.png" group-title="吉林",吉林公共新闻
-http://36.49.51.252:30007/rtp/239.37.1.6:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.1.6:5540
 #EXTINF:-1 tvg-name="吉林综艺文化" tvg-logo="https://epg.112114.eu.org/logo/吉林综艺文化.png" group-title="吉林",吉林综艺文化
-http://36.49.51.252:30007/rtp/239.37.1.7:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.1.7:5540
 #EXTINF:-1 tvg-name="吉林篮球" tvg-logo="https://epg.112114.eu.org/logo/吉林篮球.png" group-title="吉林",吉林篮球
-http://36.49.51.252:30007/rtp/239.37.0.212:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.212:5540
 #EXTINF:-1 tvg-name="长影" tvg-logo="https://epg.112114.eu.org/logo/长影频道.png" group-title="吉林",长影频道
-http://36.49.51.252:30007/rtp/239.37.0.125:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540
 #EXTINF:-1 tvg-name="东北戏曲" tvg-logo="https://epg.112114.eu.org/logo/东北戏曲.png" group-title="吉林",东北戏曲
-http://36.49.51.252:30007/rtp/239.37.1.9:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.1.9:5540
 #EXTINF:-1 tvg-name="吉林教育" tvg-logo="https://epg.112114.eu.org/logo/吉林教育.png" group-title="吉林",吉林教育
-http://36.49.51.252:30007/rtp/239.37.0.126:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.126:5540
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://epg.112114.eu.org/logo/长春综合.png" group-title="吉林",长春综合
-http://36.49.51.252:30007/rtp/239.37.0.096:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.096:5540
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://epg.112114.eu.org/logo/长春综合.png" group-title="吉林",长春综合
 https://p2bj.vzan.com/slowlive/662567539514013385/live.m3u8
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://epg.112114.eu.org/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
-http://36.49.51.252:30007/rtp/239.37.0.097:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.097:5540
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://epg.112114.eu.org/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
 https://p2bj.vzan.com/slowlive/950305825453158091/live.m3u8
 #EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://epg.112114.eu.org/logo/长春市民生活.png" group-title="吉林",长春市民生活
-http://36.49.51.252:30007/rtp/239.37.0.098:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.098:5540
 #EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://epg.112114.eu.org/logo/长春市民生活.png" group-title="吉林",长春市民生活
 https://p2bj.vzan.com/slowlive/474639937465974818/live.m3u8
 #EXTINF:-1 tvg-name="长春经济" tvg-logo="https://epg.112114.eu.org/logo/长春经济.png" group-title="吉林",长春经济
-http://36.49.51.252:30007/rtp/239.37.0.099:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.099:5540
 #EXTINF:-1 tvg-name="长春经济" tvg-logo="https://epg.112114.eu.org/logo/长春经济.png" group-title="吉林",长春经济
 https://p2bj.vzan.com/slowlive/007128573075477410/live.m3u8
 #EXTINF:-1 tvg-name="长春汽车" tvg-logo="https://epg.112114.eu.org/logo/长春汽车.png" group-title="吉林",长春汽车
-http://36.49.51.252:30007/rtp/239.37.0.100:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.100:5540
 #EXTINF:-1 tvg-name="长春汽车" tvg-logo="https://epg.112114.eu.org/logo/长春汽车.png" group-title="吉林",长春汽车
 https://p2bj.vzan.com/slowlive/685794283924609147/live.m3u8
 #EXTINF:-1 tvg-name="延边朝鲜语综合" tvg-logo="https://epg.112114.eu.org/logo/延边朝鲜语综合.png" group-title="吉林",延边朝鲜语综合
-http://36.49.51.252:30007/rtp/239.37.0.248:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.248:5540
 #EXTINF:-1 tvg-name="延边朝鲜语综合" tvg-logo="https://epg.112114.eu.org/logo/延边朝鲜语综合.png" group-title="吉林",延边朝鲜语综合
 http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 #EXTINF:-1 tvg-name="延边朝鲜语综合" tvg-logo="https://epg.112114.eu.org/logo/延边朝鲜语综合.png" group-title="吉林",延边朝鲜语综合
 http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 #EXTINF:-1 tvg-name="延边汉语综合" tvg-logo="https://epg.112114.eu.org/logo/延边汉语综合.png" group-title="吉林",延边汉语综合
-http://36.49.51.252:30007/rtp/239.37.0.249:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.249:5540
 #EXTINF:-1 tvg-name="延边汉语综合" tvg-logo="https://epg.112114.eu.org/logo/延边汉语综合.png" group-title="吉林",延边汉语综合
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-name="延边汉语综合" tvg-logo="https://epg.112114.eu.org/logo/延边汉语综合.png" group-title="吉林",延边汉语综合
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 #EXTINF:-1 tvg-name="镇赉综合" tvg-logo="https://epg.112114.eu.org/logo/镇赉综合.png" group-title="吉林",镇赉综合
-http://36.49.51.252:30007/rtp/239.37.0.175:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.175:5540
 #EXTINF:-1 tvg-name="长白山电视台" tvg-logo="https://epg.112114.eu.org/logo/长白山电视台.png" group-title="吉林",长白山电视台
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8
 #EXTINF:-1 tvg-name="榆树综合" tvg-logo="https://epg.112114.eu.org/logo/榆树综合频道.png" group-title="吉林",榆树综合频道
@@ -10240,113 +10240,113 @@ http://stream11.jlntv.cn/yushuds/sd/live.m3u8
 #EXTINF:-1 tvg-name="永吉综合" tvg-logo="https://epg.112114.eu.org/logo/永吉综合频道.png" group-title="吉林",永吉综合频道
 http://stream10.jlntv.cn/yongji/sd/live.m3u8
 #EXTINF:-1 tvg-name="伊通一套" tvg-logo="https://epg.112114.eu.org/logo/伊通一套.png" group-title="吉林",伊通一套
-http://36.49.51.252:30007/rtp/239.37.0.171:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.171:5540
 #EXTINF:-1 tvg-name="延吉一套" tvg-logo="https://epg.112114.eu.org/logo/延吉一套.png" group-title="吉林",延吉一套
-http://36.49.51.252:30007/rtp/239.37.0.167:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.167:5540
 #EXTINF:-1 tvg-name="图门1" tvg-logo="https://epg.112114.eu.org/logo/图门1.png" group-title="吉林",图门1
-http://36.49.51.252:30007/rtp/239.37.0.166:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.166:5540
 #EXTINF:-1 tvg-name="通化新闻" tvg-logo="https://epg.112114.eu.org/logo/通化新闻.png" group-title="吉林",通化新闻
-http://36.49.51.252:30007/rtp/239.37.0.132:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.132:5540
 #EXTINF:-1 tvg-name="通化科教" tvg-logo="https://epg.112114.eu.org/logo/通化科教.png" group-title="吉林",通化科教
-http://36.49.51.252:30007/rtp/239.37.0.133:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.133:5540
 #EXTINF:-1 tvg-name="通化公共" tvg-logo="https://epg.112114.eu.org/logo/通化公共.png" group-title="吉林",通化公共
-http://36.49.51.252:30007/rtp/239.37.0.134:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.134:5540
 #EXTINF:-1 tvg-name="松原公共" tvg-logo="https://epg.112114.eu.org/logo/松原公共.png" group-title="吉林",松原公共
-http://36.49.51.252:30007/rtp/239.37.0.247:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.247:5540
 #EXTINF:-1 tvg-name="松原" tvg-logo="https://epg.112114.eu.org/logo/松原.png" group-title="吉林",松原
-http://36.49.51.252:30007/rtp/239.37.0.246:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.246:5540
 #EXTINF:-1 tvg-name="四平-1" tvg-logo="https://epg.112114.eu.org/logo/四平-1.png" group-title="吉林",四平-1
-http://36.49.51.252:30007/rtp/239.37.0.130:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.130:5540
 #EXTINF:-1 tvg-name="四平-2" tvg-logo="https://epg.112114.eu.org/logo/四平-2.png" group-title="吉林",四平-2
-http://36.49.51.252:30007/rtp/239.37.0.131:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.131:5540
 #EXTINF:-1 tvg-name="双阳综合" tvg-logo="https://epg.112114.eu.org/logo/双阳综合.png" group-title="吉林",双阳综合
 http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
 #EXTINF:-1 tvg-name="双辽融媒" tvg-logo="https://epg.112114.eu.org/logo/双辽融媒.png" group-title="吉林",双辽融媒
 http://stream5.jlntv.cn/sl/sd/live.m3u8
 #EXTINF:-1 tvg-name="双辽融媒" tvg-logo="https://epg.112114.eu.org/logo/双辽融媒.png" group-title="吉林",双辽融媒
-http://36.49.51.252:30007/rtp/239.37.0.169:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.169:5540
 #EXTINF:-1 tvg-name="舒兰综合" tvg-logo="https://epg.112114.eu.org/logo/舒兰综合频道.png" group-title="吉林",舒兰综合频道
 http://stream8.jlntv.cn/shulan/sd/live.m3u8
 #EXTINF:-1 tvg-name="舒兰综合" tvg-logo="https://epg.112114.eu.org/logo/舒兰综合频道.png" group-title="吉林",舒兰综合频道
-http://36.49.51.252:30007/rtp/239.37.0.217:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.217:5540
 #EXTINF:-1 tvg-name="乾安综合" tvg-logo="https://epg.112114.eu.org/logo/乾安综合.png" group-title="吉林",乾安综合
-http://36.49.51.252:30007/rtp/239.37.0.181:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.181:5540
 #EXTINF:-1 tvg-name="磐石综合" tvg-logo="https://epg.112114.eu.org/logo/磐石综合.png" group-title="吉林",磐石综合
 http://stream5.jlntv.cn/ps/sd/live.m3u8
 #EXTINF:-1 tvg-name="磐石综合" tvg-logo="https://epg.112114.eu.org/logo/磐石综合.png" group-title="吉林",磐石综合
-http://36.49.51.252:30007/rtp/239.37.0.164:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.164:5540
 #EXTINF:-1 tvg-name="农安综合" tvg-logo="https://epg.112114.eu.org/logo/农安综合.png" group-title="吉林",农安综合
-http://36.49.51.252:30007/rtp/239.37.0.144:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.144:5540
 #EXTINF:-1 tvg-name="美丽东丰" tvg-logo="https://epg.112114.eu.org/logo/美丽东丰.png" group-title="吉林",美丽东丰
 http://stream5.jlntv.cn/df/sd/live.m3u8
 #EXTINF:-1 tvg-name="梅河口" tvg-logo="https://epg.112114.eu.org/logo/梅河口.png" group-title="吉林",梅河口
-http://36.49.51.252:30007/rtp/239.37.0.173:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.173:5540
 #EXTINF:-1 tvg-name="龙井综合" tvg-logo="https://epg.112114.eu.org/logo/龙井综合.png" group-title="吉林",龙井综合
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8
 #EXTINF:-1 tvg-name="柳河综合" tvg-logo="https://epg.112114.eu.org/logo/柳河综合.png" group-title="吉林",柳河综合
 http://stream5.jlntv.cn/lh/sd/live.m3u8
 #EXTINF:-1 tvg-name="柳河综合" tvg-logo="https://epg.112114.eu.org/logo/柳河综合.png" group-title="吉林",柳河综合
-http://36.49.51.252:30007/rtp/239.37.0.172:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.172:5540
 #EXTINF:-1 tvg-name="临江综合" tvg-logo="https://epg.112114.eu.org/logo/临江综合.png" group-title="吉林",临江综合
-http://36.49.51.252:30007/rtp/239.37.0.220:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.220:5540
 #EXTINF:-1 tvg-name="辽源新闻综合" tvg-logo="https://epg.112114.eu.org/logo/辽源新闻综合.png" group-title="吉林",辽源新闻综合
-http://36.49.51.252:30007/rtp/239.37.0.250:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.250:5540
 #EXTINF:-1 tvg-name="辽源民生社会" tvg-logo="https://epg.112114.eu.org/logo/辽源民生社会.png" group-title="吉林",辽源民生社会
-http://36.49.51.252:30007/rtp/239.37.0.251:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.251:5540
 #EXTINF:-1 tvg-name="梨树新闻" tvg-logo="https://epg.112114.eu.org/logo/梨树新闻.png" group-title="吉林",梨树新闻
-http://36.49.51.252:30007/rtp/239.37.0.168:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.168:5540
 #EXTINF:-1 tvg-name="九台综合" tvg-logo="https://epg.112114.eu.org/logo/九台综合.png" group-title="吉林",九台综合
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 #EXTINF:-1 tvg-name="蛟河综合" tvg-logo="https://epg.112114.eu.org/logo/蛟河综合.png" group-title="吉林",蛟河综合
-http://36.49.51.252:30007/rtp/239.37.0.252:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.252:5540
 #EXTINF:-1 tvg-name="江源综合" tvg-logo="https://epg.112114.eu.org/logo/江源综合频道.png" group-title="吉林",江源综合频道
 http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
 #EXTINF:-1 tvg-name="集安综合" tvg-logo="https://epg.112114.eu.org/logo/集安综合.png" group-title="吉林",集安综合
-http://36.49.51.252:30007/rtp/239.37.0.145:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.145:5540
 #EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://epg.112114.eu.org/logo/吉林市新闻综合.png" group-title="吉林",吉林市新闻综合
 https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
 #EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://epg.112114.eu.org/logo/吉林市新闻综合.png" group-title="吉林",吉林市新闻综合
-http://36.49.51.252:30007/rtp/239.37.0.127:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.127:5540
 #EXTINF:-1 tvg-name="吉林市科教" tvg-logo="https://epg.112114.eu.org/logo/吉林市科教频道.png" group-title="吉林",吉林市科教频道
-http://36.49.51.252:30007/rtp/239.37.0.128:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540
 #EXTINF:-1 tvg-name="吉林市生活" tvg-logo="https://epg.112114.eu.org/logo/吉林市生活频道.png" group-title="吉林",吉林市生活频道
-http://36.49.51.252:30007/rtp/239.37.0.129:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540
 #EXTINF:-1 tvg-name="辉南新闻综合" tvg-logo="https://epg.112114.eu.org/logo/辉南新闻综合.png" group-title="吉林",辉南新闻综合
 http://stream5.jlntv.cn/hn/sd/live.m3u8
 #EXTINF:-1 tvg-name="桦甸综合" tvg-logo="https://epg.112114.eu.org/logo/桦甸综合频道.png" group-title="吉林",桦甸综合频道
 http://stream10.jlntv.cn/huadian/sd/live.m3u8
 #EXTINF:-1 tvg-name="桦甸综合" tvg-logo="https://epg.112114.eu.org/logo/桦甸综合频道.png" group-title="吉林",桦甸综合频道
-http://36.49.51.252:30007/rtp/239.37.0.225:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.225:5540
 #EXTINF:-1 tvg-name="公主岭综合" tvg-logo="https://epg.112114.eu.org/logo/公主岭综合.png" group-title="吉林",公主岭综合
 http://stream6.jlntv.cn/test6/sd/live.m3u8?_upt=7a088f131714325531
 #EXTINF:-1 tvg-name="公主岭综合" tvg-logo="https://epg.112114.eu.org/logo/公主岭综合.png" group-title="吉林",公主岭综合
-http://36.49.51.252:30007/rtp/239.37.0.170:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.170:5540
 #EXTINF:-1 tvg-name="扶余" tvg-logo="https://epg.112114.eu.org/logo/扶余.png" group-title="吉林",扶余
 http://stream6.jlntv.cn/fy/sd/live.m3u8?_upt=a3382e341714325843
 #EXTINF:-1 tvg-name="扶余" tvg-logo="https://epg.112114.eu.org/logo/扶余.png" group-title="吉林",扶余
-http://36.49.51.252:30007/rtp/239.37.0.180:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.180:5540
 #EXTINF:-1 tvg-name="敦化一套" tvg-logo="https://epg.112114.eu.org/logo/敦化一套.png" group-title="吉林",敦化一套
 http://stream8.jlntv.cn/dhtv/playlist.m3u8
 #EXTINF:-1 tvg-name="东辽综合" tvg-logo="https://epg.112114.eu.org/logo/东辽综合.png" group-title="吉林",东辽综合
 http://stream5.jlntv.cn/dl/sd/live.m3u8
 #EXTINF:-1 tvg-name="东丰综合" tvg-logo="https://epg.112114.eu.org/logo/东丰综合.png" group-title="吉林",东丰综合
-http://36.49.51.252:30007/rtp/239.37.0.179:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.179:5540
 #EXTINF:-1 tvg-name="德惠综合" tvg-logo="https://epg.112114.eu.org/logo/德惠综合.png" group-title="吉林",德惠综合
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 #EXTINF:-1 tvg-name="大安新闻综合" tvg-logo="https://epg.112114.eu.org/logo/大安新闻综合.png" group-title="吉林",大安新闻综合
-http://36.49.51.252:30007/rtp/239.37.0.177:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.177:5540
 #EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://epg.112114.eu.org/logo/朝阳新闻综合.png" group-title="吉林",朝阳新闻综合
-http://36.49.51.252:30007/rtp/239.37.0.174:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.174:5540
 #EXTINF:-1 tvg-name="白山新闻综合" tvg-logo="https://epg.112114.eu.org/logo/白山新闻综合.png" group-title="吉林",白山新闻综合
-http://36.49.51.252:30007/rtp/239.37.0.137:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.137:5540
 #EXTINF:-1 tvg-name="白山旅游生活" tvg-logo="https://epg.112114.eu.org/logo/白山旅游生活.png" group-title="吉林",白山旅游生活
 http://stream8.jlntv.cn/baishan2/playlist.m3u8
 #EXTINF:-1 tvg-name="白山旅游生活" tvg-logo="https://epg.112114.eu.org/logo/白山旅游生活.png" group-title="吉林",白山旅游生活
-http://36.49.51.252:30007/rtp/239.37.0.138:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.138:5540
 #EXTINF:-1 tvg-name="白城新闻综合" tvg-logo="https://epg.112114.eu.org/logo/白城新闻综合.png" group-title="吉林",白城新闻综合
-http://36.49.51.252:30007/rtp/239.37.0.135:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.135:5540
 #EXTINF:-1 tvg-name="白城公共" tvg-logo="https://epg.112114.eu.org/logo/白城公共.png" group-title="吉林",白城公共
-http://36.49.51.252:30007/rtp/239.37.0.136:5540
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.136:5540
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://epg.112114.eu.org/logo/江苏城市.png" group-title="江苏",江苏城市
 http://cdn.jdshipin.com:8880/jstv.php?id=jscs
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://epg.112114.eu.org/logo/江苏城市.png" group-title="江苏",江苏城市
