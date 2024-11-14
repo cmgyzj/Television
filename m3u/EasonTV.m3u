@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:5e01:24::03]:6610/000000001000/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视",CCTV-1
@@ -10705,6 +10705,10 @@ https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 https://live.wjyanghu.com:443/live/CH2.m3u8
 #EXTINF:-1 tvg-name="金坛综合" tvg-logo="https://epg.112114.eu.org/logo/金坛综合.png" group-title="江苏",金坛综合
 https://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+#EXTINF:-1 tvg-name="金坛综合" tvg-logo="https://epg.112114.eu.org/logo/金坛综合.png" group-title="江苏",金坛综合
+http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="金坛综合" tvg-logo="https://epg.112114.eu.org/logo/金坛综合.png" group-title="江苏",金坛综合
+http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 #EXTINF:-1 tvg-name="丹阳新闻综合" tvg-logo="https://epg.112114.eu.org/logo/丹阳新闻综合.png" group-title="江苏",丹阳新闻综合
 http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 #EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
@@ -10785,14 +10789,14 @@ http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻综合.png" group-title="江苏",宜兴新闻综合
 https://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
-#EXTINF:-1 tvg-name="扬州生活" tvg-logo="https://epg.112114.eu.org/logo/扬州生活频道.png" group-title="江苏",扬州生活频道
-http://cm.wshls.homecdn.com/live/8bf.m3u8
-#EXTINF:-1 tvg-name="扬州江都" tvg-logo="https://epg.112114.eu.org/logo/扬州江都频道.png" group-title="江苏",扬州江都频道
-http://cm.wshls.homecdn.com/live/8c1.m3u8
-#EXTINF:-1 tvg-name="扬州邗江" tvg-logo="https://epg.112114.eu.org/logo/扬州邗江频道.png" group-title="江苏",扬州邗江频道
-http://cm.wshls.homecdn.com/live/8c3.m3u8
-#EXTINF:-1 tvg-name="扬州城市" tvg-logo="https://epg.112114.eu.org/logo/扬州城市频道.png" group-title="江苏",扬州城市频道
+#EXTINF:-1 tvg-name="扬州城市" tvg-logo="https://epg.112114.eu.org/logo/扬州城市频道.png" group-title="江苏",扬州城市
 http://cm.wshls.homecdn.com/live/8bd.m3u8
+#EXTINF:-1 tvg-name="扬州生活" tvg-logo="https://epg.112114.eu.org/logo/扬州生活频道.png" group-title="江苏",扬州生活
+http://cm.wshls.homecdn.com/live/8bf.m3u8
+#EXTINF:-1 tvg-name="扬州江都" tvg-logo="https://epg.112114.eu.org/logo/扬州江都频道.png" group-title="江苏",扬州江都
+http://cm.wshls.homecdn.com/live/8c1.m3u8
+#EXTINF:-1 tvg-name="邗江综合" tvg-logo="https://epg.112114.eu.org/logo/扬州邗江频道.png" group-title="江苏",邗江综合
+http://cm.wshls.homecdn.com/live/8c3.m3u8
 #EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
 http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 #EXTINF:-1 tvg-name="徐州文艺影视" tvg-logo="https://epg.112114.eu.org/logo/徐州文艺影视.png" group-title="江苏",徐州文艺影视
@@ -10969,10 +10973,6 @@ http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-name="靖江新闻综合" tvg-logo="https://epg.112114.eu.org/logo/靖江新闻综合.png" group-title="江苏",靖江新闻综合
 http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 tvg-name="金坛新闻" tvg-logo="https://epg.112114.eu.org/logo/金坛新闻频道.png" group-title="江苏",金坛新闻频道
-http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="金坛新闻" tvg-logo="https://epg.112114.eu.org/logo/金坛新闻频道.png" group-title="江苏",金坛新闻频道
-http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 #EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.112114.eu.org/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.112114.eu.org/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合

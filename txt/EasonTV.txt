@@ -5391,6 +5391,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 武进生活,https://live.wjyanghu.com:443/live/CH2.m3u8
 金坛综合,https://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
+金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 丹阳新闻综合,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 泰州新闻综合,http://xiazaiji.f3322.org:8800/rtp/239.49.0.215:8000
 泰州新闻综合,http://sz.seala.top:4022/rtp/239.49.0.215:8000
@@ -5431,10 +5433,10 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
 宜兴新闻综合,https://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
-扬州生活频道,http://cm.wshls.homecdn.com/live/8bf.m3u8
-扬州江都频道,http://cm.wshls.homecdn.com/live/8c1.m3u8
-扬州邗江频道,http://cm.wshls.homecdn.com/live/8c3.m3u8
-扬州城市频道,http://cm.wshls.homecdn.com/live/8bd.m3u8
+扬州城市,http://cm.wshls.homecdn.com/live/8bd.m3u8
+扬州生活,http://cm.wshls.homecdn.com/live/8bf.m3u8
+扬州江都,http://cm.wshls.homecdn.com/live/8c1.m3u8
+邗江综合,http://cm.wshls.homecdn.com/live/8c3.m3u8
 徐州新闻综合,http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
@@ -5523,8 +5525,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
 靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 靖江新闻综合,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
-金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
-金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+
 金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
 金湖新闻综合,https://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
