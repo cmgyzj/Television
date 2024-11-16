@@ -948,13 +948,13 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.46:5140$上海电信
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
 http://58.37.133.132:8888/udp/239.45.0.46:5140$上海电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
-http://www.akw323.com:9527/udp/238.255.2.224:5999$贵州电信
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
 http://vpn.rogerxlj.top:9998/udp/239.45.0.44:5140$上海电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
-http://www.iwumei.cc:9527/udp/239.93.0.218:5140$四川电信
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
 http://58.37.133.132:8888/udp/239.45.0.44:5140$上海电信
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
+http://www.akw323.com:9527/udp/238.255.2.224:5999$贵州电信
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
+http://www.iwumei.cc:9527/udp/239.93.0.218:5140$四川电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
 http://221.205.92.72:8085/rtp/226.0.2.216:9640$山西联通
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
