@@ -558,15 +558,13 @@ http://58.37.133.132:8888/udp/239.45.0.21:5140
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.112114.eu.org/logo/CETV4.png" group-title="央视",CETV-4
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031126
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视",CETV早期教育
-http://vpn.rogerxlj.top:9998/udp/239.45.0.54:5140$上海电信1
+http://vpn.rogerxlj.top:9998/udp/239.45.0.54:5140$上海电信
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视",CETV早期教育
-http://58.37.133.132:8888/udp/239.45.0.54:5140$上海电信2
+http://58.37.133.132:8888/udp/239.45.0.54:5140$上海电信
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视",CETV早期教育
-http://125.90.252.146:4022/udp/239.77.0.180:5146$广东电信1
+http://183.189.205.115:8000/rtp/226.0.2.99:8704$山西联通
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视",CETV早期教育
-http://113.109.251.4:9999/udp/239.77.0.180:5146$广东电信2
-#EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视",CETV早期教育
-http://113.102.162.206:4022/udp/239.77.0.180:5146$广东电信3
+http://171.116.193.73:8085/rtp/226.0.2.99:8704$山西联通
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://[2409:8087:5e01:24::03]:6610/000000001000/1000000002000009569/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视",CGTN英语
@@ -867,31 +865,31 @@ http://www.zhantong.tech:8800/rtp/239.49.0.157:9250
 http://vpn.rogerxlj.top:9998/udp/239.45.0.49:5140$上海电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://58.37.133.132:8888/udp/239.45.0.49:5140$上海电信
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://sz.seala.top:4022/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://sz.seala.uk:4022/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://wx.puchengyu2009.top:9999/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://st.sportbabytoy.com:9999/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://dell.puchengyu2009.top:9999/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://chr.460513.xyz:8800/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://www.zhantong.tech:8800/rtp/239.49.0.154:9226
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://vpn.rogerxlj.top:9998/udp/239.45.1.72:5140$上海电信
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://58.37.133.132:8888/udp/239.45.1.72:5140$上海电信
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://vpn.rogerxlj.top:9998/udp/239.45.0.48:5140$上海电信
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="央视",央视高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://58.37.133.132:8888/udp/239.45.0.48:5140$上海电信
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视",文化精品
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.156:9242
@@ -2395,16 +2393,6 @@ http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000051/1.m3u8?chan
 http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="百视通体育直播-12" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-12
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000051/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000051&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="百视通体育直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-13
-http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-13
-http://[2409:8087:5e01:24::07]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-13
-http://[2409:8087:5e01:24::08]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-13
-http://[2409:8087:5e01:24::14]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-13" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-13
-http://[2409:8087:5e01:24::21]:6610/000000001000/2000000002000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百视通体育直播-14" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-14
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000001116/1.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百视通体育直播-14" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-14
@@ -2435,16 +2423,6 @@ http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000004876/1.m3u8?chan
 http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000004876/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百视通体育直播-16" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-16
 http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000004876/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-17
-http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-17
-http://[2409:8087:5e01:24::07]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-17
-http://[2409:8087:5e01:24::08]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-17
-http://[2409:8087:5e01:24::14]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通体育直播-17" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-17
-http://[2409:8087:5e01:24::21]:6610/000000001000/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百视通体育直播-18" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-18
 http://[2409:8087:5e01:24::03]:6610/000000001000/5000000001000006777/1.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百视通体育直播-18" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-18
