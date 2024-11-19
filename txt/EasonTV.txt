@@ -9915,6 +9915,12 @@ ELEVEN体育2台,rtmp://f13h.mine.nu/sat/tv741
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu:1935/sat/tv761
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
+大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
+大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?t
+大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
+大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?t
+大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
 安徽|宿松新闻综合,rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
 广西|博白综合,rtmp://live.gxrb.com.cn/hls/a22
 广西|容县电视,rtmp://live.gxrb.com.cn/gx/rongxian
