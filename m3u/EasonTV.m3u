@@ -1239,29 +1239,29 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?
 http://vpn.rogerxlj.top:9998/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.112114.eu.org/logo/上海外语.png" group-title="上海",上海外语
 http://58.37.133.132:8888/udp/239.45.1.127:5140
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物一台
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物一台
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物一台.png" group-title="上海",东方购物一台
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物一台
 https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物二台
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物二台
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000020/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000020&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物二台
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物二台.png" group-title="上海",东方购物二台
+#EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物二台
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物三台.png" group-title="上海",东方购物三台
+#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物三台
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000091/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000091&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物三台.png" group-title="上海",东方购物三台
+#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://epg.112114.eu.org/logo/东方购物.png" group-title="上海",东方购物三台
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000091/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000091&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.112114.eu.org/logo/上海教育.png" group-title="上海",上海教育
 http://[2409:8087:5e01:24::03]:6610/000000001000/2000000002000000107/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000107&IASHttpSessionId=OTT19019320240419154124000281
@@ -10595,17 +10595,17 @@ http://stream.thmz.com/wxtv5/sd/live.m3u8
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡移动电视" tvg-logo="https://epg.112114.eu.org/logo/无锡移动电视.png" group-title="江苏",无锡移动电视
 http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏",常州新闻综合
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏",常州新闻综合
 http://sz.seala.top:4022/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏",常州新闻综合
 http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏",常州新闻综合
 http://sz.seala.uk:4022/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏",常州新闻综合
 http://chr.460513.xyz:8800/rtp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/常州新闻.png" group-title="江苏",常州新闻综合
 http://www.zhantong.tech:8800/rtp/239.49.0.221:9594
 #EXTINF:-1 tvg-name="常州都市" tvg-logo="https://epg.112114.eu.org/logo/常州都市.png" group-title="江苏",常州都市
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.220:9590
