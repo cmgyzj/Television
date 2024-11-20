@@ -51,3 +51,16 @@ IP-23,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000008/1.m3u
 铁岭综合,http://120.76.248.139/live/bfgd/4200000281.m3u8
 营口新闻,http://120.76.248.139/live/bfgd/4200000278.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+
+测试,#genre#
+沭阳,rtmp://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh
+沭阳,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
+扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?zjiangsd
+扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?
+扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
+扬中新闻频道,rtmp://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh
+扬中党建民生,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?zjiangsd
+扬中党建民生,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?
+扬中党建民生,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8
+扬中党建民生,rtmp://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj
+
