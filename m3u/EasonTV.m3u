@@ -11524,8 +11524,6 @@ http://39.65.206.12:1026/udp/239.253.254.22:8000
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="山东",山东体育
 http://112.226.139.82:9999/udp/239.253.254.22:8000
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="山东",山东体育
-http://182.32.160.8:9997/udp/239.21.1.141:5002$山东电信
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="山东",山东体育
 http://39.88.44.216:3333/udp/239.253.254.22:8000
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="山东",山东体育
 http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
