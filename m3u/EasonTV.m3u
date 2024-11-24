@@ -19663,7 +19663,7 @@ rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="RTMP",台视
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-name="華视" tvg-logo="https://epg.112114.eu.org/logo/華视.png" group-title="RTMP",華视
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="RTMP",华视
 rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="RTMP",华视
 rtmp://f13h.mine.nu/sat/tv111
@@ -19679,6 +19679,12 @@ rtmp://f13h.mine.nu/sat/tv331
 rtmp://f13h.mine.nu:1935/sat/tv761
 #EXTINF:-1 tvg-name="MoMo综合" tvg-logo="https://epg.112114.eu.org/logo/MoMo综合.png" group-title="RTMP",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://epg.112114.eu.org/logo/崇明电视台.png" group-title="RTMP",崇明电视台
+rtmp://pili-publish.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://epg.112114.eu.org/logo/崇明电视台.png" group-title="RTMP",崇明电视台
+rtmp://pili-publish.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee
+#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="RTMP",嘉定电视台
+rtmp://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b
 #EXTINF:-1 tvg-name="大连新闻综合" tvg-logo="https://epg.112114.eu.org/logo/大连新闻综合.png" group-title="RTMP",大连新闻综合
 rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
 #EXTINF:-1 tvg-name="大连新闻综合" tvg-logo="https://epg.112114.eu.org/logo/大连新闻综合.png" group-title="RTMP",大连新闻综合
@@ -19691,42 +19697,98 @@ rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
 rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?t
 #EXTINF:-1 tvg-name="大连文体" tvg-logo="https://epg.112114.eu.org/logo/大连文体.png" group-title="RTMP",大连文体
 rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
+#EXTINF:-1 tvg-name="深圳龙岗" tvg-logo="https://epg.112114.eu.org/logo/深圳龙岗.png" group-title="RTMP",深圳龙岗
+rtmp://lglivepull.sznews.com/live/2647
+#EXTINF:-1 tvg-name="深圳众创TV" tvg-logo="https://epg.112114.eu.org/logo/深圳众创TV.png" group-title="RTMP",深圳众创TV
+rtmp://lglivepull.sznews.com/live/2645
+#EXTINF:-1 tvg-name="丹阳新闻综合" tvg-logo="https://epg.112114.eu.org/logo/丹阳新闻综合.png" group-title="RTMP",丹阳新闻综合
+rtmp://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv
+#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://epg.112114.eu.org/logo/镇江新闻综合.png" group-title="RTMP",镇江新闻综合
+rtmp://zjtv-wshls.homecdn.com/live/2aa50
+#EXTINF:-1 tvg-name="镇江公共" tvg-logo="https://epg.112114.eu.org/logo/镇江公共.png" group-title="RTMP",镇江公共
+rtmp://zjtv-wshls.homecdn.com/live/2aa16
+#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宜兴新闻综合.png" group-title="RTMP",宜兴新闻综合
+rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw
+#EXTINF:-1 tvg-name="宜兴紫砂" tvg-logo="https://epg.112114.eu.org/logo/宜兴紫砂.png" group-title="RTMP",宜兴紫砂
+rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
+#EXTINF:-1 tvg-name="宿豫综合" tvg-logo="https://epg.112114.eu.org/logo/宿豫综合.png" group-title="RTMP",宿豫综合
+rtmp://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd
+#EXTINF:-1 tvg-name="睢宁综合" tvg-logo="https://epg.112114.eu.org/logo/睢宁综合.png" group-title="RTMP",睢宁综合
+rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh
+#EXTINF:-1 tvg-name="睢宁资讯" tvg-logo="https://epg.112114.eu.org/logo/睢宁资讯.png" group-title="RTMP",睢宁资讯
+rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningys
+#EXTINF:-1 tvg-name="睢宁三农" tvg-logo="https://epg.112114.eu.org/logo/睢宁三农.png" group-title="RTMP",睢宁三农
+rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn
+#EXTINF:-1 tvg-name="睢宁生活教育" tvg-logo="https://epg.112114.eu.org/logo/睢宁生活教育.png" group-title="RTMP",睢宁生活教育
+rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh
+#EXTINF:-1 tvg-name="泗阳综合" tvg-logo="https://epg.112114.eu.org/logo/泗阳综合.png" group-title="RTMP",泗阳综合
+rtmp://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh
+#EXTINF:-1 tvg-name="泗阳资讯" tvg-logo="https://epg.112114.eu.org/logo/泗阳资讯.png" group-title="RTMP",泗阳资讯
+rtmp://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx
+#EXTINF:-1 tvg-name="如东综合" tvg-logo="https://epg.112114.eu.org/logo/如东综合.png" group-title="RTMP",如东综合
+rtmp://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh
+#EXTINF:-1 tvg-name="沭阳综合" tvg-logo="https://epg.112114.eu.org/logo/沭阳综合.png" group-title="RTMP",沭阳综合
+rtmp://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh
+#EXTINF:-1 tvg-name="沛县新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沛县新闻综合.png" group-title="RTMP",沛县新闻综合
+rtmp://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh
+#EXTINF:-1 tvg-name="锦湖新闻综合" tvg-logo="https://epg.112114.eu.org/logo/锦湖新闻综合.png" group-title="RTMP",锦湖新闻综合
+rtmp://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh
+#EXTINF:-1 tvg-name="姜堰综合" tvg-logo="https://epg.112114.eu.org/logo/姜堰综合.png" group-title="RTMP",姜堰综合
+rtmp://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh
+#EXTINF:-1 tvg-name="江宁综合" tvg-logo="https://epg.112114.eu.org/logo/江宁综合.png" group-title="RTMP",江宁综合
+rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
+#EXTINF:-1 tvg-name="高邮新闻综合" tvg-logo="https://epg.112114.eu.org/logo/高邮新闻综合.png" group-title="RTMP",高邮新闻综合
+rtmp://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw
+#EXTINF:-1 tvg-name="东台综合" tvg-logo="https://epg.112114.eu.org/logo/东台综合.png" group-title="RTMP",东台综合
+rtmp://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe
+#EXTINF:-1 tvg-name="大丰综合" tvg-logo="https://epg.112114.eu.org/logo/大丰综合.png" group-title="RTMP",大丰综合
+rtmp://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt
+#EXTINF:-1 tvg-name="大丰公共" tvg-logo="https://epg.112114.eu.org/logo/大丰公共.png" group-title="RTMP",大丰公共
+rtmp://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget
+#EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.112114.eu.org/logo/常熟民生经济.png" group-title="RTMP",常熟民生经济
+rtmp://cstvplay.21cs.cn/cstv2/cstv2
+#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://epg.112114.eu.org/logo/延安综合.png" group-title="RTMP",延安综合
+rtmp://live.cloud.yanews.cn/video/s10001-YATV-1
+#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://epg.112114.eu.org/logo/延安公共.png" group-title="RTMP",延安公共
+rtmp://live.cloud.yanews.cn/video/s10001-YATV-2
+#EXTINF:-1 tvg-name="晋中综合" tvg-logo="https://epg.112114.eu.org/logo/晋中综合.png" group-title="RTMP",晋中综合
+rtmp://jzlive.jztvnews.com:1940/live/jzzh
+#EXTINF:-1 tvg-name="晋中公共" tvg-logo="https://epg.112114.eu.org/logo/晋中公共.png" group-title="RTMP",晋中公共
+rtmp://jzlive.jztvnews.com:1940/live/jzgg
+#EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://epg.112114.eu.org/logo/铁岭新闻综合.png" group-title="RTMP",铁岭新闻综合
+rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=4851316755-0-0-b486a4484293605b3d71486762b44b0a
+#EXTINF:-1 tvg-name="廊坊新闻综合" tvg-logo="https://epg.112114.eu.org/logo/廊坊新闻综合.png" group-title="RTMP",廊坊新闻综合
+rtmp://222.222.126.18/live/lfxw
+#EXTINF:-1 tvg-name="廊坊公共频道" tvg-logo="https://epg.112114.eu.org/logo/廊坊公共频道.png" group-title="RTMP",廊坊公共频道
+rtmp://222.222.126.18/live/lfgg
+#EXTINF:-1 tvg-name="廊坊导视频道" tvg-logo="https://epg.112114.eu.org/logo/廊坊导视频道.png" group-title="RTMP",廊坊导视频道
+rtmp://222.222.126.18/live/lfds
+#EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://epg.112114.eu.org/logo/拉萨汉语综合.png" group-title="RTMP",拉萨汉语综合
+rtmp://tv.lasatv.cn/channellive/lszhpd
+#EXTINF:-1 tvg-name="拉萨藏语综合" tvg-logo="https://epg.112114.eu.org/logo/拉萨藏语综合.png" group-title="RTMP",拉萨藏语综合
+rtmp://tv.lasatv.cn/channellive/lszypd
+#EXTINF:-1 tvg-name="拉萨文旅频道" tvg-logo="https://epg.112114.eu.org/logo/拉萨文旅频道.png" group-title="RTMP",拉萨文旅频道
+rtmp://tv.lasatv.cn/channellive/lswlpd
 #EXTINF:-1 tvg-name="安徽|宿松新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宿松新闻综合.png" group-title="RTMP",安徽|宿松新闻综合
 rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
 #EXTINF:-1 tvg-name="广西|博白综合" tvg-logo="https://epg.112114.eu.org/logo/博白综合.png" group-title="RTMP",广西|博白综合
 rtmp://live.gxrb.com.cn/hls/a22
 #EXTINF:-1 tvg-name="广西|容县电视" tvg-logo="https://epg.112114.eu.org/logo/容县电视.png" group-title="RTMP",广西|容县电视
 rtmp://live.gxrb.com.cn/gx/rongxian
-#EXTINF:-1 tvg-name="甘肃|玉门综合" tvg-logo="https://epg.112114.eu.org/logo/玉门综合频道.png" group-title="RTMP",甘肃|玉门综合频道
+#EXTINF:-1 tvg-name="甘肃|玉门综合频道" tvg-logo="https://epg.112114.eu.org/logo/玉门综合频道.png" group-title="RTMP",甘肃|玉门综合频道
 rtmp://live.yumentv.cn:12345/live/room10
-#EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://epg.112114.eu.org/logo/铁岭新闻综合.png" group-title="RTMP",铁岭新闻综合
-rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=4851316755-0-0-b486a4484293605b3d71486762b44b0a
-#EXTINF:-1 tvg-name="廊坊新闻综合" tvg-logo="https://epg.112114.eu.org/logo/廊坊新闻综合.png" group-title="RTMP",廊坊新闻综合
-rtmp://222.222.126.18/live/lfxw
-#EXTINF:-1 tvg-name="廊坊公共" tvg-logo="https://epg.112114.eu.org/logo/廊坊公共频道.png" group-title="RTMP",廊坊公共频道
-rtmp://222.222.126.18/live/lfgg
-#EXTINF:-1 tvg-name="廊坊导视" tvg-logo="https://epg.112114.eu.org/logo/廊坊导视频道.png" group-title="RTMP",廊坊导视频道
-rtmp://222.222.126.18/live/lfds
 #EXTINF:-1 tvg-name="河南|安阳新闻综合" tvg-logo="https://epg.112114.eu.org/logo/安阳新闻综合.png" group-title="RTMP",河南|安阳新闻综合
 rtmp://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab
 #EXTINF:-1 tvg-name="四川|凉山新闻综合" tvg-logo="https://epg.112114.eu.org/logo/凉山新闻综合.png" group-title="RTMP",四川|凉山新闻综合
 rtmp://tv.drs.yizu.tv/channellive/ch1
-#EXTINF:-1 tvg-name="四川|凉山彝语" tvg-logo="https://epg.112114.eu.org/logo/凉山彝语频道.png" group-title="RTMP",四川|凉山彝语频道
+#EXTINF:-1 tvg-name="四川|凉山彝语频道" tvg-logo="https://epg.112114.eu.org/logo/凉山彝语频道.png" group-title="RTMP",四川|凉山彝语频道
 rtmp://tv.drs.yizu.tv/channellive/ch2
 #EXTINF:-1 tvg-name="四川|夹江新闻综合" tvg-logo="https://epg.112114.eu.org/logo/夹江新闻综合.png" group-title="RTMP",四川|夹江新闻综合
 rtmp://tv.jjrm.org.cn/channellive/ch1
-#EXTINF:-1 tvg-name="四川|沐川综合" tvg-logo="https://epg.112114.eu.org/logo/沐川综合频道.png" group-title="RTMP",四川|沐川综合频道
+#EXTINF:-1 tvg-name="四川|沐川综合频道" tvg-logo="https://epg.112114.eu.org/logo/沐川综合频道.png" group-title="RTMP",四川|沐川综合频道
 rtmp://tv.mcrm.org.cn:1935/channellive/tv01
-#EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://epg.112114.eu.org/logo/拉萨汉语综合.png" group-title="RTMP",拉萨汉语综合
-rtmp://tv.lasatv.cn/channellive/lszhpd
-#EXTINF:-1 tvg-name="拉萨藏语综合" tvg-logo="https://epg.112114.eu.org/logo/拉萨藏语综合.png" group-title="RTMP",拉萨藏语综合
-rtmp://tv.lasatv.cn/channellive/lszypd
-#EXTINF:-1 tvg-name="拉萨文旅" tvg-logo="https://epg.112114.eu.org/logo/拉萨文旅频道.png" group-title="RTMP",拉萨文旅频道
-rtmp://tv.lasatv.cn/channellive/lswlpd
-#EXTINF:-1 tvg-name="深圳龙岗" tvg-logo="https://epg.112114.eu.org/logo/深圳龙岗.png" group-title="RTMP",深圳龙岗
-rtmp://lglivepull.sznews.com/live/2647
-#EXTINF:-1 tvg-name="深圳众创TV" tvg-logo="https://epg.112114.eu.org/logo/深圳众创TV.png" group-title="RTMP",深圳众创TV
-rtmp://lglivepull.sznews.com/live/2645
+#EXTINF:-1 tvg-name="四川|长宁综合" tvg-logo="https://epg.112114.eu.org/logo/长宁综合.png" group-title="RTMP",四川|长宁综合
+rtmp://cnpull.sccnfb.com/live/123456
 #EXTINF:-1 tvg-name="Astro Arena" tvg-logo="https://epg.112114.eu.org/logo/Astro Arena.png" group-title="晴天体育",Astro Arena
 P2p://generationnexxxt.com:19806/0bcdb6af8ec84dbabe58277e6a276219
 #EXTINF:-1 tvg-name="Astro Arena 2" tvg-logo="https://epg.112114.eu.org/logo/Astro Arena 2.png" group-title="晴天体育",Astro Arena 2
