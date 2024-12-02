@@ -3438,6 +3438,8 @@ http://www.iwumei.cc:9527/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://nas.hssvm.com:8888/udp/225.1.1.214:5002
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://eastscreen.tv/ooooo.php?id=chchd
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
@@ -3452,6 +3454,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://nas.hssvm.com:8888/udp/225.1.1.213:5002
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://eastscreen.tv/ooooo.php?id=chcjt
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
@@ -3465,6 +3469,8 @@ http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://nas.hssvm.com:8888/udp/225.1.1.215:5002
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://eastscreen.tv/ooooo.php?id=chcdz
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
@@ -12102,61 +12108,61 @@ http://30814.hlsplay.aodianyun.com/tv_radio_30814/tv_channel_1839.flv
 #EXTINF:-1 tvg-name="巴中巴州电视" tvg-logo="https://epg.112114.eu.org/logo/巴中巴州电视.png" group-title="四川",巴中巴州电视
 http://30814.hlsplay.aodianyun.com/tv_radio_30814/tv_channel_1839.m3u8
 #EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://epg.112114.eu.org/logo/天津新闻.png" group-title="天津",天津新闻
-http://111.167.64.129:4022/udp/225.1.1.130:5002
+http://nas.hssvm.com:8888/udp/225.1.1.130:5002
 #EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://epg.112114.eu.org/logo/天津新闻.png" group-title="天津",天津新闻
 http://117.9.30.96:8686/udp/225.1.1.130:5002
 #EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://epg.112114.eu.org/logo/天津文艺.png" group-title="天津",天津文艺
-http://111.167.64.129:4022/udp/225.1.1.131:5002
+http://nas.hssvm.com:8888/udp/225.1.1.131:5002
 #EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://epg.112114.eu.org/logo/天津文艺.png" group-title="天津",天津文艺
 http://117.9.30.96:8686/udp/225.1.1.131:5002
 #EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://epg.112114.eu.org/logo/天津文艺.png" group-title="天津",天津文艺
-http://111.167.64.129:4022/udp/225.1.1.3:5002
+http://nas.hssvm.com:8888/udp/225.1.1.3:5002
 #EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://epg.112114.eu.org/logo/天津文艺.png" group-title="天津",天津文艺
 http://117.9.30.96:8686/udp/225.1.1.3:5002
 #EXTINF:-1 tvg-name="天津影视" tvg-logo="https://epg.112114.eu.org/logo/天津影视.png" group-title="天津",天津影视
-http://111.167.64.129:4022/udp/225.1.1.149:5002
+http://nas.hssvm.com:8888/udp/225.1.1.149:5002
 #EXTINF:-1 tvg-name="天津影视" tvg-logo="https://epg.112114.eu.org/logo/天津影视.png" group-title="天津",天津影视
 http://117.9.30.96:8686/udp/225.1.1.149:5002
 #EXTINF:-1 tvg-name="天津影视" tvg-logo="https://epg.112114.eu.org/logo/天津影视.png" group-title="天津",天津影视
-http://111.167.64.129:4022/udp/225.1.1.4:5002
+http://nas.hssvm.com:8888/udp/225.1.1.4:5002
 #EXTINF:-1 tvg-name="天津影视" tvg-logo="https://epg.112114.eu.org/logo/天津影视.png" group-title="天津",天津影视
 http://117.9.30.96:8686/udp/225.1.1.4:5002
 #EXTINF:-1 tvg-name="天津都市" tvg-logo="https://epg.112114.eu.org/logo/天津都市.png" group-title="天津",天津都市
-http://111.167.64.129:4022/udp/225.1.1.128:5002
+http://nas.hssvm.com:8888/udp/225.1.1.128:5002
 #EXTINF:-1 tvg-name="天津都市" tvg-logo="https://epg.112114.eu.org/logo/天津都市.png" group-title="天津",天津都市
 http://117.9.30.96:8686/udp/225.1.1.128:5002
 #EXTINF:-1 tvg-name="天津都市" tvg-logo="https://epg.112114.eu.org/logo/天津都市.png" group-title="天津",天津都市
-http://111.167.64.129:4022/udp/225.1.1.5:5002
+http://nas.hssvm.com:8888/udp/225.1.1.5:5002
 #EXTINF:-1 tvg-name="天津都市" tvg-logo="https://epg.112114.eu.org/logo/天津都市.png" group-title="天津",天津都市
 http://117.9.30.96:8686/udp/225.1.1.5:5002
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://epg.112114.eu.org/logo/天津体育.png" group-title="天津",天津体育
-http://111.167.64.129:4022/udp/225.1.1.6:5002
+http://nas.hssvm.com:8888/udp/225.1.1.6:5002
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://epg.112114.eu.org/logo/天津体育.png" group-title="天津",天津体育
 http://117.9.30.96:8686/udp/225.1.1.6:5002
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://epg.112114.eu.org/logo/天津体育.png" group-title="天津",天津体育
-http://111.167.64.129:4022/udp/225.1.1.122:5002
+http://nas.hssvm.com:8888/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://epg.112114.eu.org/logo/天津体育.png" group-title="天津",天津体育
 http://117.9.30.96:8686/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-name="天津教育" tvg-logo="https://epg.112114.eu.org/logo/天津教育.png" group-title="天津",天津教育
-http://111.167.64.129:4022/udp/225.1.1.129:5002
+http://nas.hssvm.com:8888/udp/225.1.1.129:5002
 #EXTINF:-1 tvg-name="天津教育" tvg-logo="https://epg.112114.eu.org/logo/天津教育.png" group-title="天津",天津教育
 http://117.9.30.96:8686/udp/225.1.1.129:5002
 #EXTINF:-1 tvg-name="天津教育" tvg-logo="https://epg.112114.eu.org/logo/天津教育.png" group-title="天津",天津教育
-http://111.167.64.129:4022/udp/225.1.1.7:5002
+http://nas.hssvm.com:8888/udp/225.1.1.7:5002
 #EXTINF:-1 tvg-name="天津教育" tvg-logo="https://epg.112114.eu.org/logo/天津教育.png" group-title="天津",天津教育
 http://117.9.30.96:8686/udp/225.1.1.7:5002
 #EXTINF:-1 tvg-name="宝坻一套" tvg-logo="https://epg.112114.eu.org/logo/宝坻一套.png" group-title="天津",宝坻一套
-http://111.167.64.129:4022/udp/225.1.1.83:5002
+http://nas.hssvm.com:8888/udp/225.1.1.83:5002
 #EXTINF:-1 tvg-name="宝坻一套" tvg-logo="https://epg.112114.eu.org/logo/宝坻一套.png" group-title="天津",宝坻一套
 http://117.9.30.96:8686/udp/225.1.1.83:5002
 #EXTINF:-1 tvg-name="滨海新闻" tvg-logo="https://epg.112114.eu.org/logo/滨海新闻.png" group-title="天津",滨海新闻
-http://111.167.64.129:4022/udp/225.1.2.7:5002
+http://nas.hssvm.com:8888/udp/225.1.2.7:5002
 #EXTINF:-1 tvg-name="滨海新闻" tvg-logo="https://epg.112114.eu.org/logo/滨海新闻.png" group-title="天津",滨海新闻
 http://117.9.30.96:8686/udp/225.1.2.7:5002
 #EXTINF:-1 tvg-name="滨海综艺" tvg-logo="https://epg.112114.eu.org/logo/滨海综艺.png" group-title="天津",滨海综艺
 http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
 #EXTINF:-1 tvg-name="滨海综艺" tvg-logo="https://epg.112114.eu.org/logo/滨海综艺.png" group-title="天津",滨海综艺
-http://111.167.64.129:4022/udp/225.1.2.8:5002
+http://nas.hssvm.com:8888/udp/225.1.2.8:5002
 #EXTINF:-1 tvg-name="滨海综艺" tvg-logo="https://epg.112114.eu.org/logo/滨海综艺.png" group-title="天津",滨海综艺
 http://117.9.30.96:8686/udp/225.1.2.8:5002
 #EXTINF:-1 tvg-name="津南一套" tvg-logo="https://epg.112114.eu.org/logo/津南一套.png" group-title="天津",津南一套
@@ -12165,6 +12171,22 @@ https://play.jinnantv.top/live/JNTV1.flv
 http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1 tvg-name="武清综合" tvg-logo="https://epg.112114.eu.org/logo/武清综合频道.png" group-title="天津",武清综合频道
 http://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
+#EXTINF:-1 tvg-name="蓟州电视台" tvg-logo="https://epg.112114.eu.org/logo/蓟州电视台.png" group-title="天津",蓟州电视台
+http://nas.hssvm.com:8888/udp/225.1.1.82:5002
+#EXTINF:-1 tvg-name="蓟州电视台" tvg-logo="https://epg.112114.eu.org/logo/蓟州电视台.png" group-title="天津",蓟州电视台
+http://117.9.30.96:8686/udp/225.1.1.82:5002
+#EXTINF:-1 tvg-name="静海电视台" tvg-logo="https://epg.112114.eu.org/logo/静海电视台.png" group-title="天津",静海电视台
+http://nas.hssvm.com:8888/udp/225.1.1.110:5002
+#EXTINF:-1 tvg-name="静海电视台" tvg-logo="https://epg.112114.eu.org/logo/静海电视台.png" group-title="天津",静海电视台
+http://117.9.30.96:8686/udp/225.1.1.110:5002
+#EXTINF:-1 tvg-name="河东电视台" tvg-logo="https://epg.112114.eu.org/logo/河东电视台.png" group-title="天津",河东电视台
+http://nas.hssvm.com:8888/udp/225.1.2.2:5002
+#EXTINF:-1 tvg-name="河东电视台" tvg-logo="https://epg.112114.eu.org/logo/河东电视台.png" group-title="天津",河东电视台
+http://117.9.30.96:8686/udp/225.1.2.2:5002
+#EXTINF:-1 tvg-name="河西电视台" tvg-logo="https://epg.112114.eu.org/logo/河西电视台.png" group-title="天津",河西电视台
+http://nas.hssvm.com:8888/udp/225.1.2.4:5002
+#EXTINF:-1 tvg-name="河西电视台" tvg-logo="https://epg.112114.eu.org/logo/河西电视台.png" group-title="天津",河西电视台
+http://117.9.30.96:8686/udp/225.1.2.4:5002
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://epg.112114.eu.org/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
 http://php.jdshipin.com:8880/xztv.php?id=ys
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://epg.112114.eu.org/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
