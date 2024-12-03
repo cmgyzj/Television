@@ -552,7 +552,7 @@ http://116.231.246.145:4022/udp/239.45.0.54:5140$上海电信
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视",CETV早期教育
 http://home.yulei.online:9999/rtp/226.0.2.99:8704$山西联通
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.112114.eu.org/logo/CETV早期教育.png" group-title="央视",CETV早期教育
-http://171.119.206.213:6001/rtp/226.0.2.99:8704$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.99:8704$山西联通
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://[2409:8087:5e01:24::03]:6610/000000001000/1000000002000009569/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视",CGTN英语
@@ -940,11 +940,11 @@ http://116.231.246.145:4022/udp/239.45.0.44:5140$上海电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
 http://www.akw323.com:9527/udp/238.255.2.224:5999$贵州电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
-http://www.iwumei.cc:9527/udp/239.93.0.218:5140$四川电信
+http://xeace.cn:8888/udp/239.93.0.218:5140$四川电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
 http://home.yulei.online:9999/rtp/226.0.2.216:9640$山西联通
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
-http://171.119.206.213:6001/rtp/226.0.2.216:9640$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.216:9640$山西联通
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
 http://xiazaiji.f3322.org:8800/rtp/239.49.0.160:9274
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
@@ -2172,7 +2172,7 @@ http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="麻辣体育" tvg-logo="https://epg.112114.eu.org/logo/麻辣体育.png" group-title="体育",麻辣体育
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.2:5140
 #EXTINF:-1 tvg-name="麻辣体育" tvg-logo="https://epg.112114.eu.org/logo/麻辣体育.png" group-title="体育",麻辣体育
-http://www.iwumei.cc:9527/udp/239.93.42.2:5140
+http://xeace.cn:8888/udp/239.93.42.2:5140
 #EXTINF:-1 tvg-name="百视通体育直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-1
 http://gongjin.x3322.net:8686/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-name="百视通体育直播-1" tvg-logo="https://epg.112114.eu.org/logo/BesTV.png" group-title="体育",百视通体育直播-1
@@ -3432,11 +3432,11 @@ http://183.130.30.174:8808/rtp/233.50.201.201:5140
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐",CHANNELV
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.7:2194
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐",CHANNELV
-http://www.iwumei.cc:9527/udp/239.93.1.7:2194
+http://xeace.cn:8888/udp/239.93.1.7:2194
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐",CHANNELV
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐",CHANNELV
-http://www.iwumei.cc:9527/udp/239.93.0.157:2194
+http://xeace.cn:8888/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
@@ -3446,7 +3446,9 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://116.231.246.145:4022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+http://home.yulei.online:9999/rtp/226.0.2.93:8004
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
@@ -3460,7 +3462,9 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://116.231.246.145:4022/udp/239.45.0.40:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
+http://home.yulei.online:9999/rtp/226.0.2.240:9820
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
@@ -3474,7 +3478,9 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.41:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://116.231.246.145:4022/udp/239.45.0.41:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
+http://home.yulei.online:9999/rtp/226.0.2.94:8012
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
@@ -4832,7 +4838,7 @@ http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://epg.112114.eu.org/logo/新动漫.png" group-title="娱乐",新动漫
 http://home.yulei.online:9999/rtp/226.0.2.73:8496$山西联通
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://epg.112114.eu.org/logo/新动漫.png" group-title="娱乐",新动漫
-http://171.119.206.213:6001/rtp/226.0.2.73:8496$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.73:8496$山西联通
 #EXTINF:-1 tvg-name="星光影院" tvg-logo="https://epg.112114.eu.org/logo/星光影院.png" group-title="娱乐",星光影院
 http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
 #EXTINF:-1 tvg-name="炫动3D" tvg-logo="https://epg.112114.eu.org/logo/炫动3D.png" group-title="娱乐",炫动3D
@@ -4886,7 +4892,7 @@ http://[2409:8087:5e01:24::21]:6610/000000001000/8978605063318475207/1.m3u8?chan
 #EXTINF:-1 tvg-name="证券服务" tvg-logo="https://epg.112114.eu.org/logo/证券服务.png" group-title="娱乐",证券服务
 http://home.yulei.online:9999/rtp/226.0.2.71:8480$山西联通
 #EXTINF:-1 tvg-name="证券服务" tvg-logo="https://epg.112114.eu.org/logo/证券服务.png" group-title="娱乐",证券服务
-http://171.119.206.213:6001/rtp/226.0.2.71:8480$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.71:8480$山西联通
 #EXTINF:-1 tvg-name="直播中国" tvg-logo="https://epg.112114.eu.org/logo/直播中国.png" group-title="娱乐",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.112114.eu.org/logo/中国天气.png" group-title="娱乐",中国天气
@@ -5594,23 +5600,23 @@ http://222.129.139.91:8888/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://epg.112114.eu.org/logo/优优宝贝.png" group-title="北京",优优宝贝
 http://home.yulei.online:9999/rtp/226.0.2.119:8864$山西联通
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://epg.112114.eu.org/logo/优优宝贝.png" group-title="北京",优优宝贝
-http://171.119.206.213:6001/rtp/226.0.2.119:8864$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.119:8864$山西联通
 #EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://epg.112114.eu.org/logo/车迷频道.png" group-title="北京",车迷频道
 http://www.cdnstv.com:6398/hls/1177/index.m3u8
 #EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://epg.112114.eu.org/logo/车迷频道.png" group-title="北京",车迷频道
 http://home.yulei.online:9999/rtp/226.0.2.138:9016$山西联通
 #EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://epg.112114.eu.org/logo/车迷频道.png" group-title="北京",车迷频道
-http://171.119.206.213:6001/rtp/226.0.2.138:9016$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.138:9016$山西联通
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://epg.112114.eu.org/logo/中华特产.png" group-title="北京",中华特产
 http://www.cdnstv.com:6398/hls/1191/index.m3u8
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://epg.112114.eu.org/logo/中华特产.png" group-title="北京",中华特产
 http://home.yulei.online:9999/rtp/226.0.2.128:8936$山西联通
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://epg.112114.eu.org/logo/中华特产.png" group-title="北京",中华特产
-http://171.119.206.213:6001/rtp/226.0.2.128:8936$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.128:8936$山西联通
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://epg.112114.eu.org/logo/四海钓鱼.png" group-title="北京",四海钓鱼
 http://home.yulei.online:9999/rtp/226.0.2.123:8896$山西联通
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://epg.112114.eu.org/logo/四海钓鱼.png" group-title="北京",四海钓鱼
-http://171.119.206.213:6001/rtp/226.0.2.123:8896$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.123:8896$山西联通
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://epg.112114.eu.org/logo/环球旅游.png" group-title="北京",环球旅游
 http://www.cdnstv.com:6398/hls/1190/index.m3u8
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://epg.112114.eu.org/logo/环球旅游.png" group-title="北京",环球旅游
@@ -5622,7 +5628,7 @@ http://xuys.top:8888/udp/225.1.2.200:5002
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://epg.112114.eu.org/logo/生态环境.png" group-title="北京",生态环境
 http://home.yulei.online:9999/rtp/226.0.2.120:8872$山西联通
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://epg.112114.eu.org/logo/生态环境.png" group-title="北京",生态环境
-http://171.119.206.213:6001/rtp/226.0.2.120:8872$山西联通
+http://ds920.dsmynas.net:5555/rtp/226.0.2.120:8872$山西联通
 #EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆",重庆影视
 http://ly123.fun:10000/rtp/235.254.198.180:7980
 #EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆",重庆影视
@@ -7268,7 +7274,7 @@ http://php.jdshipin.com/cqyx.php?id=weiqi
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://epg.112114.eu.org/logo/天元围棋.png" group-title="贵州",天元围棋
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://epg.112114.eu.org/logo/天元围棋.png" group-title="贵州",天元围棋
-http://www.iwumei.cc:9527/udp/239.93.42.55:5140
+http://xeace.cn:8888/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="贵阳一套" tvg-logo="https://epg.112114.eu.org/logo/贵阳一套.png" group-title="贵州",贵阳一套
 http://www.akw323.com:9527/rtp/238.255.2.19:5999
 #EXTINF:-1 tvg-name="贵阳二套" tvg-logo="https://epg.112114.eu.org/logo/贵阳二套.png" group-title="贵州",贵阳二套
@@ -8628,7 +8634,7 @@ http://123.55.116.156:8888/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南",河南梨园频道
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.195:5140
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南",河南梨园频道
-http://www.iwumei.cc:9527/udp/239.93.1.195:5140
+http://xeace.cn:8888/udp/239.93.1.195:5140
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南",河南梨园频道
 http://xuys.top:8888/udp/225.1.2.104:5002
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://epg.112114.eu.org/logo/河南梨园频道.png" group-title="河南",河南梨园频道
@@ -11686,9 +11692,9 @@ http://home.yulei.online:9999/rtp/226.0.2.12:8008
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西",黄河电视台
 http://home.yulei.online:9999/rtp/226.0.2.235:9792
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西",黄河电视台
-http://171.119.206.213:6001/rtp/226.0.2.12:8008
+http://ds920.dsmynas.net:5555/rtp/226.0.2.12:8008
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西",黄河电视台
-http://171.119.206.213:6001/rtp/226.0.2.235:9792
+http://ds920.dsmynas.net:5555/rtp/226.0.2.235:9792
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://epg.112114.eu.org/logo/黄河电视台.png" group-title="山西",黄河电视台
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西",山西经济与科技
@@ -11696,9 +11702,9 @@ http://home.yulei.online:9999/rtp/226.0.2.13:8016
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://home.yulei.online:9999/rtp/226.0.2.236:9800
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西",山西经济与科技
-http://171.119.206.213:6001/rtp/226.0.2.13:8016
+http://ds920.dsmynas.net:5555/rtp/226.0.2.13:8016
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西",山西经济与科技
-http://171.119.206.213:6001/rtp/226.0.2.236:9800
+http://ds920.dsmynas.net:5555/rtp/226.0.2.236:9800
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.112114.eu.org/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西",山西影视
@@ -11706,9 +11712,9 @@ http://home.yulei.online:9999/rtp/226.0.2.14:8024
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西",山西影视
 http://home.yulei.online:9999/rtp/226.0.2.237:9808
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西",山西影视
-http://171.119.206.213:6001/rtp/226.0.2.14:8024
+http://ds920.dsmynas.net:5555/rtp/226.0.2.14:8024
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西",山西影视
-http://171.119.206.213:6001/rtp/226.0.2.237:9808
+http://ds920.dsmynas.net:5555/rtp/226.0.2.237:9808
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.112114.eu.org/logo/山西影视.png" group-title="山西",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西",山西社会与法治
@@ -11716,15 +11722,15 @@ http://home.yulei.online:9999/rtp/226.0.2.15:8032
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://home.yulei.online:9999/rtp/226.0.2.238:9816
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西",山西社会与法治
-http://171.119.206.213:6001/rtp/226.0.2.15:8032
+http://ds920.dsmynas.net:5555/rtp/226.0.2.15:8032
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西",山西社会与法治
-http://171.119.206.213:6001/rtp/226.0.2.238:9816
+http://ds920.dsmynas.net:5555/rtp/226.0.2.238:9816
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.112114.eu.org/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://home.yulei.online:9999/rtp/226.0.2.16:8040
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西",山西文体生活
-http://171.119.206.213:6001/rtp/226.0.2.16:8040
+http://ds920.dsmynas.net:5555/rtp/226.0.2.16:8040
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.112114.eu.org/logo/山西文体生活.png" group-title="山西",山西文体生活
@@ -11806,61 +11812,61 @@ http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e66
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.112114.eu.org/logo/四川经济.png" group-title="四川",四川经济
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.101:5140
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.112114.eu.org/logo/四川经济.png" group-title="四川",四川经济
-http://www.iwumei.cc:9527/udp/239.93.1.101:5140
+http://xeace.cn:8888/udp/239.93.1.101:5140
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.112114.eu.org/logo/四川文化旅游.png" group-title="四川",四川文化旅游
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.102:5140
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.112114.eu.org/logo/四川文化旅游.png" group-title="四川",四川文化旅游
-http://www.iwumei.cc:9527/udp/239.93.1.102:5140
+http://xeace.cn:8888/udp/239.93.1.102:5140
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://epg.112114.eu.org/logo/四川新闻.png" group-title="四川",四川新闻
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://epg.112114.eu.org/logo/四川新闻.png" group-title="四川",四川新闻
-http://www.iwumei.cc:9527/udp/239.93.0.47:5140
+http://xeace.cn:8888/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://epg.112114.eu.org/logo/四川影视文艺.png" group-title="四川",四川影视文艺
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://epg.112114.eu.org/logo/四川影视文艺.png" group-title="四川",四川影视文艺
-http://www.iwumei.cc:9527/udp/239.93.0.166:5140
+http://xeace.cn:8888/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川",四川星空购物
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.144:5140
 #EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.112114.eu.org/logo/四川星空购物.png" group-title="四川",四川星空购物
-http://www.iwumei.cc:9527/udp/239.93.1.144:5140
+http://xeace.cn:8888/udp/239.93.1.144:5140
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://epg.112114.eu.org/logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://www.iwumei.cc:9527/udp/239.93.0.219:5140
+http://xeace.cn:8888/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.112114.eu.org/logo/四川科教.png" group-title="四川",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.112114.eu.org/logo/四川科教.png" group-title="四川",四川科教
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.44:5140
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.112114.eu.org/logo/四川科教.png" group-title="四川",四川科教
-http://www.iwumei.cc:9527/udp/239.93.42.44:5140
+http://xeace.cn:8888/udp/239.93.42.44:5140
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://epg.112114.eu.org/logo/四川乡村.png" group-title="四川",四川乡村
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://epg.112114.eu.org/logo/四川乡村.png" group-title="四川",四川乡村
-http://www.iwumei.cc:9527/udp/239.93.0.52:5140
+http://xeace.cn:8888/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.eu.org/logo/四川峨眉电影.png" group-title="四川",四川峨眉电影
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.eu.org/logo/四川峨眉电影.png" group-title="四川",四川峨眉电影
-http://www.iwumei.cc:9527/udp/239.93.1.18:5140
+http://xeace.cn:8888/udp/239.93.1.18:5140
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://epg.112114.eu.org/logo/成都新闻综合.png" group-title="四川",成都新闻综合
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://epg.112114.eu.org/logo/成都新闻综合.png" group-title="四川",成都新闻综合
-http://www.iwumei.cc:9527/udp/239.93.0.16:5140
+http://xeace.cn:8888/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-name="成都经济" tvg-logo="https://epg.112114.eu.org/logo/成都经济.png" group-title="四川",成都经济
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.17:1239
 #EXTINF:-1 tvg-name="成都经济" tvg-logo="https://epg.112114.eu.org/logo/成都经济.png" group-title="四川",成都经济
-http://www.iwumei.cc:9527/udp/239.93.0.17:1239
+http://xeace.cn:8888/udp/239.93.0.17:1239
 #EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://epg.112114.eu.org/logo/成都都市生活.png" group-title="四川",成都都市生活
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.18:1238
 #EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://epg.112114.eu.org/logo/成都都市生活.png" group-title="四川",成都都市生活
-http://www.iwumei.cc:9527/udp/239.93.0.18:1238
+http://xeace.cn:8888/udp/239.93.0.18:1238
 #EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://epg.112114.eu.org/logo/成都影视文艺.png" group-title="四川",成都影视文艺
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.19:1250
 #EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://epg.112114.eu.org/logo/成都影视文艺.png" group-title="四川",成都影视文艺
-http://www.iwumei.cc:9527/udp/239.93.0.19:1250
+http://xeace.cn:8888/udp/239.93.0.19:1250
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://epg.112114.eu.org/logo/成都公共.png" group-title="四川",成都公共
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.231:5140
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://epg.112114.eu.org/logo/成都公共.png" group-title="四川",成都公共
-http://www.iwumei.cc:9527/udp/239.93.1.231:5140
+http://xeace.cn:8888/udp/239.93.1.231:5140
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://epg.112114.eu.org/logo/成都公共.png" group-title="四川",成都公共
 http://112.54.91.252:8888/rtp/239.10.0.15:5140
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://epg.112114.eu.org/logo/成都公共.png" group-title="四川",成都公共
@@ -11868,11 +11874,11 @@ http://180.163.117.158:80/cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?ws
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://epg.112114.eu.org/logo/成都少儿.png" group-title="四川",成都少儿
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.21:1251
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://epg.112114.eu.org/logo/成都少儿.png" group-title="四川",成都少儿
-http://www.iwumei.cc:9527/udp/239.93.0.21:1251
+http://xeace.cn:8888/udp/239.93.0.21:1251
 #EXTINF:-1 tvg-name="成都每日电视购物" tvg-logo="https://epg.112114.eu.org/logo/成都每日电视购物.png" group-title="四川",成都每日电视购物
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-name="成都每日电视购物" tvg-logo="https://epg.112114.eu.org/logo/成都每日电视购物.png" group-title="四川",成都每日电视购物
-http://www.iwumei.cc:9527/udp/239.93.0.22:1252
+http://xeace.cn:8888/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://epg.112114.eu.org/logo/自贡综合频道.png" group-title="四川",自贡综合频道
 https://stream.zgm.cn:8088/zgm/6496c1e950aed.m3u8?hls_ctx=9vg06845
 #EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://epg.112114.eu.org/logo/自贡综合频道.png" group-title="四川",自贡综合频道
@@ -19494,9 +19500,9 @@ http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="港澳台",星空卫视
-http://www.iwumei.cc:9527/udp/239.93.0.156:2193
+http://xeace.cn:8888/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="港澳台",星空卫视
-http://www.iwumei.cc:9527/udp/239.93.1.10:2193
+http://xeace.cn:8888/udp/239.93.1.10:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.eu.org/logo/星空卫视.png" group-title="港澳台",星空卫视

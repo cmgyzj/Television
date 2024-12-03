@@ -92,7 +92,7 @@ http://112.226.139.82:9999/udp/239.253.254.22:8000
 #EXTINF:-1 ,山西联通-1
 http://home.yulei.online:9999/rtp/226.0.2.16:8040
 #EXTINF:-1 ,山西联通-2
-http://171.119.206.213:6001/rtp/226.0.2.16:8040
+http://ds920.dsmynas.net:5555/rtp/226.0.2.16:8040
 #EXTINF:-1 ,上海电信-1
 http://vpn.rogerxlj.top:9998/udp/239.45.3.210:5140
 #EXTINF:-1 ,上海电信-2
@@ -100,9 +100,9 @@ http://116.231.246.145:4022/udp/239.45.3.210:5140
 #EXTINF:-1 ,四川电信-1
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.231:5140
 #EXTINF:-1 ,四川电信-2
-http://www.iwumei.cc:9527/udp/239.93.1.231:5140
-#EXTINF:-1 ,四川电信-备用
 http://xeace.cn:8888/udp/239.93.1.231:5140
+#EXTINF:-1 ,四川电信-备用
+http://www.iwumei.cc:9527/udp/239.93.1.231:5140
 #EXTINF:-1 ,天津联通-1
 http://111.167.64.129:4022/udp/225.1.1.6:5002
 #EXTINF:-1 ,天津联通-2
