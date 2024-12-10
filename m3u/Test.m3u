@@ -83,8 +83,8 @@ http://113.140.86.162:8009/hls/24/index.m3u8
 http://120.192.226.35:8009/hls/24/index.m3u8
 #EXTINF:-1 ,陕西酒店电信-3
 http://112.46.85.60:8009/hls/24/index.m3u8
-#EXTINF:-1 ,山东酒店电信(无效)
-http://182.46.8.160:8018/hls/22/index.m3u8
+#EXTINF:-1 ,山东移动
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000373/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 ,山东电信-1
 http://113.120.46.250:8123/udp/239.21.1.58:5002
 #EXTINF:-1 ,山东电信-2
