@@ -331,6 +331,7 @@ CGTN纪录,http://[2409:8087:5e01:24::1a]:6610/000000001000/7114647837765104058/
 CGTN纪录,http://[2409:8087:5e01:24::1c]:6610/000000001000/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=3
 CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
+电视指南,http://www.tico2.eu.org:4022/rtp/239.69.1.87:10162
 电视指南,http://sz.seala.top:4022/rtp/239.49.8.84:8000
 电视指南,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.84:8000
 电视指南,http://sz.seala.uk:4022/rtp/239.49.8.84:8000
@@ -349,6 +350,8 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 电视指南,http://www.zhantong.tech:8800/rtp/239.49.0.161:9282
 电视指南,http://vpn.rogerxlj.top:9998/udp/239.45.1.73:5140$上海电信
 电视指南,http://218.78.183.200:8888/udp/239.45.1.73:5140$上海电信
+风云足球,http://www.tico2.eu.org:4022/rtp/239.69.1.81:10126
+风云足球,http://www.tico2.eu.org:4022/rtp/239.69.1.87:10162
 风云足球,http://sz.seala.top:4022/rtp/239.49.8.85:8000
 风云足球,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.85:8000
 风云足球,http://sz.seala.uk:4022/rtp/239.49.8.85:8000
@@ -369,6 +372,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 风云足球,http://218.78.183.200:8888/udp/239.45.0.43:5140$上海电信
 风云足球,http://vpn.rogerxlj.top:9998/udp/239.45.1.75:5140$上海电信
 风云足球,http://218.78.183.200:8888/udp/239.45.1.75:5140$上海电信
+女性时尚,http://www.tico2.eu.org:4022/rtp/239.69.1.86:10156
 女性时尚,http://sz.seala.top:4022/rtp/239.49.8.93:8000
 女性时尚,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.93:8000
 女性时尚,http://sz.seala.uk:4022/rtp/239.49.8.93:8000
@@ -393,6 +397,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 卫生健康,http://183.33.58.165:8686/udp/239.77.0.212:5146$广东电信
 卫生健康,http://14.19.168.64:4022/udp/239.77.0.212:5146$广东电信
 卫生健康,http://116.22.28.76:4022/udp/239.77.0.212:5146$广东电信
+第一剧场,http://www.tico2.eu.org:4022/rtp/239.69.1.74:10084
 第一剧场,http://sz.seala.top:4022/rtp/239.49.8.94:8000
 第一剧场,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.94:8000
 第一剧场,http://sz.seala.uk:4022/rtp/239.49.8.94:8000
@@ -428,6 +433,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 风云剧场,http://www.zhantong.tech:8800/rtp/239.49.0.152:9210
 风云剧场,http://vpn.rogerxlj.top:9998/udp/239.45.0.50:5140$上海电信
 风云剧场,http://218.78.183.200:8888/udp/239.45.0.50:5140$上海电信
+风云音乐,http://www.tico2.eu.org:4022/rtp/239.69.1.90:10180
 风云音乐,http://sz.seala.top:4022/rtp/239.49.8.92:8000
 风云音乐,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.92:8000
 风云音乐,http://sz.seala.uk:4022/rtp/239.49.8.92:8000
@@ -449,6 +455,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 风云音乐,http://www.zhantong.tech:8800/rtp/239.49.0.151:9202
 风云音乐,http://vpn.rogerxlj.top:9998/udp/239.45.0.52:5140$上海电信
 风云音乐,http://218.78.183.200:8888/udp/239.45.0.52:5140$上海电信
+怀旧剧场,http://www.tico2.eu.org:4022/rtp/239.69.1.89:10174
 怀旧剧场,http://xiazaiji.f3322.org:8800/rtp/239.49.8.91:8000
 怀旧剧场,http://sz.seala.top:4022/rtp/239.49.8.91:8000
 怀旧剧场,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.91:8000
@@ -472,6 +479,13 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 怀旧剧场,http://www.zhantong.tech:8800/rtp/239.49.0.157:9250
 怀旧剧场,http://vpn.rogerxlj.top:9998/udp/239.45.0.49:5140$上海电信
 怀旧剧场,http://218.78.183.200:8888/udp/239.45.0.49:5140$上海电信
+高尔夫网球,http://[2409:8087:74d1:22::04]:6610/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
+高尔夫网球,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
+高尔夫网球,http://[2409:8087:74d1:22::06]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
+高尔夫网球,http://[2409:8087:74d1:22::07]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
+高尔夫网球,http://[2409:8087:74d1:22::08]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
+高尔夫网球,http://[2409:8087:74d1:22::09]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
+高尔夫网球,http://www.tico2.eu.org:4022/rtp/239.69.1.83:10138
 高尔夫网球,http://sz.seala.top:4022/rtp/239.49.8.86:8000
 高尔夫网球,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.86:8000
 高尔夫网球,http://sz.seala.uk:4022/rtp/239.49.8.86:8000
@@ -512,6 +526,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 央视文化精品,http://218.78.183.200:8888/udp/239.45.0.53:5140$上海电信
 央视文化精品,http://vpn.rogerxlj.top:9998/udp/239.45.1.17:5140$上海电信
 央视文化精品,http://218.78.183.200:8888/udp/239.45.1.17:5140$上海电信
+世界地理,http://www.tico2.eu.org:4022/rtp/239.69.1.91:10186
 世界地理,http://sz.seala.top:4022/rtp/239.49.8.87:8000
 世界地理,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.87:8000
 世界地理,http://sz.seala.uk:4022/rtp/239.49.8.87:8000
@@ -533,6 +548,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 世界地理,http://www.zhantong.tech:8800/rtp/239.49.0.155:9234
 世界地理,http://vpn.rogerxlj.top:9998/udp/239.45.0.46:5140$上海电信
 世界地理,http://218.78.183.200:8888/udp/239.45.0.46:5140$上海电信
+央视台球,http://www.tico2.eu.org:4022/rtp/239.69.1.98:10224
 央视台球,http://sz.seala.top:4022/rtp/239.49.8.32:8000
 央视台球,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.32:8000
 央视台球,http://sz.seala.uk:4022/rtp/239.49.8.32:8000
@@ -542,6 +558,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 央视台球,http://www.zhantong.tech:8800/rtp/239.49.8.32:8000
 央视台球,http://vpn.rogerxlj.top:9998/udp/239.45.0.44:5140$上海电信
 央视台球,http://218.78.183.200:8888/udp/239.45.0.44:5140$上海电信
+兵器科技,http://www.tico2.eu.org:4022/rtp/239.69.1.79:10114
 兵器科技,http://sz.seala.top:4022/rtp/239.49.8.88:8000
 兵器科技,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.88:8000
 兵器科技,http://sz.seala.uk:4022/rtp/239.49.8.88:8000
@@ -562,6 +579,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 兵器科技,http://218.78.183.200:8888/udp/239.45.0.45:5140$上海电信
 兵器科技,http://vpn.rogerxlj.top:9998/udp/239.45.1.74:5140$上海电信
 兵器科技,http://218.78.183.200:8888/udp/239.45.1.74:5140$上海电信
+老故事,http://www.tico2.eu.org:4022/rtp/239.69.1.85:10150
 老故事,http://www.akw323.com:9527/rtp/238.255.2.35:5999$贵州电信
 老故事,http://121.19.134.10:4022/rtp/239.253.92.132:8068$河北联通
 老故事,http://121.29.91.210:7077/rtp/239.253.92.132:8068$河北联通
