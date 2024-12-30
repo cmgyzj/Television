@@ -7,7 +7,7 @@ CCTV-1,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000010000030810/1.m3
 CCTV-1,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=3
 CCTV-1,http://[2409:8087:5e01:24::1b]:6610/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 CCTV-1,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000501/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-1,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000501/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-1,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000501/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-1,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000501/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-1,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000501/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-1,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000501/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -27,7 +27,7 @@ CCTV-2,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000011000031101/1.m3
 CCTV-2,http://[2409:8087:5e01:24::1a]:6610/000000001000/5353323539453949720/1.m3u8?channel-id=ystenlive&Contentid=5353323539453949720&livemode=1&stbId=3
 CCTV-2,http://[2409:8087:5e01:24::1b]:6610/000000001000/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
 CCTV-2,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-2,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-2,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-2,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-2,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-2,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -47,7 +47,7 @@ CCTV-3,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000011000265003/1.m3
 CCTV-3,http://[2409:8087:5e01:24::1b]:6610/000000001000/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
 CCTV-3,http://[2409:8087:5e01:24::1c]:6610/000000001000/8378175926191110263/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=3
 CCTV-3,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-3,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-3,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-3,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-3,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-3,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -64,7 +64,7 @@ CCTV-4,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000011000031102/1.m3
 CCTV-4,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000011000265004/1.m3u8?channel-id=bestzb&Contentid=5000000011000265004&livemode=1&stbId=3
 CCTV-4,http://[2409:8087:5e01:24::1a]:6610/000000001000/8183388942203045169/1.m3u8?channel-id=ystenlive&Contentid=8183388942203045169&livemode=1&stbId=3
 CCTV-4,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-4,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-4,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-4,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-4,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-4,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -82,7 +82,7 @@ CCTV-5,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000010000016619/1.m3
 CCTV-5,http://[2409:8087:5e01:24::1b]:6610/000000001000/5000000011000265005/1.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=3
 CCTV-5,http://[2409:8087:5e01:24::1c]:6610/000000001000/6000000001000016431/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
 CCTV-5,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-5,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-5,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-5,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-5,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-5,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -101,7 +101,7 @@ CCTV-5+,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000011000031127/1.m
 CCTV-5+,http://[2409:8087:5e01:24::0d]:6610/000000001000/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
 CCTV-5+,http://[2409:8087:5e01:24::1a]:6610/000000001000/reallive-cctv5plus/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=3
 CCTV-5+,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-5+,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-5+,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-5+,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-5+,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-5+,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -122,7 +122,7 @@ CCTV-6,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000011000265006/1.m3
 CCTV-6,http://[2409:8087:5e01:24::1b]:6610/000000001000/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3
 CCTV-6,http://[2409:8087:5e01:24::1c]:6610/000000001000/6117099895556651277/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=3
 CCTV-6,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-6,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-6,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-6,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-6,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-6,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -141,7 +141,7 @@ CCTV-7,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000011000031104/1.m3
 CCTV-7,http://[2409:8087:5e01:24::1a]:6610/000000001000/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
 CCTV-7,http://[2409:8087:5e01:24::1b]:6610/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=3
 CCTV-7,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-7,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-7,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-7,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-7,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-7,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -159,7 +159,7 @@ CCTV-8,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000010000018377/1.m3
 CCTV-8,http://[2409:8087:5e01:24::1a]:6610/000000001000/6000000001000001070/1.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=3
 CCTV-8,http://[2409:8087:5e01:24::1b]:6610/000000001000/8871488051501921127/1.m3u8?channel-id=ystenlive&Contentid=8871488051501921127&livemode=1&stbId=3
 CCTV-8,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-8,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-8,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-8,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-8,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-8,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -176,7 +176,7 @@ CCTV-9,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000005000265009/1.m3
 CCTV-9,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000010000018384/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3
 CCTV-9,http://[2409:8087:5e01:24::0d]:6610/000000001000/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
 CCTV-9,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-9,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-9,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-9,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-9,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-9,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -194,7 +194,7 @@ CCTV-10,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000010000016738/1.m
 CCTV-10,http://[2409:8087:5e01:24::1a]:6610/000000001000/6000000001000031506/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=3
 CCTV-10,http://[2409:8087:5e01:24::1b]:6610/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=3
 CCTV-10,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-10,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-10,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-10,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-10,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-10,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -210,7 +210,7 @@ CCTV-11,http://[2409:8087:5e01:24::0b]:6610/000000001000/5000000006000040011/1.m
 CCTV-11,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
 CCTV-11,http://[2409:8087:5e01:24::0d]:6610/000000001000/6351457414282570521/1.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=3
 CCTV-11,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-11,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-11,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-11,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-11,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-11,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -228,7 +228,7 @@ CCTV-12,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000011000031107/1.m
 CCTV-12,http://[2409:8087:5e01:24::1a]:6610/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=3
 CCTV-12,http://[2409:8087:5e01:24::1b]:6610/000000001000/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
 CCTV-12,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-12,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-12,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-12,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-12,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-12,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -243,7 +243,7 @@ CCTV-13,http://[2409:8087:5e01:24::05]:6610/000000001000/5000000005000001827/1.m
 CCTV-13,http://[2409:8087:5e01:24::1b]:6610/000000001000/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 CCTV-13,http://[2409:8087:5e01:24::08]:6610/000000001000/6918130250570453526/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=3
 CCTV-13,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-13,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-13,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-13,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-13,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-13,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -261,7 +261,7 @@ CCTV-14,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000010000023358/1.m
 CCTV-14,http://[2409:8087:5e01:24::1a]:6610/000000001000/6000000001000013647/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3
 CCTV-14,http://[2409:8087:5e01:24::1b]:6610/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=3
 CCTV-14,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-14,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-14,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-14,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-14,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-14,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -277,7 +277,7 @@ CCTV-15,http://[2409:8087:5e01:24::0b]:6610/000000001000/4832596595465032187/1.m
 CCTV-15,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000005000018417/1.m3u8?channel-id=bestzb&Contentid=5000000005000018417&livemode=1&stbId=3
 CCTV-15,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV-15,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-15,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-15,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-15,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-15,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-15,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -293,7 +293,7 @@ CCTV-16,http://[2409:8087:5e01:24::0b]:6610/000000001000/2000000003000000059/1.m
 CCTV-16,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000008000023253/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
 CCTV-16,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV-16,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-16,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-16,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-16,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-16,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-16,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -309,7 +309,7 @@ CCTV-17,http://[2409:8087:5e01:24::0a]:6610/000000001000/1000000005000265015/1.m
 CCTV-17,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3
 CCTV-17,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000000038/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000038&livemode=1&stbId=3
 CCTV-17,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CCTV-17,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CCTV-17,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-17,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-17,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CCTV-17,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -327,7 +327,7 @@ CETV-1,http://[2409:8087:5e01:24::0a]:6610/000000001000/5000000002000002652/1.m3
 CETV-1,http://[2409:8087:5e01:24::0b]:6610/000000001000/6000000003000018981/1.m3u8?channel-id=wasusyt&Contentid=6000000003000018981&livemode=1&stbId=3
 CETV-1,http://[2409:8087:5e01:24::0c]:6610/000000001000/7106250793420582078/1.m3u8?channel-id=ystenlive&Contentid=7106250793420582078&livemode=1&stbId=3
 CETV-1,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000046/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CETV-1,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000046/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CETV-1,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000046/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-1,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000046/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-1,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000046/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-1,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000046/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -337,7 +337,7 @@ CETV-2,http://[2409:8087:5e01:24::05]:6610/000000001000/1000000005000266004/1.m3
 CETV-2,http://[2409:8087:5e01:24::0a]:6610/000000001000/2000000003000000047/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000047&livemode=1&stbId=3
 CETV-2,http://[2409:8087:5e01:24::0b]:6610/000000001000/5000000011000031201/1.m3u8?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=3
 CETV-2,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CETV-2,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CETV-2,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-2,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-2,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-2,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -349,7 +349,7 @@ CETV-4,http://[2409:8087:5e01:24::0a]:6610/000000001000/5000000006000012123/1.m3
 CETV-4,http://[2409:8087:5e01:24::0b]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 CETV-4,http://[2409:8087:5e01:24::0c]:6610/000000001000/6000000005000042312/1.m3u8?channel-id=wasusyt&Contentid=6000000005000042312&livemode=1&stbId=3
 CETV-4,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000072/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CETV-4,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000072/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CETV-4,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000072/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-4,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000072/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-4,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000072/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CETV-4,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000072/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -367,7 +367,7 @@ CGTN英语,http://[2409:8087:5e01:24::0c]:6610/000000001000/7745129417417101820/
 CGTN英语,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000009569/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
 CGTN英语,http://[2409:8087:5e01:24::1a]:6610/000000001000/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 CGTN英语,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CGTN英语,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CGTN英语,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN英语,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN英语,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN英语,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -381,7 +381,7 @@ CGTN阿语,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000006000280001/
 CGTN阿语,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN阿语,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN阿语,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CGTN阿语,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CGTN阿语,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN阿语,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN阿语,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN阿语,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -391,7 +391,7 @@ CGTN俄语,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000006000280004/
 CGTN俄语,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN俄语,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN俄语,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CGTN俄语,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CGTN俄语,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN俄语,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN俄语,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN俄语,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -401,7 +401,7 @@ CGTN法语,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000006000280003/
 CGTN法语,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 CGTN法语,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 CGTN法语,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CGTN法语,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CGTN法语,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN法语,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN法语,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN法语,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -411,7 +411,7 @@ CGTN西语,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000006000280002/
 CGTN西语,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 CGTN西语,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 CGTN西语,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CGTN西语,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CGTN西语,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN西语,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN西语,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN西语,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -422,7 +422,7 @@ CGTN纪录,http://[2409:8087:5e01:24::0c]:6610/000000001000/8428799834696888424/
 CGTN纪录,http://[2409:8087:5e01:24::0d]:6610/000000001000/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 CGTN纪录,http://[2409:8087:5e01:24::1a]:6610/000000001000/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=3
 CGTN纪录,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动
-CGTN纪录,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动
+CGTN纪录,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN纪录,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN纪录,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动
 CGTN纪录,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -576,7 +576,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 怀旧剧场,http://vpn.rogerxlj.top:9998/udp/239.45.0.49:5140$上海电信
 怀旧剧场,http://218.78.183.200:8888/udp/239.45.0.49:5140$上海电信
 高尔夫网球,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动
-高尔夫网球,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动
+高尔夫网球,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动
 高尔夫网球,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动
 高尔夫网球,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动
 高尔夫网球,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -725,7 +725,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 东方卫视,http://[2409:8087:5e01:24::05]:6610/000000001000/6081477947334326291/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=3
 东方卫视,http://[2409:8087:5e01:24::05]:6610/000000001000/6131854485504331903/1.m3u8?channel-id=bestzb&Contentid=6131854485504331903&livemode=1&stbId=3
 东方卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&Ace$甘肃移动
-东方卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&Ace$甘肃移动
+东方卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&Ace$甘肃移动
 东方卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&Ace$甘肃移动
 东方卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&Ace$甘肃移动
 东方卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -759,7 +759,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 纪实人文,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000001000021713/1.m3u8?channel-id=bestzb&Contentid=5000000001000021713&livemode=1&stbId=3
 纪实人文,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000004000010282/1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 纪实人文,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&Ace$甘肃移动
-纪实人文,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&Ace$甘肃移动
+纪实人文,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&Ace$甘肃移动
 纪实人文,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&Ace$甘肃移动
 纪实人文,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&Ace$甘肃移动
 纪实人文,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -819,7 +819,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 哈哈炫动,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 哈哈炫动,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 哈哈炫动,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000069/index.m3u8?channel-id=newtv&Ace$甘肃移动
-哈哈炫动,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000069/index.m3u8?channel-id=newtv&Ace$甘肃移动
+哈哈炫动,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000069/index.m3u8?channel-id=newtv&Ace$甘肃移动
 哈哈炫动,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000069/index.m3u8?channel-id=newtv&Ace$甘肃移动
 哈哈炫动,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000069/index.m3u8?channel-id=newtv&Ace$甘肃移动
 哈哈炫动,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000069/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1025,7 +1025,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 嘉定电视台,http://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 嘉定电视台,http://vpn.rogerxlj.top:9998/udp/239.45.3.185:5140
 嘉定电视台,http://218.78.183.200:8888/udp/239.45.3.185:5140
-金山电视台,https://livesec.mudu.tv/watch/uwosup.m3u8?auth_key=1721632510-401338-0-565ccfec7c2f372f280e04eb6852e066%E9%87%91%E5%B1%B1
+金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 浦东电视台,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
 
 体育,#genre#
@@ -1036,7 +1036,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 睛彩竞技,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000060/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=3
 睛彩竞技,http://[2409:8087:5e01:24::1a]:6610/000000001000/1000000006000270001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=3
 睛彩竞技,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&Ace$甘肃移动
-睛彩竞技,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&Ace$甘肃移动
+睛彩竞技,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩竞技,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩竞技,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩竞技,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1047,7 +1047,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 睛彩篮球,http://[2409:8087:5e01:24::0d]:6610/000000001000/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
 睛彩篮球,http://[2409:8087:5e01:24::1a]:6610/000000001000/3000000020000011531/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 睛彩篮球,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&Ace$甘肃移动
-睛彩篮球,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&Ace$甘肃移动
+睛彩篮球,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩篮球,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩篮球,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩篮球,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1057,7 +1057,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 睛彩青少,http://[2409:8087:5e01:24::0c]:6610/000000001000/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
 睛彩青少,http://[2409:8087:5e01:24::0d]:6610/000000001000/3000000020000031315/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=3
 睛彩青少,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000120/index.m3u8?channel-id=newtv&Ace$甘肃移动
-睛彩青少,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000120/index.m3u8?channel-id=newtv&Ace$甘肃移动
+睛彩青少,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000120/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩青少,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000120/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩青少,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000120/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩青少,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000120/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1068,7 +1068,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 睛彩广场舞,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000006000270003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=3
 睛彩广场舞,http://[2409:8087:5e01:24::1a]:6610/000000001000/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
 睛彩广场舞,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000532/index.m3u8?channel-id=newtv&Ace$甘肃移动
-睛彩广场舞,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000532/index.m3u8?channel-id=newtv&Ace$甘肃移动
+睛彩广场舞,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000532/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩广场舞,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000532/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩广场舞,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000532/index.m3u8?channel-id=newtv&Ace$甘肃移动
 睛彩广场舞,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000532/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1718,7 +1718,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 安多卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000006000022124/1.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
 安多卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/7248678452522064966/1.m3u8?channel-id=ystenlive&Contentid=7248678452522064966&livemode=1&stbId=3
 安多卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&Ace$甘肃移动
-安多卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&Ace$甘肃移动
+安多卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&Ace$甘肃移动
 安多卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&Ace$甘肃移动
 安多卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&Ace$甘肃移动
 安多卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1732,7 +1732,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 安徽卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000004000023002/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3
 安徽卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/6000000001000009954/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=3
 安徽卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&Ace$甘肃移动
-安徽卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&Ace$甘肃移动
+安徽卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&Ace$甘肃移动
 安徽卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&Ace$甘肃移动
 安徽卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&Ace$甘肃移动
 安徽卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1750,7 +1750,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 北京卫视,http://[2409:8087:5e01:24::1c]:6610/000000001000/8186688740528366039/1.m3u8?channel-id=ystenlive&Contentid=8186688740528366039&livemode=1&stbId=3
 北京卫视,http://[2409:8087:5e01:24::1d]:6610/000000001000/8258663409451267714/1.m3u8?channel-id=ystenlive&Contentid=8258663409451267714&livemode=1&stbId=3
 北京卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&Ace$甘肃移动
-北京卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&Ace$甘肃移动
+北京卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1763,7 +1763,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 兵团卫视,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000005000266005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=3
 兵团卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000006000040020/1.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3
 兵团卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000059/index.m3u8?channel-id=newtv&Ace$甘肃移动
-兵团卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000059/index.m3u8?channel-id=newtv&Ace$甘肃移动
+兵团卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000059/index.m3u8?channel-id=newtv&Ace$甘肃移动
 兵团卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000059/index.m3u8?channel-id=newtv&Ace$甘肃移动
 兵团卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000059/index.m3u8?channel-id=newtv&Ace$甘肃移动
 兵团卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000059/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1798,7 +1798,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 东南卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
 东南卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/7721801662260370363/1.m3u8?channel-id=ystenlive&Contentid=7721801662260370363&livemode=1&stbId=3
 东南卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$甘肃移动
-东南卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$甘肃移动
+东南卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$甘肃移动
 东南卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$甘肃移动
 东南卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$甘肃移动
 东南卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1814,7 +1814,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 甘肃卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000006000040021/1.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=3
 甘肃卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
 甘肃卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&Ace$甘肃移动
-甘肃卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&Ace$甘肃移动
+甘肃卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&Ace$甘肃移动
 甘肃卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&Ace$甘肃移动
 甘肃卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&Ace$甘肃移动
 甘肃卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1831,7 +1831,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 广东卫视,http://[2409:8087:5e01:24::1b]:6610/000000001000/6000000001000031076/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3
 广东卫视,http://[2409:8087:5e01:24::1c]:6610/000000001000/6604532991586541024/1.m3u8?channel-id=ystenlive&Contentid=6604532991586541024&livemode=1&stbId=3
 广东卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace$甘肃移动
-广东卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace$甘肃移动
+广东卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广东卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广东卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广东卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1843,7 +1843,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 广西卫视,http://[2409:8087:5e01:24::0a]:6610/000000001000/5000000006000040014/1.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=3
 广西卫视,http://[2409:8087:5e01:24::0b]:6610/000000001000/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
 广西卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&Ace$甘肃移动
-广西卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&Ace$甘肃移动
+广西卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广西卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广西卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广西卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1859,7 +1859,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 贵州卫视,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=3
 贵州卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
 贵州卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&Ace$甘肃移动
-贵州卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&Ace$甘肃移动
+贵州卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&Ace$甘肃移动
 贵州卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&Ace$甘肃移动
 贵州卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&Ace$甘肃移动
 贵州卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1874,7 +1874,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 海南卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 海南卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/7899627377857656087/1.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=3
 海南卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&Ace$甘肃移动
-海南卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&Ace$甘肃移动
+海南卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&Ace$甘肃移动
 海南卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&Ace$甘肃移动
 海南卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&Ace$甘肃移动
 海南卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1896,7 +1896,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 河北卫视,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3
 河北卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
 河北卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&Ace$甘肃移动
-河北卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&Ace$甘肃移动
+河北卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&Ace$甘肃移动
 河北卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&Ace$甘肃移动
 河北卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&Ace$甘肃移动
 河北卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1911,7 +1911,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 河南卫视,http://[2409:8087:5e01:24::0b]:6610/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
 河南卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/7304224304099543804/1.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=3
 河南卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&Ace$甘肃移动
-河南卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&Ace$甘肃移动
+河南卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&Ace$甘肃移动
 河南卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&Ace$甘肃移动
 河南卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&Ace$甘肃移动
 河南卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1927,7 +1927,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 黑龙江卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/6000000001000016510/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=3
 黑龙江卫视,http://[2409:8087:5e01:24::1b]:6610/000000001000/8467838254824392379/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=3
 黑龙江卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&Ace$甘肃移动
-黑龙江卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&Ace$甘肃移动
+黑龙江卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&Ace$甘肃移动
 黑龙江卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&Ace$甘肃移动
 黑龙江卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&Ace$甘肃移动
 黑龙江卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1944,7 +1944,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 湖北卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/6000000001000015436/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=3
 湖北卫视,http://[2409:8087:5e01:24::1b]:6610/000000001000/6956052407855047826/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=3
 湖北卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&Ace$甘肃移动
-湖北卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&Ace$甘肃移动
+湖北卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖北卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖北卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖北卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1963,7 +1963,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 湖南卫视,http://[2409:8087:5e01:24::1c]:6610/000000001000/6954818217931477266/1.m3u8?channel-id=ystenlive&Contentid=6954818217931477266&livemode=1&stbId=3
 湖南卫视,http://[2409:8087:5e01:24::1d]:6610/000000001000/8655038471675748531/1.m3u8?channel-id=ystenlive&Contentid=8655038471675748531&livemode=1&stbId=3
 湖南卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&Ace$甘肃移动
-湖南卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&Ace$甘肃移动
+湖南卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1977,7 +1977,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 吉林卫视,http://[2409:8087:5e01:24::0b]:6610/000000001000/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
 吉林卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=3
 吉林卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&Ace$甘肃移动
-吉林卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&Ace$甘肃移动
+吉林卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&Ace$甘肃移动
 吉林卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&Ace$甘肃移动
 吉林卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&Ace$甘肃移动
 吉林卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -1995,7 +1995,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 江苏卫视,http://[2409:8087:5e01:24::1c]:6610/000000001000/5000000011000265009/1.m3u8?channel-id=bestzb&Contentid=5000000011000265009&livemode=1&stbId=3
 江苏卫视,http://[2409:8087:5e01:24::1d]:6610/000000001000/6000000001000014861/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=3
 江苏卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&Ace$甘肃移动
-江苏卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&Ace$甘肃移动
+江苏卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江苏卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江苏卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江苏卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2011,7 +2011,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 江西卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000004000011210/1.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=3
 江西卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/5616078396620462481/1.m3u8?channel-id=ystenlive&Contentid=5616078396620462481&livemode=1&stbId=3
 江西卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&Ace$甘肃移动
-江西卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&Ace$甘肃移动
+江西卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江西卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江西卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江西卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2026,7 +2026,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 康巴卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000003000001598/1.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
 康巴卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/9131971102485823367/1.m3u8?channel-id=ystenlive&Contentid=9131971102485823367&livemode=1&stbId=3
 康巴卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&Ace$甘肃移动
-康巴卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&Ace$甘肃移动
+康巴卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&Ace$甘肃移动
 康巴卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&Ace$甘肃移动
 康巴卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&Ace$甘肃移动
 康巴卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2039,7 +2039,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 辽宁卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
 辽宁卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/7638375013635582245/1.m3u8?channel-id=ystenlive&Contentid=7638375013635582245&livemode=1&stbId=3
 辽宁卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&Ace$甘肃移动
-辽宁卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&Ace$甘肃移动
+辽宁卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&Ace$甘肃移动
 辽宁卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&Ace$甘肃移动
 辽宁卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&Ace$甘肃移动
 辽宁卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2055,7 +2055,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 内蒙古卫视,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
 内蒙古卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/7331079758781182663/1.m3u8?channel-id=bestzb&Contentid=7331079758781182663&livemode=1&stbId=3
 内蒙古卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&Ace$甘肃移动
-内蒙古卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&Ace$甘肃移动
+内蒙古卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&Ace$甘肃移动
 内蒙古卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&Ace$甘肃移动
 内蒙古卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&Ace$甘肃移动
 内蒙古卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2067,7 +2067,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 宁夏卫视,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
 宁夏卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/5000000006000040022/1.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
 宁夏卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&Ace$甘肃移动
-宁夏卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&Ace$甘肃移动
+宁夏卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&Ace$甘肃移动
 宁夏卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&Ace$甘肃移动
 宁夏卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&Ace$甘肃移动
 宁夏卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2082,7 +2082,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 青海卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000006000040015/1.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
 青海卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/6399324389404552555/1.m3u8?channel-id=wasusyt&Contentid=6399324389404552555&livemode=1&stbId=3
 青海卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&Ace$甘肃移动
-青海卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&Ace$甘肃移动
+青海卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&Ace$甘肃移动
 青海卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&Ace$甘肃移动
 青海卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&Ace$甘肃移动
 青海卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2105,7 +2105,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 厦门卫视,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
 厦门卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
 厦门卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace$甘肃移动
-厦门卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace$甘肃移动
+厦门卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace$甘肃移动
 厦门卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace$甘肃移动
 厦门卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace$甘肃移动
 厦门卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2117,7 +2117,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 山东教育卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000004097/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
 山东教育卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000013&livemode=1&stbId=3
 山东教育卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000067/index.m3u8?channel-id=newtv&Ace$甘肃移动
-山东教育卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000067/index.m3u8?channel-id=newtv&Ace$甘肃移动
+山东教育卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000067/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山东教育卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000067/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山东教育卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000067/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山东教育卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000067/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2133,7 +2133,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 山东卫视,http://[2409:8087:5e01:24::1b]:6610/000000001000/7347081113971056899/1.m3u8?channel-id=ystenlive&Contentid=7347081113971056899&livemode=1&stbId=3
 山东卫视,http://[2409:8087:5e01:24::1c]:6610/000000001000/7744799445271696577/1.m3u8?channel-id=ystenlive&Contentid=7744799445271696577&livemode=1&stbId=3
 山东卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&Ace$甘肃移动
-山东卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&Ace$甘肃移动
+山东卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山东卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山东卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山东卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2148,7 +2148,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 山西卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
 山西卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000006000040023/1.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
 山西卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&Ace$甘肃移动
-山西卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&Ace$甘肃移动
+山西卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山西卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山西卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&Ace$甘肃移动
 山西卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2161,7 +2161,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 陕西农林卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
 陕西农林卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
 陕西农林卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace$甘肃移动
-陕西农林卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace$甘肃移动
+陕西农林卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace$甘肃移动
 陕西农林卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace$甘肃移动
 陕西农林卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace$甘肃移动
 陕西农林卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2172,7 +2172,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 陕西卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
 陕西卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000006000040017/1.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=3
 陕西卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&Ace$甘肃移动
-陕西卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&Ace$甘肃移动
+陕西卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&Ace$甘肃移动
 陕西卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&Ace$甘肃移动
 陕西卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&Ace$甘肃移动
 陕西卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2189,7 +2189,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 深圳卫视,http://[2409:8087:5e01:24::1b]:6610/000000001000/6000000001000002116/1.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=3
 深圳卫视,http://[2409:8087:5e01:24::1c]:6610/000000001000/7696950400632248401/1.m3u8?channel-id=ystenlive&Contentid=7696950400632248401&livemode=1&stbId=3
 深圳卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&Ace$甘肃移动
-深圳卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&Ace$甘肃移动
+深圳卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&Ace$甘肃移动
 深圳卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&Ace$甘肃移动
 深圳卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&Ace$甘肃移动
 深圳卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2204,7 +2204,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 四川卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3
 四川卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
 四川卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&Ace$甘肃移动
-四川卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&Ace$甘肃移动
+四川卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&Ace$甘肃移动
 四川卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&Ace$甘肃移动
 四川卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&Ace$甘肃移动
 四川卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2221,7 +2221,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 天津卫视,http://[2409:8087:5e01:24::1b]:6610/000000001000/6707942579111517572/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=3
 天津卫视,http://[2409:8087:5e01:24::1c]:6610/000000001000/8798367982904688776/1.m3u8?channel-id=ystenlive&Contentid=8798367982904688776&livemode=1&stbId=3
 天津卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&Ace$甘肃移动
-天津卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&Ace$甘肃移动
+天津卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&Ace$甘肃移动
 天津卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&Ace$甘肃移动
 天津卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&Ace$甘肃移动
 天津卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2236,7 +2236,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 西藏藏语卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000002000021549/1.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
 西藏藏语卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/7134589828528695864/1.m3u8?channel-id=ystenlive&Contentid=7134589828528695864&livemode=1&stbId=3
 西藏藏语卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000093/index.m3u8?channel-id=newtv&Ace$甘肃移动
-西藏藏语卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000093/index.m3u8?channel-id=newtv&Ace$甘肃移动
+西藏藏语卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000093/index.m3u8?channel-id=newtv&Ace$甘肃移动
 西藏藏语卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000093/index.m3u8?channel-id=newtv&Ace$甘肃移动
 西藏藏语卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000093/index.m3u8?channel-id=newtv&Ace$甘肃移动
 西藏藏语卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000093/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2249,7 +2249,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 西藏卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000015894/1.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=3
 西藏卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=3
 西藏卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000043/index.m3u8?channel-id=newtv&Ace$甘肃移动
-西藏卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000043/index.m3u8?channel-id=newtv&Ace$甘肃移动
+西藏卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000043/index.m3u8?channel-id=newtv&Ace$甘肃移动
 西藏卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000043/index.m3u8?channel-id=newtv&Ace$甘肃移动
 西藏卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000043/index.m3u8?channel-id=newtv&Ace$甘肃移动
 西藏卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000043/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2265,7 +2265,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 新疆卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000006000040018/1.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=3
 新疆卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/6986657152785429375/1.m3u8?channel-id=wasusyt&Contentid=6986657152785429375&livemode=1&stbId=3
 新疆卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&Ace$甘肃移动
-新疆卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&Ace$甘肃移动
+新疆卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&Ace$甘肃移动
 新疆卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&Ace$甘肃移动
 新疆卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&Ace$甘肃移动
 新疆卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2278,7 +2278,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 延边卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000005000266008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=3
 延边卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000049/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=3
 延边卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace$甘肃移动
-延边卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace$甘肃移动
+延边卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace$甘肃移动
 延边卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace$甘肃移动
 延边卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace$甘肃移动
 延边卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2290,7 +2290,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 云南卫视,http://[2409:8087:5e01:24::0d]:6610/000000001000/5000000006000040019/1.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=3
 云南卫视,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
 云南卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&Ace$甘肃移动
-云南卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&Ace$甘肃移动
+云南卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&Ace$甘肃移动
 云南卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&Ace$甘肃移动
 云南卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&Ace$甘肃移动
 云南卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2307,7 +2307,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 浙江卫视,http://[2409:8087:5e01:24::1b]:6610/000000001000/6000000001000032070/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=3
 浙江卫视,http://[2409:8087:5e01:24::1c]:6610/000000001000/7889730693553663314/1.m3u8?channel-id=ystenlive&Contentid=7889730693553663314&livemode=1&stbId=3
 浙江卫视,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&Ace$甘肃移动
-浙江卫视,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&Ace$甘肃移动
+浙江卫视,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&Ace$甘肃移动
 浙江卫视,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&Ace$甘肃移动
 浙江卫视,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&Ace$甘肃移动
 浙江卫视,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2335,9 +2335,10 @@ CHANNELV,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.7:2194
 CHANNELV,http://171.213.130.138:19999/udp/239.93.1.7:2194
 CHANNELV,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.157:2194
 CHANNELV,http://171.213.130.138:19999/udp/239.93.0.157:2194
+CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+CHC影迷电影,http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
-CHC影迷电影,http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$山东移动
 CHC影迷电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
@@ -2345,9 +2346,10 @@ CHC影迷电影,http://218.78.183.200:8888/udp/239.45.0.42:5140
 CHC影迷电影,http://home.yulei.online:9999/rtp/226.0.2.93:8004
 CHC影迷电影,http://171.119.207.28:6000/rtp/226.0.2.93:8004
 CHC影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+CHC家庭影院,http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
-CHC家庭影院,http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$山东移动
 CHC家庭影院,http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
@@ -2355,9 +2357,10 @@ CHC家庭影院,http://218.78.183.200:8888/udp/239.45.0.40:5140
 CHC家庭影院,http://home.yulei.online:9999/rtp/226.0.2.240:9820
 CHC家庭影院,http://171.119.207.28:6000/rtp/226.0.2.240:9820
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+CHC动作电影,http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-CHC动作电影,http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$山东移动
 CHC动作电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.41:5140
@@ -2624,7 +2627,7 @@ NewTV爱情喜剧,http://[2409:8087:5e01:24::0c]:6610/000000001000/8393829412396
 NewTV爱情喜剧,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3
 NewTV爱情喜剧,http://[2409:8087:5e01:24::1a]:6610/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=3
 NewTV爱情喜剧,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV爱情喜剧,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV爱情喜剧,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV爱情喜剧,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV爱情喜剧,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV爱情喜剧,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2633,7 +2636,7 @@ NewTV超级电视剧,http://[2409:8087:5e01:24::0a]:6610/000000001000/1000000004
 NewTV超级电视剧,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
 NewTV超级电视剧,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000000032/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3
 NewTV超级电视剧,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV超级电视剧,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV超级电视剧,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级电视剧,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级电视剧,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级电视剧,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2642,7 +2645,7 @@ NewTV超级电影,http://[2409:8087:5e01:24::0a]:6610/000000001000/1000000003000
 NewTV超级电影,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000004000002120/1.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
 NewTV超级电影,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000000031/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
 NewTV超级电影,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV超级电影,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV超级电影,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级电影,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级电影,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级电影,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2651,7 +2654,7 @@ NewTV超级体育,http://[2409:8087:5e01:24::0a]:6610/000000001000/1000000001000
 NewTV超级体育,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000004000007755/1.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
 NewTV超级体育,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000000030/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3
 NewTV超级体育,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV超级体育,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV超级体育,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级体育,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级体育,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级体育,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2660,7 +2663,7 @@ NewTV超级综艺,http://[2409:8087:5e01:24::0a]:6610/000000001000/1000000004000
 NewTV超级综艺,http://[2409:8087:5e01:24::0b]:6610/000000001000/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
 NewTV超级综艺,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000000029/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=3
 NewTV超级综艺,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV超级综艺,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV超级综艺,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级综艺,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级综艺,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV超级综艺,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2671,7 +2674,7 @@ NewTV潮妈辣婆,http://[2409:8087:5e01:24::0c]:6610/000000001000/6516734029835
 NewTV潮妈辣婆,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000018/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
 NewTV潮妈辣婆,http://[2409:8087:5e01:24::1a]:6610/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=3
 NewTV潮妈辣婆,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV潮妈辣婆,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV潮妈辣婆,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV潮妈辣婆,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV潮妈辣婆,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV潮妈辣婆,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2682,7 +2685,7 @@ NewTV哒啵电竞,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000
 NewTV哒啵电竞,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000006000032327/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=3
 NewTV哒啵电竞,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000066/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000066&livemode=1&stbId=3
 NewTV哒啵电竞,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV哒啵电竞,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV哒啵电竞,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV哒啵电竞,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV哒啵电竞,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV哒啵电竞,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2693,7 +2696,7 @@ NewTV哒啵赛事,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000
 NewTV哒啵赛事,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000040/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000040&livemode=1&stbId=3
 NewTV哒啵赛事,http://[2409:8087:5e01:24::1a]:6610/000000001000/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=3
 NewTV哒啵赛事,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV哒啵赛事,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV哒啵赛事,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV哒啵赛事,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV哒啵赛事,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV哒啵赛事,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2704,7 +2707,7 @@ NewTV东北热剧,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000
 NewTV东北热剧,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
 NewTV东北热剧,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000051/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=3
 NewTV东北热剧,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV东北热剧,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV东北热剧,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV东北热剧,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV东北热剧,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV东北热剧,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2715,7 +2718,7 @@ NewTV动作电影,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000004000
 NewTV动作电影,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3
 NewTV动作电影,http://[2409:8087:5e01:24::1a]:6610/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=3
 NewTV动作电影,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV动作电影,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV动作电影,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV动作电影,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV动作电影,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV动作电影,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2726,7 +2729,7 @@ NewTV古装剧场,http://[2409:8087:5e01:24::0c]:6610/000000001000/6859053933687
 NewTV古装剧场,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3
 NewTV古装剧场,http://[2409:8087:5e01:24::1a]:6610/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=3
 NewTV古装剧场,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV古装剧场,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV古装剧场,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV古装剧场,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV古装剧场,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV古装剧场,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2737,7 +2740,7 @@ NewTV黑莓电影,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000004000
 NewTV黑莓电影,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3
 NewTV黑莓电影,http://[2409:8087:5e01:24::1a]:6610/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3
 NewTV黑莓电影,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV黑莓电影,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV黑莓电影,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV黑莓电影,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV黑莓电影,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV黑莓电影,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2748,7 +2751,7 @@ NewTV黑莓动画,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000004000
 NewTV黑莓动画,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000002/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000002&livemode=1&stbId=3
 NewTV黑莓动画,http://[2409:8087:5e01:24::1a]:6610/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=3
 NewTV黑莓动画,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV黑莓动画,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV黑莓动画,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV黑莓动画,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV黑莓动画,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV黑莓动画,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2759,7 +2762,7 @@ NewTV欢乐剧场,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000
 NewTV欢乐剧场,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3
 NewTV欢乐剧场,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=3
 NewTV欢乐剧场,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV欢乐剧场,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV欢乐剧场,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV欢乐剧场,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV欢乐剧场,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV欢乐剧场,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2770,7 +2773,7 @@ NewTV家庭剧场,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000004000
 NewTV家庭剧场,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000012/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3
 NewTV家庭剧场,http://[2409:8087:5e01:24::1a]:6610/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=3
 NewTV家庭剧场,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV家庭剧场,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV家庭剧场,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV家庭剧场,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV家庭剧场,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV家庭剧场,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2781,7 +2784,7 @@ NewTV金牌综艺,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000004000
 NewTV金牌综艺,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3
 NewTV金牌综艺,http://[2409:8087:5e01:24::1a]:6610/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=3
 NewTV金牌综艺,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV金牌综艺,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV金牌综艺,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV金牌综艺,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV金牌综艺,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV金牌综艺,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2792,7 +2795,7 @@ NewTV惊悚悬疑,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000004000
 NewTV惊悚悬疑,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3
 NewTV惊悚悬疑,http://[2409:8087:5e01:24::1a]:6610/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=3
 NewTV惊悚悬疑,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV惊悚悬疑,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV惊悚悬疑,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV惊悚悬疑,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV惊悚悬疑,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV惊悚悬疑,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2803,7 +2806,7 @@ NewTV精品大剧,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000004000
 NewTV精品大剧,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000020/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3
 NewTV精品大剧,http://[2409:8087:5e01:24::1a]:6610/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=3
 NewTV精品大剧,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV精品大剧,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV精品大剧,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品大剧,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品大剧,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品大剧,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2814,7 +2817,7 @@ NewTV精品纪录,http://[2409:8087:5e01:24::0c]:6610/000000001000/6298506997017
 NewTV精品纪录,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
 NewTV精品纪录,http://[2409:8087:5e01:24::1a]:6610/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=3
 NewTV精品纪录,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV精品纪录,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV精品纪录,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品纪录,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品纪录,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品纪录,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2825,7 +2828,7 @@ NewTV精品萌宠,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000
 NewTV精品萌宠,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
 NewTV精品萌宠,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3
 NewTV精品萌宠,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV精品萌宠,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV精品萌宠,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品萌宠,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品萌宠,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品萌宠,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2836,7 +2839,7 @@ NewTV精品体育,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000004000
 NewTV精品体育,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000021/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3
 NewTV精品体育,http://[2409:8087:5e01:24::1a]:6610/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=3
 NewTV精品体育,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV精品体育,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV精品体育,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品体育,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品体育,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV精品体育,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2859,7 +2862,7 @@ NewTV军事评论,http://[2409:8087:5e01:24::0c]:6610/000000001000/5822616274253
 NewTV军事评论,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000022/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3
 NewTV军事评论,http://[2409:8087:5e01:24::1a]:6610/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=3
 NewTV军事评论,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV军事评论,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV军事评论,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV军事评论,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV军事评论,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV军事评论,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2876,7 +2879,7 @@ NewTV明星大片,http://[2409:8087:5e01:24::0c]:6610/000000001000/7681593242002
 NewTV明星大片,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
 NewTV明星大片,http://[2409:8087:5e01:24::1a]:6610/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=3
 NewTV明星大片,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000116/index.m3u8?channel-id=ne$甘肃移动
-NewTV明星大片,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000116/index.m3u8?channel-id=ne$甘肃移动
+NewTV明星大片,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000116/index.m3u8?channel-id=ne$甘肃移动
 NewTV明星大片,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000116/index.m3u8?channel-id=ne$甘肃移动
 NewTV明星大片,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000116/index.m3u8?channel-id=ne$甘肃移动
 NewTV明星大片,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000116/index.m3u8?channel-id=ne$甘肃移动
@@ -2887,7 +2890,7 @@ NewTV农业致富,http://[2409:8087:5e01:24::0c]:6610/000000001000/6193684637634
 NewTV农业致富,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000003/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3
 NewTV农业致富,http://[2409:8087:5e01:24::1a]:6610/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=3
 NewTV农业致富,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV农业致富,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV农业致富,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV农业致富,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV农业致富,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV农业致富,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2904,7 +2907,7 @@ NewTV炫舞未来,http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000
 NewTV炫舞未来,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 NewTV炫舞未来,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000044/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000044&livemode=1&stbId=3
 NewTV炫舞未来,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV炫舞未来,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV炫舞未来,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV炫舞未来,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV炫舞未来,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV炫舞未来,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2915,7 +2918,7 @@ NewTV怡伴健康,http://[2409:8087:5e01:24::0c]:6610/000000001000/1000000005000
 NewTV怡伴健康,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000023/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000023&livemode=1&stbId=3
 NewTV怡伴健康,http://[2409:8087:5e01:24::1a]:6610/000000001000/7820874641606664941/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=3
 NewTV怡伴健康,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV怡伴健康,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV怡伴健康,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV怡伴健康,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV怡伴健康,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV怡伴健康,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -2926,7 +2929,7 @@ NewTV中国功夫,http://[2409:8087:5e01:24::0c]:6610/000000001000/5897056882324
 NewTV中国功夫,http://[2409:8087:5e01:24::0d]:6610/000000001000/2000000003000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
 NewTV中国功夫,http://[2409:8087:5e01:24::1a]:6610/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=3
 NewTV中国功夫,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动
-NewTV中国功夫,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动
+NewTV中国功夫,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV中国功夫,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV中国功夫,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动
 NewTV中国功夫,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -3409,7 +3412,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 北京纪实科教,http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000026&livemode=1&stbId=3
 北京纪实科教,http://[2409:8087:5e01:24::1b]:6610/000000001000/5000000011000031204/1.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=3
 北京纪实科教,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动
-北京纪实科教,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动
+北京纪实科教,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京纪实科教,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京纪实科教,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京纪实科教,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -3484,7 +3487,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 北京卡酷少儿,http://[2409:8087:5e01:24::0c]:6610/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=3
 北京卡酷少儿,http://[2409:8087:5e01:24::0d]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 北京卡酷少儿,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&Ace$甘肃移动
-北京卡酷少儿,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&Ace$甘肃移动
+北京卡酷少儿,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京卡酷少儿,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京卡酷少儿,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&Ace$甘肃移动
 北京卡酷少儿,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -3824,7 +3827,7 @@ CETV3,http://123.56.129.203:3878/udp/225.1.8.194:4120$北京电信
 广东嘉佳卡通,http://[2409:8087:5e01:24::1c]:6610/000000001000/4739906347743456369/1.m3u8?channel-id=bestzb&Contentid=4739906347743456369&livemode=1&stbId=3
 广东嘉佳卡通,http://[2409:8087:5e01:24::1d]:6610/000000001000/6000000003000025508/1.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=3
 广东嘉佳卡通,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&Ace$甘肃移动
-广东嘉佳卡通,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&Ace$甘肃移动
+广东嘉佳卡通,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广东嘉佳卡通,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广东嘉佳卡通,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&Ace$甘肃移动
 广东嘉佳卡通,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -3891,6 +3894,7 @@ GRTN生活,https://tplaylive.grtn.cn/live/life.m3u8
 GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 广州综合,http://php.jdshipin.com/gztv.php?id=zhonghe
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,http://58.144.154.93/tencentplay.gztv.com/live/zonghes.m3u8
 广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
 广州综合,http://tencentplaygzrb.gztv.com:80/live/zonghes.m3u8
@@ -3902,6 +3906,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 广州综合,http://14.19.168.64:4022/udp/239.253.43.71:5146
 广州新闻,http://php.jdshipin.com/gztv.php?id=xinwen
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
 广州新闻,http://tencentplaygzrb.gztv.com:80/live/xinwen.m3u8
 广州新闻,http://183.33.58.165:8686/udp/239.253.43.67:5146
@@ -3926,6 +3931,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 广州影视,http://58.144.154.93/tencentplay.gztv.com/live/yingshi.m3u8
 广州竞赛,http://php.jdshipin.com/gztv.php?id=jingsai
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州竞赛,https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
 广州竞赛,http://tencentplaygzrb.gztv.com:80/live/jingsai.m3u8
 广州竞赛,http://183.33.58.165:8686/udp/239.253.43.70:5146
@@ -3936,6 +3942,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 广州竞赛,http://14.19.168.64:4022/udp/239.253.43.75:5146
 广州法治,http://php.jdshipin.com/gztv.php?id=fazhi
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+广州法治,https://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
 广州法治,http://tencentplaygzrb.gztv.com:80/live/fazhi.m3u8
 广州法治,http://58.144.154.93/tencentplay.gztv.com/live/fazhi.m3u8
@@ -3949,6 +3956,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州南国都市,http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
 广州南国都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gzngds
+广州南国都市,https://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 广州南国都市,http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 广州南国都市,http://tencentplaygzrb.gztv.com:80/live/nanguodushi.m3u8
 广州南国都市,http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
@@ -4084,48 +4092,55 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 珠海-2,http://116.22.28.76:4022/udp/239.77.1.231:5146
 珠海-2,http://14.19.168.64:4022/udp/239.77.0.154:5146
 珠海-2,http://14.19.168.64:4022/udp/239.77.1.231:5146
+东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1729302895&ttl=3600&key=1f2a26fb77ea41b518b07ee6f5c05d5c
 东莞新闻综合,http://183.33.58.165:8686/udp/239.253.43.102:5146
 东莞新闻综合,http://183.33.58.165:8686/udp/239.253.43.104:5146
 东莞新闻综合,http://116.22.28.76:4022/udp/239.253.43.102:5146
 东莞新闻综合,http://116.22.28.76:4022/udp/239.253.43.104:5146
 东莞新闻综合,http://14.19.168.64:4022/udp/239.253.43.102:5146
 东莞新闻综合,http://14.19.168.64:4022/udp/239.253.43.104:5146
+东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1729302911&ttl=3600&key=34750ffbb78df18ea252645a34bbeae2
 东莞生活资讯,http://183.33.58.165:8686/udp/239.253.43.103:5146
 东莞生活资讯,http://183.33.58.165:8686/udp/239.253.43.105:5146
 东莞生活资讯,http://116.22.28.76:4022/udp/239.253.43.103:5146
 东莞生活资讯,http://116.22.28.76:4022/udp/239.253.43.105:5146
 东莞生活资讯,http://14.19.168.64:4022/udp/239.253.43.103:5146
 东莞生活资讯,http://14.19.168.64:4022/udp/239.253.43.105:5146
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源综合,http://183.33.58.165:8686/udp/239.253.43.213:5146
 河源综合,http://183.33.58.165:8686/udp/239.253.43.215:5146
 河源综合,http://116.22.28.76:4022/udp/239.253.43.213:5146
 河源综合,http://116.22.28.76:4022/udp/239.253.43.215:5146
 河源综合,http://14.19.168.64:4022/udp/239.253.43.213:5146
 河源综合,http://14.19.168.64:4022/udp/239.253.43.215:5146
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共,http://183.33.58.165:8686/udp/239.253.43.214:5146
 河源公共,http://183.33.58.165:8686/udp/239.253.43.216:5146
 河源公共,http://116.22.28.76:4022/udp/239.253.43.214:5146
 河源公共,http://116.22.28.76:4022/udp/239.253.43.216:5146
 河源公共,http://14.19.168.64:4022/udp/239.253.43.214:5146
 河源公共,http://14.19.168.64:4022/udp/239.253.43.216:5146
-惠州-1,http://183.33.58.165:8686/udp/239.77.0.247:5146
-惠州-1,http://183.33.58.165:8686/udp/239.77.1.154:5146
-惠州-1,http://183.33.58.165:8686/udp/239.77.1.232:5146
-惠州-1,http://116.22.28.76:4022/udp/239.77.0.247:5146
-惠州-1,http://116.22.28.76:4022/udp/239.77.1.154:5146
-惠州-1,http://116.22.28.76:4022/udp/239.77.1.232:5146
-惠州-1,http://14.19.168.64:4022/udp/239.77.0.247:5146
-惠州-1,http://14.19.168.64:4022/udp/239.77.1.154:5146
-惠州-1,http://14.19.168.64:4022/udp/239.77.1.232:5146
-惠州-2,http://183.33.58.165:8686/udp/239.77.0.248:5146
-惠州-2,http://183.33.58.165:8686/udp/239.77.1.173:5146
-惠州-2,http://183.33.58.165:8686/udp/239.77.1.233:5146
-惠州-2,http://116.22.28.76:4022/udp/239.77.0.248:5146
-惠州-2,http://116.22.28.76:4022/udp/239.77.1.173:5146
-惠州-2,http://116.22.28.76:4022/udp/239.77.1.233:5146
-惠州-2,http://14.19.168.64:4022/udp/239.77.0.248:5146
-惠州-2,http://14.19.168.64:4022/udp/239.77.1.173:5146
-惠州-2,http://14.19.168.64:4022/udp/239.77.1.233:5146
+惠州综合,http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
+惠州综合,http://183.33.58.165:8686/udp/239.77.0.247:5146
+惠州综合,http://183.33.58.165:8686/udp/239.77.1.154:5146
+惠州综合,http://183.33.58.165:8686/udp/239.77.1.232:5146
+惠州综合,http://116.22.28.76:4022/udp/239.77.0.247:5146
+惠州综合,http://116.22.28.76:4022/udp/239.77.1.154:5146
+惠州综合,http://116.22.28.76:4022/udp/239.77.1.232:5146
+惠州综合,http://14.19.168.64:4022/udp/239.77.0.247:5146
+惠州综合,http://14.19.168.64:4022/udp/239.77.1.154:5146
+惠州综合,http://14.19.168.64:4022/udp/239.77.1.232:5146
+惠州公共,http://183.33.58.165:8686/udp/239.77.0.248:5146
+惠州公共,http://183.33.58.165:8686/udp/239.77.1.173:5146
+惠州公共,http://183.33.58.165:8686/udp/239.77.1.233:5146
+惠州公共,http://116.22.28.76:4022/udp/239.77.0.248:5146
+惠州公共,http://116.22.28.76:4022/udp/239.77.1.173:5146
+惠州公共,http://116.22.28.76:4022/udp/239.77.1.233:5146
+惠州公共,http://14.19.168.64:4022/udp/239.77.0.248:5146
+惠州公共,http://14.19.168.64:4022/udp/239.77.1.173:5146
+惠州公共,http://14.19.168.64:4022/udp/239.77.1.233:5146
 江门综合,http://183.33.58.165:8686/udp/239.77.0.195:5146
 江门综合,http://183.33.58.165:8686/udp/239.77.0.201:5146
 江门综合,http://116.22.28.76:4022/udp/239.77.0.195:5146
@@ -4168,12 +4183,14 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 茂名公共,http://116.22.28.76:4022/udp/239.77.0.207:5146
 茂名公共,http://14.19.168.64:4022/udp/239.77.0.205:5146
 茂名公共,http://14.19.168.64:4022/udp/239.77.0.207:5146
+清远新闻综合,https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
 清远新闻综合,http://183.33.58.165:8686/udp/239.253.43.31:5146
 清远新闻综合,http://183.33.58.165:8686/udp/239.253.43.33:5146
 清远新闻综合,http://116.22.28.76:4022/udp/239.253.43.31:5146
 清远新闻综合,http://116.22.28.76:4022/udp/239.253.43.33:5146
 清远新闻综合,http://14.19.168.64:4022/udp/239.253.43.31:5146
 清远新闻综合,http://14.19.168.64:4022/udp/239.253.43.33:5146
+清远公共,https://zmylivestream.nfnews.com/zmy_slive/25321.m3u8
 清远公共,http://183.33.58.165:8686/udp/239.253.43.32:5146
 清远公共,http://183.33.58.165:8686/udp/239.253.43.34:5146
 清远公共,http://116.22.28.76:4022/udp/239.253.43.32:5146
@@ -4237,6 +4254,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 云浮综合,http://116.22.28.76:4022/udp/239.77.0.253:5146
 云浮综合,http://14.19.168.64:4022/udp/239.253.43.195:5146
 云浮综合,http://14.19.168.64:4022/udp/239.77.0.253:5146
+云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 云浮文旅,http://183.33.58.165:8686/udp/239.253.43.194:5146
 云浮文旅,http://183.33.58.165:8686/udp/239.77.0.254:5146
 云浮文旅,http://116.22.28.76:4022/udp/239.253.43.194:5146
@@ -5798,7 +5816,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 湖南金鹰纪实,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
 湖南金鹰纪实,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 湖南金鹰纪实,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动
-湖南金鹰纪实,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动
+湖南金鹰纪实,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南金鹰纪实,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南金鹰纪实,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南金鹰纪实,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -5814,7 +5832,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 湖南金鹰卡通,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
 湖南金鹰卡通,http://[2409:8087:5e01:24::1a]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 湖南金鹰卡通,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&Ace$甘肃移动
-湖南金鹰卡通,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&Ace$甘肃移动
+湖南金鹰卡通,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南金鹰卡通,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南金鹰卡通,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&Ace$甘肃移动
 湖南金鹰卡通,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -6069,7 +6087,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏优漫卡通,http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 江苏优漫卡通,http://[2409:8087:5e01:24::1a]:6610/000000001000/6000000003000030492/1.m3u8?channel-id=wasusyt&Contentid=6000000003000030492&livemode=1&stbId=3
 江苏优漫卡通,http://[2409:8087:74d1:22::05]:6410/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动
-江苏优漫卡通,http://[2409:8087:74d2:22::07]:6410/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动
+江苏优漫卡通,http://[2409:8087:74d7:22::07]:6410/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江苏优漫卡通,http://[2409:8087:74d3:22::08]:6410/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江苏优漫卡通,http://[2409:8087:74d4:22::10]:6410/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动
 江苏优漫卡通,http://[2409:8087:74d6:22::09]:6410/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动
@@ -6145,12 +6163,17 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南京文旅纪录,http://www.zhantong.tech:8800/rtp/239.49.0.38:8000
 南京NBS23,https://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 苏州新闻综合,http://61.155.203.93:5021/live_hls/1/.m3u8
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 苏州社会经济,http://61.155.203.93:5021/live_hls/2/.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 苏州文化生活,http://61.155.203.93:5021/live_hls/3/.m3u8
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,http://61.155.203.93:5021/live_hls/4/.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州生活资讯,http://xiazaiji.f3322.org:8800/rtp/239.49.8.116:8000
 苏州生活资讯,http://sz.seala.top:4022/rtp/239.49.8.116:8000
 苏州生活资讯,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.116:8000
@@ -6243,6 +6266,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
 宜兴新闻综合,https://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+扬州新闻,http://cm.wshls.homecdn.com/live/8bb.m3u8
 扬州城市,http://cm.wshls.homecdn.com/live/8bd.m3u8
 扬州生活,http://cm.wshls.homecdn.com/live/8bf.m3u8
 扬州江都,http://cm.wshls.homecdn.com/live/8c1.m3u8
@@ -10862,6 +10886,9 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 巴西 TV Santa Cruz,https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 
 港澳台,#genre#
+凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -10875,6 +10902,9 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -10888,6 +10918,9 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+凤凰香港,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/jydx.php?id=38
@@ -10913,7 +10946,16 @@ TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB-jade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB-jade,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 TVB星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+ViuTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+ViuTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+亚洲新闻台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+Astro剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳门卫视,http://cdn.132.us.kg/live/as/stream.m3u8
@@ -10970,6 +11012,7 @@ ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 星空卫视,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.156:2193
 星空卫视,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.10:2193
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
@@ -10977,11 +11020,13 @@ ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 音乐欣赏1,http://61.221.215.25:8800/hls/49/index.m3u8
 音乐欣赏2,http://61.221.215.25:8800/hls/58/index.m3u8
 娱乐新闻台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+娱乐新闻台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 中国电影,http://13457610200.8866.org:2018/live/中国电影/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -10995,6 +11040,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+东森新闻台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
@@ -11016,6 +11062,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -11031,6 +11078,27 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+AXN台湾,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun动漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 RTMP,#genre#
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -11056,6 +11124,7 @@ MoMo综合,rtmp://f13h.mine.nu:1935/sat/tv761
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 崇明电视台,rtmp://pili-publish.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee
 嘉定电视台,rtmp://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b
+金山电视台,rtmp://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3
 大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
 大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?t
