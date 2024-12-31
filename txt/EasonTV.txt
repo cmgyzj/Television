@@ -11170,7 +11170,11 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 东台综合,rtmp://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe
 大丰综合,rtmp://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt
 大丰公共,rtmp://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget
+常熟综合,rtmp://cstvplay.21cs.cn/cstv1/cstv1
 常熟民生经济,rtmp://cstvplay.21cs.cn/cstv2/cstv2
+南通新闻综合,rtmp://cm-live.ntjoy.com/live/4f1
+南通社教,rtmp://cm-live.ntjoy.com/live/4f3
+南通公共崇川,rtmp://cm-live.ntjoy.com/live/4f5
 延安综合,rtmp://live.cloud.yanews.cn/video/s10001-YATV-1
 延安公共,rtmp://live.cloud.yanews.cn/video/s10001-YATV-2
 晋中综合,rtmp://jzlive.jztvnews.com:1940/live/jzzh

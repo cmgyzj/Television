@@ -117,8 +117,3 @@ IP-17,http://[2409:8087:74d2:21::17]/000000001000PLTV/88888888/224/3221226155/in
 IP-18,http://[2409:8087:74d2:21::18]/000000001000PLTV/88888888/224/3221226155/index.m3u8
 IP-19,http://[2409:8087:74d2:21::19]/000000001000PLTV/88888888/224/3221226155/index.m3u8
 
-RTMP测试,#genre#
-南通新闻综合,rtmp://cm-live.ntjoy.com/live/4f1
-南通社教,rtmp://cm-live.ntjoy.com/live/4f3
-南通公共崇川,rtmp://cm-live.ntjoy.com/live/4f5
-
