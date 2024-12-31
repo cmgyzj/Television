@@ -22193,11 +22193,11 @@ rtmp://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget
 rtmp://cstvplay.21cs.cn/cstv1/cstv1
 #EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.112114.eu.org/logo/常熟民生经济.png" group-title="RTMP",常熟民生经济
 rtmp://cstvplay.21cs.cn/cstv2/cstv2
-#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏",南通新闻综合
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="RTMP",南通新闻综合
 rtmp://cm-live.ntjoy.com/live/4f1
-#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="江苏",南通社教
+#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://epg.112114.eu.org/logo/南通社教.png" group-title="RTMP",南通社教
 rtmp://cm-live.ntjoy.com/live/4f3
-#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="江苏",南通公共崇川
+#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://epg.112114.eu.org/logo/南通公共崇川.png" group-title="RTMP",南通公共崇川
 rtmp://cm-live.ntjoy.com/live/4f5
 #EXTINF:-1 tvg-name="延安综合" tvg-logo="https://epg.112114.eu.org/logo/延安综合.png" group-title="RTMP",延安综合
 rtmp://live.cloud.yanews.cn/video/s10001-YATV-1
