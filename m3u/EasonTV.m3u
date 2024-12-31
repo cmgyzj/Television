@@ -22189,6 +22189,8 @@ rtmp://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe
 rtmp://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt
 #EXTINF:-1 tvg-name="大丰公共" tvg-logo="https://epg.112114.eu.org/logo/大丰公共.png" group-title="RTMP",大丰公共
 rtmp://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget
+#EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://epg.112114.eu.org/logo/常熟综合.png" group-title="RTMP",常熟综合
+rtmp://cstvplay.21cs.cn/cstv1/cstv1
 #EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.112114.eu.org/logo/常熟民生经济.png" group-title="RTMP",常熟民生经济
 rtmp://cstvplay.21cs.cn/cstv2/cstv2
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南通新闻综合.png" group-title="江苏",南通新闻综合
