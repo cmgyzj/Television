@@ -4674,8 +4674,6 @@ http://zhyfans.mycloudnas.com:8000/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://epg.112114.eu.org/logo/CHANNELV.png" group-title="娱乐",CHANNELV
 http://171.213.130.138:19999/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
@@ -4696,8 +4694,6 @@ http://171.119.207.28:6000/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
@@ -4717,8 +4713,6 @@ http://home.yulei.online:9999/rtp/226.0.2.240:9820
 http://171.119.207.28:6000/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
