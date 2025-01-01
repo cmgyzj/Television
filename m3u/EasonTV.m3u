@@ -4241,6 +4241,14 @@ http://[2409:8087:5e01:24::0c]:6610/000000001000/2000000003000000046/1.m3u8?chan
 http://[2409:8087:5e01:24::0d]:6610/000000001000/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.112114.eu.org/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
 http://[2409:8087:5e01:24::1a]:6610/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.112114.eu.org/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
+http://[2409:8087:5e01:24::1b]:6610/000000001000/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.112114.eu.org/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
+http://[2409:8087:5e01:24::1c]:6610/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.112114.eu.org/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
+http://[2409:8087:5e01:24::1d]:6610/000000001000/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.112114.eu.org/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.112114.eu.org/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://[2409:8087:5e01:24::05]:6610/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.112114.eu.org/logo/陕西卫视.png" group-title="卫视",陕西卫视
