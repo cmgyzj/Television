@@ -253,3 +253,16 @@ CETV早期教育,http://yulang132.cn:4022/rtp/239.93.0.117:5140
 兵器科技,http://yulang132.cn:4022/rtp/239.93.1.235:5140
 怀旧剧场,http://yulang132.cn:4022/rtp/239.93.1.198:5140
 风云剧场,http://yulang132.cn:4022/rtp/239.93.1.156:5140
+
+湖北电信组播,#genre#
+襄阳电信,http://ht.ikhs.cn:8880/udp/239.69.1.40:9880
+荆门电信,http://home.kqysw.com:4000/udp/239.69.1.40:9880
+
+河南联通组播,#genre#
+河南联通,http://xingyang.net.cn:4000/udp/225.1.4.73:1102
+
+河北电信组播,#genre#
+河北电信,http://itms.xznet.org:41097/udp/239.254.200.45:8008
+
+北京联通组播,#genre#
+北京卫视,http://sweetown.fun:4000/udp/239.3.1.241:8000
