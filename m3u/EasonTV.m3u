@@ -6692,7 +6692,7 @@ http://coolcat.synology.me:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.112114.eu.org/logo/北京文艺.png" group-title="北京",北京文艺
 http://ikuai.zlsip.top:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.112114.eu.org/logo/北京文艺.png" group-title="北京",北京文艺
-http://114.243.106.190:8822/rtp/239.3.1.242:8000
+http://sweetown.fun:4000/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://[2409:8087:5e01:24::05]:6610/000000001000/1000000001000001910/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京",北京纪实科教
@@ -6724,7 +6724,7 @@ http://coolcat.synology.me:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://ikuai.zlsip.top:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://114.243.106.190:8822/rtp/239.3.1.115:8000
+http://sweetown.fun:4000/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京",北京影视
 http://omnix.cn:4000/udp/225.1.8.82:8000$北京电信
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京",北京影视
@@ -6746,7 +6746,7 @@ http://coolcat.synology.me:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京",北京影视
 http://ikuai.zlsip.top:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.eu.org/logo/北京影视.png" group-title="北京",北京影视
-http://114.243.106.190:8822/rtp/239.3.1.158:8000
+http://sweetown.fun:4000/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京",北京财经
 http://omnix.cn:4000/udp/225.1.8.106:8002$北京电信
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京",北京财经
@@ -6768,7 +6768,7 @@ http://coolcat.synology.me:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京",北京财经
 http://ikuai.zlsip.top:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.eu.org/logo/北京财经.png" group-title="北京",北京财经
-http://114.243.106.190:8822/rtp/239.3.1.116:8000
+http://sweetown.fun:4000/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://omnix.cn:4000/udp/225.1.8.23:8002$北京电信
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京",北京体育休闲
@@ -6790,9 +6790,9 @@ http://ikuai.zlsip.top:4022/rtp/239.3.1.97:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://ikuai.zlsip.top:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京",北京体育休闲
-http://114.243.106.190:8822/rtp/239.3.1.97:8000
+http://sweetown.fun:4000/rtp/239.3.1.97:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.eu.org/logo/北京体育休闲.png" group-title="北京",北京体育休闲
-http://114.243.106.190:8822/rtp/239.3.1.243:8000
+http://sweetown.fun:4000/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京",北京生活
 http://omnix.cn:4000/udp/225.1.8.108:8002$北京电信
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京",北京生活
@@ -6814,7 +6814,7 @@ http://coolcat.synology.me:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京",北京生活
 http://ikuai.zlsip.top:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.112114.eu.org/logo/北京生活.png" group-title="北京",北京生活
-http://114.243.106.190:8822/rtp/239.3.1.117:8000
+http://sweetown.fun:4000/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京",北京新闻
 http://omnix.cn:4000/udp/225.1.8.83:8000$北京电信
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京",北京新闻
@@ -6836,7 +6836,7 @@ http://coolcat.synology.me:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京",北京新闻
 http://ikuai.zlsip.top:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.eu.org/logo/北京新闻.png" group-title="北京",北京新闻
-http://114.243.106.190:8822/rtp/239.3.1.159:8000
+http://sweetown.fun:4000/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://[2409:8087:5e01:24::05]:6610/000000001000/1000000002000002413/1.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
@@ -6872,7 +6872,7 @@ http://coolcat.synology.me:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://ikuai.zlsip.top:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
-http://114.243.106.190:8822/rtp/239.3.1.189:8000
+http://sweetown.fun:4000/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=7851974109718180595
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京",北京国际
@@ -6892,7 +6892,7 @@ http://coolcat.synology.me:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京",北京国际
 http://ikuai.zlsip.top:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.eu.org/logo/北京国际.png" group-title="北京",北京国际
-http://114.243.106.190:8822/rtp/239.3.1.235:8000
+http://sweetown.fun:4000/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="北京IPTV淘精彩" tvg-logo="https://epg.112114.eu.org/logo/北京IPTV淘精彩.png" group-title="北京",北京IPTV淘精彩
 http://omnix.cn:4000/udp/225.1.8.33:8002$北京电信
 #EXTINF:-1 tvg-name="北京IPTV淘精彩" tvg-logo="https://epg.112114.eu.org/logo/北京IPTV淘精彩.png" group-title="北京",北京IPTV淘精彩
@@ -6944,13 +6944,13 @@ http://coolcat.synology.me:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://epg.112114.eu.org/logo/朝阳融媒.png" group-title="北京",朝阳融媒
 http://ikuai.zlsip.top:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://epg.112114.eu.org/logo/朝阳融媒.png" group-title="北京",朝阳融媒
-http://114.243.106.190:8822/rtp/239.3.1.163:8001
+http://sweetown.fun:4000/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="通州融媒" tvg-logo="https://epg.112114.eu.org/logo/通州融媒.png" group-title="北京",通州融媒
 http://coolcat.synology.me:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="通州融媒" tvg-logo="https://epg.112114.eu.org/logo/通州融媒.png" group-title="北京",通州融媒
 http://ikuai.zlsip.top:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="通州融媒" tvg-logo="https://epg.112114.eu.org/logo/通州融媒.png" group-title="北京",通州融媒
-http://114.243.106.190:8822/rtp/239.3.1.221:8001
+http://sweetown.fun:4000/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://epg.112114.eu.org/logo/密云电视台.png" group-title="北京",密云电视台
 http://omnix.cn:4000/udp/225.1.8.75:8002$北京电信
 #EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://epg.112114.eu.org/logo/密云电视台.png" group-title="北京",密云电视台
@@ -6960,13 +6960,13 @@ http://coolcat.synology.me:4022/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://epg.112114.eu.org/logo/密云电视台.png" group-title="北京",密云电视台
 http://ikuai.zlsip.top:4022/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://epg.112114.eu.org/logo/密云电视台.png" group-title="北京",密云电视台
-http://114.243.106.190:8822/rtp/239.3.1.154:8001
+http://sweetown.fun:4000/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://epg.112114.eu.org/logo/延庆电视台.png" group-title="北京",延庆电视台
 http://coolcat.synology.me:4022/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://epg.112114.eu.org/logo/延庆电视台.png" group-title="北京",延庆电视台
 http://ikuai.zlsip.top:4022/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://epg.112114.eu.org/logo/延庆电视台.png" group-title="北京",延庆电视台
-http://114.243.106.190:8822/rtp/239.3.1.187:8001
+http://sweetown.fun:4000/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="房山电视台" tvg-logo="https://epg.112114.eu.org/logo/房山电视台.png" group-title="北京",房山电视台
 http://omnix.cn:4000/udp/225.1.8.68:8002$北京电信
 #EXTINF:-1 tvg-name="房山电视台" tvg-logo="https://epg.112114.eu.org/logo/房山电视台.png" group-title="北京",房山电视台
@@ -6976,13 +6976,13 @@ http://coolcat.synology.me:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="房山电视台" tvg-logo="https://epg.112114.eu.org/logo/房山电视台.png" group-title="北京",房山电视台
 http://ikuai.zlsip.top:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="房山电视台" tvg-logo="https://epg.112114.eu.org/logo/房山电视台.png" group-title="北京",房山电视台
-http://114.243.106.190:8822/rtp/239.3.1.96:8001
+http://sweetown.fun:4000/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://epg.112114.eu.org/logo/大健康.png" group-title="北京",大健康
 http://coolcat.synology.me:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://epg.112114.eu.org/logo/大健康.png" group-title="北京",大健康
 http://ikuai.zlsip.top:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://epg.112114.eu.org/logo/大健康.png" group-title="北京",大健康
-http://114.243.106.190:8822/rtp/239.3.1.251:8001
+http://sweetown.fun:4000/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://epg.112114.eu.org/logo/优优宝贝.png" group-title="北京",优优宝贝
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000641/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://epg.112114.eu.org/logo/优优宝贝.png" group-title="北京",优优宝贝
@@ -9009,6 +9009,11 @@ http://220.174.37.18:8888/rtp/239.253.64.69:5140
 http://139.189.71.55:33333/rtp/239.253.64.69:5140
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.18:6000$河北电信
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
+http://hebdx.chunfengyun.top:4022/rtp/239.254.200.18:6000$河北电信
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
+http://itms.xznet.org:41097/rtp/239.254.200.18:6000$河北电信
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
 http://121.19.134.10:4022/rtp/239.253.92.171:6001
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
@@ -9024,6 +9029,8 @@ http://111.225.95.105:33333/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://epg.112114.eu.org/logo/河北都市.png" group-title="河北",河北都市
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.19:6000$河北电信
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://epg.112114.eu.org/logo/河北都市.png" group-title="河北",河北都市
+http://itms.xznet.org:41097/rtp/239.254.200.19:6000$河北电信
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://epg.112114.eu.org/logo/河北都市.png" group-title="河北",河北都市
 http://121.19.134.10:4022/rtp/239.253.92.172:6002
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://epg.112114.eu.org/logo/河北都市.png" group-title="河北",河北都市
 http://121.29.91.210:7077/rtp/239.253.92.172:6002
@@ -9037,6 +9044,8 @@ http://111.225.93.174:33333/hls/21/index.m3u8
 http://111.225.95.105:33333/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://epg.112114.eu.org/logo/河北影视剧.png" group-title="河北",河北影视剧
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.20:6000$河北电信
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://epg.112114.eu.org/logo/河北影视剧.png" group-title="河北",河北影视剧
+http://itms.xznet.org:41097/rtp/239.254.200.20:6000$河北电信
 #EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://epg.112114.eu.org/logo/河北影视剧.png" group-title="河北",河北影视剧
 http://121.19.134.10:4022/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://epg.112114.eu.org/logo/河北影视剧.png" group-title="河北",河北影视剧
@@ -9052,6 +9061,8 @@ http://111.225.95.105:33333/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://epg.112114.eu.org/logo/河北少儿科教.png" group-title="河北",河北少儿科教
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.21:6000$河北电信
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://epg.112114.eu.org/logo/河北少儿科教.png" group-title="河北",河北少儿科教
+http://itms.xznet.org:41097/rtp/239.254.200.21:6000$河北电信
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://epg.112114.eu.org/logo/河北少儿科教.png" group-title="河北",河北少儿科教
 http://121.19.134.10:4022/rtp/239.253.92.174:6004
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://epg.112114.eu.org/logo/河北少儿科教.png" group-title="河北",河北少儿科教
 http://121.29.91.210:7077/rtp/239.253.92.174:6004
@@ -9065,6 +9076,8 @@ http://111.225.93.174:33333/hls/23/index.m3u8
 http://111.225.95.105:33333/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://epg.112114.eu.org/logo/河北文旅公共.png" group-title="河北",河北文旅公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.22:6000$河北电信
+#EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://epg.112114.eu.org/logo/河北文旅公共.png" group-title="河北",河北文旅公共
+http://itms.xznet.org:41097/rtp/239.254.200.22:6000$河北电信
 #EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://epg.112114.eu.org/logo/河北文旅公共.png" group-title="河北",河北文旅公共
 http://121.19.134.10:4022/rtp/239.253.92.175:6005
 #EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://epg.112114.eu.org/logo/河北文旅公共.png" group-title="河北",河北文旅公共
@@ -9080,6 +9093,8 @@ http://111.225.95.105:33333/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://epg.112114.eu.org/logo/河北农民.png" group-title="河北",河北农民
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.23:6000$河北电信
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://epg.112114.eu.org/logo/河北农民.png" group-title="河北",河北农民
+http://itms.xznet.org:41097/rtp/239.254.200.23:6000$河北电信
+#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://epg.112114.eu.org/logo/河北农民.png" group-title="河北",河北农民
 http://121.19.134.10:4022/rtp/239.253.92.176:6006
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://epg.112114.eu.org/logo/河北农民.png" group-title="河北",河北农民
 http://121.29.91.210:7077/rtp/239.253.92.176:6006
@@ -9093,8 +9108,12 @@ http://111.225.93.174:33333/hls/25/index.m3u8
 http://111.225.95.105:33333/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="河北杂技" tvg-logo="https://epg.112114.eu.org/logo/河北杂技.png" group-title="河北",河北杂技
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.139:7203$河北电信
+#EXTINF:-1 tvg-name="河北杂技" tvg-logo="https://epg.112114.eu.org/logo/河北杂技.png" group-title="河北",河北杂技
+http://itms.xznet.org:41097/rtp/239.254.201.139:7203$河北电信
 #EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://epg.112114.eu.org/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.157:6000$河北电信
+#EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://epg.112114.eu.org/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.157:6000$河北电信
 #EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://epg.112114.eu.org/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
 http://121.19.134.10:4022/rtp/239.253.92.149:6035
 #EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://epg.112114.eu.org/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
@@ -9103,6 +9122,8 @@ http://121.29.91.210:7077/rtp/239.253.92.149:6035
 http://101.22.74.98:8888/rtp/239.253.92.149:6035
 #EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="https://epg.112114.eu.org/logo/石家庄娱乐.png" group-title="河北",石家庄娱乐
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.29:6000$河北电信
+#EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="https://epg.112114.eu.org/logo/石家庄娱乐.png" group-title="河北",石家庄娱乐
+http://itms.xznet.org:41097/rtp/239.254.200.29:6000$河北电信
 #EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="https://epg.112114.eu.org/logo/石家庄娱乐.png" group-title="河北",石家庄娱乐
 http://121.19.134.10:4022/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="https://epg.112114.eu.org/logo/石家庄娱乐.png" group-title="河北",石家庄娱乐
@@ -9113,6 +9134,8 @@ http://101.22.74.98:8888/rtp/239.253.92.93:8120
 http://121.19.134.10:4022/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-name="石家庄生活" tvg-logo="https://epg.112114.eu.org/logo/石家庄生活.png" group-title="河北",石家庄生活
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.30:6000$河北电信
+#EXTINF:-1 tvg-name="石家庄生活" tvg-logo="https://epg.112114.eu.org/logo/石家庄生活.png" group-title="河北",石家庄生活
+http://itms.xznet.org:41097/rtp/239.254.200.30:6000$河北电信
 #EXTINF:-1 tvg-name="石家庄生活" tvg-logo="https://epg.112114.eu.org/logo/石家庄生活.png" group-title="河北",石家庄生活
 http://121.29.91.210:7077/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-name="石家庄生活" tvg-logo="https://epg.112114.eu.org/logo/石家庄生活.png" group-title="河北",石家庄生活
@@ -9125,10 +9148,14 @@ http://121.29.91.210:7077/rtp/239.253.92.95:8122
 http://101.22.74.98:8888/rtp/239.253.92.95:8122
 #EXTINF:-1 tvg-name="石家庄都市" tvg-logo="https://epg.112114.eu.org/logo/石家庄都市.png" group-title="河北",石家庄都市
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.31:6000$河北电信
+#EXTINF:-1 tvg-name="石家庄都市" tvg-logo="https://epg.112114.eu.org/logo/石家庄都市.png" group-title="河北",石家庄都市
+http://itms.xznet.org:41097/rtp/239.254.200.31:6000$河北电信
 #EXTINF:-1 tvg-name="保定新闻综合" tvg-logo="https://epg.112114.eu.org/logo/保定新闻综合.png" group-title="河北",保定新闻综合
 http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="保定新闻综合" tvg-logo="https://epg.112114.eu.org/logo/保定新闻综合.png" group-title="河北",保定新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.144:6000$河北电信
+#EXTINF:-1 tvg-name="保定新闻综合" tvg-logo="https://epg.112114.eu.org/logo/保定新闻综合.png" group-title="河北",保定新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.144:6000$河北电信
 #EXTINF:-1 tvg-name="保定新闻综合" tvg-logo="https://epg.112114.eu.org/logo/保定新闻综合.png" group-title="河北",保定新闻综合
 http://121.29.91.210:7077/rtp/239.253.93.2:6153
 #EXTINF:-1 tvg-name="保定新闻综合" tvg-logo="https://epg.112114.eu.org/logo/保定新闻综合.png" group-title="河北",保定新闻综合
@@ -9143,6 +9170,8 @@ http://111.225.93.174:33333/hls/27/index.m3u8
 http://101.22.74.98:8888/rtp/239.253.93.2:6153
 #EXTINF:-1 tvg-name="保定公共" tvg-logo="https://epg.112114.eu.org/logo/保定公共.png" group-title="河北",保定公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.145:6000$河北电信
+#EXTINF:-1 tvg-name="保定公共频道" tvg-logo="https://epg.112114.eu.org/logo/保定公共频道.png" group-title="河北",保定公共频道
+http://itms.xznet.org:41097/rtp/239.254.200.145:6000$河北电信
 #EXTINF:-1 tvg-name="保定公共" tvg-logo="https://epg.112114.eu.org/logo/保定公共.png" group-title="河北",保定公共
 http://121.29.91.210:7077/rtp/239.253.93.4:6157
 #EXTINF:-1 tvg-name="保定公共" tvg-logo="https://epg.112114.eu.org/logo/保定公共.png" group-title="河北",保定公共
@@ -9162,6 +9191,8 @@ http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="保定生活健康" tvg-logo="https://epg.112114.eu.org/logo/保定生活健康.png" group-title="河北",保定生活健康
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.146:6000$河北电信
 #EXTINF:-1 tvg-name="保定生活健康" tvg-logo="https://epg.112114.eu.org/logo/保定生活健康.png" group-title="河北",保定生活健康
+http://itms.xznet.org:41097/rtp/239.254.200.146:6000$河北电信
+#EXTINF:-1 tvg-name="保定生活健康" tvg-logo="https://epg.112114.eu.org/logo/保定生活健康.png" group-title="河北",保定生活健康
 http://121.29.91.210:7077/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-name="保定生活健康" tvg-logo="https://epg.112114.eu.org/logo/保定生活健康.png" group-title="河北",保定生活健康
 http://121.19.134.10:4022/rtp/239.253.93.5:6158
@@ -9176,6 +9207,8 @@ http://101.22.74.98:8888/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-name="霸州综合" tvg-logo="https://epg.112114.eu.org/logo/霸州综合.png" group-title="河北",霸州综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.4:5313$河北电信
 #EXTINF:-1 tvg-name="霸州综合" tvg-logo="https://epg.112114.eu.org/logo/霸州综合.png" group-title="河北",霸州综合
+http://itms.xznet.org:41097/rtp/239.254.200.4:5313$河北电信
+#EXTINF:-1 tvg-name="霸州综合" tvg-logo="https://epg.112114.eu.org/logo/霸州综合.png" group-title="河北",霸州综合
 http://121.29.91.210:7077/rtp/239.253.93.209:6387
 #EXTINF:-1 tvg-name="霸州综合" tvg-logo="https://epg.112114.eu.org/logo/霸州综合.png" group-title="河北",霸州综合
 http://121.19.134.10:4022/rtp/239.253.93.209:6387
@@ -9189,6 +9222,8 @@ http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
 https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
 #EXTINF:-1 tvg-name="承德新闻综合" tvg-logo="https://epg.112114.eu.org/logo/承德新闻综合.png" group-title="河北",承德新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.32:6000$河北电信
+#EXTINF:-1 tvg-name="承德新闻综合" tvg-logo="https://epg.112114.eu.org/logo/承德新闻综合.png" group-title="河北",承德新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.32:6000$河北电信
 #EXTINF:-1 tvg-name="承德新闻综合" tvg-logo="https://epg.112114.eu.org/logo/承德新闻综合.png" group-title="河北",承德新闻综合
 http://121.29.91.210:7077/rtp/239.253.92.222:8112
 #EXTINF:-1 tvg-name="承德新闻综合" tvg-logo="https://epg.112114.eu.org/logo/承德新闻综合.png" group-title="河北",承德新闻综合
@@ -9206,6 +9241,8 @@ https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
 #EXTINF:-1 tvg-name="承德公共" tvg-logo="https://epg.112114.eu.org/logo/承德公共.png" group-title="河北",承德公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.33:6000$河北电信
 #EXTINF:-1 tvg-name="承德公共" tvg-logo="https://epg.112114.eu.org/logo/承德公共.png" group-title="河北",承德公共
+http://itms.xznet.org:41097/rtp/239.254.200.33:6000$河北电信
+#EXTINF:-1 tvg-name="承德公共" tvg-logo="https://epg.112114.eu.org/logo/承德公共.png" group-title="河北",承德公共
 http://121.29.91.210:7077/rtp/239.253.92.223:8113
 #EXTINF:-1 tvg-name="承德公共" tvg-logo="https://epg.112114.eu.org/logo/承德公共.png" group-title="河北",承德公共
 http://121.19.134.10:4022/rtp/239.253.92.223:8113
@@ -9213,6 +9250,8 @@ http://121.19.134.10:4022/rtp/239.253.92.223:8113
 http://101.22.74.98:8888/rtp/239.253.92.223:8113
 #EXTINF:-1 tvg-name="沧州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沧州新闻综合.png" group-title="河北",沧州新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.42:6000$河北电信
+#EXTINF:-1 tvg-name="沧州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沧州新闻综合.png" group-title="河北",沧州新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.42:6000$河北电信
 #EXTINF:-1 tvg-name="沧州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沧州新闻综合.png" group-title="河北",沧州新闻综合
 http://121.29.91.210:7077/rtp/239.253.92.121:6015
 #EXTINF:-1 tvg-name="沧州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/沧州新闻综合.png" group-title="河北",沧州新闻综合
@@ -9222,6 +9261,8 @@ http://101.22.74.98:8888/rtp/239.253.92.121:6015
 #EXTINF:-1 tvg-name="沧州公共" tvg-logo="https://epg.112114.eu.org/logo/沧州公共.png" group-title="河北",沧州公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.43:6000$河北电信
 #EXTINF:-1 tvg-name="沧州公共" tvg-logo="https://epg.112114.eu.org/logo/沧州公共.png" group-title="河北",沧州公共
+http://itms.xznet.org:41097/rtp/239.254.200.43:6000$河北电信
+#EXTINF:-1 tvg-name="沧州公共" tvg-logo="https://epg.112114.eu.org/logo/沧州公共.png" group-title="河北",沧州公共
 http://121.29.91.210:7077/rtp/239.253.92.122:6016
 #EXTINF:-1 tvg-name="沧州公共" tvg-logo="https://epg.112114.eu.org/logo/沧州公共.png" group-title="河北",沧州公共
 http://121.19.134.10:4022/rtp/239.253.92.122:6016
@@ -9229,6 +9270,8 @@ http://121.19.134.10:4022/rtp/239.253.92.122:6016
 http://101.22.74.98:8888/rtp/239.253.92.122:6016
 #EXTINF:-1 tvg-name="沧州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/沧州影视娱乐.png" group-title="河北",沧州影视娱乐
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.44:6000$河北电信
+#EXTINF:-1 tvg-name="沧州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/沧州影视娱乐.png" group-title="河北",沧州影视娱乐
+http://itms.xznet.org:41097/rtp/239.254.200.44:6000$河北电信
 #EXTINF:-1 tvg-name="沧州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/沧州影视娱乐.png" group-title="河北",沧州影视娱乐
 http://121.29.91.210:7077/rtp/239.253.92.123:6017
 #EXTINF:-1 tvg-name="沧州影视娱乐" tvg-logo="https://epg.112114.eu.org/logo/沧州影视娱乐.png" group-title="河北",沧州影视娱乐
@@ -9239,6 +9282,8 @@ http://101.22.74.98:8888/rtp/239.253.92.123:6017
 https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 #EXTINF:-1 tvg-name="邯郸新闻综合" tvg-logo="https://epg.112114.eu.org/logo/邯郸新闻综合.png" group-title="河北",邯郸新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.153:6000$河北电信
+#EXTINF:-1 tvg-name="邯郸新闻综合" tvg-logo="https://epg.112114.eu.org/logo/邯郸新闻综合.png" group-title="河北",邯郸新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.153:6000$河北电信
 #EXTINF:-1 tvg-name="邯郸新闻综合" tvg-logo="https://epg.112114.eu.org/logo/邯郸新闻综合.png" group-title="河北",邯郸新闻综合
 http://121.29.91.210:7077/rtp/239.253.93.11:6164
 #EXTINF:-1 tvg-name="邯郸新闻综合" tvg-logo="https://epg.112114.eu.org/logo/邯郸新闻综合.png" group-title="河北",邯郸新闻综合
@@ -9251,6 +9296,8 @@ https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邯郸公共" tvg-logo="https://epg.112114.eu.org/logo/邯郸公共.png" group-title="河北",邯郸公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.154:6000$河北电信
+#EXTINF:-1 tvg-name="邯郸公共" tvg-logo="https://epg.112114.eu.org/logo/邯郸公共.png" group-title="河北",邯郸公共
+http://itms.xznet.org:41097/rtp/239.254.200.154:6000$河北电信
 #EXTINF:-1 tvg-name="邯郸公共" tvg-logo="https://epg.112114.eu.org/logo/邯郸公共.png" group-title="河北",邯郸公共
 http://121.29.91.210:7077/rtp/239.253.93.12:6165
 #EXTINF:-1 tvg-name="邯郸公共" tvg-logo="https://epg.112114.eu.org/logo/邯郸公共.png" group-title="河北",邯郸公共
@@ -9266,6 +9313,8 @@ https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邯郸科技教育" tvg-logo="https://epg.112114.eu.org/logo/邯郸科技教育.png" group-title="河北",邯郸科技教育
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.155:6000$河北电信
 #EXTINF:-1 tvg-name="邯郸科技教育" tvg-logo="https://epg.112114.eu.org/logo/邯郸科技教育.png" group-title="河北",邯郸科技教育
+http://itms.xznet.org:41097/rtp/239.254.200.155:6000$河北电信
+#EXTINF:-1 tvg-name="邯郸科技教育" tvg-logo="https://epg.112114.eu.org/logo/邯郸科技教育.png" group-title="河北",邯郸科技教育
 http://121.29.91.210:7077/rtp/239.253.93.13:6166
 #EXTINF:-1 tvg-name="邯郸科技教育" tvg-logo="https://epg.112114.eu.org/logo/邯郸科技教育.png" group-title="河北",邯郸科技教育
 http://121.19.134.10:4022/rtp/239.253.93.13:6166
@@ -9275,6 +9324,8 @@ http://101.22.74.98:8888/rtp/239.253.93.13:6166
 http://hls.hsrtv.cn/live/hshstv1.m3u8
 #EXTINF:-1 tvg-name="衡水新闻综合" tvg-logo="https://epg.112114.eu.org/logo/衡水新闻综合.png" group-title="河北",衡水新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.147:6000$河北电信
+#EXTINF:-1 tvg-name="衡水新闻综合" tvg-logo="https://epg.112114.eu.org/logo/衡水新闻综合.png" group-title="河北",衡水新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.147:6000$河北电信
 #EXTINF:-1 tvg-name="衡水新闻综合" tvg-logo="https://epg.112114.eu.org/logo/衡水新闻综合.png" group-title="河北",衡水新闻综合
 http://121.29.91.210:7077/rtp/239.253.93.3:6154
 #EXTINF:-1 tvg-name="衡水新闻综合" tvg-logo="https://epg.112114.eu.org/logo/衡水新闻综合.png" group-title="河北",衡水新闻综合
@@ -9286,6 +9337,8 @@ http://hls.hsrtv.cn/live/hshstv2.m3u8
 #EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://epg.112114.eu.org/logo/衡水公共.png" group-title="河北",衡水公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.149:6000$河北电信
 #EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://epg.112114.eu.org/logo/衡水公共.png" group-title="河北",衡水公共
+http://itms.xznet.org:41097/rtp/239.254.200.149:6000$河北电信
+#EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://epg.112114.eu.org/logo/衡水公共.png" group-title="河北",衡水公共
 http://121.29.91.210:7077/rtp/239.253.93.7:6160
 #EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://epg.112114.eu.org/logo/衡水公共.png" group-title="河北",衡水公共
 http://121.19.134.10:4022/rtp/239.253.93.7:6160
@@ -9293,6 +9346,8 @@ http://121.19.134.10:4022/rtp/239.253.93.7:6160
 http://101.22.74.98:8888/rtp/239.253.93.7:6160
 #EXTINF:-1 tvg-name="廊坊新闻" tvg-logo="https://epg.112114.eu.org/logo/廊坊新闻.png" group-title="河北",廊坊新闻
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.183:6000$河北电信
+#EXTINF:-1 tvg-name="廊坊新闻" tvg-logo="https://epg.112114.eu.org/logo/廊坊新闻.png" group-title="河北",廊坊新闻
+http://itms.xznet.org:41097/rtp/239.254.200.183:6000$河北电信
 #EXTINF:-1 tvg-name="廊坊新闻" tvg-logo="https://epg.112114.eu.org/logo/廊坊新闻.png" group-title="河北",廊坊新闻
 http://121.29.91.210:7077/rtp/239.253.92.164:6036
 #EXTINF:-1 tvg-name="廊坊新闻" tvg-logo="https://epg.112114.eu.org/logo/廊坊新闻.png" group-title="河北",廊坊新闻
@@ -9302,6 +9357,8 @@ http://101.22.74.98:8888/rtp/239.253.92.164:6036
 #EXTINF:-1 tvg-name="廊坊公共" tvg-logo="https://epg.112114.eu.org/logo/廊坊公共.png" group-title="河北",廊坊公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.184:6000$河北电信
 #EXTINF:-1 tvg-name="廊坊公共" tvg-logo="https://epg.112114.eu.org/logo/廊坊公共.png" group-title="河北",廊坊公共
+http://itms.xznet.org:41097/rtp/239.254.200.184:6000$河北电信
+#EXTINF:-1 tvg-name="廊坊公共" tvg-logo="https://epg.112114.eu.org/logo/廊坊公共.png" group-title="河北",廊坊公共
 http://121.29.91.210:7077/rtp/239.253.92.166:6037
 #EXTINF:-1 tvg-name="廊坊公共" tvg-logo="https://epg.112114.eu.org/logo/廊坊公共.png" group-title="河北",廊坊公共
 http://121.19.134.10:4022/rtp/239.253.92.166:6037
@@ -9309,6 +9366,8 @@ http://121.19.134.10:4022/rtp/239.253.92.166:6037
 http://101.22.74.98:8888/rtp/239.253.92.166:6037
 #EXTINF:-1 tvg-name="秦皇岛新闻综合" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛新闻综合.png" group-title="河北",秦皇岛新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.39:6000$河北电信
+#EXTINF:-1 tvg-name="秦皇岛新闻综合" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛新闻综合.png" group-title="河北",秦皇岛新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.39:6000$河北电信
 #EXTINF:-1 tvg-name="秦皇岛新闻综合" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛新闻综合.png" group-title="河北",秦皇岛新闻综合
 http://121.29.91.210:7077/rtp/239.253.92.52:6021
 #EXTINF:-1 tvg-name="秦皇岛新闻综合" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛新闻综合.png" group-title="河北",秦皇岛新闻综合
@@ -9318,6 +9377,8 @@ http://101.22.74.98:8888/rtp/239.253.92.52:6021
 #EXTINF:-1 tvg-name="秦皇岛公共" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛公共.png" group-title="河北",秦皇岛公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.40:6000$河北电信
 #EXTINF:-1 tvg-name="秦皇岛公共" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛公共.png" group-title="河北",秦皇岛公共
+http://itms.xznet.org:41097/rtp/239.254.200.40:6000$河北电信
+#EXTINF:-1 tvg-name="秦皇岛公共" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛公共.png" group-title="河北",秦皇岛公共
 http://121.29.91.210:7077/rtp/239.253.92.53:6022
 #EXTINF:-1 tvg-name="秦皇岛公共" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛公共.png" group-title="河北",秦皇岛公共
 http://121.19.134.10:4022/rtp/239.253.92.53:6022
@@ -9325,6 +9386,8 @@ http://121.19.134.10:4022/rtp/239.253.92.53:6022
 http://101.22.74.98:8888/rtp/239.253.92.53:6022
 #EXTINF:-1 tvg-name="秦皇岛影视" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛影视.png" group-title="河北",秦皇岛影视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.41:6000$河北电信
+#EXTINF:-1 tvg-name="秦皇岛影视" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛影视.png" group-title="河北",秦皇岛影视
+http://itms.xznet.org:41097/rtp/239.254.200.41:6000$河北电信
 #EXTINF:-1 tvg-name="秦皇岛影视" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛影视.png" group-title="河北",秦皇岛影视
 http://121.29.91.210:7077/rtp/239.253.92.54:6023
 #EXTINF:-1 tvg-name="秦皇岛影视" tvg-logo="https://epg.112114.eu.org/logo/秦皇岛影视.png" group-title="河北",秦皇岛影视
@@ -9334,6 +9397,8 @@ http://101.22.74.98:8888/rtp/239.253.92.54:6023
 #EXTINF:-1 tvg-name="唐山新闻综合" tvg-logo="https://epg.112114.eu.org/logo/唐山新闻综合.png" group-title="河北",唐山新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.166:6000$河北电信
 #EXTINF:-1 tvg-name="唐山新闻综合" tvg-logo="https://epg.112114.eu.org/logo/唐山新闻综合.png" group-title="河北",唐山新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.166:6000$河北电信
+#EXTINF:-1 tvg-name="唐山新闻综合" tvg-logo="https://epg.112114.eu.org/logo/唐山新闻综合.png" group-title="河北",唐山新闻综合
 http://121.29.91.210:7077/rtp/239.253.92.245:6089
 #EXTINF:-1 tvg-name="唐山新闻综合" tvg-logo="https://epg.112114.eu.org/logo/唐山新闻综合.png" group-title="河北",唐山新闻综合
 http://121.19.134.10:4022/rtp/239.253.92.245:6089
@@ -9341,6 +9406,8 @@ http://121.19.134.10:4022/rtp/239.253.92.245:6089
 http://101.22.74.98:8888/rtp/239.253.92.245:6089
 #EXTINF:-1 tvg-name="唐山生活服务" tvg-logo="https://epg.112114.eu.org/logo/唐山生活服务.png" group-title="河北",唐山生活服务
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.167:6000$河北电信
+#EXTINF:-1 tvg-name="唐山生活服务" tvg-logo="https://epg.112114.eu.org/logo/唐山生活服务.png" group-title="河北",唐山生活服务
+http://itms.xznet.org:41097/rtp/239.254.200.167:6000$河北电信
 #EXTINF:-1 tvg-name="唐山生活服务" tvg-logo="https://epg.112114.eu.org/logo/唐山生活服务.png" group-title="河北",唐山生活服务
 http://121.29.91.210:7077/rtp/239.253.92.126:6026
 #EXTINF:-1 tvg-name="唐山生活服务" tvg-logo="https://epg.112114.eu.org/logo/唐山生活服务.png" group-title="河北",唐山生活服务
@@ -9350,6 +9417,8 @@ http://101.22.74.98:8888/rtp/239.253.92.126:6026
 #EXTINF:-1 tvg-name="唐山影视" tvg-logo="https://epg.112114.eu.org/logo/唐山影视.png" group-title="河北",唐山影视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.168:6000$河北电信
 #EXTINF:-1 tvg-name="唐山影视" tvg-logo="https://epg.112114.eu.org/logo/唐山影视.png" group-title="河北",唐山影视
+http://itms.xznet.org:41097/rtp/239.254.200.168:6000$河北电信
+#EXTINF:-1 tvg-name="唐山影视" tvg-logo="https://epg.112114.eu.org/logo/唐山影视.png" group-title="河北",唐山影视
 http://121.29.91.210:7077/rtp/239.253.92.127:6027
 #EXTINF:-1 tvg-name="唐山影视" tvg-logo="https://epg.112114.eu.org/logo/唐山影视.png" group-title="河北",唐山影视
 http://121.19.134.10:4022/rtp/239.253.92.127:6027
@@ -9357,6 +9426,8 @@ http://121.19.134.10:4022/rtp/239.253.92.127:6027
 http://101.22.74.98:8888/rtp/239.253.92.127:6027
 #EXTINF:-1 tvg-name="唐山公共" tvg-logo="https://epg.112114.eu.org/logo/唐山公共.png" group-title="河北",唐山公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.169:6000$河北电信
+#EXTINF:-1 tvg-name="唐山公共" tvg-logo="https://epg.112114.eu.org/logo/唐山公共.png" group-title="河北",唐山公共
+http://itms.xznet.org:41097/rtp/239.254.200.169:6000$河北电信
 #EXTINF:-1 tvg-name="唐山公共" tvg-logo="https://epg.112114.eu.org/logo/唐山公共.png" group-title="河北",唐山公共
 http://121.29.91.210:7077/rtp/239.253.92.128:6028
 #EXTINF:-1 tvg-name="唐山公共" tvg-logo="https://epg.112114.eu.org/logo/唐山公共.png" group-title="河北",唐山公共
@@ -9370,6 +9441,8 @@ https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://epg.112114.eu.org/logo/邢台综合.png" group-title="河北",邢台综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.150:6000$河北电信
 #EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://epg.112114.eu.org/logo/邢台综合.png" group-title="河北",邢台综合
+http://itms.xznet.org:41097/rtp/239.254.200.150:6000$河北电信
+#EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://epg.112114.eu.org/logo/邢台综合.png" group-title="河北",邢台综合
 http://121.29.91.210:7077/rtp/239.253.93.8:6161
 #EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://epg.112114.eu.org/logo/邢台综合.png" group-title="河北",邢台综合
 http://121.19.134.10:4022/rtp/239.253.93.8:6161
@@ -9377,6 +9450,8 @@ http://121.19.134.10:4022/rtp/239.253.93.8:6161
 http://101.22.74.98:8888/rtp/239.253.93.8:6161
 #EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://epg.112114.eu.org/logo/邢台城市生活.png" group-title="河北",邢台城市生活
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.152:6000$河北电信
+#EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://epg.112114.eu.org/logo/邢台城市生活.png" group-title="河北",邢台城市生活
+http://itms.xznet.org:41097/rtp/239.254.200.152:6000$河北电信
 #EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://epg.112114.eu.org/logo/邢台城市生活.png" group-title="河北",邢台城市生活
 http://121.29.91.210:7077/rtp/239.253.93.10:6163
 #EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://epg.112114.eu.org/logo/邢台城市生活.png" group-title="河北",邢台城市生活
@@ -9386,6 +9461,8 @@ http://101.22.74.98:8888/rtp/239.253.93.10:6163
 #EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://epg.112114.eu.org/logo/张家口新闻综合.png" group-title="河北",张家口新闻综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.35:6000$河北电信
 #EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://epg.112114.eu.org/logo/张家口新闻综合.png" group-title="河北",张家口新闻综合
+http://itms.xznet.org:41097/rtp/239.254.200.35:6000$河北电信
+#EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://epg.112114.eu.org/logo/张家口新闻综合.png" group-title="河北",张家口新闻综合
 http://121.29.91.210:7077/rtp/239.253.92.225:8115
 #EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://epg.112114.eu.org/logo/张家口新闻综合.png" group-title="河北",张家口新闻综合
 http://121.19.134.10:4022/rtp/239.253.92.225:8115
@@ -9394,11 +9471,43 @@ http://101.22.74.98:8888/rtp/239.253.92.225:8115
 #EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://epg.112114.eu.org/logo/张家口公共.png" group-title="河北",张家口公共
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.36:6000$河北电信
 #EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://epg.112114.eu.org/logo/张家口公共.png" group-title="河北",张家口公共
+http://itms.xznet.org:41097/rtp/239.254.200.36:6000$河北电信
+#EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://epg.112114.eu.org/logo/张家口公共.png" group-title="河北",张家口公共
 http://121.29.91.210:7077/rtp/239.253.92.226:8116
 #EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://epg.112114.eu.org/logo/张家口公共.png" group-title="河北",张家口公共
 http://121.19.134.10:4022/rtp/239.253.92.226:8116
 #EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://epg.112114.eu.org/logo/张家口公共.png" group-title="河北",张家口公共
 http://101.22.74.98:8888/rtp/239.253.92.226:8116
+#EXTINF:-1 tvg-name="遵化电视" tvg-logo="https://epg.112114.eu.org/logo/遵化电视.png" group-title="河北",遵化电视
+http://itms.xznet.org:41097/rtp/239.254.201.146:5202$河北电信
+#EXTINF:-1 tvg-name="涿州电视" tvg-logo="https://epg.112114.eu.org/logo/涿州电视.png" group-title="河北",涿州电视
+http://itms.xznet.org:41097/rtp/239.254.201.17:5261$河北电信
+#EXTINF:-1 tvg-name="涿鹿电视" tvg-logo="https://epg.112114.eu.org/logo/涿鹿电视.png" group-title="河北",涿鹿电视
+http://itms.xznet.org:41097/rtp/239.254.201.145:5272$河北电信
+#EXTINF:-1 tvg-name="赵县电视" tvg-logo="https://epg.112114.eu.org/logo/赵县电视.png" group-title="河北",赵县电视
+http://itms.xznet.org:41097/rtp/239.254.201.111:5183$河北电信
+#EXTINF:-1 tvg-name="张北电视" tvg-logo="https://epg.112114.eu.org/logo/张北电视.png" group-title="河北",张北电视
+http://itms.xznet.org:41097/rtp/239.254.201.130:5271$河北电信
+#EXTINF:-1 tvg-name="枣强电视" tvg-logo="https://epg.112114.eu.org/logo/枣强电视.png" group-title="河北",枣强电视
+http://itms.xznet.org:41097/rtp/239.254.201.136:5363$河北电信
+#EXTINF:-1 tvg-name="赞皇电视" tvg-logo="https://epg.112114.eu.org/logo/赞皇电视.png" group-title="河北",赞皇电视
+http://itms.xznet.org:41097/rtp/239.254.200.244:5177$河北电信
+#EXTINF:-1 tvg-name="元氏电视" tvg-logo="https://epg.112114.eu.org/logo/元氏电视.png" group-title="河北",元氏电视
+http://itms.xznet.org:41097/rtp/239.254.200.191:5169$河北电信
+#EXTINF:-1 tvg-name="玉田电视" tvg-logo="https://epg.112114.eu.org/logo/玉田电视.png" group-title="河北",玉田电视
+http://itms.xznet.org:41097/rtp/239.254.201.28:5194$河北电信
+#EXTINF:-1 tvg-name="永清电视" tvg-logo="https://epg.112114.eu.org/logo/永清电视.png" group-title="河北",永清电视
+http://itms.xznet.org:41097/rtp/239.254.201.141:5316$河北电信
+#EXTINF:-1 tvg-name="盐山电视" tvg-logo="https://epg.112114.eu.org/logo/盐山电视.png" group-title="河北",盐山电视
+http://itms.xznet.org:41097/rtp/239.254.201.114:5334$河北电信
+#EXTINF:-1 tvg-name="徐水电视" tvg-logo="https://epg.112114.eu.org/logo/徐水电视.png" group-title="河北",徐水电视
+http://itms.xznet.org:41097/rtp/239.254.201.147:6260$河北电信
+#EXTINF:-1 tvg-name="雄县电视" tvg-logo="https://epg.112114.eu.org/logo/雄县电视.png" group-title="河北",雄县电视
+http://itms.xznet.org:41097/rtp/239.254.201.94:6254$河北电信
+#EXTINF:-1 tvg-name="兴隆电视" tvg-logo="https://epg.112114.eu.org/logo/兴隆电视.png" group-title="河北",兴隆电视
+http://itms.xznet.org:41097/rtp/239.254.201.95:5295$河北电信
+#EXTINF:-1 tvg-name="香河电视" tvg-logo="https://epg.112114.eu.org/logo/香河电视.png" group-title="河北",香河电视
+http://itms.xznet.org:41097/rtp/239.254.201.32:5306$河北电信
 #EXTINF:-1 tvg-name="香河电视" tvg-logo="https://epg.112114.eu.org/logo/香河电视.png" group-title="河北",香河电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.32:5306$河北电信
 #EXTINF:-1 tvg-name="香河电视" tvg-logo="https://epg.112114.eu.org/logo/香河电视.png" group-title="河北",香河电视
@@ -9408,6 +9517,8 @@ http://121.19.134.10:4022/rtp/239.253.92.185:6049
 #EXTINF:-1 tvg-name="香河电视" tvg-logo="https://epg.112114.eu.org/logo/香河电视.png" group-title="河北",香河电视
 http://101.22.74.98:8888/rtp/239.253.92.185:6049
 #EXTINF:-1 tvg-name="武邑电视" tvg-logo="https://epg.112114.eu.org/logo/武邑电视.png" group-title="河北",武邑电视
+http://itms.xznet.org:41097/rtp/239.254.201.8:5355$河北电信
+#EXTINF:-1 tvg-name="武邑电视" tvg-logo="https://epg.112114.eu.org/logo/武邑电视.png" group-title="河北",武邑电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.8:5355$河北电信
 #EXTINF:-1 tvg-name="武强电视" tvg-logo="https://epg.112114.eu.org/logo/武强电视.png" group-title="河北",武强电视
 http://121.29.91.210:7077/rtp/239.253.93.79:6245
@@ -9415,6 +9526,8 @@ http://121.29.91.210:7077/rtp/239.253.93.79:6245
 http://121.19.134.10:4022/rtp/239.253.93.79:6245
 #EXTINF:-1 tvg-name="武强电视" tvg-logo="https://epg.112114.eu.org/logo/武强电视.png" group-title="河北",武强电视
 http://101.22.74.98:8888/rtp/239.253.93.79:6245
+#EXTINF:-1 tvg-name="武安电视" tvg-logo="https://epg.112114.eu.org/logo/武安电视.png" group-title="河北",武安电视
+http://itms.xznet.org:41097/rtp/239.254.201.6:5216$河北电信
 #EXTINF:-1 tvg-name="武安电视" tvg-logo="https://epg.112114.eu.org/logo/武安电视.png" group-title="河北",武安电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.6:5216$河北电信
 #EXTINF:-1 tvg-name="武安电视" tvg-logo="https://epg.112114.eu.org/logo/武安电视.png" group-title="河北",武安电视
@@ -9424,6 +9537,8 @@ http://121.19.134.10:4022/rtp/239.253.93.62:6215
 #EXTINF:-1 tvg-name="武安电视" tvg-logo="https://epg.112114.eu.org/logo/武安电视.png" group-title="河北",武安电视
 http://101.22.74.98:8888/rtp/239.253.93.62:6215
 #EXTINF:-1 tvg-name="吴桥电视" tvg-logo="https://epg.112114.eu.org/logo/吴桥电视.png" group-title="河北",吴桥电视
+http://itms.xznet.org:41097/rtp/239.254.201.138:5337$河北电信
+#EXTINF:-1 tvg-name="吴桥电视" tvg-logo="https://epg.112114.eu.org/logo/吴桥电视.png" group-title="河北",吴桥电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.138:5337$河北电信
 #EXTINF:-1 tvg-name="吴桥电视" tvg-logo="https://epg.112114.eu.org/logo/吴桥电视.png" group-title="河北",吴桥电视
 http://121.29.91.210:7077/rtp/239.253.93.169:6337
@@ -9431,6 +9546,8 @@ http://121.29.91.210:7077/rtp/239.253.93.169:6337
 http://121.19.134.10:4022/rtp/239.253.93.169:6337
 #EXTINF:-1 tvg-name="吴桥电视" tvg-logo="https://epg.112114.eu.org/logo/吴桥电视.png" group-title="河北",吴桥电视
 http://101.22.74.98:8888/rtp/239.253.93.169:6337
+#EXTINF:-1 tvg-name="无极电视" tvg-logo="https://epg.112114.eu.org/logo/无极电视.png" group-title="河北",无极电视
+http://itms.xznet.org:41097/rtp/239.254.200.220:5167$河北电信
 #EXTINF:-1 tvg-name="无极电视" tvg-logo="https://epg.112114.eu.org/logo/无极电视.png" group-title="河北",无极电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.220:5167$河北电信
 #EXTINF:-1 tvg-name="无极电视" tvg-logo="https://epg.112114.eu.org/logo/无极电视.png" group-title="河北",无极电视
@@ -9440,6 +9557,8 @@ http://121.19.134.10:4022/rtp/239.253.92.138:6222
 #EXTINF:-1 tvg-name="无极电视" tvg-logo="https://epg.112114.eu.org/logo/无极电视.png" group-title="河北",无极电视
 http://101.22.74.98:8888/rtp/239.253.92.138:6222
 #EXTINF:-1 tvg-name="文安电视" tvg-logo="https://epg.112114.eu.org/logo/文安电视.png" group-title="河北",文安电视
+http://itms.xznet.org:41097/rtp/239.254.201.103:5314$河北电信
+#EXTINF:-1 tvg-name="文安电视" tvg-logo="https://epg.112114.eu.org/logo/文安电视.png" group-title="河北",文安电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.103:5314$河北电信
 #EXTINF:-1 tvg-name="文安电视" tvg-logo="https://epg.112114.eu.org/logo/文安电视.png" group-title="河北",文安电视
 http://121.29.91.210:7077/rtp/239.253.93.111:6278
@@ -9447,6 +9566,8 @@ http://121.29.91.210:7077/rtp/239.253.93.111:6278
 http://121.19.134.10:4022/rtp/239.253.93.111:6278
 #EXTINF:-1 tvg-name="文安电视" tvg-logo="https://epg.112114.eu.org/logo/文安电视.png" group-title="河北",文安电视
 http://101.22.74.98:8888/rtp/239.253.93.111:6278
+#EXTINF:-1 tvg-name="魏县电视" tvg-logo="https://epg.112114.eu.org/logo/魏县电视.png" group-title="河北",魏县电视
+http://itms.xznet.org:41097/rtp/239.254.201.148:6211$河北电信
 #EXTINF:-1 tvg-name="魏县电视" tvg-logo="https://epg.112114.eu.org/logo/魏县电视.png" group-title="河北",魏县电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.148:6211$河北电信
 #EXTINF:-1 tvg-name="魏县电视" tvg-logo="https://epg.112114.eu.org/logo/魏县电视.png" group-title="河北",魏县电视
@@ -9458,6 +9579,8 @@ http://101.22.74.98:8888/rtp/239.253.93.185:6353
 #EXTINF:-1 tvg-name="望都电视" tvg-logo="https://epg.112114.eu.org/logo/望都电视.png" group-title="河北",望都电视
 https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
 #EXTINF:-1 tvg-name="望都电视" tvg-logo="https://epg.112114.eu.org/logo/望都电视.png" group-title="河北",望都电视
+http://itms.xznet.org:41097/rtp/239.254.201.56:6246$河北电信
+#EXTINF:-1 tvg-name="望都电视" tvg-logo="https://epg.112114.eu.org/logo/望都电视.png" group-title="河北",望都电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.56:6246$河北电信
 #EXTINF:-1 tvg-name="望都电视" tvg-logo="https://epg.112114.eu.org/logo/望都电视.png" group-title="河北",望都电视
 http://121.29.91.210:7077/rtp/239.253.93.32:6185
@@ -9465,6 +9588,8 @@ http://121.29.91.210:7077/rtp/239.253.93.32:6185
 http://121.19.134.10:4022/rtp/239.253.93.32:6185
 #EXTINF:-1 tvg-name="望都电视" tvg-logo="https://epg.112114.eu.org/logo/望都电视.png" group-title="河北",望都电视
 http://101.22.74.98:8888/rtp/239.253.93.32:6185
+#EXTINF:-1 tvg-name="唐县电视" tvg-logo="https://epg.112114.eu.org/logo/唐县电视.png" group-title="河北",唐县电视
+http://itms.xznet.org:41097/rtp/239.254.201.41:5264$河北电信
 #EXTINF:-1 tvg-name="唐县电视" tvg-logo="https://epg.112114.eu.org/logo/唐县电视.png" group-title="河北",唐县电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.41:5264$河北电信
 #EXTINF:-1 tvg-name="唐县电视" tvg-logo="https://epg.112114.eu.org/logo/唐县电视.png" group-title="河北",唐县电视
@@ -9476,6 +9601,8 @@ http://101.22.74.98:8888/rtp/239.253.93.30:6183
 #EXTINF:-1 tvg-name="肃宁电视" tvg-logo="https://epg.112114.eu.org/logo/肃宁电视.png" group-title="河北",肃宁电视
 http://jwplay.hebyun.com.cn/live/sndst01/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="肃宁电视" tvg-logo="https://epg.112114.eu.org/logo/肃宁电视.png" group-title="河北",肃宁电视
+http://itms.xznet.org:41097/rtp/239.254.201.122:5336$河北电信
+#EXTINF:-1 tvg-name="肃宁电视" tvg-logo="https://epg.112114.eu.org/logo/肃宁电视.png" group-title="河北",肃宁电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.122:5336$河北电信
 #EXTINF:-1 tvg-name="肃宁电视" tvg-logo="https://epg.112114.eu.org/logo/肃宁电视.png" group-title="河北",肃宁电视
 http://121.29.91.210:7077/rtp/239.253.93.152:6320
@@ -9483,6 +9610,8 @@ http://121.29.91.210:7077/rtp/239.253.93.152:6320
 http://121.19.134.10:4022/rtp/239.253.93.152:6320
 #EXTINF:-1 tvg-name="肃宁电视" tvg-logo="https://epg.112114.eu.org/logo/肃宁电视.png" group-title="河北",肃宁电视
 http://101.22.74.98:8888/rtp/239.253.93.152:6320
+#EXTINF:-1 tvg-name="顺平电视" tvg-logo="https://epg.112114.eu.org/logo/顺平电视.png" group-title="河北",顺平电视
+http://itms.xznet.org:41097/rtp/239.254.201.118:6257$河北电信
 #EXTINF:-1 tvg-name="顺平电视" tvg-logo="https://epg.112114.eu.org/logo/顺平电视.png" group-title="河北",顺平电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.118:6257$河北电信
 #EXTINF:-1 tvg-name="顺平电视" tvg-logo="https://epg.112114.eu.org/logo/顺平电视.png" group-title="河北",顺平电视
@@ -9492,6 +9621,8 @@ http://121.19.134.10:4022/rtp/239.253.93.148:6316
 #EXTINF:-1 tvg-name="顺平电视" tvg-logo="https://epg.112114.eu.org/logo/顺平电视.png" group-title="河北",顺平电视
 http://101.22.74.98:8888/rtp/239.253.93.148:6316
 #EXTINF:-1 tvg-name="双滦电视" tvg-logo="https://epg.112114.eu.org/logo/双滦电视.png" group-title="河北",双滦电视
+http://itms.xznet.org:41097/rtp/239.254.201.63:5293$河北电信
+#EXTINF:-1 tvg-name="双滦电视" tvg-logo="https://epg.112114.eu.org/logo/双滦电视.png" group-title="河北",双滦电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.63:5293$河北电信
 #EXTINF:-1 tvg-name="双滦电视" tvg-logo="https://epg.112114.eu.org/logo/双滦电视.png" group-title="河北",双滦电视
 http://121.29.91.210:7077/rtp/239.253.92.147:6224
@@ -9499,6 +9630,8 @@ http://121.29.91.210:7077/rtp/239.253.92.147:6224
 http://121.19.134.10:4022/rtp/239.253.92.147:6224
 #EXTINF:-1 tvg-name="双滦电视" tvg-logo="https://epg.112114.eu.org/logo/双滦电视.png" group-title="河北",双滦电视
 http://101.22.74.98:8888/rtp/239.253.92.147:6224
+#EXTINF:-1 tvg-name="深州电视" tvg-logo="https://epg.112114.eu.org/logo/深州电视.png" group-title="河北",深州电视
+http://itms.xznet.org:41097/rtp/239.254.201.46:5357$河北电信
 #EXTINF:-1 tvg-name="深州电视" tvg-logo="https://epg.112114.eu.org/logo/深州电视.png" group-title="河北",深州电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.46:5357$河北电信
 #EXTINF:-1 tvg-name="深州电视" tvg-logo="https://epg.112114.eu.org/logo/深州电视.png" group-title="河北",深州电视
@@ -9510,6 +9643,8 @@ http://121.19.134.10:4022/rtp/239.253.93.42:6195
 #EXTINF:-1 tvg-name="深州电视" tvg-logo="https://epg.112114.eu.org/logo/深州电视.png" group-title="河北",深州电视
 http://101.22.74.98:8888/rtp/239.253.93.42:6195
 #EXTINF:-1 tvg-name="深泽电视" tvg-logo="https://epg.112114.eu.org/logo/深泽电视.png" group-title="河北",深泽电视
+http://itms.xznet.org:41097/rtp/239.254.201.108:5180$河北电信
+#EXTINF:-1 tvg-name="深泽电视" tvg-logo="https://epg.112114.eu.org/logo/深泽电视.png" group-title="河北",深泽电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.108:5180$河北电信
 #EXTINF:-1 tvg-name="深泽电视" tvg-logo="https://epg.112114.eu.org/logo/深泽电视.png" group-title="河北",深泽电视
 http://121.29.91.210:7077/rtp/239.253.94.31:6630
@@ -9519,6 +9654,8 @@ http://121.19.134.10:4022/rtp/239.253.94.31:6630
 http://101.22.74.98:8888/rtp/239.253.94.31:6630
 #EXTINF:-1 tvg-name="涉县电视" tvg-logo="https://epg.112114.eu.org/logo/涉县电视.png" group-title="河北",涉县电视
 https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="涉县电视" tvg-logo="https://epg.112114.eu.org/logo/涉县电视.png" group-title="河北",涉县电视
+http://itms.xznet.org:41097/rtp/239.254.201.97:5222$河北电信
 #EXTINF:-1 tvg-name="涉县电视" tvg-logo="https://epg.112114.eu.org/logo/涉县电视.png" group-title="河北",涉县电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.97:5222$河北电信
 #EXTINF:-1 tvg-name="涉县电视" tvg-logo="https://epg.112114.eu.org/logo/涉县电视.png" group-title="河北",涉县电视
@@ -9534,6 +9671,8 @@ http://121.19.134.10:4022/rtp/239.253.93.163:6331
 #EXTINF:-1 tvg-name="尚义电视" tvg-logo="https://epg.112114.eu.org/logo/尚义电视.png" group-title="河北",尚义电视
 http://101.22.74.98:8888/rtp/239.253.93.163:6331
 #EXTINF:-1 tvg-name="沙河电视" tvg-logo="https://epg.112114.eu.org/logo/沙河电视.png" group-title="河北",沙河电视
+http://itms.xznet.org:41097/rtp/239.254.200.181:5369$河北电信
+#EXTINF:-1 tvg-name="沙河电视" tvg-logo="https://epg.112114.eu.org/logo/沙河电视.png" group-title="河北",沙河电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.181:5369$河北电信
 #EXTINF:-1 tvg-name="沙河电视" tvg-logo="https://epg.112114.eu.org/logo/沙河电视.png" group-title="河北",沙河电视
 http://121.29.91.210:7077/rtp/239.253.93.179:6347
@@ -9541,6 +9680,8 @@ http://121.29.91.210:7077/rtp/239.253.93.179:6347
 http://121.19.134.10:4022/rtp/239.253.93.179:6347
 #EXTINF:-1 tvg-name="沙河电视" tvg-logo="https://epg.112114.eu.org/logo/沙河电视.png" group-title="河北",沙河电视
 http://101.22.74.98:8888/rtp/239.253.93.179:6347
+#EXTINF:-1 tvg-name="三河电视" tvg-logo="https://epg.112114.eu.org/logo/三河电视.png" group-title="河北",三河电视
+http://itms.xznet.org:41097/rtp/239.254.201.113:5315$河北电信
 #EXTINF:-1 tvg-name="三河电视" tvg-logo="https://epg.112114.eu.org/logo/三河电视.png" group-title="河北",三河电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.113:5315$河北电信
 #EXTINF:-1 tvg-name="三河电视" tvg-logo="https://epg.112114.eu.org/logo/三河电视.png" group-title="河北",三河电视
@@ -9550,6 +9691,8 @@ http://121.19.134.10:4022/rtp/239.253.93.143:6311
 #EXTINF:-1 tvg-name="三河电视" tvg-logo="https://epg.112114.eu.org/logo/三河电视.png" group-title="河北",三河电视
 http://101.22.74.98:8888/rtp/239.253.93.143:6311
 #EXTINF:-1 tvg-name="容城电视" tvg-logo="https://epg.112114.eu.org/logo/容城电视.png" group-title="河北",容城电视
+http://itms.xznet.org:41097/rtp/239.254.201.102:6256$河北电信
+#EXTINF:-1 tvg-name="容城电视" tvg-logo="https://epg.112114.eu.org/logo/容城电视.png" group-title="河北",容城电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.102:6256$河北电信
 #EXTINF:-1 tvg-name="容城电视" tvg-logo="https://epg.112114.eu.org/logo/容城电视.png" group-title="河北",容城电视
 http://121.29.91.210:7077/rtp/239.253.93.110:6277
@@ -9557,6 +9700,8 @@ http://121.29.91.210:7077/rtp/239.253.93.110:6277
 http://121.19.134.10:4022/rtp/239.253.93.110:6277
 #EXTINF:-1 tvg-name="容城电视" tvg-logo="https://epg.112114.eu.org/logo/容城电视.png" group-title="河北",容城电视
 http://101.22.74.98:8888/rtp/239.253.93.110:6277
+#EXTINF:-1 tvg-name="任县电视" tvg-logo="https://epg.112114.eu.org/logo/任县电视.png" group-title="河北",任县电视
+http://itms.xznet.org:41097/rtp/239.254.201.115:5381$河北电信
 #EXTINF:-1 tvg-name="任县电视" tvg-logo="https://epg.112114.eu.org/logo/任县电视.png" group-title="河北",任县电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.115:5381$河北电信
 #EXTINF:-1 tvg-name="任县电视" tvg-logo="https://epg.112114.eu.org/logo/任县电视.png" group-title="河北",任县电视
@@ -9568,15 +9713,19 @@ http://101.22.74.98:8888/rtp/239.253.93.145:6313
 #EXTINF:-1 tvg-name="任丘综合" tvg-logo="https://epg.112114.eu.org/logo/任丘综合.png" group-title="河北",任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="饶阳电视" tvg-logo="https://epg.112114.eu.org/logo/饶阳电视.png" group-title="河北",饶阳电视
-http://hbry.chinashadt.com:1938/live/1004.stream_360p/playlist.m3u8
+http://itms.xznet.org:41097/rtp/239.254.201.44:5353$河北电信
 #EXTINF:-1 tvg-name="饶阳电视" tvg-logo="https://epg.112114.eu.org/logo/饶阳电视.png" group-title="河北",饶阳电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.44:5353$河北电信
+#EXTINF:-1 tvg-name="饶阳电视" tvg-logo="https://epg.112114.eu.org/logo/饶阳电视.png" group-title="河北",饶阳电视
+http://hbry.chinashadt.com:1938/live/1004.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="饶阳电视" tvg-logo="https://epg.112114.eu.org/logo/饶阳电视.png" group-title="河北",饶阳电视
 http://121.29.91.210:7077/rtp/239.253.93.40:6193
 #EXTINF:-1 tvg-name="饶阳电视" tvg-logo="https://epg.112114.eu.org/logo/饶阳电视.png" group-title="河北",饶阳电视
 http://121.19.134.10:4022/rtp/239.253.93.40:6193
 #EXTINF:-1 tvg-name="饶阳电视" tvg-logo="https://epg.112114.eu.org/logo/饶阳电视.png" group-title="河北",饶阳电视
 http://101.22.74.98:8888/rtp/239.253.93.40:6193
+#EXTINF:-1 tvg-name="曲周电视" tvg-logo="https://epg.112114.eu.org/logo/曲周电视.png" group-title="河北",曲周电视
+http://itms.xznet.org:41097/rtp/239.254.200.236:5210$河北电信
 #EXTINF:-1 tvg-name="曲周电视" tvg-logo="https://epg.112114.eu.org/logo/曲周电视.png" group-title="河北",曲周电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.236:5210$河北电信
 #EXTINF:-1 tvg-name="曲周电视" tvg-logo="https://epg.112114.eu.org/logo/曲周电视.png" group-title="河北",曲周电视
@@ -9586,6 +9735,8 @@ http://121.19.134.10:4022/rtp/239.253.93.54:6207
 #EXTINF:-1 tvg-name="曲周电视" tvg-logo="https://epg.112114.eu.org/logo/曲周电视.png" group-title="河北",曲周电视
 http://101.22.74.98:8888/rtp/239.253.93.54:6207
 #EXTINF:-1 tvg-name="曲阳电视" tvg-logo="https://epg.112114.eu.org/logo/曲阳电视.png" group-title="河北",曲阳电视
+http://itms.xznet.org:41097/rtp/239.254.200.242:5265$河北电信
+#EXTINF:-1 tvg-name="曲阳电视" tvg-logo="https://epg.112114.eu.org/logo/曲阳电视.png" group-title="河北",曲阳电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.242:5265$河北电信
 #EXTINF:-1 tvg-name="曲阳电视" tvg-logo="https://epg.112114.eu.org/logo/曲阳电视.png" group-title="河北",曲阳电视
 http://121.29.91.210:7077/rtp/239.253.93.31:6184
@@ -9593,6 +9744,8 @@ http://121.29.91.210:7077/rtp/239.253.93.31:6184
 http://121.19.134.10:4022/rtp/239.253.93.31:6184
 #EXTINF:-1 tvg-name="曲阳电视" tvg-logo="https://epg.112114.eu.org/logo/曲阳电视.png" group-title="河北",曲阳电视
 http://101.22.74.98:8888/rtp/239.253.93.31:6184
+#EXTINF:-1 tvg-name="邱县电视" tvg-logo="https://epg.112114.eu.org/logo/邱县电视.png" group-title="河北",邱县电视
+http://itms.xznet.org:41097/rtp/239.254.201.129:6209$河北电信
 #EXTINF:-1 tvg-name="邱县电视" tvg-logo="https://epg.112114.eu.org/logo/邱县电视.png" group-title="河北",邱县电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.129:6209$河北电信
 #EXTINF:-1 tvg-name="邱县电视" tvg-logo="https://epg.112114.eu.org/logo/邱县电视.png" group-title="河北",邱县电视
@@ -9610,6 +9763,8 @@ http://101.22.74.98:8888/rtp/239.253.93.24:6177
 #EXTINF:-1 tvg-name="清河电视" tvg-logo="https://epg.112114.eu.org/logo/清河电视.png" group-title="河北",清河电视
 https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="清河电视" tvg-logo="https://epg.112114.eu.org/logo/清河电视.png" group-title="河北",清河电视
+http://itms.xznet.org:41097/rtp/239.254.200.170:5366$河北电信
+#EXTINF:-1 tvg-name="清河电视" tvg-logo="https://epg.112114.eu.org/logo/清河电视.png" group-title="河北",清河电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.170:5366$河北电信
 #EXTINF:-1 tvg-name="清河电视" tvg-logo="https://epg.112114.eu.org/logo/清河电视.png" group-title="河北",清河电视
 http://121.29.91.210:7077/rtp/239.253.93.44:6197
@@ -9620,6 +9775,8 @@ http://101.22.74.98:8888/rtp/239.253.93.44:6197
 #EXTINF:-1 tvg-name="青县新闻" tvg-logo="https://epg.112114.eu.org/logo/青县新闻.png" group-title="河北",青县新闻
 https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
 #EXTINF:-1 tvg-name="青县电视" tvg-logo="https://epg.112114.eu.org/logo/青县电视.png" group-title="河北",青县电视
+http://itms.xznet.org:41097/rtp/239.254.201.112:5333$河北电信
+#EXTINF:-1 tvg-name="青县电视" tvg-logo="https://epg.112114.eu.org/logo/青县电视.png" group-title="河北",青县电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.112:5333$河北电信
 #EXTINF:-1 tvg-name="青县电视" tvg-logo="https://epg.112114.eu.org/logo/青县电视.png" group-title="河北",青县电视
 http://121.29.91.210:7077/rtp/239.253.93.139:6307
@@ -9627,8 +9784,12 @@ http://121.29.91.210:7077/rtp/239.253.93.139:6307
 http://121.19.134.10:4022/rtp/239.253.93.139:6307
 #EXTINF:-1 tvg-name="青县电视" tvg-logo="https://epg.112114.eu.org/logo/青县电视.png" group-title="河北",青县电视
 http://101.22.74.98:8888/rtp/239.253.93.139:6307
+#EXTINF:-1 tvg-name="迁西农业" tvg-logo="https://epg.112114.eu.org/logo/迁西农业.png" group-title="河北",迁西农业
+https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
 #EXTINF:-1 tvg-name="迁西电视" tvg-logo="https://epg.112114.eu.org/logo/迁西电视.png" group-title="河北",迁西电视
 https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
+#EXTINF:-1 tvg-name="迁西电视" tvg-logo="https://epg.112114.eu.org/logo/迁西电视.png" group-title="河北",迁西电视
+http://itms.xznet.org:41097/rtp/239.254.201.26:5188$河北电信
 #EXTINF:-1 tvg-name="迁西电视" tvg-logo="https://epg.112114.eu.org/logo/迁西电视.png" group-title="河北",迁西电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.26:5188$河北电信
 #EXTINF:-1 tvg-name="迁西电视" tvg-logo="https://epg.112114.eu.org/logo/迁西电视.png" group-title="河北",迁西电视
@@ -9637,10 +9798,10 @@ http://121.29.91.210:7077/rtp/239.253.92.247:6091
 http://121.19.134.10:4022/rtp/239.253.92.247:6091
 #EXTINF:-1 tvg-name="迁西电视" tvg-logo="https://epg.112114.eu.org/logo/迁西电视.png" group-title="河北",迁西电视
 http://101.22.74.98:8888/rtp/239.253.92.247:6091
-#EXTINF:-1 tvg-name="迁西农业" tvg-logo="https://epg.112114.eu.org/logo/迁西农业.png" group-title="河北",迁西农业
-https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
 #EXTINF:-1 tvg-name="迁安电视" tvg-logo="https://epg.112114.eu.org/logo/迁安电视.png" group-title="河北",迁安电视
 https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="迁安电视" tvg-logo="https://epg.112114.eu.org/logo/迁安电视.png" group-title="河北",迁安电视
+http://itms.xznet.org:41097/rtp/239.254.201.109:5199$河北电信
 #EXTINF:-1 tvg-name="迁安电视" tvg-logo="https://epg.112114.eu.org/logo/迁安电视.png" group-title="河北",迁安电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.109:5199$河北电信
 #EXTINF:-1 tvg-name="迁安电视" tvg-logo="https://epg.112114.eu.org/logo/迁安电视.png" group-title="河北",迁安电视
@@ -9650,6 +9811,8 @@ http://121.19.134.10:4022/rtp/239.253.93.113:6280
 #EXTINF:-1 tvg-name="迁安电视" tvg-logo="https://epg.112114.eu.org/logo/迁安电视.png" group-title="河北",迁安电视
 http://101.22.74.98:8888/rtp/239.253.93.113:6280
 #EXTINF:-1 tvg-name="平乡电视" tvg-logo="https://epg.112114.eu.org/logo/平乡电视.png" group-title="河北",平乡电视
+http://itms.xznet.org:41097/rtp/239.254.201.53:5378$河北电信
+#EXTINF:-1 tvg-name="平乡电视" tvg-logo="https://epg.112114.eu.org/logo/平乡电视.png" group-title="河北",平乡电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.53:5378$河北电信
 #EXTINF:-1 tvg-name="平乡电视" tvg-logo="https://epg.112114.eu.org/logo/平乡电视.png" group-title="河北",平乡电视
 http://121.29.91.210:7077/rtp/239.253.93.53:6206
@@ -9657,8 +9820,12 @@ http://121.29.91.210:7077/rtp/239.253.93.53:6206
 http://121.19.134.10:4022/rtp/239.253.93.53:6206
 #EXTINF:-1 tvg-name="平乡电视" tvg-logo="https://epg.112114.eu.org/logo/平乡电视.png" group-title="河北",平乡电视
 http://101.22.74.98:8888/rtp/239.253.93.53:6206
+#EXTINF:-1 tvg-name="平泉影视" tvg-logo="https://epg.112114.eu.org/logo/平泉影视.png" group-title="河北",平泉影视
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 #EXTINF:-1 tvg-name="平泉电视" tvg-logo="https://epg.112114.eu.org/logo/平泉电视.png" group-title="河北",平泉电视
 https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+#EXTINF:-1 tvg-name="平泉电视" tvg-logo="https://epg.112114.eu.org/logo/平泉电视.png" group-title="河北",平泉电视
+http://itms.xznet.org:41097/rtp/239.254.200.177:5286$河北电信
 #EXTINF:-1 tvg-name="平泉电视" tvg-logo="https://epg.112114.eu.org/logo/平泉电视.png" group-title="河北",平泉电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.177:5286$河北电信
 #EXTINF:-1 tvg-name="平泉电视" tvg-logo="https://epg.112114.eu.org/logo/平泉电视.png" group-title="河北",平泉电视
@@ -9667,8 +9834,8 @@ http://121.29.91.210:7077/rtp/239.253.92.156:6012
 http://121.19.134.10:4022/rtp/239.253.92.156:6012
 #EXTINF:-1 tvg-name="平泉电视" tvg-logo="https://epg.112114.eu.org/logo/平泉电视.png" group-title="河北",平泉电视
 http://101.22.74.98:8888/rtp/239.253.92.156:6012
-#EXTINF:-1 tvg-name="平泉影视" tvg-logo="https://epg.112114.eu.org/logo/平泉影视.png" group-title="河北",平泉影视
-https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 tvg-name="宁晋电视" tvg-logo="https://epg.112114.eu.org/logo/宁晋电视.png" group-title="河北",宁晋电视
+http://itms.xznet.org:41097/rtp/239.254.201.51:5375$河北电信
 #EXTINF:-1 tvg-name="宁晋电视" tvg-logo="https://epg.112114.eu.org/logo/宁晋电视.png" group-title="河北",宁晋电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.51:5375$河北电信
 #EXTINF:-1 tvg-name="宁晋电视" tvg-logo="https://epg.112114.eu.org/logo/宁晋电视.png" group-title="河北",宁晋电视
@@ -9678,6 +9845,8 @@ http://121.19.134.10:4022/rtp/239.253.93.51:6204
 #EXTINF:-1 tvg-name="宁晋电视" tvg-logo="https://epg.112114.eu.org/logo/宁晋电视.png" group-title="河北",宁晋电视
 http://101.22.74.98:8888/rtp/239.253.93.51:6204
 #EXTINF:-1 tvg-name="内丘电视" tvg-logo="https://epg.112114.eu.org/logo/内丘电视.png" group-title="河北",内丘电视
+http://itms.xznet.org:41097/rtp/239.254.201.77:5380$河北电信
+#EXTINF:-1 tvg-name="内丘电视" tvg-logo="https://epg.112114.eu.org/logo/内丘电视.png" group-title="河北",内丘电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.77:5380$河北电信
 #EXTINF:-1 tvg-name="内丘电视" tvg-logo="https://epg.112114.eu.org/logo/内丘电视.png" group-title="河北",内丘电视
 http://121.29.91.210:7077/rtp/239.253.93.102:6268
@@ -9685,6 +9854,8 @@ http://121.29.91.210:7077/rtp/239.253.93.102:6268
 http://121.19.134.10:4022/rtp/239.253.93.102:6268
 #EXTINF:-1 tvg-name="内丘电视" tvg-logo="https://epg.112114.eu.org/logo/内丘电视.png" group-title="河北",内丘电视
 http://101.22.74.98:8888/rtp/239.253.93.102:6268
+#EXTINF:-1 tvg-name="南皮电视" tvg-logo="https://epg.112114.eu.org/logo/南皮电视.png" group-title="河北",南皮电视
+http://itms.xznet.org:41097/rtp/239.254.201.119:5335$河北电信
 #EXTINF:-1 tvg-name="南皮电视" tvg-logo="https://epg.112114.eu.org/logo/南皮电视.png" group-title="河北",南皮电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.119:5335$河北电信
 #EXTINF:-1 tvg-name="南皮电视" tvg-logo="https://epg.112114.eu.org/logo/南皮电视.png" group-title="河北",南皮电视
@@ -9694,6 +9865,8 @@ http://121.19.134.10:4022/rtp/239.253.93.149:6317
 #EXTINF:-1 tvg-name="南皮电视" tvg-logo="https://epg.112114.eu.org/logo/南皮电视.png" group-title="河北",南皮电视
 http://101.22.74.98:8888/rtp/239.253.93.149:6317
 #EXTINF:-1 tvg-name="南和电视" tvg-logo="https://epg.112114.eu.org/logo/南和电视.png" group-title="河北",南和电视
+http://itms.xznet.org:41097/rtp/239.254.201.72:6000$河北电信
+#EXTINF:-1 tvg-name="南和电视" tvg-logo="https://epg.112114.eu.org/logo/南和电视.png" group-title="河北",南和电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.72:6000$河北电信
 #EXTINF:-1 tvg-name="南和电视" tvg-logo="https://epg.112114.eu.org/logo/南和电视.png" group-title="河北",南和电视
 http://121.29.91.210:7077/rtp/239.253.93.80:6246
@@ -9701,6 +9874,8 @@ http://121.29.91.210:7077/rtp/239.253.93.80:6246
 http://121.19.134.10:4022/rtp/239.253.93.80:6246
 #EXTINF:-1 tvg-name="南和电视" tvg-logo="https://epg.112114.eu.org/logo/南和电视.png" group-title="河北",南和电视
 http://101.22.74.98:8888/rtp/239.253.93.80:6246
+#EXTINF:-1 tvg-name="南宫电视" tvg-logo="https://epg.112114.eu.org/logo/南宫电视.png" group-title="河北",南宫电视
+http://itms.xznet.org:41097/rtp/239.254.201.48:5371$河北电信
 #EXTINF:-1 tvg-name="南宫电视" tvg-logo="https://epg.112114.eu.org/logo/南宫电视.png" group-title="河北",南宫电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.48:5371$河北电信
 #EXTINF:-1 tvg-name="南宫电视" tvg-logo="https://epg.112114.eu.org/logo/南宫电视.png" group-title="河北",南宫电视
@@ -9710,7 +9885,11 @@ http://121.19.134.10:4022/rtp/239.253.93.48:6201
 #EXTINF:-1 tvg-name="南宫电视" tvg-logo="https://epg.112114.eu.org/logo/南宫电视.png" group-title="河北",南宫电视
 http://101.22.74.98:8888/rtp/239.253.93.48:6201
 #EXTINF:-1 tvg-name="孟村电视" tvg-logo="https://epg.112114.eu.org/logo/孟村电视.png" group-title="河北",孟村电视
+http://itms.xznet.org:41097/rtp/239.254.201.38:5329$河北电信
+#EXTINF:-1 tvg-name="孟村电视" tvg-logo="https://epg.112114.eu.org/logo/孟村电视.png" group-title="河北",孟村电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.38:5329$河北电信
+#EXTINF:-1 tvg-name="满城电视" tvg-logo="https://epg.112114.eu.org/logo/满城电视.png" group-title="河北",满城电视
+http://itms.xznet.org:41097/rtp/239.254.200.222:5252$河北电信
 #EXTINF:-1 tvg-name="满城电视" tvg-logo="https://epg.112114.eu.org/logo/满城电视.png" group-title="河北",满城电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.222:5252$河北电信
 #EXTINF:-1 tvg-name="满城电视" tvg-logo="https://epg.112114.eu.org/logo/满城电视.png" group-title="河北",满城电视
@@ -9719,6 +9898,8 @@ http://121.29.91.210:7077/rtp/239.253.93.19:6172
 http://121.19.134.10:4022/rtp/239.253.93.19:6172
 #EXTINF:-1 tvg-name="满城电视" tvg-logo="https://epg.112114.eu.org/logo/满城电视.png" group-title="河北",满城电视
 http://101.22.74.98:8888/rtp/239.253.93.19:6172
+#EXTINF:-1 tvg-name="滦州电视" tvg-logo="https://epg.112114.eu.org/logo/滦州电视.png" group-title="河北",滦州电视
+http://itms.xznet.org:41097/rtp/239.254.201.30:5196$河北电信
 #EXTINF:-1 tvg-name="滦州电视" tvg-logo="https://epg.112114.eu.org/logo/滦州电视.png" group-title="河北",滦州电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.30:5196$河北电信
 #EXTINF:-1 tvg-name="滦州电视" tvg-logo="https://epg.112114.eu.org/logo/滦州电视.png" group-title="河北",滦州电视
@@ -9730,6 +9911,8 @@ http://101.22.74.98:8888/rtp/239.253.92.97:6138
 #EXTINF:-1 tvg-name="滦平电视" tvg-logo="https://epg.112114.eu.org/logo/滦平电视.png" group-title="河北",滦平电视
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="滦平电视" tvg-logo="https://epg.112114.eu.org/logo/滦平电视.png" group-title="河北",滦平电视
+http://itms.xznet.org:41097/rtp/239.254.201.4:5291$河北电信
+#EXTINF:-1 tvg-name="滦平电视" tvg-logo="https://epg.112114.eu.org/logo/滦平电视.png" group-title="河北",滦平电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.4:5291$河北电信
 #EXTINF:-1 tvg-name="滦平电视" tvg-logo="https://epg.112114.eu.org/logo/滦平电视.png" group-title="河北",滦平电视
 http://121.29.91.210:7077/rtp/239.253.92.100:6142
@@ -9737,6 +9920,8 @@ http://121.29.91.210:7077/rtp/239.253.92.100:6142
 http://121.19.134.10:4022/rtp/239.253.92.100:6142
 #EXTINF:-1 tvg-name="滦平电视" tvg-logo="https://epg.112114.eu.org/logo/滦平电视.png" group-title="河北",滦平电视
 http://101.22.74.98:8888/rtp/239.253.92.100:6142
+#EXTINF:-1 tvg-name="滦南电视" tvg-logo="https://epg.112114.eu.org/logo/滦南电视.png" group-title="河北",滦南电视
+http://itms.xznet.org:41097/rtp/239.254.201.22:5191$河北电信
 #EXTINF:-1 tvg-name="滦南电视" tvg-logo="https://epg.112114.eu.org/logo/滦南电视.png" group-title="河北",滦南电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.22:5191$河北电信
 #EXTINF:-1 tvg-name="滦南电视" tvg-logo="https://epg.112114.eu.org/logo/滦南电视.png" group-title="河北",滦南电视
@@ -9746,6 +9931,8 @@ http://121.19.134.10:4022/rtp/239.253.92.218:6100
 #EXTINF:-1 tvg-name="滦南电视" tvg-logo="https://epg.112114.eu.org/logo/滦南电视.png" group-title="河北",滦南电视
 http://101.22.74.98:8888/rtp/239.253.92.218:6100
 #EXTINF:-1 tvg-name="栾城电视" tvg-logo="https://epg.112114.eu.org/logo/栾城电视.png" group-title="河北",栾城电视
+http://itms.xznet.org:41097/rtp/239.254.200.215:5173$河北电信
+#EXTINF:-1 tvg-name="栾城电视" tvg-logo="https://epg.112114.eu.org/logo/栾城电视.png" group-title="河北",栾城电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.215:5173$河北电信
 #EXTINF:-1 tvg-name="栾城电视" tvg-logo="https://epg.112114.eu.org/logo/栾城电视.png" group-title="河北",栾城电视
 http://121.29.91.210:7077/rtp/239.253.92.187:6051
@@ -9754,15 +9941,19 @@ http://121.19.134.10:4022/rtp/239.253.92.187:6051
 #EXTINF:-1 tvg-name="栾城电视" tvg-logo="https://epg.112114.eu.org/logo/栾城电视.png" group-title="河北",栾城电视
 http://101.22.74.98:8888/rtp/239.253.92.187:6051
 #EXTINF:-1 tvg-name="鹿泉综合" tvg-logo="https://epg.112114.eu.org/logo/鹿泉综合.png" group-title="河北",鹿泉综合
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+#EXTINF:-1 tvg-name="鹿泉综合" tvg-logo="https://epg.112114.eu.org/logo/鹿泉综合.png" group-title="河北",鹿泉综合
 https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 #EXTINF:-1 tvg-name="鹿泉综合" tvg-logo="https://epg.112114.eu.org/logo/鹿泉综合.png" group-title="河北",鹿泉综合
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="鹿泉综合" tvg-logo="https://epg.112114.eu.org/logo/鹿泉综合.png" group-title="河北",鹿泉综合
-https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-#EXTINF:-1 tvg-name="鹿泉综合" tvg-logo="https://epg.112114.eu.org/logo/鹿泉综合.png" group-title="河北",鹿泉综合
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.204:6166$河北电信
 #EXTINF:-1 tvg-name="鹿泉二套" tvg-logo="https://epg.112114.eu.org/logo/鹿泉二套.png" group-title="河北",鹿泉二套
 https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
+#EXTINF:-1 tvg-name="鹿泉电视" tvg-logo="https://epg.112114.eu.org/logo/鹿泉电视.png" group-title="河北",鹿泉电视
+http://itms.xznet.org:41097/rtp/239.254.201.204:6166$河北电信
+#EXTINF:-1 tvg-name="卢龙电视" tvg-logo="https://epg.112114.eu.org/logo/卢龙电视.png" group-title="河北",卢龙电视
+http://itms.xznet.org:41097/rtp/239.254.201.216:5233$河北电信
 #EXTINF:-1 tvg-name="卢龙电视" tvg-logo="https://epg.112114.eu.org/logo/卢龙电视.png" group-title="河北",卢龙电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.216:5233$河北电信
 #EXTINF:-1 tvg-name="卢龙电视" tvg-logo="https://epg.112114.eu.org/logo/卢龙电视.png" group-title="河北",卢龙电视
@@ -9771,6 +9962,8 @@ http://121.29.91.210:7077/rtp/239.253.93.206:6384
 http://121.19.134.10:4022/rtp/239.253.93.206:6384
 #EXTINF:-1 tvg-name="卢龙电视" tvg-logo="https://epg.112114.eu.org/logo/卢龙电视.png" group-title="河北",卢龙电视
 http://101.22.74.98:8888/rtp/239.253.93.206:6384
+#EXTINF:-1 tvg-name="隆尧电视" tvg-logo="https://epg.112114.eu.org/logo/隆尧电视.png" group-title="河北",隆尧电视
+http://itms.xznet.org:41097/rtp/239.254.201.69:5379$河北电信
 #EXTINF:-1 tvg-name="隆尧电视" tvg-logo="https://epg.112114.eu.org/logo/隆尧电视.png" group-title="河北",隆尧电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.69:5379$河北电信
 #EXTINF:-1 tvg-name="隆尧电视" tvg-logo="https://epg.112114.eu.org/logo/隆尧电视.png" group-title="河北",隆尧电视
@@ -9782,6 +9975,8 @@ http://101.22.74.98:8888/rtp/239.253.93.65:6230
 #EXTINF:-1 tvg-name="隆化电视" tvg-logo="https://epg.112114.eu.org/logo/隆化电视.png" group-title="河北",隆化电视
 http://play-a2.quklive.com/live/1665982268869106.m3u8
 #EXTINF:-1 tvg-name="隆化电视" tvg-logo="https://epg.112114.eu.org/logo/隆化电视.png" group-title="河北",隆化电视
+http://itms.xznet.org:41097/rtp/239.254.201.142:5296$河北电信
+#EXTINF:-1 tvg-name="隆化电视" tvg-logo="https://epg.112114.eu.org/logo/隆化电视.png" group-title="河北",隆化电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.142:5296$河北电信
 #EXTINF:-1 tvg-name="隆化电视" tvg-logo="https://epg.112114.eu.org/logo/隆化电视.png" group-title="河北",隆化电视
 http://121.29.91.210:7077/rtp/239.253.93.174:6342
@@ -9789,6 +9984,8 @@ http://121.29.91.210:7077/rtp/239.253.93.174:6342
 http://121.19.134.10:4022/rtp/239.253.93.174:6342
 #EXTINF:-1 tvg-name="隆化电视" tvg-logo="https://epg.112114.eu.org/logo/隆化电视.png" group-title="河北",隆化电视
 http://101.22.74.98:8888/rtp/239.253.93.174:6342
+#EXTINF:-1 tvg-name="临漳电视" tvg-logo="https://epg.112114.eu.org/logo/临漳电视.png" group-title="河北",临漳电视
+http://itms.xznet.org:41097/rtp/239.254.201.73:5221$河北电信
 #EXTINF:-1 tvg-name="临漳电视" tvg-logo="https://epg.112114.eu.org/logo/临漳电视.png" group-title="河北",临漳电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.73:5221$河北电信
 #EXTINF:-1 tvg-name="临漳电视" tvg-logo="https://epg.112114.eu.org/logo/临漳电视.png" group-title="河北",临漳电视
@@ -9810,6 +10007,8 @@ http://121.19.134.10:4022/rtp/239.253.93.167:6335
 #EXTINF:-1 tvg-name="临城电视" tvg-logo="https://epg.112114.eu.org/logo/临城电视.png" group-title="河北",临城电视
 http://101.22.74.98:8888/rtp/239.253.93.167:6335
 #EXTINF:-1 tvg-name="乐亭电视" tvg-logo="https://epg.112114.eu.org/logo/乐亭电视.png" group-title="河北",乐亭电视
+http://itms.xznet.org:41097/rtp/239.254.201.107:5200$河北电信
+#EXTINF:-1 tvg-name="乐亭电视" tvg-logo="https://epg.112114.eu.org/logo/乐亭电视.png" group-title="河北",乐亭电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.107:5200$河北电信
 #EXTINF:-1 tvg-name="乐亭电视" tvg-logo="https://epg.112114.eu.org/logo/乐亭电视.png" group-title="河北",乐亭电视
 http://121.29.91.210:7077/rtp/239.253.93.250:6290
@@ -9817,6 +10016,8 @@ http://121.29.91.210:7077/rtp/239.253.93.250:6290
 http://121.19.134.10:4022/rtp/239.253.93.250:6290
 #EXTINF:-1 tvg-name="乐亭电视" tvg-logo="https://epg.112114.eu.org/logo/乐亭电视.png" group-title="河北",乐亭电视
 http://101.22.74.98:8888/rtp/239.253.93.250:6290
+#EXTINF:-1 tvg-name="涞源电视" tvg-logo="https://epg.112114.eu.org/logo/涞源电视.png" group-title="河北",涞源电视
+http://itms.xznet.org:41097/rtp/239.254.200.213:5260$河北电信
 #EXTINF:-1 tvg-name="涞源电视" tvg-logo="https://epg.112114.eu.org/logo/涞源电视.png" group-title="河北",涞源电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.213:5260$河北电信
 #EXTINF:-1 tvg-name="涞源电视" tvg-logo="https://epg.112114.eu.org/logo/涞源电视.png" group-title="河北",涞源电视
@@ -9827,6 +10028,8 @@ http://121.19.134.10:4022/rtp/239.253.93.22:6175
 http://101.22.74.98:8888/rtp/239.253.93.22:6175
 #EXTINF:-1 tvg-name="涞水电视" tvg-logo="https://epg.112114.eu.org/logo/涞水电视.png" group-title="河北",涞水电视
 https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+#EXTINF:-1 tvg-name="涞水电视" tvg-logo="https://epg.112114.eu.org/logo/涞水电视.png" group-title="河北",涞水电视
+http://itms.xznet.org:41097/rtp/239.254.201.10:5250$河北电信
 #EXTINF:-1 tvg-name="涞水电视" tvg-logo="https://epg.112114.eu.org/logo/涞水电视.png" group-title="河北",涞水电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.10:5250$河北电信
 #EXTINF:-1 tvg-name="涞水电视" tvg-logo="https://epg.112114.eu.org/logo/涞水电视.png" group-title="河北",涞水电视
@@ -9842,6 +10045,8 @@ http://121.19.134.10:4022/rtp/239.253.93.117:6019
 #EXTINF:-1 tvg-name="宽城新闻" tvg-logo="https://epg.112114.eu.org/logo/宽城新闻.png" group-title="河北",宽城新闻
 http://101.22.74.98:8888/rtp/239.253.93.117:6019
 #EXTINF:-1 tvg-name="康保电视" tvg-logo="https://epg.112114.eu.org/logo/康保电视.png" group-title="河北",康保电视
+http://itms.xznet.org:41097/rtp/239.254.201.135:5270$河北电信
+#EXTINF:-1 tvg-name="康保电视" tvg-logo="https://epg.112114.eu.org/logo/康保电视.png" group-title="河北",康保电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.135:5270$河北电信
 #EXTINF:-1 tvg-name="康保电视" tvg-logo="https://epg.112114.eu.org/logo/康保电视.png" group-title="河北",康保电视
 http://121.29.91.210:7077/rtp/239.253.93.165:6333
@@ -9856,6 +10061,8 @@ http://121.19.134.10:4022/rtp/239.253.92.254:6449
 #EXTINF:-1 tvg-name="巨鹿电视" tvg-logo="https://epg.112114.eu.org/logo/巨鹿电视.png" group-title="河北",巨鹿电视
 http://101.22.74.98:8888/rtp/239.253.92.254:6449
 #EXTINF:-1 tvg-name="景县电视" tvg-logo="https://epg.112114.eu.org/logo/景县电视.png" group-title="河北",景县电视
+http://itms.xznet.org:41097/rtp/239.254.200.240:5350$河北电信
+#EXTINF:-1 tvg-name="景县电视" tvg-logo="https://epg.112114.eu.org/logo/景县电视.png" group-title="河北",景县电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.240:5350$河北电信
 #EXTINF:-1 tvg-name="景县电视" tvg-logo="https://epg.112114.eu.org/logo/景县电视.png" group-title="河北",景县电视
 http://121.29.91.210:7077/rtp/239.253.93.38:6191
@@ -9863,6 +10070,8 @@ http://121.29.91.210:7077/rtp/239.253.93.38:6191
 http://121.19.134.10:4022/rtp/239.253.93.38:6191
 #EXTINF:-1 tvg-name="景县电视" tvg-logo="https://epg.112114.eu.org/logo/景县电视.png" group-title="河北",景县电视
 http://101.22.74.98:8888/rtp/239.253.93.38:6191
+#EXTINF:-1 tvg-name="井陉矿区电视" tvg-logo="https://epg.112114.eu.org/logo/井陉矿区电视.png" group-title="河北",井陉矿区电视
+http://itms.xznet.org:41097/rtp/239.254.201.14:5175$河北电信
 #EXTINF:-1 tvg-name="井陉矿区电视" tvg-logo="https://epg.112114.eu.org/logo/井陉矿区电视.png" group-title="河北",井陉矿区电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.14:5175$河北电信
 #EXTINF:-1 tvg-name="井陉矿区电视" tvg-logo="https://epg.112114.eu.org/logo/井陉矿区电视.png" group-title="河北",井陉矿区电视
@@ -9872,6 +10081,8 @@ http://121.19.134.10:4022/rtp/239.253.92.215:6067
 #EXTINF:-1 tvg-name="井陉矿区电视" tvg-logo="https://epg.112114.eu.org/logo/井陉矿区电视.png" group-title="河北",井陉矿区电视
 http://101.22.74.98:8888/rtp/239.253.92.215:6067
 #EXTINF:-1 tvg-name="井陉电视" tvg-logo="https://epg.112114.eu.org/logo/井陉电视.png" group-title="河北",井陉电视
+http://itms.xznet.org:41097/rtp/239.254.201.215:6167$河北电信
+#EXTINF:-1 tvg-name="井陉电视" tvg-logo="https://epg.112114.eu.org/logo/井陉电视.png" group-title="河北",井陉电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.215:6167$河北电信
 #EXTINF:-1 tvg-name="井陉电视" tvg-logo="https://epg.112114.eu.org/logo/井陉电视.png" group-title="河北",井陉电视
 http://121.29.91.210:7077/rtp/239.253.93.205:6383
@@ -9879,6 +10090,8 @@ http://121.29.91.210:7077/rtp/239.253.93.205:6383
 http://121.19.134.10:4022/rtp/239.253.93.205:6383
 #EXTINF:-1 tvg-name="井陉电视" tvg-logo="https://epg.112114.eu.org/logo/井陉电视.png" group-title="河北",井陉电视
 http://101.22.74.98:8888/rtp/239.253.93.205:6383
+#EXTINF:-1 tvg-name="晋州电视" tvg-logo="https://epg.112114.eu.org/logo/晋州电视.png" group-title="河北",晋州电视
+http://itms.xznet.org:41097/rtp/239.254.201.127:5184$河北电信
 #EXTINF:-1 tvg-name="晋州电视" tvg-logo="https://epg.112114.eu.org/logo/晋州电视.png" group-title="河北",晋州电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.127:5184$河北电信
 #EXTINF:-1 tvg-name="晋州电视" tvg-logo="https://epg.112114.eu.org/logo/晋州电视.png" group-title="河北",晋州电视
@@ -9888,6 +10101,8 @@ http://121.19.134.10:4022/rtp/239.253.93.156:6324
 #EXTINF:-1 tvg-name="晋州电视" tvg-logo="https://epg.112114.eu.org/logo/晋州电视.png" group-title="河北",晋州电视
 http://101.22.74.98:8888/rtp/239.253.93.156:6324
 #EXTINF:-1 tvg-name="冀州电视" tvg-logo="https://epg.112114.eu.org/logo/冀州电视.png" group-title="河北",冀州电视
+http://itms.xznet.org:41097/rtp/239.254.200.179:5346$河北电信
+#EXTINF:-1 tvg-name="冀州电视" tvg-logo="https://epg.112114.eu.org/logo/冀州电视.png" group-title="河北",冀州电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.179:5346$河北电信
 #EXTINF:-1 tvg-name="冀州电视" tvg-logo="https://epg.112114.eu.org/logo/冀州电视.png" group-title="河北",冀州电视
 http://121.29.91.210:7077/rtp/239.253.93.34:6187
@@ -9895,6 +10110,8 @@ http://121.29.91.210:7077/rtp/239.253.93.34:6187
 http://121.19.134.10:4022/rtp/239.253.93.34:6187
 #EXTINF:-1 tvg-name="冀州电视" tvg-logo="https://epg.112114.eu.org/logo/冀州电视.png" group-title="河北",冀州电视
 http://101.22.74.98:8888/rtp/239.253.93.34:6187
+#EXTINF:-1 tvg-name="鸡泽电视" tvg-logo="https://epg.112114.eu.org/logo/鸡泽电视.png" group-title="河北",鸡泽电视
+http://itms.xznet.org:41097/rtp/239.254.201.60:5218$河北电信
 #EXTINF:-1 tvg-name="鸡泽电视" tvg-logo="https://epg.112114.eu.org/logo/鸡泽电视.png" group-title="河北",鸡泽电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.60:5218$河北电信
 #EXTINF:-1 tvg-name="鸡泽电视" tvg-logo="https://epg.112114.eu.org/logo/鸡泽电视.png" group-title="河北",鸡泽电视
@@ -9905,6 +10122,8 @@ http://121.19.134.10:4022/rtp/239.253.93.64:6219
 http://101.22.74.98:8888/rtp/239.253.93.64:6219
 #EXTINF:-1 tvg-name="黄骅电视" tvg-logo="https://epg.112114.eu.org/logo/黄骅电视.png" group-title="河北",黄骅电视
 http://play-a2.quklive.com/live/1665711895729077.m3u8
+#EXTINF:-1 tvg-name="黄骅电视" tvg-logo="https://epg.112114.eu.org/logo/黄骅电视.png" group-title="河北",黄骅电视
+http://itms.xznet.org:41097/rtp/239.254.201.36:5325$河北电信
 #EXTINF:-1 tvg-name="黄骅电视" tvg-logo="https://epg.112114.eu.org/logo/黄骅电视.png" group-title="河北",黄骅电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.36:5325$河北电信
 #EXTINF:-1 tvg-name="黄骅电视" tvg-logo="https://epg.112114.eu.org/logo/黄骅电视.png" group-title="河北",黄骅电视
@@ -9918,6 +10137,8 @@ http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="行唐综合频道" tvg-logo="https://epg.112114.eu.org/logo/行唐综合频道.png" group-title="河北",行唐综合频道
 http://27.128.190.231:18080/sdi
 #EXTINF:-1 tvg-name="邯山电视" tvg-logo="https://epg.112114.eu.org/logo/邯山电视.png" group-title="河北",邯山电视
+http://itms.xznet.org:41097/rtp/239.254.201.116:5225$河北电信
+#EXTINF:-1 tvg-name="邯山电视" tvg-logo="https://epg.112114.eu.org/logo/邯山电视.png" group-title="河北",邯山电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.116:5225$河北电信
 #EXTINF:-1 tvg-name="邯山电视" tvg-logo="https://epg.112114.eu.org/logo/邯山电视.png" group-title="河北",邯山电视
 http://121.29.91.210:7077/rtp/239.253.93.146:6314
@@ -9925,6 +10146,8 @@ http://121.29.91.210:7077/rtp/239.253.93.146:6314
 http://121.19.134.10:4022/rtp/239.253.93.146:6314
 #EXTINF:-1 tvg-name="邯山电视" tvg-logo="https://epg.112114.eu.org/logo/邯山电视.png" group-title="河北",邯山电视
 http://101.22.74.98:8888/rtp/239.253.93.146:6314
+#EXTINF:-1 tvg-name="广宗电视" tvg-logo="https://epg.112114.eu.org/logo/广宗电视.png" group-title="河北",广宗电视
+http://itms.xznet.org:41097/rtp/239.254.201.50:5373$河北电信
 #EXTINF:-1 tvg-name="广宗电视" tvg-logo="https://epg.112114.eu.org/logo/广宗电视.png" group-title="河北",广宗电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.50:5373$河北电信
 #EXTINF:-1 tvg-name="广宗电视" tvg-logo="https://epg.112114.eu.org/logo/广宗电视.png" group-title="河北",广宗电视
@@ -9934,6 +10157,8 @@ http://121.19.134.10:4022/rtp/239.253.93.50:6203
 #EXTINF:-1 tvg-name="广宗电视" tvg-logo="https://epg.112114.eu.org/logo/广宗电视.png" group-title="河北",广宗电视
 http://101.22.74.98:8888/rtp/239.253.93.50:6203
 #EXTINF:-1 tvg-name="广平电视" tvg-logo="https://epg.112114.eu.org/logo/广平电视.png" group-title="河北",广平电视
+http://itms.xznet.org:41097/rtp/239.254.201.70:5220$河北电信
+#EXTINF:-1 tvg-name="广平电视" tvg-logo="https://epg.112114.eu.org/logo/广平电视.png" group-title="河北",广平电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.70:5220$河北电信
 #EXTINF:-1 tvg-name="广平电视" tvg-logo="https://epg.112114.eu.org/logo/广平电视.png" group-title="河北",广平电视
 http://121.29.91.210:7077/rtp/239.253.93.66:6231
@@ -9941,6 +10166,8 @@ http://121.29.91.210:7077/rtp/239.253.93.66:6231
 http://121.19.134.10:4022/rtp/239.253.93.66:6231
 #EXTINF:-1 tvg-name="广平电视" tvg-logo="https://epg.112114.eu.org/logo/广平电视.png" group-title="河北",广平电视
 http://101.22.74.98:8888/rtp/239.253.93.66:6231
+#EXTINF:-1 tvg-name="馆陶电视" tvg-logo="https://epg.112114.eu.org/logo/馆陶电视.png" group-title="河北",馆陶电视
+http://itms.xznet.org:41097/rtp/239.254.201.106:5224$河北电信
 #EXTINF:-1 tvg-name="馆陶电视" tvg-logo="https://epg.112114.eu.org/logo/馆陶电视.png" group-title="河北",馆陶电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.106:5224$河北电信
 #EXTINF:-1 tvg-name="馆陶电视" tvg-logo="https://epg.112114.eu.org/logo/馆陶电视.png" group-title="河北",馆陶电视
@@ -9950,6 +10177,8 @@ http://121.19.134.10:4022/rtp/239.253.93.115:6282
 #EXTINF:-1 tvg-name="馆陶电视" tvg-logo="https://epg.112114.eu.org/logo/馆陶电视.png" group-title="河北",馆陶电视
 http://101.22.74.98:8888/rtp/239.253.93.115:6282
 #EXTINF:-1 tvg-name="故城电视" tvg-logo="https://epg.112114.eu.org/logo/故城电视.png" group-title="河北",故城电视
+http://itms.xznet.org:41097/rtp/239.254.201.126:5362$河北电信
+#EXTINF:-1 tvg-name="故城电视" tvg-logo="https://epg.112114.eu.org/logo/故城电视.png" group-title="河北",故城电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.126:5362$河北电信
 #EXTINF:-1 tvg-name="故城电视" tvg-logo="https://epg.112114.eu.org/logo/故城电视.png" group-title="河北",故城电视
 http://121.29.91.210:7077/rtp/239.253.93.161:6329
@@ -9957,6 +10186,8 @@ http://121.29.91.210:7077/rtp/239.253.93.161:6329
 http://121.19.134.10:4022/rtp/239.253.93.161:6329
 #EXTINF:-1 tvg-name="故城电视" tvg-logo="https://epg.112114.eu.org/logo/故城电视.png" group-title="河北",故城电视
 http://101.22.74.98:8888/rtp/239.253.93.161:6329
+#EXTINF:-1 tvg-name="固安电视" tvg-logo="https://epg.112114.eu.org/logo/固安电视.png" group-title="河北",固安电视
+http://itms.xznet.org:41097/rtp/239.254.201.101:5312$河北电信
 #EXTINF:-1 tvg-name="固安电视" tvg-logo="https://epg.112114.eu.org/logo/固安电视.png" group-title="河北",固安电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.101:5312$河北电信
 #EXTINF:-1 tvg-name="固安电视" tvg-logo="https://epg.112114.eu.org/logo/固安电视.png" group-title="河北",固安电视
@@ -9966,6 +10197,8 @@ http://121.19.134.10:4022/rtp/239.253.93.109:6276
 #EXTINF:-1 tvg-name="固安电视" tvg-logo="https://epg.112114.eu.org/logo/固安电视.png" group-title="河北",固安电视
 http://101.22.74.98:8888/rtp/239.253.93.109:6276
 #EXTINF:-1 tvg-name="高邑电视" tvg-logo="https://epg.112114.eu.org/logo/高邑电视.png" group-title="河北",高邑电视
+http://itms.xznet.org:41097/rtp/239.254.201.24:5170$河北电信
+#EXTINF:-1 tvg-name="高邑电视" tvg-logo="https://epg.112114.eu.org/logo/高邑电视.png" group-title="河北",高邑电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.24:5170$河北电信
 #EXTINF:-1 tvg-name="高邑电视" tvg-logo="https://epg.112114.eu.org/logo/高邑电视.png" group-title="河北",高邑电视
 http://121.29.91.210:7077/rtp/239.253.92.160:6041
@@ -9973,6 +10206,8 @@ http://121.29.91.210:7077/rtp/239.253.92.160:6041
 http://121.19.134.10:4022/rtp/239.253.92.160:6041
 #EXTINF:-1 tvg-name="高邑电视" tvg-logo="https://epg.112114.eu.org/logo/高邑电视.png" group-title="河北",高邑电视
 http://101.22.74.98:8888/rtp/239.253.92.160:6041
+#EXTINF:-1 tvg-name="高阳电视" tvg-logo="https://epg.112114.eu.org/logo/高阳电视.png" group-title="河北",高阳电视
+http://itms.xznet.org:41097/rtp/239.254.201.96:6253$河北电信
 #EXTINF:-1 tvg-name="高阳电视" tvg-logo="https://epg.112114.eu.org/logo/高阳电视.png" group-title="河北",高阳电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.96:6253$河北电信
 #EXTINF:-1 tvg-name="高阳电视" tvg-logo="https://epg.112114.eu.org/logo/高阳电视.png" group-title="河北",高阳电视
@@ -9982,6 +10217,8 @@ http://121.19.134.10:4022/rtp/239.253.93.105:6272
 #EXTINF:-1 tvg-name="高阳电视" tvg-logo="https://epg.112114.eu.org/logo/高阳电视.png" group-title="河北",高阳电视
 http://101.22.74.98:8888/rtp/239.253.93.105:6272
 #EXTINF:-1 tvg-name="高碑店电视" tvg-logo="https://epg.112114.eu.org/logo/高碑店电视.png" group-title="河北",高碑店电视
+http://itms.xznet.org:41097/rtp/239.254.200.210:5254$河北电信
+#EXTINF:-1 tvg-name="高碑店电视" tvg-logo="https://epg.112114.eu.org/logo/高碑店电视.png" group-title="河北",高碑店电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.210:5254$河北电信
 #EXTINF:-1 tvg-name="高碑店电视" tvg-logo="https://epg.112114.eu.org/logo/高碑店电视.png" group-title="河北",高碑店电视
 http://121.29.91.210:7077/rtp/239.253.93.23:6176
@@ -9989,6 +10226,8 @@ http://121.29.91.210:7077/rtp/239.253.93.23:6176
 http://121.19.134.10:4022/rtp/239.253.93.23:6176
 #EXTINF:-1 tvg-name="高碑店电视" tvg-logo="https://epg.112114.eu.org/logo/高碑店电视.png" group-title="河北",高碑店电视
 http://101.22.74.98:8888/rtp/239.253.93.23:6176
+#EXTINF:-1 tvg-name="阜平电视" tvg-logo="https://epg.112114.eu.org/logo/阜平电视.png" group-title="河北",阜平电视
+http://itms.xznet.org:41097/rtp/239.254.201.40:5248$河北电信
 #EXTINF:-1 tvg-name="阜平电视" tvg-logo="https://epg.112114.eu.org/logo/阜平电视.png" group-title="河北",阜平电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.40:5248$河北电信
 #EXTINF:-1 tvg-name="阜平电视" tvg-logo="https://epg.112114.eu.org/logo/阜平电视.png" group-title="河北",阜平电视
@@ -9998,6 +10237,8 @@ http://121.19.134.10:4022/rtp/239.253.93.16:6169
 #EXTINF:-1 tvg-name="阜平电视" tvg-logo="https://epg.112114.eu.org/logo/阜平电视.png" group-title="河北",阜平电视
 http://101.22.74.98:8888/rtp/239.253.93.16:6169
 #EXTINF:-1 tvg-name="阜城电视" tvg-logo="https://epg.112114.eu.org/logo/阜城电视.png" group-title="河北",阜城电视
+http://itms.xznet.org:41097/rtp/239.254.201.98:5361$河北电信
+#EXTINF:-1 tvg-name="阜城电视" tvg-logo="https://epg.112114.eu.org/logo/阜城电视.png" group-title="河北",阜城电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.98:5361$河北电信
 #EXTINF:-1 tvg-name="阜城电视" tvg-logo="https://epg.112114.eu.org/logo/阜城电视.png" group-title="河北",阜城电视
 http://121.29.91.210:7077/rtp/239.253.93.168:6336
@@ -10006,6 +10247,8 @@ http://121.19.134.10:4022/rtp/239.253.93.168:6336
 #EXTINF:-1 tvg-name="阜城电视" tvg-logo="https://epg.112114.eu.org/logo/阜城电视.png" group-title="河北",阜城电视
 http://101.22.74.98:8888/rtp/239.253.93.168:6336
 #EXTINF:-1 tvg-name="抚宁电视" tvg-logo="https://epg.112114.eu.org/logo/抚宁电视.png" group-title="河北",抚宁电视
+http://itms.xznet.org:41097/rtp/239.254.201.213:5232$河北电信
+#EXTINF:-1 tvg-name="抚宁电视" tvg-logo="https://epg.112114.eu.org/logo/抚宁电视.png" group-title="河北",抚宁电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.213:5232$河北电信
 #EXTINF:-1 tvg-name="抚宁电视" tvg-logo="https://epg.112114.eu.org/logo/抚宁电视.png" group-title="河北",抚宁电视
 http://121.29.91.210:7077/rtp/239.253.93.201:6379
@@ -10013,6 +10256,8 @@ http://121.29.91.210:7077/rtp/239.253.93.201:6379
 http://121.19.134.10:4022/rtp/239.253.93.201:6379
 #EXTINF:-1 tvg-name="抚宁电视" tvg-logo="https://epg.112114.eu.org/logo/抚宁电视.png" group-title="河北",抚宁电视
 http://101.22.74.98:8888/rtp/239.253.93.201:6379
+#EXTINF:-1 tvg-name="丰润电视" tvg-logo="https://epg.112114.eu.org/logo/丰润电视.png" group-title="河北",丰润电视
+http://itms.xznet.org:41097/rtp/239.254.201.58:5197$河北电信
 #EXTINF:-1 tvg-name="丰润电视" tvg-logo="https://epg.112114.eu.org/logo/丰润电视.png" group-title="河北",丰润电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.58:5197$河北电信
 #EXTINF:-1 tvg-name="丰润电视" tvg-logo="https://epg.112114.eu.org/logo/丰润电视.png" group-title="河北",丰润电视
@@ -10030,7 +10275,11 @@ http://121.19.134.10:4022/rtp/239.253.93.210:6388
 #EXTINF:-1 tvg-name="丰宁综合" tvg-logo="https://epg.112114.eu.org/logo/丰宁综合.png" group-title="河北",丰宁综合
 http://101.22.74.98:8888/rtp/239.253.93.210:6388
 #EXTINF:-1 tvg-name="丰宁电视" tvg-logo="https://epg.112114.eu.org/logo/丰宁电视.png" group-title="河北",丰宁电视
+http://itms.xznet.org:41097/rtp/239.254.200.5:5290$河北电信
+#EXTINF:-1 tvg-name="丰宁电视" tvg-logo="https://epg.112114.eu.org/logo/丰宁电视.png" group-title="河北",丰宁电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.5:5290$河北电信
+#EXTINF:-1 tvg-name="丰南电视" tvg-logo="https://epg.112114.eu.org/logo/丰南电视.png" group-title="河北",丰南电视
+http://itms.xznet.org:41097/rtp/239.254.200.218:5186$河北电信
 #EXTINF:-1 tvg-name="丰南电视" tvg-logo="https://epg.112114.eu.org/logo/丰南电视.png" group-title="河北",丰南电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.218:5186$河北电信
 #EXTINF:-1 tvg-name="丰南电视" tvg-logo="https://epg.112114.eu.org/logo/丰南电视.png" group-title="河北",丰南电视
@@ -10040,7 +10289,11 @@ http://121.19.134.10:4022/rtp/239.253.92.231:6070
 #EXTINF:-1 tvg-name="丰南电视" tvg-logo="https://epg.112114.eu.org/logo/丰南电视.png" group-title="河北",丰南电视
 http://101.22.74.98:8888/rtp/239.253.92.231:6070
 #EXTINF:-1 tvg-name="肥乡电视" tvg-logo="https://epg.112114.eu.org/logo/肥乡电视.png" group-title="河北",肥乡电视
+http://itms.xznet.org:41097/rtp/239.254.201.105:5223$河北电信
+#EXTINF:-1 tvg-name="肥乡电视" tvg-logo="https://epg.112114.eu.org/logo/肥乡电视.png" group-title="河北",肥乡电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.105:5223$河北电信
+#EXTINF:-1 tvg-name="东光电视" tvg-logo="https://epg.112114.eu.org/logo/东光电视.png" group-title="河北",东光电视
+http://itms.xznet.org:41097/rtp/239.254.201.76:5331$河北电信
 #EXTINF:-1 tvg-name="东光电视" tvg-logo="https://epg.112114.eu.org/logo/东光电视.png" group-title="河北",东光电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.76:5331$河北电信
 #EXTINF:-1 tvg-name="东光电视" tvg-logo="https://epg.112114.eu.org/logo/东光电视.png" group-title="河北",东光电视
@@ -10049,8 +10302,14 @@ http://121.29.91.210:7077/rtp/239.253.93.96:6262
 http://121.19.134.10:4022/rtp/239.253.93.96:6262
 #EXTINF:-1 tvg-name="东光电视" tvg-logo="https://epg.112114.eu.org/logo/东光电视.png" group-title="河北",东光电视
 http://101.22.74.98:8888/rtp/239.253.93.96:6262
+#EXTINF:-1 tvg-name="定州生活频道" tvg-logo="https://epg.112114.eu.org/logo/定州生活频道.png" group-title="河北",定州生活频道
+https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+#EXTINF:-1 tvg-name="定州国学影视" tvg-logo="https://epg.112114.eu.org/logo/定州国学影视.png" group-title="河北",定州国学影视
+https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 #EXTINF:-1 tvg-name="定州电视" tvg-logo="https://epg.112114.eu.org/logo/定州电视.png" group-title="河北",定州电视
 https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+#EXTINF:-1 tvg-name="定州电视" tvg-logo="https://epg.112114.eu.org/logo/定州电视.png" group-title="河北",定州电视
+http://itms.xznet.org:41097/rtp/239.254.201.74:6251$河北电信
 #EXTINF:-1 tvg-name="定州电视" tvg-logo="https://epg.112114.eu.org/logo/定州电视.png" group-title="河北",定州电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.74:6251$河北电信
 #EXTINF:-1 tvg-name="定州电视" tvg-logo="https://epg.112114.eu.org/logo/定州电视.png" group-title="河北",定州电视
@@ -10059,10 +10318,8 @@ http://121.29.91.210:7077/rtp/239.253.93.95:6260
 http://121.19.134.10:4022/rtp/239.253.93.95:6260
 #EXTINF:-1 tvg-name="定州电视" tvg-logo="https://epg.112114.eu.org/logo/定州电视.png" group-title="河北",定州电视
 http://101.22.74.98:8888/rtp/239.253.93.95:6260
-#EXTINF:-1 tvg-name="定州生活频道" tvg-logo="https://epg.112114.eu.org/logo/定州生活频道.png" group-title="河北",定州生活频道
-https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
-#EXTINF:-1 tvg-name="定州国学影视" tvg-logo="https://epg.112114.eu.org/logo/定州国学影视.png" group-title="河北",定州国学影视
-https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
+#EXTINF:-1 tvg-name="定兴电视" tvg-logo="https://epg.112114.eu.org/logo/定兴电视.png" group-title="河北",定兴电视
+http://itms.xznet.org:41097/rtp/239.254.200.172:5246$河北电信
 #EXTINF:-1 tvg-name="定兴电视" tvg-logo="https://epg.112114.eu.org/logo/定兴电视.png" group-title="河北",定兴电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.172:5246$河北电信
 #EXTINF:-1 tvg-name="定兴电视" tvg-logo="https://epg.112114.eu.org/logo/定兴电视.png" group-title="河北",定兴电视
@@ -10072,6 +10329,8 @@ http://121.19.134.10:4022/rtp/239.253.93.14:6167
 #EXTINF:-1 tvg-name="定兴电视" tvg-logo="https://epg.112114.eu.org/logo/定兴电视.png" group-title="河北",定兴电视
 http://101.22.74.98:8888/rtp/239.253.93.14:6167
 #EXTINF:-1 tvg-name="大名电视" tvg-logo="https://epg.112114.eu.org/logo/大名电视.png" group-title="河北",大名电视
+http://itms.xznet.org:41097/rtp/239.254.201.149:6212$河北电信
+#EXTINF:-1 tvg-name="大名电视" tvg-logo="https://epg.112114.eu.org/logo/大名电视.png" group-title="河北",大名电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.149:6212$河北电信
 #EXTINF:-1 tvg-name="大名电视" tvg-logo="https://epg.112114.eu.org/logo/大名电视.png" group-title="河北",大名电视
 http://121.29.91.210:7077/rtp/239.253.93.186:6354
@@ -10079,6 +10338,8 @@ http://121.29.91.210:7077/rtp/239.253.93.186:6354
 http://121.19.134.10:4022/rtp/239.253.93.186:6354
 #EXTINF:-1 tvg-name="大名电视" tvg-logo="https://epg.112114.eu.org/logo/大名电视.png" group-title="河北",大名电视
 http://101.22.74.98:8888/rtp/239.253.93.186:6354
+#EXTINF:-1 tvg-name="大城电视" tvg-logo="https://epg.112114.eu.org/logo/大城电视.png" group-title="河北",大城电视
+http://itms.xznet.org:41097/rtp/239.254.201.34:5308$河北电信
 #EXTINF:-1 tvg-name="大城电视" tvg-logo="https://epg.112114.eu.org/logo/大城电视.png" group-title="河北",大城电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.34:5308$河北电信
 #EXTINF:-1 tvg-name="大城电视" tvg-logo="https://epg.112114.eu.org/logo/大城电视.png" group-title="河北",大城电视
@@ -10088,15 +10349,19 @@ http://121.19.134.10:4022/rtp/239.253.92.230:6068
 #EXTINF:-1 tvg-name="大城电视" tvg-logo="https://epg.112114.eu.org/logo/大城电视.png" group-title="河北",大城电视
 http://101.22.74.98:8888/rtp/239.253.92.230:6068
 #EXTINF:-1 tvg-name="大厂电视" tvg-logo="https://epg.112114.eu.org/logo/大厂电视.png" group-title="河北",大厂电视
-http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
+http://itms.xznet.org:41097/rtp/239.254.201.71:5310$河北电信
 #EXTINF:-1 tvg-name="大厂电视" tvg-logo="https://epg.112114.eu.org/logo/大厂电视.png" group-title="河北",大厂电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.71:5310$河北电信
+#EXTINF:-1 tvg-name="大厂电视" tvg-logo="https://epg.112114.eu.org/logo/大厂电视.png" group-title="河北",大厂电视
+http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="大厂电视" tvg-logo="https://epg.112114.eu.org/logo/大厂电视.png" group-title="河北",大厂电视
 http://121.29.91.210:7077/rtp/239.253.92.253:6244
 #EXTINF:-1 tvg-name="大厂电视" tvg-logo="https://epg.112114.eu.org/logo/大厂电视.png" group-title="河北",大厂电视
 http://121.19.134.10:4022/rtp/239.253.92.253:6244
 #EXTINF:-1 tvg-name="大厂电视" tvg-logo="https://epg.112114.eu.org/logo/大厂电视.png" group-title="河北",大厂电视
 http://101.22.74.98:8888/rtp/239.253.92.253:6244
+#EXTINF:-1 tvg-name="崇礼电视" tvg-logo="https://epg.112114.eu.org/logo/崇礼电视.png" group-title="河北",崇礼电视
+http://itms.xznet.org:41097/rtp/239.254.201.117:5267$河北电信
 #EXTINF:-1 tvg-name="崇礼电视" tvg-logo="https://epg.112114.eu.org/logo/崇礼电视.png" group-title="河北",崇礼电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.117:5267$河北电信
 #EXTINF:-1 tvg-name="崇礼电视" tvg-logo="https://epg.112114.eu.org/logo/崇礼电视.png" group-title="河北",崇礼电视
@@ -10106,6 +10371,8 @@ http://121.19.134.10:4022/rtp/239.253.93.147:6315
 #EXTINF:-1 tvg-name="崇礼电视" tvg-logo="https://epg.112114.eu.org/logo/崇礼电视.png" group-title="河北",崇礼电视
 http://101.22.74.98:8888/rtp/239.253.93.147:6315
 #EXTINF:-1 tvg-name="赤城电视" tvg-logo="https://epg.112114.eu.org/logo/赤城电视.png" group-title="河北",赤城电视
+http://itms.xznet.org:41097/rtp/239.254.201.131:5269$河北电信
+#EXTINF:-1 tvg-name="赤城电视" tvg-logo="https://epg.112114.eu.org/logo/赤城电视.png" group-title="河北",赤城电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.131:5269$河北电信
 #EXTINF:-1 tvg-name="赤城电视" tvg-logo="https://epg.112114.eu.org/logo/赤城电视.png" group-title="河北",赤城电视
 http://121.29.91.210:7077/rtp/239.253.93.160:6328
@@ -10113,6 +10380,8 @@ http://121.29.91.210:7077/rtp/239.253.93.160:6328
 http://121.19.134.10:4022/rtp/239.253.93.160:6328
 #EXTINF:-1 tvg-name="赤城电视" tvg-logo="https://epg.112114.eu.org/logo/赤城电视.png" group-title="河北",赤城电视
 http://101.22.74.98:8888/rtp/239.253.93.160:6328
+#EXTINF:-1 tvg-name="成安电视" tvg-logo="https://epg.112114.eu.org/logo/成安电视.png" group-title="河北",成安电视
+http://itms.xznet.org:41097/rtp/239.254.201.143:6210$河北电信
 #EXTINF:-1 tvg-name="成安电视" tvg-logo="https://epg.112114.eu.org/logo/成安电视.png" group-title="河北",成安电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.143:6210$河北电信
 #EXTINF:-1 tvg-name="成安电视" tvg-logo="https://epg.112114.eu.org/logo/成安电视.png" group-title="河北",成安电视
@@ -10124,6 +10393,8 @@ http://101.22.74.98:8888/rtp/239.253.93.178:6346
 #EXTINF:-1 tvg-name="昌黎电视" tvg-logo="https://epg.112114.eu.org/logo/昌黎电视.png" group-title="河北",昌黎电视
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="昌黎电视" tvg-logo="https://epg.112114.eu.org/logo/昌黎电视.png" group-title="河北",昌黎电视
+http://itms.xznet.org:41097/rtp/239.254.201.61:5230$河北电信
+#EXTINF:-1 tvg-name="昌黎电视" tvg-logo="https://epg.112114.eu.org/logo/昌黎电视.png" group-title="河北",昌黎电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.61:5230$河北电信
 #EXTINF:-1 tvg-name="昌黎电视" tvg-logo="https://epg.112114.eu.org/logo/昌黎电视.png" group-title="河北",昌黎电视
 http://121.29.91.210:7077/rtp/239.253.92.109:6217
@@ -10132,7 +10403,11 @@ http://121.19.134.10:4022/rtp/239.253.92.109:6217
 #EXTINF:-1 tvg-name="昌黎电视" tvg-logo="https://epg.112114.eu.org/logo/昌黎电视.png" group-title="河北",昌黎电视
 http://101.22.74.98:8888/rtp/239.253.92.109:6217
 #EXTINF:-1 tvg-name="渤海电视" tvg-logo="https://epg.112114.eu.org/logo/渤海电视.png" group-title="河北",渤海电视
+http://itms.xznet.org:41097/rtp/239.254.201.35:5327$河北电信
+#EXTINF:-1 tvg-name="渤海电视" tvg-logo="https://epg.112114.eu.org/logo/渤海电视.png" group-title="河北",渤海电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.35:5327$河北电信
+#EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://epg.112114.eu.org/logo/柏乡电视.png" group-title="河北",柏乡电视
+http://itms.xznet.org:41097/rtp/239.254.201.140:5383$河北电信
 #EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://epg.112114.eu.org/logo/柏乡电视.png" group-title="河北",柏乡电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.140:5383$河北电信
 #EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://epg.112114.eu.org/logo/柏乡电视.png" group-title="河北",柏乡电视
@@ -10141,6 +10416,8 @@ http://121.29.91.210:7077/rtp/239.253.93.171:6339
 http://121.19.134.10:4022/rtp/239.253.93.171:6339
 #EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://epg.112114.eu.org/logo/柏乡电视.png" group-title="河北",柏乡电视
 http://101.22.74.98:8888/rtp/239.253.93.171:6339
+#EXTINF:-1 tvg-name="安新电视" tvg-logo="https://epg.112114.eu.org/logo/安新电视.png" group-title="河北",安新电视
+http://itms.xznet.org:41097/rtp/239.254.201.99:6255$河北电信
 #EXTINF:-1 tvg-name="安新电视" tvg-logo="https://epg.112114.eu.org/logo/安新电视.png" group-title="河北",安新电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.99:6255$河北电信
 #EXTINF:-1 tvg-name="安新电视" tvg-logo="https://epg.112114.eu.org/logo/安新电视.png" group-title="河北",安新电视
@@ -10151,6 +10428,8 @@ http://121.19.134.10:4022/rtp/239.253.93.107:6274
 http://101.22.74.98:8888/rtp/239.253.93.107:6274
 #EXTINF:-1 tvg-name="安平电视" tvg-logo="https://epg.112114.eu.org/logo/安平电视.png" group-title="河北",安平电视
 http://zhap.city1000.cn/xinwen/ap_xw.m3u8
+#EXTINF:-1 tvg-name="安平电视" tvg-logo="https://epg.112114.eu.org/logo/安平电视.png" group-title="河北",安平电视
+http://itms.xznet.org:41097/rtp/239.254.201.42:5348$河北电信
 #EXTINF:-1 tvg-name="安平电视" tvg-logo="https://epg.112114.eu.org/logo/安平电视.png" group-title="河北",安平电视
 http://hebdx.chunfengyun.top:4022/rtp/239.254.201.42:5348$河北电信
 #EXTINF:-1 tvg-name="安平电视" tvg-logo="https://epg.112114.eu.org/logo/安平电视.png" group-title="河北",安平电视
