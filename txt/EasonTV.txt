@@ -408,6 +408,7 @@ CGTN纪录,http://[2409:8087:5e01:24::1a]:6610/000000001000/8428799834696888424/
 CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 电视指南,http://www.tico2.eu.org:4022/rtp/239.69.1.87:10162
+电视指南,http://ds920.dsmynas.net:5555/rtp/226.0.2.218:9656$山西联通
 电视指南,http://www.pswluo.cn:4000/rtp/239.49.8.84:8000
 电视指南,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.84:8000
 电视指南,http://sz.seala.uk:4022/rtp/239.49.8.84:8000
@@ -427,6 +428,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 电视指南,http://vpn.rogerxlj.top:9998/udp/239.45.1.73:5140$上海电信
 电视指南,http://218.78.183.200:8888/udp/239.45.1.73:5140$上海电信
 风云足球,http://www.tico2.eu.org:4022/rtp/239.69.1.81:10126
+风云足球,http://ds920.dsmynas.net:5555/rtp/226.0.2.225:9712$山西联通
 风云足球,http://www.pswluo.cn:4000/rtp/239.49.8.85:8000
 风云足球,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.85:8000
 风云足球,http://sz.seala.uk:4022/rtp/239.49.8.85:8000
@@ -448,6 +450,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 风云足球,http://vpn.rogerxlj.top:9998/udp/239.45.1.75:5140$上海电信
 风云足球,http://218.78.183.200:8888/udp/239.45.1.75:5140$上海电信
 女性时尚,http://www.tico2.eu.org:4022/rtp/239.69.1.86:10156
+女性时尚,http://ds920.dsmynas.net:5555/rtp/226.0.2.226:9720$山西联通
 女性时尚,http://www.pswluo.cn:4000/rtp/239.49.8.93:8000
 女性时尚,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.93:8000
 女性时尚,http://sz.seala.uk:4022/rtp/239.49.8.93:8000
@@ -473,6 +476,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 卫生健康,http://imlucky.win:10001/udp/239.77.0.212:5146$广东电信
 卫生健康,http://www.feizhu1212.top:9999/udp/239.77.0.212:5146$广东电信
 第一剧场,http://www.tico2.eu.org:4022/rtp/239.69.1.74:10084
+第一剧场,http://ds920.dsmynas.net:5555/rtp/226.0.2.221:9680$山西联通
 第一剧场,http://www.pswluo.cn:4000/rtp/239.49.8.94:8000
 第一剧场,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.94:8000
 第一剧场,http://sz.seala.uk:4022/rtp/239.49.8.94:8000
@@ -491,6 +495,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 第一剧场,http://www.zhantong.tech:8800/rtp/239.49.0.44:8000
 第一剧场,http://vpn.rogerxlj.top:9998/udp/239.45.0.51:5140$上海电信
 第一剧场,http://218.78.183.200:8888/udp/239.45.0.51:5140$上海电信
+风云剧场,http://ds920.dsmynas.net:5555/rtp/226.0.2.227:9728$山西联通
 风云剧场,http://www.pswluo.cn:4000/rtp/239.49.8.89:8000
 风云剧场,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.89:8000
 风云剧场,http://sz.seala.uk:4022/rtp/239.49.8.89:8000
@@ -509,6 +514,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 风云剧场,http://vpn.rogerxlj.top:9998/udp/239.45.0.50:5140$上海电信
 风云剧场,http://218.78.183.200:8888/udp/239.45.0.50:5140$上海电信
 风云音乐,http://www.tico2.eu.org:4022/rtp/239.69.1.90:10180
+风云音乐,http://ds920.dsmynas.net:5555/rtp/226.0.2.220:9672$山西联通
 风云音乐,http://www.pswluo.cn:4000/rtp/239.49.8.92:8000
 风云音乐,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.92:8000
 风云音乐,http://sz.seala.uk:4022/rtp/239.49.8.92:8000
@@ -531,6 +537,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 风云音乐,http://vpn.rogerxlj.top:9998/udp/239.45.0.52:5140$上海电信
 风云音乐,http://218.78.183.200:8888/udp/239.45.0.52:5140$上海电信
 怀旧剧场,http://www.tico2.eu.org:4022/rtp/239.69.1.89:10174
+怀旧剧场,http://ds920.dsmynas.net:5555/rtp/226.0.2.224:9704$山西联通
 怀旧剧场,http://wx.sportbabytoy.com:9999/rtp/239.49.8.91:8000
 怀旧剧场,http://www.pswluo.cn:4000/rtp/239.49.8.91:8000
 怀旧剧场,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.91:8000
@@ -555,6 +562,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 怀旧剧场,http://vpn.rogerxlj.top:9998/udp/239.45.0.49:5140$上海电信
 怀旧剧场,http://218.78.183.200:8888/udp/239.45.0.49:5140$上海电信
 高尔夫网球,http://www.tico2.eu.org:4022/rtp/239.69.1.83:10138
+高尔夫网球,http://ds920.dsmynas.net:5555/rtp/226.0.2.217:9648$山西联通
 高尔夫网球,http://www.pswluo.cn:4000/rtp/239.49.8.86:8000
 高尔夫网球,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.86:8000
 高尔夫网球,http://sz.seala.uk:4022/rtp/239.49.8.86:8000
@@ -575,6 +583,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 高尔夫网球,http://218.78.183.200:8888/udp/239.45.1.72:5140$上海电信
 高尔夫网球,http://vpn.rogerxlj.top:9998/udp/239.45.0.48:5140$上海电信
 高尔夫网球,http://218.78.183.200:8888/udp/239.45.0.48:5140$上海电信
+央视文化精品,http://ds920.dsmynas.net:5555/rtp/226.0.2.219:9664$山西联通
 央视文化精品,http://www.pswluo.cn:4000/rtp/239.49.8.90:8000
 央视文化精品,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.90:8000
 央视文化精品,http://sz.seala.uk:4022/rtp/239.49.8.90:8000
@@ -596,6 +605,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 央视文化精品,http://vpn.rogerxlj.top:9998/udp/239.45.1.17:5140$上海电信
 央视文化精品,http://218.78.183.200:8888/udp/239.45.1.17:5140$上海电信
 世界地理,http://www.tico2.eu.org:4022/rtp/239.69.1.91:10186
+世界地理,http://ds920.dsmynas.net:5555/rtp/226.0.2.222:9688$山西联通
 世界地理,http://www.pswluo.cn:4000/rtp/239.49.8.87:8000
 世界地理,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.87:8000
 世界地理,http://sz.seala.uk:4022/rtp/239.49.8.87:8000
@@ -618,6 +628,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 世界地理,http://vpn.rogerxlj.top:9998/udp/239.45.0.46:5140$上海电信
 世界地理,http://218.78.183.200:8888/udp/239.45.0.46:5140$上海电信
 央视台球,http://www.tico2.eu.org:4022/rtp/239.69.1.98:10224
+央视台球,http://ds920.dsmynas.net:5555/rtp/226.0.2.216:9640$山西联通
 央视台球,http://www.pswluo.cn:4000/rtp/239.49.8.32:8000
 央视台球,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.32:8000
 央视台球,http://sz.seala.uk:4022/rtp/239.49.8.32:8000
@@ -628,6 +639,7 @@ CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 央视台球,http://vpn.rogerxlj.top:9998/udp/239.45.0.44:5140$上海电信
 央视台球,http://218.78.183.200:8888/udp/239.45.0.44:5140$上海电信
 兵器科技,http://www.tico2.eu.org:4022/rtp/239.69.1.79:10114
+兵器科技,http://ds920.dsmynas.net:5555/rtp/226.0.2.223:9696$山西联通
 兵器科技,http://www.pswluo.cn:4000/rtp/239.49.8.88:8000
 兵器科技,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.8.88:8000
 兵器科技,http://sz.seala.uk:4022/rtp/239.49.8.88:8000
@@ -2296,34 +2308,37 @@ CHANNELV,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.7:2194
 CHANNELV,http://yulang132.cn:4022/udp/239.93.0.157:2194
 CHANNELV,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.157:2194
 CHC影迷电影,http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
+CHC影迷电影,http://yulang132.cn:4022/rtp/239.93.42.5:5140
+CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
+CHC影迷电影,http://home.yulei.online:9999/rtp/226.0.2.93:8004
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$山东移动
 CHC影迷电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
 CHC影迷电影,http://218.78.183.200:8888/udp/239.45.0.42:5140
-CHC影迷电影,http://home.yulei.online:9999/rtp/226.0.2.93:8004
-CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
 CHC影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 CHC家庭影院,http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+CHC家庭影院,http://yulang132.cn:4022/rtp/239.93.42.6:5140
+CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
+CHC家庭影院,http://home.yulei.online:9999/rtp/226.0.2.240:9820
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$山东移动
 CHC家庭影院,http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
 CHC家庭影院,http://218.78.183.200:8888/udp/239.45.0.40:5140
-CHC家庭影院,http://home.yulei.online:9999/rtp/226.0.2.240:9820
-CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 CHC动作电影,http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
+CHC动作电影,http://yulang132.cn:4022/rtp/239.93.42.7:5140
+CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012
+CHC动作电影,http://home.yulei.online:9999/rtp/226.0.2.94:8012
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$山东移动
 CHC动作电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.41:5140
 CHC动作电影,http://218.78.183.200:8888/udp/239.45.0.41:5140
-CHC动作电影,http://home.yulei.online:9999/rtp/226.0.2.94:8012
-CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 FASHION TV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 FASHION TV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
@@ -3086,13 +3101,14 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 环球奇观,http://home.frayun.com:10000/udp/239.77.1.198:5146
 环球奇观,http://imlucky.win:10001/udp/239.77.1.198:5146
 环球奇观,http://www.feizhu1212.top:9999/udp/239.77.1.198:5146
+中国交通,http://yulang132.cn:4022/rtp/239.93.0.142:5140
+中国交通,http://imlucky.win:10001/udp/239.77.1.249:5146
+中国交通,http://home.frayun.com:10000/udp/239.77.1.249:5146
+中国交通,http://www.feizhu1212.top:9999/udp/239.77.1.249:5146
 中国交通,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000073/index.m3u8?IASHttpSessionId=$山东移动
 中国交通,http://111.225.94.177:33333/hls/26/index.m3u8
 中国交通,http://111.225.93.174:33333/hls/26/index.m3u8
 中国交通,http://111.225.95.105:33333/hls/26/index.m3u8
-中国交通,http://home.frayun.com:10000/udp/239.77.1.249:5146
-中国交通,http://imlucky.win:10001/udp/239.77.1.249:5146
-中国交通,http://www.feizhu1212.top:9999/udp/239.77.1.249:5146
 
 安徽,#genre#
 安徽经济生活,http://60.168.224.153:2000/rtp/238.1.79.44:4464
