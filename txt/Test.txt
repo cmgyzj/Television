@@ -253,7 +253,3 @@ CETV早期教育,http://yulang132.cn:4022/rtp/239.93.0.117:5140
 兵器科技,http://yulang132.cn:4022/rtp/239.93.1.235:5140
 怀旧剧场,http://yulang132.cn:4022/rtp/239.93.1.198:5140
 风云剧场,http://yulang132.cn:4022/rtp/239.93.1.156:5140
-CHC影迷电影,http://yulang132.cn:4022/rtp/239.93.42.5:5140
-CHC家庭影院,http://yulang132.cn:4022/rtp/239.93.42.6:5140
-CHC动作电影,http://yulang132.cn:4022/rtp/239.93.42.7:5140
-中国交通,http://yulang132.cn:4022/rtp/239.93.0.142:5140
