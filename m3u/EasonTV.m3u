@@ -7025,17 +7025,17 @@ http://xuys.top:8888/udp/225.1.2.200:5002
 http://home.yulei.online:9999/rtp/226.0.2.120:8872$山西联通
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://epg.112114.eu.org/logo/生态环境.png" group-title="北京",生态环境
 http://ds920.dsmynas.net:5555/rtp/226.0.2.120:8872$山西联通
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆",重庆影视
+#EXTINF:-1 tvg-name="重庆影视剧" tvg-logo="https://epg.112114.eu.org/logo/重庆影视剧.png" group-title="重庆",重庆影视剧
 http://125.82.171.210:8888/rtp/235.254.198.180:7980
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆",重庆影视
+#EXTINF:-1 tvg-name="重庆影视剧" tvg-logo="https://epg.112114.eu.org/logo/重庆影视剧.png" group-title="重庆",重庆影视剧
 http://www.745612.xyz:7788/rtp/235.254.198.180:7980
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆",重庆影视
+#EXTINF:-1 tvg-name="重庆影视剧" tvg-logo="https://epg.112114.eu.org/logo/重庆影视剧.png" group-title="重庆",重庆影视剧
 http://183.66.51.205:4022/rtp/235.254.198.180:7980
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆",重庆影视
+#EXTINF:-1 tvg-name="重庆影视剧" tvg-logo="https://epg.112114.eu.org/logo/重庆影视剧.png" group-title="重庆",重庆影视剧
 http://125.82.171.210:8888/rtp/235.254.196.209:1108
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆",重庆影视
+#EXTINF:-1 tvg-name="重庆影视剧" tvg-logo="https://epg.112114.eu.org/logo/重庆影视剧.png" group-title="重庆",重庆影视剧
 http://www.745612.xyz:7788/rtp/235.254.196.209:1108
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://epg.112114.eu.org/logo/重庆影视.png" group-title="重庆",重庆影视
+#EXTINF:-1 tvg-name="重庆影视剧" tvg-logo="https://epg.112114.eu.org/logo/重庆影视剧.png" group-title="重庆",重庆影视剧
 http://183.66.51.205:4022/rtp/235.254.196.209:1108
 #EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png" group-title="重庆",重庆新闻
 http://125.82.171.210:8888/rtp/235.254.196.208:1104
@@ -7049,11 +7049,11 @@ http://125.82.171.210:8888/rtp/235.254.196.199:7980
 http://www.745612.xyz:7788/rtp/235.254.196.199:7980
 #EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png" group-title="重庆",重庆新闻
 http://183.66.51.205:4022/rtp/235.254.196.199:7980
-#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png" group-title="重庆",重庆科教
+#EXTINF:-1 tvg-name="重庆红叶" tvg-logo="https://epg.112114.eu.org/logo/重庆红叶.png" group-title="重庆",重庆红叶
 http://125.82.171.210:8888/rtp/235.254.196.215:1132
-#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png" group-title="重庆",重庆科教
+#EXTINF:-1 tvg-name="重庆红叶" tvg-logo="https://epg.112114.eu.org/logo/重庆红叶.png" group-title="重庆",重庆红叶
 http://www.745612.xyz:7788/rtp/235.254.196.215:1132
-#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://epg.112114.eu.org/logo/重庆科教.png" group-title="重庆",重庆科教
+#EXTINF:-1 tvg-name="重庆红叶" tvg-logo="https://epg.112114.eu.org/logo/重庆红叶.png" group-title="重庆",重庆红叶
 http://183.66.51.205:4022/rtp/235.254.196.215:1132
 #EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png" group-title="重庆",重庆社会与法
 http://125.82.171.210:8888/rtp/235.254.198.181:7980
@@ -7067,17 +7067,17 @@ http://125.82.171.210:8888/rtp/235.254.196.210:1112
 http://www.745612.xyz:7788/rtp/235.254.196.210:1112
 #EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://epg.112114.eu.org/logo/重庆社会与法.png" group-title="重庆",重庆社会与法
 http://183.66.51.205:4022/rtp/235.254.196.210:1112
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆红岩文化" tvg-logo="https://epg.112114.eu.org/logo/重庆红岩文化.png" group-title="重庆",重庆红岩文化
 http://125.82.171.210:8888/rtp/235.254.198.182:7980
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆红岩文化" tvg-logo="https://epg.112114.eu.org/logo/重庆红岩文化.png" group-title="重庆",重庆红岩文化
 http://www.745612.xyz:7788/rtp/235.254.198.182:7980
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆红岩文化" tvg-logo="https://epg.112114.eu.org/logo/重庆红岩文化.png" group-title="重庆",重庆红岩文化
 http://183.66.51.205:4022/rtp/235.254.198.182:7980
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆红岩文化" tvg-logo="https://epg.112114.eu.org/logo/重庆红岩文化.png" group-title="重庆",重庆红岩文化
 http://125.82.171.210:8888/rtp/235.254.196.211:1116
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆红岩文化" tvg-logo="https://epg.112114.eu.org/logo/重庆红岩文化.png" group-title="重庆",重庆红岩文化
 http://www.745612.xyz:7788/rtp/235.254.196.211:1116
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.eu.org/logo/重庆时尚生活.png" group-title="重庆",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆红岩文化" tvg-logo="https://epg.112114.eu.org/logo/重庆红岩文化.png" group-title="重庆",重庆红岩文化
 http://183.66.51.205:4022/rtp/235.254.196.211:1116
 #EXTINF:-1 tvg-name="重庆文体娱乐" tvg-logo="https://epg.112114.eu.org/logo/重庆文体娱乐.png" group-title="重庆",重庆文体娱乐
 http://125.82.171.210:8888/rtp/235.254.198.187:7980
@@ -9009,7 +9009,6 @@ http://220.174.37.18:8888/rtp/239.253.64.69:5140
 http://139.189.71.55:33333/rtp/239.253.64.69:5140
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.18:6000$河北电信
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
 http://hebdx.chunfengyun.top:4022/rtp/239.254.200.18:6000$河北电信
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://epg.112114.eu.org/logo/河北经济生活.png" group-title="河北",河北经济生活
@@ -13520,11 +13519,11 @@ http://113.140.86.162:8009/hls/19/index.m3u8
 http://120.192.226.35:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://112.46.85.60:8009/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://epg.112114.eu.org/logo/陕西生活.png" group-title="陕西",陕西生活
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://113.140.86.162:8009/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://epg.112114.eu.org/logo/陕西生活.png" group-title="陕西",陕西生活
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://120.192.226.35:8009/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://epg.112114.eu.org/logo/陕西生活.png" group-title="陕西",陕西生活
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://112.46.85.60:8009/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://epg.112114.eu.org/logo/陕西影视.png" group-title="陕西",陕西影视
 http://113.140.86.162:8009/hls/21/index.m3u8
@@ -13532,11 +13531,11 @@ http://113.140.86.162:8009/hls/21/index.m3u8
 http://120.192.226.35:8009/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://epg.112114.eu.org/logo/陕西影视.png" group-title="陕西",陕西影视
 http://112.46.85.60:8009/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://epg.112114.eu.org/logo/陕西公共.png" group-title="陕西",陕西公共
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://epg.112114.eu.org/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://113.140.86.162:8009/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://epg.112114.eu.org/logo/陕西公共.png" group-title="陕西",陕西公共
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://epg.112114.eu.org/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://120.192.226.35:8009/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://epg.112114.eu.org/logo/陕西公共.png" group-title="陕西",陕西公共
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://epg.112114.eu.org/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://112.46.85.60:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://epg.112114.eu.org/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://113.140.86.162:8009/hls/23/index.m3u8
@@ -15797,11 +15796,15 @@ https://livetxynbsdst.chinamcache.com/live/zb03.m3u8?txSecret=d93358689f07ff61f6
 #EXTINF:-1 tvg-name="保山三套" tvg-logo="https://epg.112114.eu.org/logo/保山三套.png" group-title="云南",保山三套
 https://livetxynbsdst.chinamcache.com/live/zb02.m3u8?txSecret=cea94501be7015643d1c8ad49d50fe81&txTime=67847DB6
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://epg.112114.eu.org/logo/浙江钱江.png" group-title="浙江",浙江钱江
+http://www.flyskyman.cn:4022/rtp/233.50.201.132:5140
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://epg.112114.eu.org/logo/浙江钱江.png" group-title="浙江",浙江钱江
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.132:5140
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://epg.112114.eu.org/logo/浙江钱江.png" group-title="浙江",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://epg.112114.eu.org/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://epg.112114.eu.org/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
+http://www.flyskyman.cn:4022/rtp/233.50.201.133:5140
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://epg.112114.eu.org/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.133:5140
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://epg.112114.eu.org/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
@@ -15823,15 +15826,23 @@ http://[2409:8087:5e01:24::1c]:6610/000000001000/2000000004000000001/1.m3u8?chan
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://epg.112114.eu.org/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://epg.112114.eu.org/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
+http://www.flyskyman.cn:4022/rtp/233.50.201.134:5140
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://epg.112114.eu.org/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.134:5140
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://epg.112114.eu.org/logo/浙江新闻.png" group-title="浙江",浙江新闻
+http://www.flyskyman.cn:4022/rtp/233.50.201.137:5140
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://epg.112114.eu.org/logo/浙江新闻.png" group-title="浙江",浙江新闻
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.137:5140
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://epg.112114.eu.org/logo/浙江新闻.png" group-title="浙江",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.eu.org/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
+http://www.flyskyman.cn:4022/rtp/233.50.201.136:5140
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.eu.org/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.136:5140
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.eu.org/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://epg.112114.eu.org/logo/浙江少儿.png" group-title="浙江",浙江少儿
+http://www.flyskyman.cn:4022/rtp/233.50.201.138:5140
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://epg.112114.eu.org/logo/浙江少儿.png" group-title="浙江",浙江少儿
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.138:5140
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://epg.112114.eu.org/logo/浙江少儿.png" group-title="浙江",浙江少儿
@@ -15839,29 +15850,53 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://epg.112114.eu.org/logo/浙江国际.png" group-title="浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江之江纪录" tvg-logo="https://epg.112114.eu.org/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
+http://www.flyskyman.cn:4022/rtp/233.50.202.25:5140
+#EXTINF:-1 tvg-name="浙江之江纪录" tvg-logo="https://epg.112114.eu.org/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 http://nas.jc-hqp.cn:9999/rtp/233.50.202.25:5140
 #EXTINF:-1 tvg-name="浙江之江纪录" tvg-logo="https://epg.112114.eu.org/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://epg.112114.eu.org/logo/杭州综合.png" group-title="浙江",杭州综合
+http://www.flyskyman.cn:4022/rtp/233.50.201.173:5140
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://epg.112114.eu.org/logo/杭州综合.png" group-title="浙江",杭州综合
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.173:5140
+#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://epg.112114.eu.org/logo/杭州西湖明珠.png" group-title="浙江",杭州西湖明珠
+http://www.flyskyman.cn:4022/rtp/233.50.201.174:5140
 #EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://epg.112114.eu.org/logo/杭州西湖明珠.png" group-title="浙江",杭州西湖明珠
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.174:5140
 #EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://epg.112114.eu.org/logo/杭州生活.png" group-title="浙江",杭州生活
+http://www.flyskyman.cn:4022/rtp/233.50.201.175:5140
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://epg.112114.eu.org/logo/杭州生活.png" group-title="浙江",杭州生活
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.175:5140
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://epg.112114.eu.org/logo/杭州影视.png" group-title="浙江",杭州影视
+http://www.flyskyman.cn:4022/rtp/233.50.201.176:5140
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://epg.112114.eu.org/logo/杭州影视.png" group-title="浙江",杭州影视
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.176:5140
 #EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://epg.112114.eu.org/logo/杭州青少.png" group-title="浙江",杭州青少
+http://www.flyskyman.cn:4022/rtp/233.50.201.177:5140
+#EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://epg.112114.eu.org/logo/杭州青少.png" group-title="浙江",杭州青少
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.177:5140
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://epg.112114.eu.org/logo/杭州导视.png" group-title="浙江",杭州导视
-http://nas.jc-hqp.cn:9999//rtp/233.50.201.182:5140
+http://www.flyskyman.cn:4022/rtp/233.50.201.182:5140
+#EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://epg.112114.eu.org/logo/杭州导视.png" group-title="浙江",杭州导视
+http://nas.jc-hqp.cn:9999/rtp/233.50.201.182:5140
+#EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://epg.112114.eu.org/logo/杭州导视.png" group-title="浙江",杭州导视
+http://www.flyskyman.cn:4022/rtp/233.50.201.182:5140
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://epg.112114.eu.org/logo/杭州导视.png" group-title="浙江",杭州导视
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.182:5140
 #EXTINF:-1 tvg-name="宁波新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
+http://www.flyskyman.cn:4022/rtp/233.50.201.168:5140
+#EXTINF:-1 tvg-name="宁波新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.168:5140
+#EXTINF:-1 tvg-name="宁波经济生活" tvg-logo="https://epg.112114.eu.org/logo/宁波经济生活.png" group-title="浙江",宁波经济生活
+http://www.flyskyman.cn:4022/rtp/233.50.201.178:5140
 #EXTINF:-1 tvg-name="宁波经济生活" tvg-logo="https://epg.112114.eu.org/logo/宁波经济生活.png" group-title="浙江",宁波经济生活
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.178:5140
 #EXTINF:-1 tvg-name="宁波都市文体" tvg-logo="https://epg.112114.eu.org/logo/宁波都市文体.png" group-title="浙江",宁波都市文体
+http://www.flyskyman.cn:4022/rtp/233.50.201.179:5140
+#EXTINF:-1 tvg-name="宁波都市文体" tvg-logo="https://epg.112114.eu.org/logo/宁波都市文体.png" group-title="浙江",宁波都市文体
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.179:5140
+#EXTINF:-1 tvg-name="宁波影视剧" tvg-logo="https://epg.112114.eu.org/logo/宁波影视剧.png" group-title="浙江",宁波影视剧
+http://www.flyskyman.cn:4022/rtp/233.50.201.180:5140
 #EXTINF:-1 tvg-name="宁波影视剧" tvg-logo="https://epg.112114.eu.org/logo/宁波影视剧.png" group-title="浙江",宁波影视剧
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.180:5140
 #EXTINF:-1 tvg-name="诸暨新闻综合" tvg-logo="https://epg.112114.eu.org/logo/诸暨新闻综合.png" group-title="浙江",诸暨新闻综合
@@ -15895,7 +15930,9 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="余姚生活" tvg-logo="https://epg.112114.eu.org/logo/余姚生活.png" group-title="浙江",余姚生活
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-name="余杭新闻频道" tvg-logo="https://epg.112114.eu.org/logo/余杭新闻频道.png" group-title="浙江",余杭新闻频道
-http://nas.jc-hqp.cn:9999//rtp/233.50.201.159:5140
+http://www.flyskyman.cn:4022/rtp/233.50.201.159:5140
+#EXTINF:-1 tvg-name="余杭新闻频道" tvg-logo="https://epg.112114.eu.org/logo/余杭新闻频道.png" group-title="浙江",余杭新闻频道
+http://nas.jc-hqp.cn:9999/rtp/233.50.201.159:5140
 #EXTINF:-1 tvg-name="余杭新闻频道" tvg-logo="https://epg.112114.eu.org/logo/余杭新闻频道.png" group-title="浙江",余杭新闻频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="余杭新闻频道" tvg-logo="https://epg.112114.eu.org/logo/余杭新闻频道.png" group-title="浙江",余杭新闻频道
@@ -15944,10 +15981,14 @@ http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 tvg-name="文成二套" tvg-logo="https://epg.112114.eu.org/logo/文成二套.png" group-title="浙江",文成二套
 http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
-#EXTINF:-1 tvg-name="温州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/温州新闻综合.png" group-title="浙江",温州新闻综合
+#EXTINF:-1 tvg-name="温州新闻" tvg-logo="https://epg.112114.eu.org/logo/温州新闻.png" group-title="浙江",温州新闻
 http://play-qk.wzrb.com.cn/live/1699597667591352.m3u8?auth_key=2020833336-ef01f843ba59489b9d84349c672d71db-0-249871a0a9a8d3ba6e0e6d2090475e19
 #EXTINF:-1 tvg-name="温州新闻" tvg-logo="https://epg.112114.eu.org/logo/温州新闻.png" group-title="浙江",温州新闻
+http://www.flyskyman.cn:4022/rtp/233.50.201.87:5140
+#EXTINF:-1 tvg-name="温州新闻" tvg-logo="https://epg.112114.eu.org/logo/温州新闻.png" group-title="浙江",温州新闻
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.87:5140
+#EXTINF:-1 tvg-name="桐乡新闻" tvg-logo="https://epg.112114.eu.org/logo/桐乡新闻.png" group-title="浙江",桐乡新闻
+http://www.flyskyman.cn:4022/rtp/233.50.201.169:5140
 #EXTINF:-1 tvg-name="桐乡新闻" tvg-logo="https://epg.112114.eu.org/logo/桐乡新闻.png" group-title="浙江",桐乡新闻
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.169:5140
 #EXTINF:-1 tvg-name="桐庐综合频道" tvg-logo="https://epg.112114.eu.org/logo/桐庐综合频道.png" group-title="浙江",桐庐综合频道
@@ -15964,6 +16005,8 @@ https://play-sh11.quklive.com/live/1626935015913208.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="嵊泗新闻综合" tvg-logo="https://epg.112114.eu.org/logo/嵊泗新闻综合.png" group-title="浙江",嵊泗新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/绍兴新闻综合.png" group-title="浙江",绍兴新闻综合
+http://www.flyskyman.cn:4022/rtp/233.50.201.156:5140
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/绍兴新闻综合.png" group-title="浙江",绍兴新闻综合
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.156:5140
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/绍兴新闻综合.png" group-title="浙江",绍兴新闻综合
@@ -16033,6 +16076,8 @@ http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1 tvg-name="临平新闻频道" tvg-logo="https://epg.112114.eu.org/logo/临平新闻频道.png" group-title="浙江",临平新闻频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 #EXTINF:-1 tvg-name="丽水新闻" tvg-logo="https://epg.112114.eu.org/logo/丽水新闻.png" group-title="浙江",丽水新闻
+http://www.flyskyman.cn:4022/rtp/233.50.201.162:5140
+#EXTINF:-1 tvg-name="丽水新闻" tvg-logo="https://epg.112114.eu.org/logo/丽水新闻.png" group-title="浙江",丽水新闻
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.162:5140
 #EXTINF:-1 tvg-name="兰溪新闻综合" tvg-logo="https://epg.112114.eu.org/logo/兰溪新闻综合.png" group-title="浙江",兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
@@ -16047,7 +16092,11 @@ http://play-sh13.quklive.com/live/1644806967279134.m3u8?auth_key=2027430185-24bc
 #EXTINF:-1 tvg-name="缙云综合频道" tvg-logo="https://epg.112114.eu.org/logo/缙云综合频道.png" group-title="浙江",缙云综合频道
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-name="金华新闻" tvg-logo="https://epg.112114.eu.org/logo/金华新闻.png" group-title="浙江",金华新闻
+http://www.flyskyman.cn:4022/rtp/233.50.201.161:5140
+#EXTINF:-1 tvg-name="金华新闻" tvg-logo="https://epg.112114.eu.org/logo/金华新闻.png" group-title="浙江",金华新闻
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.161:5140
+#EXTINF:-1 tvg-name="嘉兴新闻" tvg-logo="https://epg.112114.eu.org/logo/嘉兴新闻.png" group-title="浙江",嘉兴新闻
+http://www.flyskyman.cn:4022/rtp/233.50.201.163:5140
 #EXTINF:-1 tvg-name="嘉兴新闻" tvg-logo="https://epg.112114.eu.org/logo/嘉兴新闻.png" group-title="浙江",嘉兴新闻
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.163:5140
 #EXTINF:-1 tvg-name="嘉善新闻综合" tvg-logo="https://epg.112114.eu.org/logo/嘉善新闻综合.png" group-title="浙江",嘉善新闻综合
@@ -16060,7 +16109,9 @@ http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b473
 http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 #EXTINF:-1 tvg-name="湖州公共民生" tvg-logo="https://epg.112114.eu.org/logo/湖州公共民生.png" group-title="浙江",湖州公共民生
 http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-#EXTINF:-1 tvg-name="湖州公共" tvg-logo="https://epg.112114.eu.org/logo/湖州公共.png" group-title="浙江",湖州公共
+#EXTINF:-1 tvg-name="湖州公共民生" tvg-logo="https://epg.112114.eu.org/logo/湖州公共民生.png" group-title="浙江",湖州公共民生
+http://www.flyskyman.cn:4022/rtp/233.50.201.158:5140
+#EXTINF:-1 tvg-name="湖州公共民生" tvg-logo="https://epg.112114.eu.org/logo/湖州公共民生.png" group-title="浙江",湖州公共民生
 http://nas.jc-hqp.cn:9999/rtp/233.50.201.158:5140
 #EXTINF:-1 tvg-name="海宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/海宁新闻综合.png" group-title="浙江",海宁新闻综合
 http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
