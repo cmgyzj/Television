@@ -13,18 +13,18 @@ http://123.116.244.92:10000/rtp/239.3.1.243:8000
 http://114.243.101.254:8822/rtp/239.3.1.243:8000
 #EXTINF:-1 ,北京联通-3
 http://114.243.106.190:8822/rtp/239.3.1.243:8000
-#EXTINF:-1 ,重庆电信-1
+#EXTINF:-1 ,重庆电信-1(域名)
 http://ly123.fun:10000/rtp/235.254.196.221:1156
-#EXTINF:-1 ,重庆电信-2
+#EXTINF:-1 ,重庆电信-2(域名)
 http://www.745612.xyz:7788/rtp/235.254.196.221:1156
 #EXTINF:-1 ,重庆电信-3
 http://183.66.51.205:4022/rtp/235.254.196.221:1156
 #EXTINF:-1 ,福建电信
 http://125.78.15.162:4022/rtp/239.61.2.160:8948
 #EXTINF:-1 ,甘肃电信-1(断流)
-http://60.164.128.167:8029/udp/239.255.30.253:8231
-#EXTINF:-1 ,甘肃电信-2(断流)
-http://www.lebaobei.top:6868/udp/239.255.30.253:8231
+http://60.164.128.167:8029/udp/239.255.30.250:8231
+#EXTINF:-1 ,甘肃电信-2((域名,断流)
+http://www.lebaobei.top:6868/udp/239.255.30.250:8231
 #EXTINF:-1 ,广东电信-1
 http://183.33.58.165:8686/udp/239.77.0.168:5146
 #EXTINF:-1 ,广东电信-2
@@ -35,7 +35,7 @@ http://116.22.28.76:4022/udp/239.77.1.97:5146
 http://171.107.6.179:5432/udp/239.81.0.134:4056
 #EXTINF:-1 ,广西电信-2
 http://171.105.201.164:4022/udp/239.81.0.175:4056
-#EXTINF:-1 ,贵州电信(无效)
+#EXTINF:-1 ,贵州电信(域名,无效)
 http://www.akw323.com:9527/rtp/238.255.2.157:5999
 #EXTINF:-1 ,海南电信-1
 http://220.174.37.18:8888/rtp/239.253.64.119:5140
@@ -57,10 +57,12 @@ http://www.tico2.eu.org:4022/rtp/239.69.1.147:10518
 http://119.98.133.51:5555/rtp/239.69.1.147:10518
 #EXTINF:-1 ,湖南电信
 http://124.230.56.44:55555/udp/239.76.245.116:1234
-#EXTINF:-1 ,吉林电信(不流畅)
+#EXTINF:-1 ,吉林电信(域名)
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.097:5540
-#EXTINF:-1 ,江苏电信
-http://sz.seala.top:4022/rtp/239.49.0.221:9594
+#EXTINF:-1 ,江苏电信(域名)
+http://wx.sportbabytoy.com:9999/rtp/239.49.0.221:9594
+#EXTINF:-1 ,江苏电信(域名)
+http://www.pswluo.cn:4000/rtp/239.49.0.221:9594
 #EXTINF:-1 ,江西电信(无效)
 http://220.176.218.7:8888/rtp/239.252.220.238:5140
 #EXTINF:-1 ,辽宁联通-1(无效)
@@ -97,13 +99,13 @@ http://112.226.139.82:9999/udp/239.253.254.22:8000
 http://home.yulei.online:9999/rtp/226.0.2.16:8040
 #EXTINF:-1 ,山西联通-2
 http://171.119.207.28:6000/rtp/226.0.2.16:8040
-#EXTINF:-1 ,上海电信-1
+#EXTINF:-1 ,上海电信-1(域名)
 http://vpn.rogerxlj.top:9998/udp/239.45.3.210:5140
 #EXTINF:-1 ,上海电信-2
 http://218.78.183.200:8888/udp/239.45.3.210:5140
-#EXTINF:-1 ,四川电信-1
+#EXTINF:-1 ,四川电信-1(域名)
 http://yulang132.cn:4022/udp/239.93.1.231:5140
-#EXTINF:-1 ,四川电信-2
+#EXTINF:-1 ,四川电信-2(域名)
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.231:5140
 #EXTINF:-1 ,天津联通-1
 http://111.167.30.116:5002/udp/225.1.1.6:5002
@@ -119,3 +121,163 @@ http://183.158.15.91:4022/rtp/233.50.201.177:5140
 http://119.32.12.31:2901/udp/224.1.100.136:11111
 #EXTINF:-1 ,广东广电-2
 http://120.197.18.252:2901/udp/224.1.100.136:11111
+#EXTINF:-1 ,天津联通域名
+http://nas.hssvm.com:8888/udp/225.1.1.6:5002
+#EXTINF:-1 ,福建电信域名
+http://www.91dos.cn:4022/rtp/239.61.2.160:8948
+#EXTINF:-1 ,湖北电信域名
+http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-央视新闻1
+http://www.furymax.top:85/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻2
+http://qwork.cgzhfwpt.cn:5555/udp/239.254.96.161:9040 
+#EXTINF:-1 ,湖北电信域名-央视新闻3     
+http://zyhfm.com:8888/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻4
+http://ndgj.llf2.win:4000/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻5
+http://ssaigg.dns.army:8888/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻6
+http://h.ielyn.com:4022/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻7
+http://zyhfm.mycloudnas.com:8888/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻8
+http://op.hzzzz530.com:4022/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻9
+http://hzzzz530.com:4022/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻10
+http://dsm.hzzzz530.com:4022/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻11
+http://www.pyboy89.top:7890/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻12
+http://dd.ikhs.cn:8880/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻13
+http://www.zyhfm.com:8888/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻14
+http://qwake75.asuscomm.com:1234/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻15
+http://365911.xyz:4022/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-央视新闻16
+http://nasvip.cf:4022/udp/239.254.96.161:9040
+#EXTINF:-1 ,湖北电信域名-武汉文体1
+http://www.furymax.top:85/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体2
+http://qwork.cgzhfwpt.cn:5555/udp/239.69.1.147:10518 
+#EXTINF:-1 ,湖北电信域名-武汉文体3     
+http://zyhfm.com:8888/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体4
+http://ndgj.llf2.win:4000/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体5
+http://ssaigg.dns.army:8888/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体6
+http://h.ielyn.com:4022/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体7
+http://zyhfm.mycloudnas.com:8888/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体8
+http://op.hzzzz530.com:4022/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体9
+http://hzzzz530.com:4022/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体10
+http://dsm.hzzzz530.com:4022/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体11
+http://www.pyboy89.top:7890/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体12
+http://dd.ikhs.cn:8880/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体13
+http://www.zyhfm.com:8888/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体14
+http://qwake75.asuscomm.com:1234/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体15
+http://365911.xyz:4022/udp/239.69.1.147:10518
+#EXTINF:-1 ,湖北电信域名-武汉文体16
+http://nasvip.cf:4022/udp/239.69.1.147:10518
+#EXTINF:-1 ,广东电信域名-民生台1
+http://dge1.ergotron.net:8000/udp/239.77.0.5:5146
+#EXTINF:-1 ,广东电信域名-民生台2
+http://home.frayun.com:10000/udp/239.77.0.5:5146
+#EXTINF:-1 ,广东电信域名-民生台3
+http://imlucky.win:10001/udp/239.77.0.5:5146
+#EXTINF:-1 ,广东电信域名-民生台4
+http://www.feizhu1212.top:9999/udp/239.77.0.5:5146
+#EXTINF:-1 ,广东电信域名-民生台5
+http://www.kitcc.cn:8887/udp/239.77.0.5:5146
+#EXTINF:-1 ,广东电信域名-体育台1
+http://dge1.ergotron.net:8000/udp/239.77.0.6:5146
+#EXTINF:-1 ,广东电信域名-体育台2
+http://home.frayun.com:10000/udp/239.77.0.6:5146
+#EXTINF:-1 ,广东电信域名-体育台3
+http://imlucky.win:10001/udp/239.77.0.6:5146
+#EXTINF:-1 ,广东电信域名-体育台4
+http://www.feizhu1212.top:9999/udp/239.77.0.6:5146
+#EXTINF:-1 ,广东电信域名-体育台5
+http://www.kitcc.cn:8887/udp/239.77.0.6:5146
+#EXTINF:-1 ,广东电信域名-CCTV4K
+http://www.kitcc.cn:8887/udp/239.77.0.194:5146
+#EXTINF:-1 ,广东电信域名网段1-CCTV4K
+http://zmcy.gzcy020.cn:50000/udp/239.77.1.180:5146
+#EXTINF:-1 ,广东电信域名网段1-民生台1
+http://zmcy.gzcy020.cn:50000/udp/239.77.0.5:5146
+#EXTINF:-1 ,广东电信域名网段1-体育台1
+http://zmcy.gzcy020.cn:50000/udp/239.77.1.97:5146
+#EXTINF:-1 ,山西联通域名-1
+http://plex.home.yulei.online:9999/rtp/226.0.2.120:8872
+#EXTINF:-1 ,山西联通域名-2
+http://ds920.dsmynas.net:5555/rtp/226.0.2.120:8040
+#EXTINF:-1 ,四川电信域名-1
+http://xeace.cn:8888/udp/239.93.1.231:5140
+#EXTINF:-1 ,四川电信域名-2
+http://wouu.net:9977/udp/239.93.1.231:5140
+#EXTINF:-1 ,北京联通域名-1
+http://coolcat.synology.me:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 ,北京联通域名-2
+http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.243:8000
+#EXTINF:-1 ,北京联通域名-3
+http://www.weec.top:2222/rtp/239.3.1.243:8000
+#EXTINF:-1 ,北京联通域名-4
+http://ikuai.zlsip.top:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 ,北京联通域名-5
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
+#EXTINF:-1 ,北京联通域名-6
+http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
+#EXTINF:-1 ,北京联通域名-7
+http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.243:8000
+#EXTINF:-1 ,北京电信域名
+http://omnix.cn:4000/udp/225.1.8.23:8002
+#EXTINF:-1 ,河北电信域名
+http://hebdx.chunfengyun.top:4022/rtp/239.254.200.158:6000
+#EXTINF:-1 ,湖南电信域名-经视
+http://ha.fengying138.top:8888/udp/239.76.246.103:1234
+#EXTINF:-1 ,湖南电信域名-CCTV4K
+http://ha.fengying138.top:8888/udp/239.76.246.214:1234
+#EXTINF:-1 ,江苏电信域名-常州
+http://iptv.skygogo.cn:18889/rtp/239.49.0.221:9594
+#EXTINF:-1 ,江苏电信域名-CCTV4K
+http://iptv.skygogo.cn:18889/rtp/239.49.0.109:8000
+#EXTINF:-1 ,上海电信域名-百视通
+http://www.17888.fun:10000/rtp/239.45.1.1:5140
+#EXTINF:-1 ,上海电信域名-五星体育
+http://www.17888.fun:10000/rtp/239.45.3.210:5140
+#EXTINF:-1 ,重庆电信域名-1
+http://wjjqqjellyfin.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-2
+http://cs.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-3
+http://ogcdanastool.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-4
+http://www.alist.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-5
+http://q.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-6
+http://www.jellyfin.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-7
+http://qb.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-8
+http://jellyfin.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-9
+http://alist.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-10
+http://sc.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-11
+http://8he4s6yz.ly123.fun:10000/rtp/235.254.196.221:1156
+#EXTINF:-1 ,重庆电信域名-12
+http://chongqing_unicom_udpxy_123_145_8003_3.isus.cc:8001/rtp/235.254.196.221:1156
