@@ -1382,6 +1382,16 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视",电视指南
 http://www.tico2.eu.org:4022/rtp/239.69.1.87:10162
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视",电视指南
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视",电视指南
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视",电视指南
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视",电视指南
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视",电视指南
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视",电视指南
 http://ds920.dsmynas.net:5555/rtp/226.0.2.218:9656$山西联通
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视",电视指南
 http://www.pswluo.cn:4000/rtp/239.49.8.84:8000
@@ -1421,6 +1431,16 @@ http://vpn.rogerxlj.top:9998/udp/239.45.1.73:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.1.73:5140$上海电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视",风云足球
 http://www.tico2.eu.org:4022/rtp/239.69.1.81:10126
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视",风云足球
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视",风云足球
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视",风云足球
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视",风云足球
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视",风云足球
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视",风云足球
 http://ds920.dsmynas.net:5555/rtp/226.0.2.225:9712$山西联通
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视",风云足球
@@ -1465,6 +1485,26 @@ http://vpn.rogerxlj.top:9998/udp/239.45.1.75:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.1.75:5140$上海电信
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
 http://www.tico2.eu.org:4022/rtp/239.69.1.86:10156
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
 http://ds920.dsmynas.net:5555/rtp/226.0.2.226:9720$山西联通
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视",女性时尚
@@ -1518,6 +1558,16 @@ http://www.feizhu1212.top:9999/udp/239.77.0.212:5146$广东电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
 http://www.tico2.eu.org:4022/rtp/239.69.1.74:10084
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.221:9680$山西联通
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
 http://www.pswluo.cn:4000/rtp/239.49.8.94:8000
@@ -1556,6 +1606,16 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.51:5140$上海电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视",第一剧场
 http://218.78.183.200:8888/udp/239.45.0.51:5140$上海电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视",风云剧场
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视",风云剧场
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视",风云剧场
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视",风云剧场
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视",风云剧场
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视",风云剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.227:9728$山西联通
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视",风云剧场
 http://www.pswluo.cn:4000/rtp/239.49.8.89:8000
@@ -1593,6 +1653,16 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.50:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.0.50:5140$上海电信
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视",风云音乐
 http://www.tico2.eu.org:4022/rtp/239.69.1.90:10180
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视",风云音乐
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视",风云音乐
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视",风云音乐
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视",风云音乐
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视",风云音乐
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视",风云音乐
 http://ds920.dsmynas.net:5555/rtp/226.0.2.220:9672$山西联通
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视",风云音乐
@@ -1639,6 +1709,16 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.52:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.0.52:5140$上海电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://www.tico2.eu.org:4022/rtp/239.69.1.89:10174
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.224:9704$山西联通
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视",怀旧剧场
@@ -1698,6 +1778,16 @@ http://[2409:8087:74d3:21::0d]/270000001128/9900000094/index.m3u8?channel-id=new
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://[2409:8087:74d3:21::0e]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://www.tico2.eu.org:4022/rtp/239.69.1.83:10138
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://ds920.dsmynas.net:5555/rtp/226.0.2.217:9648$山西联通
@@ -1742,6 +1832,16 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.48:5140$上海电信
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://218.78.183.200:8888/udp/239.45.0.48:5140$上海电信
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.eu.org/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.eu.org/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.eu.org/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.eu.org/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.eu.org/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.eu.org/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://ds920.dsmynas.net:5555/rtp/226.0.2.219:9664$山西联通
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.eu.org/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://www.pswluo.cn:4000/rtp/239.49.8.90:8000
@@ -1785,6 +1885,16 @@ http://vpn.rogerxlj.top:9998/udp/239.45.1.17:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.1.17:5140$上海电信
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
 http://www.tico2.eu.org:4022/rtp/239.69.1.91:10186
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
 http://ds920.dsmynas.net:5555/rtp/226.0.2.222:9688$山西联通
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视",世界地理
@@ -1832,6 +1942,16 @@ http://218.78.183.200:8888/udp/239.45.0.46:5140$上海电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
 http://www.tico2.eu.org:4022/rtp/239.69.1.98:10224
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
 http://ds920.dsmynas.net:5555/rtp/226.0.2.216:9640$山西联通
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视",央视台球
 http://www.pswluo.cn:4000/rtp/239.49.8.32:8000
@@ -1853,6 +1973,16 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.44:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.0.44:5140$上海电信
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
 http://www.tico2.eu.org:4022/rtp/239.69.1.79:10114
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
 http://ds920.dsmynas.net:5555/rtp/226.0.2.223:9696$山西联通
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视",兵器科技
@@ -6450,6 +6580,16 @@ http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://yulang132.cn:4022/rtp/239.93.42.5:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://home.yulei.online:9999/rtp/226.0.2.93:8004
@@ -6472,6 +6612,16 @@ http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://yulang132.cn:4022/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=jtyy
@@ -6493,6 +6643,16 @@ http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://yulang132.cn:4022/rtp/239.93.42.7:5140
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
@@ -16383,18 +16543,48 @@ http://113.140.86.162:8009/hls/18/index.m3u8
 http://120.192.226.35:8009/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://epg.112114.eu.org/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://112.46.85.60:8009/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://epg.112114.eu.org/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://epg.112114.eu.org/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://epg.112114.eu.org/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://epg.112114.eu.org/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://epg.112114.eu.org/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://113.140.86.162:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://120.192.226.35:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://112.46.85.60:8009/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://epg.112114.eu.org/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://113.140.86.162:8009/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://120.192.226.35:8009/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://112.46.85.60:8009/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://epg.112114.eu.org/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://epg.112114.eu.org/logo/陕西影视.png" group-title="陕西",陕西影视
 http://113.140.86.162:8009/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://epg.112114.eu.org/logo/陕西影视.png" group-title="陕西",陕西影视
@@ -16413,36 +16603,216 @@ http://113.140.86.162:8009/hls/23/index.m3u8
 http://120.192.226.35:8009/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://epg.112114.eu.org/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://112.46.85.60:8009/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://epg.112114.eu.org/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://epg.112114.eu.org/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://epg.112114.eu.org/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://epg.112114.eu.org/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://epg.112114.eu.org/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.112114.eu.org/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://113.140.86.162:8009/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.112114.eu.org/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://120.192.226.35:8009/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.112114.eu.org/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://112.46.85.60:8009/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.112114.eu.org/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.112114.eu.org/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.112114.eu.org/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.112114.eu.org/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.112114.eu.org/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://epg.112114.eu.org/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
 http://113.140.86.162:8009/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://epg.112114.eu.org/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
 http://120.192.226.35:8009/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://epg.112114.eu.org/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
 http://112.46.85.60:8009/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://epg.112114.eu.org/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://epg.112114.eu.org/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://epg.112114.eu.org/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://epg.112114.eu.org/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://epg.112114.eu.org/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://epg.112114.eu.org/logo/西安新闻综合.png" group-title="陕西",西安新闻综合
 http://113.140.86.162:8009/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://epg.112114.eu.org/logo/西安新闻综合.png" group-title="陕西",西安新闻综合
 http://120.192.226.35:8009/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://epg.112114.eu.org/logo/西安新闻综合.png" group-title="陕西",西安新闻综合
 http://112.46.85.60:8009/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://epg.112114.eu.org/logo/西安都市频道.png" group-title="陕西",西安都市频道
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://epg.112114.eu.org/logo/西安都市.png" group-title="陕西",西安都市
 http://113.140.86.162:8009/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://epg.112114.eu.org/logo/西安都市频道.png" group-title="陕西",西安都市频道
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://epg.112114.eu.org/logo/西安都市.png" group-title="陕西",西安都市
 http://120.192.226.35:8009/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://epg.112114.eu.org/logo/西安都市频道.png" group-title="陕西",西安都市频道
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://epg.112114.eu.org/logo/西安都市.png" group-title="陕西",西安都市
 http://112.46.85.60:8009/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="榆林电视二套" tvg-logo="https://epg.112114.eu.org/logo/榆林电视二套.png" group-title="陕西",榆林电视二套
-https://hplayer1.juyun.tv/camera/140909190.m3u8
-#EXTINF:-1 tvg-name="咸阳公共频道" tvg-logo="https://epg.112114.eu.org/logo/咸阳公共频道.png" group-title="陕西",咸阳公共频道
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://epg.112114.eu.org/logo/西安都市.png" group-title="陕西",西安都市
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://epg.112114.eu.org/logo/西安都市.png" group-title="陕西",西安都市
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://epg.112114.eu.org/logo/西安都市.png" group-title="陕西",西安都市
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://epg.112114.eu.org/logo/西安都市.png" group-title="陕西",西安都市
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://epg.112114.eu.org/logo/西安都市.png" group-title="陕西",西安都市
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://epg.112114.eu.org/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://epg.112114.eu.org/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://epg.112114.eu.org/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://epg.112114.eu.org/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://epg.112114.eu.org/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://epg.112114.eu.org/logo/西安丝路.png" group-title="陕西",西安丝路
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://epg.112114.eu.org/logo/西安丝路.png" group-title="陕西",西安丝路
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://epg.112114.eu.org/logo/西安丝路.png" group-title="陕西",西安丝路
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://epg.112114.eu.org/logo/西安丝路.png" group-title="陕西",西安丝路
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://epg.112114.eu.org/logo/西安丝路.png" group-title="陕西",西安丝路
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://epg.112114.eu.org/logo/西安教育.png" group-title="陕西",西安教育
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://epg.112114.eu.org/logo/西安教育.png" group-title="陕西",西安教育
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://epg.112114.eu.org/logo/西安教育.png" group-title="陕西",西安教育
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://epg.112114.eu.org/logo/西安教育.png" group-title="陕西",西安教育
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://epg.112114.eu.org/logo/西安教育.png" group-title="陕西",西安教育
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://epg.112114.eu.org/logo/咸阳综合.png" group-title="陕西",咸阳综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://epg.112114.eu.org/logo/咸阳综合.png" group-title="陕西",咸阳综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://epg.112114.eu.org/logo/咸阳综合.png" group-title="陕西",咸阳综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://epg.112114.eu.org/logo/咸阳综合.png" group-title="陕西",咸阳综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://epg.112114.eu.org/logo/咸阳综合.png" group-title="陕西",咸阳综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="咸阳公共" tvg-logo="https://epg.112114.eu.org/logo/咸阳公共.png" group-title="陕西",咸阳公共
 http://hplayer1.juyun.tv/camera/129041160.m3u8
-#EXTINF:-1 tvg-name="延安公共频道" tvg-logo="https://epg.112114.eu.org/logo/延安公共频道.png" group-title="陕西",延安公共频道
+#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://epg.112114.eu.org/logo/延安综合.png" group-title="陕西",延安综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://epg.112114.eu.org/logo/延安综合.png" group-title="陕西",延安综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://epg.112114.eu.org/logo/延安综合.png" group-title="陕西",延安综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://epg.112114.eu.org/logo/延安综合.png" group-title="陕西",延安综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://epg.112114.eu.org/logo/延安综合.png" group-title="陕西",延安综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://epg.112114.eu.org/logo/延安公共.png" group-title="陕西",延安公共
 http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
+#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://epg.112114.eu.org/logo/延安公共.png" group-title="陕西",延安公共
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://epg.112114.eu.org/logo/延安公共.png" group-title="陕西",延安公共
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://epg.112114.eu.org/logo/延安公共.png" group-title="陕西",延安公共
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://epg.112114.eu.org/logo/延安公共.png" group-title="陕西",延安公共
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://epg.112114.eu.org/logo/延安公共.png" group-title="陕西",延安公共
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://epg.112114.eu.org/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://epg.112114.eu.org/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://epg.112114.eu.org/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://epg.112114.eu.org/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://epg.112114.eu.org/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://epg.112114.eu.org/logo/榆林综合.png" group-title="陕西",榆林综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://epg.112114.eu.org/logo/榆林综合.png" group-title="陕西",榆林综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://epg.112114.eu.org/logo/榆林综合.png" group-title="陕西",榆林综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://epg.112114.eu.org/logo/榆林综合.png" group-title="陕西",榆林综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://epg.112114.eu.org/logo/榆林综合.png" group-title="陕西",榆林综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="榆林公共" tvg-logo="https://epg.112114.eu.org/logo/榆林公共.png" group-title="陕西",榆林公共
+https://hplayer1.juyun.tv/camera/140909190.m3u8
+#EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://epg.112114.eu.org/logo/商洛综合.png" group-title="陕西",商洛综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://epg.112114.eu.org/logo/商洛综合.png" group-title="陕西",商洛综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://epg.112114.eu.org/logo/商洛综合.png" group-title="陕西",商洛综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://epg.112114.eu.org/logo/商洛综合.png" group-title="陕西",商洛综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://epg.112114.eu.org/logo/商洛综合.png" group-title="陕西",商洛综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://epg.112114.eu.org/logo/铜川综合.png" group-title="陕西",铜川综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://epg.112114.eu.org/logo/铜川综合.png" group-title="陕西",铜川综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://epg.112114.eu.org/logo/铜川综合.png" group-title="陕西",铜川综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://epg.112114.eu.org/logo/铜川综合.png" group-title="陕西",铜川综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://epg.112114.eu.org/logo/铜川综合.png" group-title="陕西",铜川综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://epg.112114.eu.org/logo/铜川公共.png" group-title="陕西",铜川公共
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://epg.112114.eu.org/logo/铜川公共.png" group-title="陕西",铜川公共
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://epg.112114.eu.org/logo/铜川公共.png" group-title="陕西",铜川公共
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://epg.112114.eu.org/logo/铜川公共.png" group-title="陕西",铜川公共
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://epg.112114.eu.org/logo/铜川公共.png" group-title="陕西",铜川公共
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://epg.112114.eu.org/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://epg.112114.eu.org/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://epg.112114.eu.org/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://epg.112114.eu.org/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://epg.112114.eu.org/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="安康综合" tvg-logo="https://epg.112114.eu.org/logo/安康综合.png" group-title="陕西",安康综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="安康综合" tvg-logo="https://epg.112114.eu.org/logo/安康综合.png" group-title="陕西",安康综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="安康综合" tvg-logo="https://epg.112114.eu.org/logo/安康综合.png" group-title="陕西",安康综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="安康综合" tvg-logo="https://epg.112114.eu.org/logo/安康综合.png" group-title="陕西",安康综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="安康综合" tvg-logo="https://epg.112114.eu.org/logo/安康综合.png" group-title="陕西",安康综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://epg.112114.eu.org/logo/汉阴综合.png" group-title="陕西",汉阴综合
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://epg.112114.eu.org/logo/汉阴综合.png" group-title="陕西",汉阴综合
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://epg.112114.eu.org/logo/汉阴综合.png" group-title="陕西",汉阴综合
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://epg.112114.eu.org/logo/汉阴综合.png" group-title="陕西",汉阴综合
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://epg.112114.eu.org/logo/汉阴综合.png" group-title="陕西",汉阴综合
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://epg.112114.eu.org/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://epg.112114.eu.org/logo/山东齐鲁.png" group-title="山东",山东齐鲁
@@ -24892,6 +25262,16 @@ https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://yulang132.cn:4022/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -24923,6 +25303,16 @@ http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://yulang132.cn:4022/udp/239.93.1.4:2191
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
