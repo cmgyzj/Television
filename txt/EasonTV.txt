@@ -3954,11 +3954,11 @@ NewTV欢乐剧场,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000
 NewTV欢乐剧场,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266012
 NewTV欢乐剧场,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000050
 NewTV欢乐剧场,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000266012
-NewTV欢笑剧场,http://[2409:8087:74d3:21::0a]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-NewTV欢笑剧场,http://[2409:8087:74d3:21::0b]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-NewTV欢笑剧场,http://[2409:8087:74d3:21::0c]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-NewTV欢笑剧场,http://[2409:8087:74d3:21::0d]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-NewTV欢笑剧场,http://[2409:8087:74d3:21::0e]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+NewTV欢乐剧场,http://[2409:8087:74d3:21::0a]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+NewTV欢乐剧场,http://[2409:8087:74d3:21::0b]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+NewTV欢乐剧场,http://[2409:8087:74d3:21::0c]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+NewTV欢乐剧场,http://[2409:8087:74d3:21::0d]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+NewTV欢乐剧场,http://[2409:8087:74d3:21::0e]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 NewTV家庭剧场,http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000003000000012/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3
 NewTV家庭剧场,http://[2409:8087:5e00:24::22]:6610/000000001000/1/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=3
 NewTV家庭剧场,http://[2409:8087:5e00:24::23]:6610/000000001000/1/1000000004000008284/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
