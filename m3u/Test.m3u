@@ -85,8 +85,8 @@ http://nasvip.cf:4022/udp/239.69.1.147:10518
 http://124.230.56.44:55555/udp/239.76.245.116:1234
 #EXTINF:-1 ,吉林电信(域名)
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.097:5540
-#EXTINF:-1 ,江苏电信(域名)
-http://wx.sportbabytoy.com:9999/rtp/239.49.0.221:9594
+#EXTINF:-1 ,江苏电信(不断流域名)
+http://kms.yzcancer.cn:8888/rtp/239.49.0.221:9594
 #EXTINF:-1 ,江苏电信(域名)
 http://www.pswluo.cn:4000/rtp/239.49.0.221:9594
 #EXTINF:-1 ,江西电信(无效)
