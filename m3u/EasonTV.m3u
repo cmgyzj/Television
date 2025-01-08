@@ -2086,11 +2086,13 @@ http://imlucky.win:10001/udp/239.77.1.195:5146$广东电信
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.zbds.top/logo/中学生.png" group-title="央视",中学生
 http://www.feizhu1212.top:9999/udp/239.77.1.195:5146$广东电信
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://live.zbds.top/logo/书画.png" group-title="央视",书画
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId=$山东移动
-#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.zbds.top/logo/书画.png" group-title="央视",书画
 http://www.cdnstv.com:6398/hls/1176/index.m3u8
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://live.zbds.top/logo/书画.png" group-title="央视",书画
+http://yulang132.cn:4022/udp/239.93.42.67:5140
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.zbds.top/logo/书画.png" group-title="央视",书画
 http://kms.yzcancer.cn:8888/rtp/239.49.0.123:8000
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.zbds.top/logo/书画.png" group-title="央视",书画
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://live.zbds.top/logo/书画.png" group-title="央视",书画
 http://www.pswluo.cn:4000/rtp/239.49.0.123:8000
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://live.zbds.top/logo/书画.png" group-title="央视",书画
@@ -11744,13 +11746,13 @@ http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 #EXTINF:-1 tvg-name="贵州家有购物" tvg-logo="https://live.zbds.top/logo/贵州家有购物.png" group-title="贵州",贵州家有购物
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CHJY_lo.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="贵州",天元围棋
-http://www.akw323.com:9527/rtp/238.255.2.7:5999
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="贵州",天元围棋
-http://php.jdshipin.com/cqyx.php?id=weiqi
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="贵州",天元围棋
 http://yulang132.cn:4022/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="贵州",天元围棋
 http://zhyfans.mycloudnas.com:8000/udp/239.93.42.55:5140
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="贵州",天元围棋
+http://www.akw323.com:9527/rtp/238.255.2.7:5999
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="贵州",天元围棋
+http://php.jdshipin.com/cqyx.php?id=weiqi
 #EXTINF:-1 tvg-name="贵阳一套" tvg-logo="https://live.zbds.top/logo/贵阳一套.png" group-title="贵州",贵阳一套
 http://www.akw323.com:9527/rtp/238.255.2.19:5999
 #EXTINF:-1 tvg-name="贵阳二套" tvg-logo="https://live.zbds.top/logo/贵阳二套.png" group-title="贵州",贵阳二套

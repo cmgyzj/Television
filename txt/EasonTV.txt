@@ -1042,9 +1042,10 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 中学生,http://home.frayun.com:10000/udp/239.77.1.195:5146$广东电信
 中学生,http://imlucky.win:10001/udp/239.77.1.195:5146$广东电信
 中学生,http://www.feizhu1212.top:9999/udp/239.77.1.195:5146$广东电信
-书画,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId=$山东移动
 书画,http://www.cdnstv.com:6398/hls/1176/index.m3u8
+书画,http://yulang132.cn:4022/udp/239.93.42.67:5140
 书画,http://kms.yzcancer.cn:8888/rtp/239.49.0.123:8000
+书画,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId=$山东移动
 书画,http://www.pswluo.cn:4000/rtp/239.49.0.123:8000
 书画,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.123:8000
 书画,http://sz.seala.uk:4022/rtp/239.49.0.123:8000
@@ -5895,10 +5896,10 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 贵州移动电视,http://www.akw323.com:9527/rtp/238.255.2.117:5999
 贵州移动电视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 贵州家有购物,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CHJY_lo.m3u8
-天元围棋,http://www.akw323.com:9527/rtp/238.255.2.7:5999
-天元围棋,http://php.jdshipin.com/cqyx.php?id=weiqi
 天元围棋,http://yulang132.cn:4022/udp/239.93.42.55:5140
 天元围棋,http://zhyfans.mycloudnas.com:8000/udp/239.93.42.55:5140
+天元围棋,http://www.akw323.com:9527/rtp/238.255.2.7:5999
+天元围棋,http://php.jdshipin.com/cqyx.php?id=weiqi
 贵阳一套,http://www.akw323.com:9527/rtp/238.255.2.19:5999
 贵阳二套,http://www.akw323.com:9527/rtp/238.255.2.20:5999
 贵阳三套,http://www.akw323.com:9527/rtp/238.255.2.22:5999
