@@ -124,6 +124,8 @@ CCTV17,http://www.yaozhenguo.top:5000/TVOD/1000000005000265015/ystenlive/index.m
 特色频道,#genre#
 华数4K,http://www.yaozhenguo.top:5000/TVOD/2000000004000000014/hnbblive/index.m3u8
 华数4K,http://www.yaozhenguo.top:5000/TVOD/6000000003000004748/wasusyt/index.m3u8
+4K电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONurIwWal114BYfmoCE4Ei%2CEND
+淘电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPkFYKGNYAoUOWbtkNKlTnU%2CEND
 BesTV华语影院,http://www.yaozhenguo.top:5000/TVOD/5000000011000288005/bestzb/index.m3u8
 BesTV星光影院,http://www.yaozhenguo.top:5000/TVOD/5000000011000288013/bestzb/index.m3u8
 BesTV全球大片,http://www.yaozhenguo.top:5000/TVOD/5000000011000288009/bestzb/index.m3u8
@@ -144,10 +146,9 @@ NewTV黑莓电影,http://www.yaozhenguo.top:5000/TVOD/2000000003000000001/hnbbli
 3,http://suo.im/6TuSG
 4,http://suo.im/9sOLD
 5,http://suo.im/c4FP2
-6,http://b.mtw.so/6pAjsB
-7,http://suo.im/9wiS2
-8,http://s.mrw.so/7DlBI
-9,http://suo.im/aD7Ry
+6,http://suo.im/9wiS2
+7,http://s.mrw.so/7DlBI
+8,http://suo.im/aD7Ry
 体育频道,#genre#
 1,http://www.yaozhenguo.top:5000/TVOD/3000000001000005308/FifastbLive/index.m3u8
 2,http://www.yaozhenguo.top:5000/TVOD/3000000001000005969/FifastbLive/index.m3u8
