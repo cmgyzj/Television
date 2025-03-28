@@ -19,7 +19,7 @@
 ],
  
 "lives":[
-{"name":"肥羊1","type":0,"url":"http://zjzcf.synology.me:35455/tv.m3u"},
+{"name":"肥羊1","type":0,"url":"http://www.xzbn.site:35455/tv.m3u"},
 {"name":"肥羊2","type":0,"url":"http://github.moeyy.xyz/https://raw.githubusercontent.com/cmgyzj/Television/main/itv.txt"},
 {"name":"肥羊3","type":0,"url":"http://hc8q.x3322.net:35455/tv.m3u"}
 ]
